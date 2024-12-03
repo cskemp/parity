@@ -1,0 +1,440 @@
+language,gambay_language_name,iso,type,val,size,gcode_manual
+Alyawarr,Alyawarr,aly,wind_only,rwarr-angkwarr 'upwind',1,NA
+Arabana,Arabana,ard,vertical_and_topographic_elevation,"yarapa (W)/ararda (A) 'on top, above, on top of hill/sandhill'",1,NA
+Arabana,Arabana,ard,vertical_topographic_scope_unknown_up_down,apurdu 'down',1,NA
+Awabakal,Awabakal,awk,sun_only,"panyal-pa pulungka-li-ngayil 'west, place where the sun sets'",1,NA
+Badimaya,Badimaya,NA,compass_absolute,yaburu 'north' ('west' add. <wirlugardi(sea-side>) ('east' add. <garanggardi(sun-side)>) (Gargett 2011),3,badi1246
+Bardi,Bardi,bcj,river_only,noodoorrgony ‘up the creek’,1,NA
+Bardi,Bardi,bcj,vertical_and_topographic_elevation,"garndi 'up, on top, above, high, uphill, high country'",1,NA
+Bardi,Bardi,bcj,vertical_elevation_only,jimbin 'underneath',1,NA
+Bardi,Bardi,bcj,vertical_topographic_scope_unknown_up_down,"larda/lordony 'down, at the bottom'",1,NA
+Bilinarra,Bilinarra,nbj,compass_absolute,"gayi- 'north', gurla- 'south', garla- 'west', garrawa-/garra-/gaarra-/gaa- 'east'",4,NA
+Bilinarra,Bilinarra,nbj,river_only,"gan.ga- 'upstream', ganimba- 'downstream', CRD-niyi-nyu 'along X side of river',                    CRD-nug 'cross river to X side'",4,NA
+Burarra/ Gun-nartpa,Gun-nartpa,bvr,compass_absolute,"[miwach 'the east' used as a directional, rarely the west though.]",1,NA
+Burarra/ Gun-nartpa,Gun-nartpa,bvr,vertical_and_topographic_elevation,"waykin ‘up high’wupa ‘down low, underneath, inside, hidden’",2,NA
+Dieri (Diyari),Dieri,dif,vertical_topographic_scope_unknown_up_down,"miri 'above, top'",1,NA
+Djabugay,Djabugay,dyy,coast_only,"jilnggu 'downwards, down to the coast, east, south'",1,NA
+Djabugay,Djabugay,dyy,topographic_elevation_only,gijirri 'further up hill',1,NA
+Djabugay,Djabugay,dyy,vertical_and_topographic_elevation,"wanggarr 'up, above, over, uphill, high up'",1,NA
+Djeebbana,Ndjébbana,djj,topographic_elevation_and_coast,"wala 'climb (slope), ascend, go up, go uphill, go ashore, move away from water'",1,NA
+Djeebbana,Ndjébbana,djj,river_only,nanakawa 'other side of creek/river',1,NA
+Djeebbana,Ndjébbana,djj,topographic_elevation_only,"rlabayi 'climb down, go down, descend (slope)'",1,NA
+Djeebbana,Ndjébbana,djj,vertical_elevation_only,"wenyja 'climb (tree), go up onto'",1,NA
+Djinang,Djinaŋ,dji,sun_only,"rawirrang 'east, sunrise'",1,NA
+Djinang,Djinaŋ,dji,vertical_topographic_elevation_and_river,"gurngi 'head, top, upriver'",1,NA
+Dyangadi (Dhanggati),Dhanggati,dyn,vertical_and_topographic_elevation,"yurrung 'upwards, high, above, on top of'",1,NA
+Eastern Arrernte (Antekerrepenhe dialect),Antekerrepenh,aer,compass_absolute,arrayn `north' ayerrer `east' akngerrakw `south' antekerre `west',4,NA
+"Ganggalida (Gangalidda, Yukulta)",Gangalidda,gcd,vertical_elevation_only,"yaliya 'up, sky'",1,NA
+Garrwa,Garrawa,wrk,tide,wakudimba (vitr) 'tide rise',1,NA
+Gunya,Gunya,NA,vertical_topographic_scope_unknown_up_down,"mirra 'high, up there'",1,sout2765
+Gureng Gureng,Gooreng Gooreng,xgg,wind_only,bu/?ba 'west' (lit. 'the way of the west wind'),1,NA
+Gureng Gureng,Gooreng Gooreng,xgg,coast_only,goondo 'east' (lit. 'to the east coast'),1,NA
+Jaru,Jaru,ddj,sun_only,"gaarra(rra)/ gaana/ gaanirra/ gaarriyin 'east, sunrise'",1,NA
+Kala Lagaw Ya,Kala Lagaw Ya,mwp,other,bokarra '(northwesterly wind which is very hot during the summer and indicates storm),1,NA
+Kalkutung,Kalkatungu,ktg,wind_only,unungkarti 'downwind',1,NA
+Kalkutung,Kalkatungu,ktg,vertical_and_topographic_elevation,"pirrinha 'up, above, high'",1,NA
+Kayardild,Kayardild,gyd,vertical_elevation_only,kirnkirn-da 'overhead',1,NA
+Kayardild,Kayardild,gyd,vertical_topographic_scope_unknown_up_down,"yark 'down, under, bottom, underneath'",1,NA
+Kaytetye,Kaytetye,gbb,topographic_elevation_only,atmtheyaytenke 'travel uphill',1,NA
+Kuku Yalanji,Kuku Yalanji,gvn,river_only,ngubar 'on the other side of the river',1,NA
+Kuuk Thaayorre,Kuuk Thayorre,thd,river_only,-ipan 'south bank',1,NA
+Kuuk Thaayorre,Kuuk Thayorre,thd,vertical_topographic_elevation_and_river,"-kan 'up, above, inside, north bank'",1,NA
+Kuuk Thaayorre,Kuuk Thayorre,thd,vertical_and_topographic_elevation,"-kop 'down, below'",1,NA
+Lardil,Lardil,lbz,vertical_topographic_scope_unknown_up_down,nyirriringkiya 'go downwards',1,NA
+Limilngan,Limilngan,lmc,compass_absolute,duwarnngan 'north',1,NA
+Mangarrayi,Mangarrayi,mpc,sun_only,"gayanya 'sunrise, east'",1,NA
+Mangarrayi,Mangarrayi,mpc,river_and_sun,"gayarra 'upriver, direction of sunset, west'",1,NA
+Mangarrayi,Mangarrayi,mpc,topographic_elevation_and_river,"gawarr 'high up, on top, upriver'",1,NA
+Margany,Margany,zmc,vertical_topographic_scope_unknown_up_down,"gurarra 'high, up there'",1,NA
+Martuthunira,Martuthunira,vma,compass_absolute,[kakarra 'east' (Sharp & Thieberger 1992) (= Pantjima term)],1,NA
+Martuthunira,Martuthunira,vma,vertical_and_topographic_elevation,"parlu 'top, high, upwards, head and thorax, cliff'",1,NA
+Mawng,Mawng,NA,compass_absolute,"walem ""further south than Gunbalanya, Oenpelli, from Warruwi. Includes Beswick, Daly River, Oenpelli."" DOES THIS MEAN FURTHER INLAND?OR NAME OF REGION?",1,maun1240
+Middle Clarence Bandjalang,Bundjalung,bdy,coast_only,"burugar 'sea, beach, coast (beach from sea or land, sea from beach)'",1,NA
+Middle Clarence Bandjalang,Bundjalung,bdy,vertical_topographic_elevation_and_river,"ju(w)i 'down, downhill, downstream",1,NA
+Muruwari,Muruwari,zmu,vertical_topographic_elevation_and_river,"paru, pata 'down, low, downstream'",1,NA
+Muruwari,Muruwari,zmu,vertical_and_topographic_elevation,"kanta 'up, high, up on, on top'",1,NA
+Muruwari,Muruwari,zmu,vertical_topographic_scope_unknown_up_down,kanmarranj 'under',1,NA
+Na-Kara,Na-kara,nck,coast_and_wind,"koma 'inland, as opposed to coastal, closer to land, ashore, south east, south east wind'",1,NA
+"Ngaanyatjarra (DH ""Western Desert"")",Ngaanyatjarra,ntj,sun_only,"tjirntu tjaparrantjakutu ''in the direction of the setting sun, westwards'",1,NA
+Ngadjunmaya,Ngadju???,nju,vertical_and_topographic_elevation,"warndinggu 'climb, walk uphill'",1,NA
+Ngalkbun (Dalabon),Dalabon,ngk,other,atpaantu 'towards the horizon',1,NA
+Ngandi,Ngandi,nid,vertical_topographic_elevation_and_coast,"garrkala 'up, on top, above, away from the coast'",1,NA
+Ngandi,Ngandi,nid,vertical_and_topographic_elevation,"garakardi 'down, below, at the bottom, inside' [also 'towards coast?]",1,NA
+Ngan'gityemerri,???,nam,river_only,"dide- (NgW), direr- (NgK) 'across river'",1,NA
+Ngan'gityemerri,???,nam,other,not otherwise mentioned: -korr 'outside' (antonym of -kan 'inside'),2,NA
+Ngarla,Ngarla,nrk,topographic_elevation_only,"kanimparra 'down, north'",1,NA
+Ngarla,Ngarla,nrk,vertical_elevation_only,"jarnti 'upright, vertical'",1,NA
+Ngarluma,Ngarluma,nrl,vertical_and_topographic_elevation,"gankara/gankala 'up, above'",1,NA
+Nyangumarta,Nyangumarta,nna,vertical_and_topographic_elevation,"kanka 'above, high, up, on top'",1,NA
+Nyangumarta,Nyangumarta,nna,vertical_topographic_scope_unknown_up_down,"kaniny 'down, below, inside'",1,NA
+Nyawaygi,Nywaygi,nyt,coast_only,"yigu 'down to the sea, east'",1,NA
+Nyawaygi,Nywaygi,nyt,river_only,jindiyara 'other side (of a creek or river)',1,NA
+Nyulnyul,Nyulnyul,nyv,wind_only,yilmyilm 'windwards',1,NA
+Nyunga,Noongar,nys,sun_only,wærnang 'west' ('fall/die' (of sun or fire)),1,NA
+Nyunga,Noongar,nys,vertical_topographic_elevation_and_river,"yiærra/yiaeral/ yiærrang 'up, high, on top, up on, above, upstream'",1,NA
+Nyunga,Noongar,nys,vertical_elevation_only,taen(d)i-taein(d)ba 'upward',1,NA
+PittaPitta,Pitta Pitta,pit,topographic_elevation_only,(?) mulurru 'hilltop',1,NA
+Rembarrnga,Rembarrnga,rmb,river_only,yirraʔ 'downriver'portop 'cross over river (v)',1,NA
+Tiwi,Tiwi,tiw,sun_only,"kapi pukwiyi ampi-ni-p-apurti,kapi yiminga ampi-ni-p-apurti 'east,  Lit: where the sun comes up'",1,NA
+Tiwi,Tiwi,tiw,spiritual_cultural_places_of_significance,"jiliyarti 'Darwin, place (in west) where dead thought to have gone, south'",1,NA
+Tweed-Albert Bandjalang (Yugumbeh),Yugambeh,NA,vertical_topographic_elevation_and_coast,"ju(w)i 'down, downward, below, seaward, towards the coast, eastward, bottom, lower, into, inside'",1,twee1234
+Tweed-Albert Bandjalang (Yugumbeh),Yugambeh,NA,vertical_and_topographic_elevation,"dugan/dugun 'up, above, on top, sky, west'",1,twee1234
+Tweed-Albert Bandjalang (Yugumbeh),Yugambeh,NA,vertical_elevation_only,"baray/burrai 'end, top, tip, high, upward'",1,twee1234
+Umpila,Umpila,ump,vertical_elevation_only,pakaya down,1,NA
+Wajarri,Wajarri,wbv,coast_only,"wilura/wirlula/wirlu 'sea, west'",1,NA
+Wanggangurru,Wangkanguru,ard,vertical_and_topographic_elevation,"yarapa 'on top, above, on top of hill/sandhill'",1,NA
+Wanggangurru,Wangkanguru,ard,vertical_topographic_scope_unknown_up_down,apurdu 'down',1,NA
+Warlpiri,Warlpiri,wbp,wind_only,wurru-parta-parta 'downwind',1,NA
+Warray,Warray,wrz,topographic_elevation_only,ngunung 'low country',1,NA
+Warray,Warray,wrz,vertical_and_topographic_elevation,"waykkan 'high, top, in the open, uncovered, exposed'",1,NA
+Warrgamay,Warrgamay,wgy,vertical_and_river,"yuunu 'down, down (river?)'",1,NA
+Warrgamay,Warrgamay,wgy,spiritual_cultural_places_of_significance,guliny 'place way out east where spirits come from and go to (variously glossed as 'heaven' and 'hell')',1,NA
+Wik Mungkan,Wik-Mungkan,wim,topographic_elevation_only,"[ninthan-ngaanh `high places e.g. high ridge, high bank' (n)]",1,NA
+Wik Mungkan,Wik-Mungkan,wim,vertical_and_topographic_elevation,"pek 'down, under, inside'",1,NA
+Wik Mungkan,Wik-Mungkan,wim,vertical_topographic_scope_unknown_up_down,"keny 'up, high, high place, on top'",1,NA
+Wiradhuri,Gunditjmara,wrh,vertical_elevation_only,bindari high place,1,NA
+Wiradhuri,Gunditjmara,wrh,spiritual_cultural_places_of_significance,"garrway gugu 'north, the place of the dead'",1,NA
+Woiwurrung-Thagungwurrung (Taungurung),Taungurung,dgw,topographic_elevation_only,wangerrip 'up hill',1,NA
+Woiwurrung-Thagungwurrung (Woiwurrung),Woiwurrung,wyi,wind_only,gurrin 'south'/ gurriny 'wind',1,NA
+Worimi (Gathang),Gathang,kda,vertical_topographic_elevation_and_coast,"baara/baarung 'down, downwards, towards the coast, east, eastwards",1,NA
+Yalarnnga,Yalarnnga,ylr,river_only,[panhangarra 'other side (as of river)'],1,NA
+Yandruwandha (Innamincka),Yandruwantha,ynd,climate_weather,mulha-pundra 'south' ('face/nose-cold'),1,NA
+Yandruwandha (Innamincka),Yandruwantha,ynd,vertical_and_river,"kandra~kandra 'high, upstream'",1,NA
+Yankunytjatjara,Yankunytjatjara,kdd,vertical_elevation_only,"unngu 'underneath, inside'",1,NA
+Yanyuwa,Yanyuwa,jao,topographic_elevation_coast_and_river,"arnindawa 'lower down, along the coast, below', 'along the bottom, along the coast, along the riverbank'",1,NA
+Yanyuwa,Yanyuwa,jao,vertical_elevation_only,"lhangka 'on the top, over the surface, full (of tide), outer layer.",1,NA
+Yaygirr,Yaygirr,xya,compass_absolute,wugin 'north',1,NA
+Yaygirr,Yaygirr,xya,vertical_and_topographic_elevation,"aba 'uphill, top, west'",1,NA
+Yidiny,Yidiny,yii,river_only,jalabi 'on the other side (of the river)',1,NA
+Yindjibarndi,Yindjibarndi,yij,wind_only,wirrwi-wurraa 'upwind' ('wind-ALL'),1,NA
+Yindjibarndi,Yindjibarndi,yij,vertical_topographic_elevation_and_coast,"karta 'down, low place, coastal lowlands, below, bottom'",1,NA
+Yindjibarndi,Yindjibarndi,yij,vertical_and_topographic_elevation,"kanka 'up, upwards, high, above, at the top'",1,NA
+Yindjibarndi,Yindjibarndi,yij,vertical_elevation_only,"thurnungka 'underneath, inside'",1,NA
+Yingkarta,Yingkarta,NA,compass_absolute,yaburru 'north' (Gargett 2011),1,ying1247
+Yintyingka-Ayabadhu,Yintyingka and Ayapathu,ayd,vertical_topographic_elevation_and_coast,"kani 'up, inland'",1,NA
+Yintyingka-Ayabadhu,Yintyingka and Ayapathu,ayd,vertical_topographic_scope_unknown_up_down,"iiwa 'up, away'",1,NA
+Yir Yoront,Yir Yoront,yyr,river_only,CRD-arrn/CRD-ene 'across river',1,NA
+Yir Yoront,Yir Yoront,yyr,vertical_topographic_elevation_and_river,"kopl 'down, downriver, inside' [?seaward, by inference from kan, cf mon-kopl 'island']",1,NA
+Yir Yoront,Yir Yoront,yyr,vertical_topographic_elevation_river_and_coast,"kan 'up, high, on top, above, upriver, landward from on sea, 'outside' deep inside'",1,NA
+Yir Yoront,Yir Yoront,yyr,vertical_elevation_only,"kene(rr) 'on top of, above,",1,NA
+Yuwaalaraay/ Gamilaraay,Yuwaalaraay and Gamilaraay,kld,compass_absolute,[ngarri-biyan 'north'],1,NA
+Yuwaalaraay/ Gamilaraay,Yuwaalaraay and Gamilaraay,kld,sun_only,"[dhadhin 'south, shade, shadow']",1,NA
+Yuwaalaraay/ Gamilaraay,Yuwaalaraay and Gamilaraay,kld,river_only,gandaarr 'far side of river',1,NA
+Adnyamathanha,Adnyamathanha,adt,compass_absolute,nguni 'east'; wailbi '(south)west',2,NA
+Adnyamathanha,Adnyamathanha,adt,sun_only,"yundu-akanandathari 'sunrise, east' ('towards the coming out of the sun'); yundu ngalpanda(na?)thari 'sunset, west' ('towards the sun entering')",2,NA
+Adnyamathanha,Adnyamathanha,adt,wind_only,vurrgu 'north(west) wind)'; varpa 'south(east) wind',2,NA
+Alyawarr,Alyawarr,aly,vertical_elevation_only,"kwen, kwetn 'down'; irrwerl, rrwerl 'up'irrwerleng, rrwerleng 'upper'",2,NA
+Alyawarr,Alyawarr,aly,vertical_topographic_scope_unknown_up_down,"urruwlinga 'on top, above, overhead'; ukurninga 'below, underneath, inside'",2,NA
+Anguthimri (Mpakwithi dialect),Anguthimri,awg,vertical_topographic_scope_unknown_up_down,bari 'up'; kara 'down',2,NA
+Arabana,Arabana,ard,sun_only,muyu-widni-li warra 'sunset side' (sun-set-HAB side); muyu-wanka-li warra 'sunrise side' (sun-rise-HAB side),2,NA
+Awabakal,Awabakal,awk,vertical_and_topographic_elevation,"waka 'up, upwards, above, over, west'; paraN-pali 'east, towards the east' ('towards down')",2,NA
+Awabakal,Awabakal,awk,vertical_topographic_scope_unknown_up_down,"bulwaara 'high up, a lofty place'; paRa/baraa 'down, below, beneath, under'",2,NA
+Bardi,Bardi,bcj,topographic_elevation_only,nirirrjarr 'along the cliffs'; alalankarr 'along the sand-cliffs',2,NA
+Bilinarra,Bilinarra,nbj,topographic_elevation_only,CRD-ni- 'upslope'; CRD-LOC-nggarra/-nggarla/-nggurla 'down',2,NA
+Bilinarra,Bilinarra,nbj,vertical_and_topographic_elevation,"gan.gu- 'up, upslope'; ganyju- 'down, downslope',",2,NA
+Bunganditj (Buwandik),Bunganditj/Boandik,xbg,vertical_and_topographic_elevation,"wiyu 'down, west'; wiyuwa 'down'",1,NA
+Bunuba,Bunuba,bck,river_only,"jibirri, jingi, jungunda 'downstream'; garuwurru 'upstream'",2,NA
+Burarra/ Gun-nartpa,Gun-nartpa,bvr,sun_only,"Marnnga ji-na-be-ya jiny-yorkiya 'where the sun always comes up, east'; marnnga jiy-rakaja jiy bamburda 'where the sun sets'",2,NA
+Burarra/ Gun-nartpa,Gun-nartpa,bvr,wind_only,"lunggurrma, manun.gorri 'northeast to north dry season wind'; walanggat, racha, jalachang 'southeast dry season wind, south, southeast'",2,NA
+Burarra/ Gun-nartpa,Gun-nartpa,bvr,coast_only,"marlpiny 'open woodland, higher ground up away from the water'; gu-bamawa 'on shore, on land, up out fo the sea on solid ground where it is peaceful, on the riverbank'",2,NA
+Burarra/ Gun-nartpa,Gun-nartpa,bvr,topographic_elevation_and_coast,"jorrnyjurra 'high ground, shore from water, inland from coast, secret ceremony site inland from the camp'; gochilawa ‘low lying area, swamp, beach, shoreline, middle of water, coastal area on land or out to sea'",2,NA
+Dhalandji,Thalanyji,dhl,vertical_topographic_scope_unknown_up_down,"gankara/gankala 'up, above, on top'; yirrara 'down'",2,NA
+Dhuwal (Djapu),Dhuwal/Dhuwala,dwu,wind_only,"buluwunu/bulunu 'northwest wind, northwest'; rdimurru 'east wind'",2,NA
+Dhuwal (Djapu),Dhuwal/Dhuwala,dwu,vertical_topographic_elevation_and_coast,"ngapa 'back, inland area, hills away from coast'; yarup 'go down, go downhill, go down to coast, go into water'",2,NA
+Dhuwal (Djapu),Dhuwal/Dhuwala,dwu,topographic_elevation_only,rdilci 'hills';  ngurru-kurr 'along the top' (i.e. 'in the high country'),2,NA
+Dhuwal (Djapu),Dhuwal/Dhuwala,dwu,vertical_elevation_only,"garrwar 'up, on top, above, high'; jinawa 'under, inside'",2,NA
+Dieri (Diyari),Dieri,dif,vertical_and_topographic_elevation,"tharna/thara 'up(ward), uphill'; ngari 'down(ward)'",2,NA
+Djeebbana,Ndjébbana,djj,compass_absolute,walem 'south'; kardowarra 'south',1,NA
+Djeebbana,Ndjébbana,djj,wind_only,barra 'northwest wind'; jimurru 'southeast wind',2,NA
+Djeebbana,Ndjébbana,djj,vertical_topographic_scope_unknown_up_down,"malaya 'up, outside, on top'; kadja 'down, inside, underneath, below'",2,NA
+Dyangadi (Dhanggati),Dhanggati,dyn,topographic_elevation_only,"birrgi 'upwards, uphill'; dhati 'downhill'",2,NA
+Dyirbal,Dyirbal,dbl,vertical_elevation_only,-gala 'up'; -gali 'down',2,NA
+Eastern Arrernte (Mparntwe dialect),Eastern Arrernte,aer,wind_only,arrarne 'upwind'; rlke alheme 'go downwind' ('wind go.along' i.e. go along in the wind),2,NA
+Eastern Arrernte (Mparntwe dialect),Eastern Arrernte,aer,vertical_elevation_only,-ntape 'upwards'; -akerle downwards',2,NA
+Gaagudju,Gagadju,gbu,topographic_elevation_only,"ganaangga 'high country, bank of a river'; geenaardaadji 'downhill'",2,NA
+"Ganggalida (Gangalidda, Yukulta)",Gangalidda,gcd,sun_only,"larlu 'sunrise side, southeast, east'; jirrgara ‘sundown side, northwest, west’",2,NA
+"Ganggalida (Gangalidda, Yukulta)",Gangalidda,gcd,coast_only,"lilu 'seaward (on land or water), north, northeast, east'; bada 'inland, south, southwest west'",2,NA
+"Ganggalida (Gangalidda, Yukulta)",Gangalidda,gcd,vertical_and_topographic_elevation,"yarlga 'down, downhill, underneath'; walmu/walma 'up, top side, on top of, over, high'",2,NA
+Garrwa,Garrawa,wrk,vertical_topographic_elevation_and_river,"kingkarri 'up, uphill, away from river, upriver';  wayka 'down, downhill, towards river, downriver'",2,NA
+Garrwa,Garrawa,wrk,vertical_and_topographic_elevation,"yundu 'top, topside'; kala 'bottom, under, inside'",2,NA
+Gooniyandi,Gooniyandi,gni,river_only,gindiwa 'upstream'; jibiddi 'downstream',2,NA
+Gooniyandi,Gooniyandi,gni,vertical_topographic_elevation_and_river,"laandi/ lanngaddi/ lannyingi/ lanjingi/ landiwali/ thaanoonggoo 'up, above, on top, away from river'; baabiddi/ babaabiddi/ babirnali/ babooddoonggoo 'down, below, towards river, inside'",2,NA
+Gureng Gureng,Gooreng Gooreng,xgg,vertical_and_topographic_elevation,duri 'north' (lit. 'to the top'); yoongoor 'south' (lit. 'to the bottom'),2,NA
+Gureng Gureng,Gooreng Gooreng,xgg,vertical_topographic_scope_unknown_up_down,"baray 'high'; goondoo down, from a higher to a lower position, level, degree",2,NA
+Gurindji,Gurindji,gue,vertical_and_topographic_elevation,"kankul(a) 'up, uphill, on top, above';kanyju- 'down, downhill, below, underneath, bottom'",2,NA
+Guugu Yimithirr,Guugu Yimidhirr,kky,compass_absolute,"naga 'east'; guwa, $nguwaar 'west'",2,NA
+Guugu Yimithirr,Guugu Yimidhirr,kky,vertical_and_topographic_elevation,"wanggaar, $yamurr 'up, uphill, upriver, above, high'; bada, $dhuwun 'down, downhill, below, towards the river'",2,NA
+Guugu Yimithirr,Guugu Yimidhirr,kky,vertical_topographic_scope_unknown_up_down,"galmbaa, $yamurr 'on top of'; muunhdhirr-gu, $dhuwun 'beneath, under, down into'",2,NA
+Iwaidja,Iwaidja,ibd,wind_only,"barra 'northwest wind', wet season wind'; jimurru 'south-easterly trade wind'",2,NA
+Jaminjung-Ngaliwurru (Jaminjung dialect),Jaminjung,djd,river_only,manamba 'upstream'; buya 'downstream',2,NA
+Jaminjung-Ngaliwurru (Jaminjung dialect),Jaminjung,djd,vertical_topographic_elevation_and_river,"thangga 'up, uphill, awy from river'; thamirri 'down, downhill, towards river'",2,NA
+Jaminjung-Ngaliwurru (Ngaliwurru dialect),Ngaliwurru,djd,river_only,manamba 'upstream'; buyagu 'downstream',2,NA
+Jaminjung-Ngaliwurru (Ngaliwurru dialect),Ngaliwurru,djd,vertical_elevation_only,janggagu 'up'; jamurrugu 'down',2,NA
+Jaru,Jaru,ddj,vertical_and_topographic_elevation,"ganka(rra)/ gankani/ gankula(urra)/ gankularra/ gankulinggarra/ gankununkarra 'up, on top'; gani/gani~gani/ ganjurra/ ganinjuru/ ganinybarra 'down, below, under, inside'",2,NA
+Kala Lagaw Ya,Kala Lagaw Ya,mwp,topographic_elevation_and_coast,"-ka 'up, landward, on top, above'; -gu(y) 'down, seaward, below'",2,NA
+Kalkutung,Kalkatungu,ktg,sun_only,pintjamu-watharramanthingiinha- 'eastward'; pintjam-aramanti 'west' (pintjamu 'sun'),2,NA
+Kalkutung,Kalkatungu,ktg,river_only,manthiyanha 'upstream'; pitjinganha 'downstream',2,NA
+Kamu,Kamu,xmu,vertical_and_topographic_elevation,"wuluk 'high, high country'; wupetjeng 'low, low country'",2,NA
+Kayardild,Kayardild,gyd,coast_only,"biyarri 'far out to sea, on the open sea'; yurdaa/yurday 'inside, far out to sea, on the open sea' (yurdayurda 'high sea, open sea')",2,NA
+Kriol (Roper Kriol),???,rop,sun_only,sangidap/sangidapwei/sanraisaid/sanraiswei 'east'; sangodan/sangodanwei 'west',2,NA
+Kriol (Roper Kriol),???,rop,river_only,"haidap, airrap 'upstream'; lodaun/lodan 'downstream'",2,NA
+Kriol (Roper Kriol),???,rop,vertical_topographic_elevation_and_river,"haidap 'upwards, upslope, upriver'; lodan/ lodaun 'downwards, downslope, downriver'",2,NA
+Kriol (Roper Kriol),???,rop,vertical_elevation_only,ap/ontop 'up'; dan 'down',2,NA
+Kriol (Westside Kriol),???,rop,river_only,haidap 'upstream'; lodan 'downstream',2,NA
+Kriol (Westside Kriol),???,rop,vertical_elevation_only,"ap, ontop 'up, above'; andanith, dan 'down, below'",2,NA
+Kumbainggar (Gumbaynggir),Gumbaynggirr,kgs,compass_absolute,birraw 'north'; wanggaan 'south',2,NA
+Kumbainggar (Gumbaynggir),Gumbaynggirr,kgs,river_only,"gaawarr 'over water'; gaawada 'across, across the sea'",2,NA
+Kuuk Thaayorre,Kuuk Thayorre,thd,sun_only,-kaw 'east';  -kuw 'west',2,NA
+Kuuk Thaayorre,Kuuk Thayorre,thd,coast_only,-iparr 'south; -ungkarr 'north',2,NA
+Kuuku-Ya'u,Kuuku Ya’u,kuy,wind_only,"kungkay 'northeast wind, northeast'; yiipay 'southeast wind, southeast'",2,NA
+Kuuku-Ya'u,Kuuku Ya’u,kuy,coast_only,"iichul 'mountainward, inland'; kaaway 'seaward'",2,NA
+Kuuku-Ya'u,Kuuku Ya’u,kuy,vertical_topographic_elevation_and_coast,"kani 'up, uphill, inland, off the beach, top, above, inside'; pakay 'down, below, under, seaward, beachward, inside, outside'",2,NA
+Limilngan,Limilngan,lmc,topographic_elevation_only,"mirnan 'high country, upcountry, topside'; angul-diyan 'high country, topside' ('high/top-dangerous')",1,NA
+Limilngan,Limilngan,lmc,vertical_and_topographic_elevation,"angul 'high, top'; yir(r)ang 'go down'",2,NA
+MalakMalak,Malak Malak,mpb,sun_only,"miri pai-ka-ma 'sunrise, east' ('sun change.loc-come-CONT'); miri tjalk-ma 'sunset, west' ('sun fall-CONT')",2,NA
+MalakMalak,Malak Malak,mpb,wind_only,nuly-en 'facing NW wet season wind' ('NWwind-DIR'); dangid-en 'facing SE dry season wind' ('NWwind-DIR'),2,NA
+MalakMalak,Malak Malak,mpb,river_only,"menyik-en 'upstream' ('throat-way'); matya(nen) 'bottom, downstream' ('foot-way') [clarify these & elevational terms all mean vertical & topog. elevation & river flow]",2,NA
+Malgana,Malgana,vml,vertical_elevation_only,"yiranga, irrangu 'up (vertical)'; ngardinga 'down (vertical)'",2,NA
+Mangarrayi,Mangarrayi,mpc,compass_absolute,bujba 'north'; ngariman 'south',2,NA
+Mangarrayi,Mangarrayi,mpc,river_only,biya 'downriver'; gaya-wiya 'high up along the riverbank (seems to contain a lenited form of biya)',2,NA
+Mangarrayi,Mangarrayi,mpc,vertical_elevation_only,"warayala 'up, high, on top'; biyanggin 'down, under, at the bottom, inside'",2,NA
+Mangarrayi,Mangarrayi,mpc,vertical_topographic_scope_unknown_up_down,rna-wurdardban-gan 'in a high place';,1,NA
+Mangarrayi,Mangarrayi,mpc,spiritual_cultural_places_of_significance,"dinjalin 'direction [west] in which spirits are first sent with songs in funerary rites, associated with red ochre'; mawurr 'direction [east] in which spirits are sent away for good in funerary rites, associated with black and white ochres'",2,NA
+Martuthunira,Martuthunira,vma,river_only,"jingkayu 'upriver, east'; yawurru 'downriver, west' Rivers mostly run NW-SE, sun rises and sets on this axis.",2,NA
+Martuthunira,Martuthunira,vma,vertical_topographic_scope_unknown_up_down,"kankarni 'above, on top'; mirtungka/ mirtungku- 'underneath, beneath'",2,NA
+Matngele,Matngele,zml,wind_only,kurruwa 'northwesterly'; dangarr `southeasterly',2,NA
+Mawng,Mawng,NA,coast_only,"wungijalk 'centre, main part of an area, deep water, ocean, north' (""The deep ocean is to the North of Goulburn Island and thus wungijalk is to the north.""); mantanti akut 'mainland side, south'",2,maun1240
+Mawng,Mawng,NA,vertical_and_topographic_elevation,"yurrng 'high up, on top of, in high country'; wumarrk 'below, under, area below, low lying area'",2,maun1240
+Mbabaram,Mbabaram,vmb,river_only,mir 'upriver'; alnggi 'downriver',2,NA
+Mbabaram,Mbabaram,vmb,vertical_and_topographic_elevation,"ngal 'uphill, on top'; alnggida 'downhill'",2,NA
+Middle Clarence Bandjalang,Bundjalung,bdy,vertical_and_topographic_elevation,"babar 'up, upwards, above, full, high, on top, north, west'; babar-gam 'New England, west (area of highland)'",1,NA
+Murrinh-Patha,Murrinhpatha,mwf,vertical_and_topographic_elevation,"kangkarl 'up, high, on top'; pepe 'down, below, under, ?inside'",2,NA
+Na-Kara,Na-kara,nck,sun_only,"meyakka 'sunrise-way, east'; kanuba 'sunset-way, west'",2,NA
+Na-Kara,Na-kara,nck,vertical_topographic_elevation_river_and_coast,"wala 'climb, uphill, inland, away from river'; kardabiya 'descend, downward, downhill, towards the coast, toards river'",2,NA
+Na-Kara,Na-kara,nck,vertical_elevation_only,"kakarda 'on, up, over, above'; mera 'under, inside'",2,NA
+Ngadjunmaya,Ngadju???,nju,vertical_topographic_scope_unknown_up_down,"maadu 'up, above, top'; yaburru/ yapuru/ nyapuru/ (y)ulbairra 'down, below, under, bottom end of a person, south'",2,NA
+Ngandi,Ngandi,nid,river_only,wala(w) 'upriver'; gardi 'downriver',2,NA
+Ngan'gityemerri,???,nam,sun_only,"miri meng-ge-tet 'sunrise, east'; mirri yenim-dum 'sunset, west'",2,NA
+Ngan'gityemerri,???,nam,vertical_topographic_elevation_and_river,"ganggi 'up, high, on top, upstream'; warrifi (NgW), apukek (NgK) 'down, low, beneath, downstream'",2,NA
+Ngarluma,Ngarluma,nrl,vertical_topographic_scope_unknown_up_down,"garrangka 'down, below'; thurnu 'under'",2,NA
+Ngiyambaa,Ngiyampaa,wyb,vertical_and_topographic_elevation,"DEM-ynja 'up, top'; DEM-dhar/-djar 'down, downhill, underneath'",2,NA
+Nhanda,Nhanda,NA,compass_absolute,idalu 'north'; wacu 'west' (Gargett 2011),2,nhan1238
+Nyangumarta,Nyangumarta,nna,other,"tjukarr 'northeast wind'; kariNaN/kaNiNaN, kariyaring/kariyawung/kariiyawang 'south wind'",2,NA
+Nyulnyul,Nyulnyul,nyv,vertical_topographic_scope_unknown_up_down,"widak/wirr 'ascend, go up'; jidilarr/jilalarr 'downwards, slope, steep, deep, hanging down'",2,NA
+Nyunga,Noongar,nys,vertical_and_topographic_elevation,"puagal, puagag, puagitj 'down, downhill, down there, below'; puarraqq 'down inside'",1,NA
+Nyunga,Noongar,nys,vertical_topographic_scope_unknown_up_down,"yarrang 'up, high up, top'; yira 'high'",1,NA
+Panytyima,Banyjima,pnw,river_only,jinkalpa/jinkarni 'upriver'; yapulpa 'downriver',2,NA
+Pintupi,Pintupi,piu,wind_only,katarlku 'upwind'; wunmunpa 'downwind',2,NA
+Pitjantjatjara,Pitjantjatjara,pjt,wind_only,minuru 'upwind'; warlparra 'downwind',2,NA
+Pitjantjatjara,Pitjantjatjara,pjt,vertical_and_topographic_elevation,"katu 'up, above, on top of, over, high'; tjaru 'down, low, below, south of'",2,NA
+PittaPitta,Pitta Pitta,pit,vertical_topographic_scope_unknown_up_down,pirripa 'up'; kawurru 'down',2,NA
+Rembarrnga,Rembarrnga,rmb,vertical_and_topographic_elevation,"karra 'up, uphill, away from river, in the yirrpe (""desert"" [i.e. dry]) country, outside'; yarra 'down, downhill, by the water/river, inside'",2,NA
+Ritarungo,Ritharrŋu,rit,topographic_elevation_and_river,"dhirripi 'downhill, downriver'; walama 'uphill, upriver'",2,NA
+Ritarungo,Ritharrŋu,rit,vertical_elevation_only,"garwarr 'up, above'; maya 'bottom, below, low, down'",2,NA
+Tiwi,Tiwi,tiw,vertical_elevation_only,"mura 'on top, above, on the surface, outer (as for clothes)'; yilaruwu 'inside, underneath, below, lower down'",2,NA
+Tiwi,Tiwi,tiw,other,lap-lap kurn 'east wind' ('?salt-salt neck/throat'); kuma-kuma 'west wind',2,NA
+Tweed-Albert Bandjalang (Yugumbeh),Yugambeh,NA,vertical_topographic_scope_unknown_up_down,"kayidhang 'high'; juluh/duluh 'downwards, low'",2,twee1234
+Umbidhamu,Umpithamu,umd,vertical_topographic_elevation_and_river,"yenu 'up, uphill, upriver, on top, outside'; yinthu 'down, downhill, inside'",2,NA
+Umpila,Umpila,ump,compass_absolute,kungka 'north-east'; kaaway 'east',2,NA
+Wagiman,Wagiman,wag,river_only,gangga(ran) 'upstream'; dubay/dubaran 'downstream',2,NA
+Wagiman,Wagiman,wag,vertical_and_topographic_elevation,"wolok 'high, top, upper area, high country'; munya(lan) 'below, lower area, low country, interior'",2,NA
+Wajarri,Wajarri,wbv,compass_absolute,"yapurtu 'north'; kakararra 'east' ('west' add. <wilunyu,wilura>) (Gargett 2011)",3,NA
+Walmajarri,Walmajarri,wmt,vertical_and_topographic_elevation,"kankarra(l) 'up, uphill, above'; kaniny 'down, below, inside'",2,NA
+Wanggangurru,Wangkanguru,ard,sun_only,muyu-widni-li warra 'sunset side' (sun-set-HAB side); muyu-wanka-li warra 'sunrise side' (sun-rise-HAB side),2,NA
+Wardaman,Wardaman,wrr,river_only,gangga 'upstream' ; beye 'downstream',2,NA
+Wardaman,Wardaman,wrr,vertical_topographic_elevation_and_river,"galul 'up, above, on top, away from river, out'; barrwa 'down, below, toards river'",2,NA
+Warlpiri,Warlpiri,wbp,vertical_and_topographic_elevation,"kankarlu/kankarlarra/kankarla- 'up, upward, high, top'; kanunju/kaninjarra/kaninja- 'down, downward, bottom, inside'",2,NA
+Warndarang,Warndarrang,wnd,vertical_topographic_elevation_river_and_coast,"arrwar 'on top, above, region overhead, region up from the coast'; yarlburri 'downward, downhill, downriver, towards the coast'",2,NA
+Warray,Warray,wrz,river_only,gibay 'upriver'; gijing 'downriver',2,NA
+Warrgamay,Warrgamay,wgy,river_only,gani 'upriver'; guyabay 'other side of river',2,NA
+Warrgamay,Warrgamay,wgy,vertical_and_topographic_elevation,"galaga 'up, uphill, up in the sky'; jin.gu 'down (hill?)'",2,NA
+"Warrnambool (dialect ""d"")",Gunditjmara,gjm,sun_only,papkup-itj thirng 'east' ('jump.up-NMLZ sun'); kaytm-iyt thirng 'west' ('jump.up-NMLZ sun'),2,NA
+"Warrnambool (dialect ""d"")",Gunditjmara,gjm,wind_and_climate,"parakayi 'north, hot north wind'; kuriyn 'south, south wind, snow, mist'",2,NA
+"Warrnambool (dialect ""v"")",Gunditjmara,gjm,sun_only,kanp-itjnganang 'east' ('climb-NMLZ sun'); kam-iyt nganang 'west' ('?-NMLZ sun'),2,NA
+"Warrnambool (dialect ""v"")",Gunditjmara,gjm,wind_and_climate,"lala kurn 'north' ('?? neck/throat'); kuriyn 'south, south wind, snow, mist'",2,NA
+Warrwa,Warrwa,wwr,topographic_elevation_and_river,"kandaarra 'up, upstream'; jidawa 'down, downstream'",2,NA
+Warrwa,Warrwa,wwr,vertical_elevation_only,"kalbu 'up(wards), above, over, upon'; jimbin 'down(wards), below, under(neath), bottom side, inside'",2,NA
+Western Victoria (Wemba Wemba dialect),Wemba Wemba,xww,sun_only,"pirnang nyawi, wirrwilang-nyawi 'sun rising (east)'; partikalang nyawi 'sun sinking (west)'",2,NA
+Western Victoria (Wemba Wemba dialect),Wemba Wemba,xww,climate_weather,pari-wil 'heat-having' (=~north); puyikalangtern 'frost coming down' (=~south),2,NA
+Worimi (Gathang),Gathang,kda,compass_absolute,burru 'north'; yaluwaa 'north-east',2,NA
+Worimi (Gathang),Gathang,kda,river_only,"wiyanduk 'up the river'; waang 'south, southwards, downriver'",2,NA
+Worimi (Gathang),Gathang,kda,vertical_and_topographic_elevation,"waka 'up, uphill, on top, above, west, westward'; baara 'down, downhill, east, at side of creek'",2,NA
+Wubuy (Nunggubuyu),Wubuy,nuy,wind_only,"biilu 'windward'; dhuurru 'downwind, leeward'",2,NA
+Wubuy (Nunggubuyu),Wubuy,nuy,coast_and_wind,"wunumbi 'north, skewed to coastline, NW monsoon season wind'; wagay 'south, skewed to coastline, SE dry season wind'",2,NA
+Wubuy (Nunggubuyu),Wubuy,nuy,coast_only,"ramali 'east, direction of Groote Eylandt'; arrgali 'west, inland areas'",2,NA
+Wubuy (Nunggubuyu),Wubuy,nuy,vertical_topographic_elevation_river_and_coast,"arrwar 'up, above, on top, uphill, upriver, inland, in the interior'; lhirribala 'down, underneath, downhill, down on/to the coast/beach, offshore, in lowlands, downstream, inside'",2,NA
+Yandruwandha (Innamincka),Yandruwantha,ynd,compass_absolute,"karawarra 'north'; wakarra-muku (SY, Yw) 'south' (?'back.of.neck-bone') (cf walarri 'shade, shadow')",2,NA
+Yandruwandha (Innamincka),Yandruwantha,ynd,sun_only,dritjir-dunka 'east' ('sun-go/come.out'); dritji-windri-ni 'west' ('sun-enter-NMLZ') (dritji-windri-pandhi 'sunset' ('sun-enter-down')),2,NA
+Yandruwandha (Innamincka),Yandruwantha,ynd,wind_only,"walpanggarra 'north wind', sometimes used for 'north'; witju-kura 'east, east wind' ('finger-storm')",2,NA
+Yankunytjatjara,Yankunytjatjara,kdd,vertical_and_topographic_elevation,"katu 'high, above, on top of'; tjaru 'below, south of (because country slopes to south)'",2,NA
+Yanyuwa,Yanyuwa,jao,vertical_topographic_elevation_and_river,"anka 'up, uphill, upriver, above'; wayka 'down, downhill, downriver'",2,NA
+Yawuru,Yawuru,ywr,compass_absolute,kularr 'west to west-northwest'; kuniyan 'north to east-northeast',2,NA
+Yawuru,Yawuru,ywr,wind_only,"banu 'direction from which cold winter wind (also banu) blows, direction of inland desert area, winter (east-southeast)'; yanban 'the direction of Eighty Mile Beach, from which the seasonal southwesterly wind (called yaman) blows (west-southwest)'",2,NA
+Yawuru,Yawuru,ywr,vertical_topographic_elevation_and_coast,"kalbu 'up, upwards, high, on top, uphill, landward from sea, steep'; dyimbin 'down, downwards, downhill, towards sea, offshore, out to sea, inland(wards), inside'",2,NA
+Yaygirr,Yaygirr,xya,vertical_topographic_scope_unknown_up_down,"warhu 'above, top'; dyahu/dyarhu 'down, below, on the bottom'",2,NA
+Yidiny,Yidiny,yii,vertical_and_topographic_elevation,"wanggi 'up, uphill'; jilnggu 'down, downhill'",2,NA
+Yidiny,Yidiny,yii,vertical_topographic_scope_unknown_up_down,nyarru 'on top of'; ganayirr 'underneath',2,NA
+Yindjibarndi,Yindjibarndi,yij,river_only,"tyingka- 'upstream, interior'; yawu(rra)- 'downstream'",2,NA
+Yir Yoront,Yir Yoront,yyr,compass_absolute,kuqrr 'north'; thiprr 'south',2,NA
+Yir Yoront,Yir Yoront,yyr,wind_only,walw-thurr 'upwind' ('wind-put');,1,NA
+Yir Yoront,Yir Yoront,yyr,sun_coast_and_river,"kuw 'dowriver, direction of sunset, coastal region, west/northwest'; kawrr 'upriver, direction of sunrise, inland, east/southeast'",2,NA
+Yuwaalaraay/ Gamilaraay,Yuwaalaraay and Gamilaraay,kld,vertical_elevation_only,"gaburran 'top, high place'; ganhagay 'below, underneath'",2,NA
+Awabakal,Awabakal,awk,compass_absolute,"kamari, karamang, kaya-pali/kiya-pali 'north, northward'; pakay, kari(i)ya 'south'; pulkakapa 'south, towards the south'",2,NA
+Awabakal,Awabakal,awk,coast_only,"puNa 'sea sand, south'; kirai 'westward, inland'; wombal 'sea beach, east'",3,NA
+Bardi,Bardi,bcj,tide,joodarrarr 'with the tide'; arrinarr 'against the tide'; janngal 'cut across tide',3,NA
+Bayungu,Bayungu,bxj,other,"nagbaru uba 'north' (Spencer, 1914) MH: ""doesn't look like anything recognizable to me. It must have been a phrase, but who knows what.""; jimeru 'east' (Spencer, 1914); para 'west'  (Spencer, 1914) [both prob. just wind terms - =Macassan borrowing thorughout top end]",3,NA
+Bunuba,Bunuba,bck,vertical_and_topographic_elevation,"rawurra 'up, on top, above'; rawurru-ga 'upward'; baburru(-ga) 'down(ward), underneath'",2,NA
+Dhuwal (Djapu),Dhuwal/Dhuwala,dwu,vertical_topographic_elevation_river_and_coast,"rduwart-dhu 'climb, go up on shore, go from river onto bank, go uphill'; dhurdi 'base, bottom, lowlands, towards the coast, downhill, downriver, rear end, stern of boat, root';",2,NA
+Djabugay,Djabugay,dyy,vertical_topographic_scope_unknown_up_down,"guri-guri 'on top of'; ganaa 'down, below, under, underneath';",2,NA
+Djinang,Djinaŋ,dji,topographic_elevation_coast_and_river,"burri 'backbone, high ground, hill, mountain, rear of an entity, tree trunk, moiety, inland, mainland, high ground, above, on top of'; ngurr jirrjirr 'downhill, towards river, point downwards'; rnungi 'foot, below, base, low area, seaward end of river'",3,NA
+Djinang,Djinaŋ,dji,vertical_elevation_only,"rnami 'on top, above, high, loudly (of speech), sky, Heaven'; nguy-mirri 'under, low, inside'; jayjaying 'downwards, underneath, below'",3,NA
+Dyangadi (Dhanggati),Dhanggati,dyn,compass_absolute,gawaan 'north'; dhugiyu 'south'; dhugi 'west',3,NA
+Dyangadi (Dhanggati),Dhanggati,dyn,river_only,baru 'upstream'; giiyu 'downstream'; dhuguyi 'across river',3,NA
+Dyangadi (Dhanggati),Dhanggati,dyn,vertical_elevation_only,"banggan 'on top of'; dhata 'down, low'; dhatanganda 'under, below'",3,NA
+Eastern Arrernte (Mparntwe dialect),Eastern Arrernte,aer,river_only,"ntyutye 'upstream'; arliwe 'downstream'; kwene-akerle, kwene-antepe 'downstream'",3,NA
+Eastern Arrernte (Mparntwe dialect),Eastern Arrernte,aer,vertical_and_topographic_elevation,"akertne 'up, upwards, high, on top, above'; kwene 'down, downwards, under, below, inside, into';",2,NA
+Gurindji,Gurindji,gue,topographic_elevation_only,"CRD-rni 'uphill'; CRD-ngkarra/ CRD~RED 'downhill'; CRD-wuluk 'apex, high point'",3,NA
+Guugu Yimithirr,Guugu Yimidhirr,kky,coast_only,"gungga- 'north, up the coast'; jiba-, $dhalbaarr 'south, down the coast'; waguuurr 'outside, inland'",3,NA
+Iwaidja,Iwaidja,ibd,sun_only,"abalkban manyij 'sunrise, east, sun comes out'; jirtbirdan 'dawn, east'; wurrying manyij 'sun goes into water, west'",2,NA
+Iwaidja,Iwaidja,ibd,coast_only,"nimarrk 'deep ocean, middle'; manandi 'mainland'; warrin 'inland, bush'",3,NA
+Jaminjung-Ngaliwurru (Ngaliwurru dialect),Ngaliwurru,djd,other,"aretharr 'north wind'; antekerreny (W, T), anyemilparr (E) 'south wind'; aretharr west wind",3,NA
+Jaru,Jaru,ddj,river_only,ganga-rra 'up along creek'; gani-mbarra 'down the creek'; CRD-jarrg 'across water',3,NA
+Kala Lagaw Ya,Kala Lagaw Ya,mwp,wind_only,"pun 'leeward, downwind';  pay 'windward, upwind'; ngap(a) 'across wind'",3,NA
+Kala Lagaw Ya,Kala Lagaw Ya,mwp,vertical_topographic_elevation_and_coast,"-kadaka 'upwards, uphill, north'; -muluka 'downwards, downhill, seaward, south';",2,NA
+Kalkutung,Kalkatungu,ktg,vertical_topographic_scope_unknown_up_down,"yuma 'up, above, high'; yuu 'go up'; pia 'down, go down, below'",2,NA
+Kayardild,Kayardild,gyd,vertical_and_topographic_elevation,"walmu 'up, on top of, high on'; walmathi 'high';",1,NA
+Kaytetye,Kaytetye,gbb,vertical_topographic_scope_unknown_up_down,"errwerle 'up, high, above'; -tyarte 'up to';kwene 'down, under, inside'",2,NA
+Kuku Yalanji,Kuku Yalanji,gvn,vertical_topographic_elevation_and_river,"wangkar 'up, upwards, uphill, upriver, above'; wuyar 'on top'; bada 'down, downwards, downhill, downriver, underneath'",3,NA
+Kumbainggar (Gumbaynggir),Gumbaynggirr,kgs,vertical_topographic_elevation_river_and_coast,"warrii 'down, downhill, towards the coast, downriver, downslope, east'; gaaba(ala) 'up, uphill, inland, upriver, west';",2,NA
+Lardil,Lardil,lbz,sun_only,"lilu 'sunrise, east'; balu 'sunset, west'; bajirrii 'go down, set (of sun) (move westwards towards horizon)'",3,NA
+Lardil,Lardil,lbz,vertical_topographic_elevation_and_coast,"wanji (waa) 'go upwards on an inclined or vertical surface or through air, go ashore, go inland'; thule (waa) 'go down, on inclined or vertical surface';",2,NA
+Martuthunira,Martuthunira,vma,coast_only,"wartantu ""north""; karalu ""south"" Both oriented by line of coast and Hamersley Range. Crossed by riverine axis.[DH: wartantu 'north, inland, uphill'; karalu 'south, coast, downhill' (DH's source not known)]",2,NA
+Middle Clarence Bandjalang,Bundjalung,bdy,compass_absolute,"ngaway 'north'; waanggan, dunam 'south'; guugin 'east'",3,NA
+Middle Clarence Bandjalang,Bundjalung,bdy,vertical_topographic_scope_unknown_up_down,"jawi 'up'; waygan, ngambil 'on top'; bala/bela 'below, bottom, underneath'",3,NA
+Muruwari,Muruwari,zmu,river_only,karral 'upstream'; karranta 'cross-river'; nhuparanj 'this side of (river)',3,NA
+Narungga,Narungga,nnr,wind_only,"garnarra 'north wind'; wariein 'west'; war(r)i western region, west wind'",3,NA
+Ngalkbun (Dalabon),Dalabon,ngk,vertical_topographic_elevation_and_river,"karr 'up, uphill. Upriver'; yirrh 'down, downhill, downriver'; biyihyirrh 'deep down'",3,NA
+Nyamal,Nyamal,nly,vertical_topographic_scope_unknown_up_down,"kankala,kankara,kankarni'up, upwards, above, on top'; kanarni 'down, below'; kaningu 'under(neath)'",3,NA
+Nyawaygi,Nywaygi,nyt,compass_absolute,yambala 'northeast(???)'; jiibari 'south'; juugurru 'west',3,NA
+Nyawaygi,Nywaygi,nyt,vertical_and_topographic_elevation,"gani 'up, uphill, west, north'; yinu 'down (from tree or mountain), downhill'; janda- 'go down (from tree or mountain)'",3,NA
+Nyulnyul,Nyulnyul,nyv,vertical_topographic_elevation_and_river,"kalb 'up, upstream, uphill'; jimbin 'down, downstream, downhill, inside'; yu(w)urr/jurr 'descend, go down, climb down, cross river'",3,NA
+Nyunga,Noongar,nys,vertical_topographic_elevation_and_coast,"njanəngardi, (ng)ardak 'down' (?'S.W.'); ngaardiy 'down, below, down south, south coast'; ngaardarr/ngaardarl/ ngaardal 'down below'",1,NA
+Panytyima,Banyjima,pnw,vertical_topographic_scope_unknown_up_down,"kankala 'up on top, above'; kankarni 'down on top'; kinkirri 'down, below'",3,NA
+Pitjantjatjara,Pitjantjatjara,pjt,compass_absolute,"alinytjarra, kayili 'north'; urlparirra 'south'; kakararra east wilurarra 'west'",4,NA
+Tweed-Albert Bandjalang (Yugumbeh),Yugambeh,NA,compass_absolute,"kugin 'north, north people'; ngaugai, yargeh? 'south'; birihn 'south, south people'",2,twee1234
+Wajarri,Wajarri,wbv,vertical_topographic_scope_unknown_up_down,"kankararra 'above, upwards, east'; malba 'up, high'; ngartiyarra 'beneath, under(neath), inside' (cf ngarri 'lie down')",3,NA
+Warnman,Warnman,wbt,vertical_topographic_scope_unknown_up_down,"kankararra, kankarni 'up, above, on top'; kaninytjarra, kaninykurti 'down, underneath, inside'; katuka(la) 'down, get down from something'",2,NA
+"Warrnambool (dialect ""d"")",Gunditjmara,gjm,vertical_topographic_scope_unknown_up_down,"kanu/kani 'up, above, high'; kanggi- 'down, under, below'; kali wur 'low'",2,NA
+Warrongo,Warrungu,wrg,river_only,gola 'upstream'; bada 'downstream'; goyay 'across a river or the sea',3,NA
+Warrongo,Warrungu,wrg,vertical_and_topographic_elevation,"ngarra 'up, upwards, uphill, high, on top'; nyarrga 'down, downwards, downhill, beneath'; gana 'below, inside'",3,NA
+Western Victoria (Wemba Wemba dialect),Wemba Wemba,xww,vertical_topographic_scope_unknown_up_down,"tirril 'up above'; kirk 'up, above'; kunyi, kunyi-kal, kuna-kal 'below, underneath'",2,NA
+Yalarnnga,Yalarnnga,ylr,vertical_topographic_scope_unknown_up_down,"kankati 'up, high, on top'; watharra 'get up, go out, emerge, rise (sun), grow (plant)'; wata 'get down'",3,NA
+"Angkamuthi (west coast of peninsula) (""Uradhi"")",Angkamuthi,NA,vertical_topographic_scope_unknown_up_down,"akinta 'up'; wuthama 'over'; akayma 'down, beneath'; akaantu 'downwards'",4,NA
+Anguthimri (Mpakwithi dialect),Anguthimri,awg,compass_absolute,gwatha 'north'; vatha 'south'; agharra 'east';thu(rru) 'west',4,NA
+Arabana,Arabana,ard,compass_absolute,thidnangkara 'north'; thirriwa 'east'; kudnangkari 'south'; yantakara 'west',4,NA
+"Atampaya (inland) (""Uradhi"")",Atampaya,NA,vertical_topographic_scope_unknown_up_down,"ampya 'up'; wuthama 'over'; akayma 'down, beneath'; akaangu 'downwards'",4,NA
+Bayungu,Bayungu,bxj,compass_absolute,"thambungu 'north'; walbara 'south'; yirrara, wardandu 'east'; gawari 'west'",4,NA
+Bayungu,Bayungu,bxj,vertical_topographic_scope_unknown_up_down,"garriya 'up, top'; yirrara 'down, below'; ngardi 'down, inside'; yindi 'down, low'",2,NA
+Bunganditj (Buwandik),Bunganditj/Boandik,xbg,vertical_topographic_scope_unknown_up_down,"kan marna, kan ngaru 'up, above' (marna = 'hand'); kanda('a) 'up, rise'; kan.giya 'arise, climb'; (see 'east')",1,NA
+Bunuba,Bunuba,bck,compass_absolute,"biyhirriga 'north'; ngiyamungga, ngiwali 'south'; ngilamungga, ngilmangi, ngilwa 'east'; ligi(wurra) (L), ligahina (H) 'west'",4,NA
+Dhalandji,Thalanyji,dhl,compass_absolute,"yaburru, wardandari 'north'; gajinha, warlbara 'south'; wardandu 'east'; kawari 'west'",4,NA
+Dhuwal (Djapu),Dhuwal/Dhuwala,dwu,coast_only,"walma 'go up from the water onto the shore'; nguuy 'heart, lowlands, coast, sea off coast, below' (i.e. 'seaward'); dhirripi 'down low, along the coast';",3,NA
+Dieri (Diyari),Dieri,dif,compass_absolute,thinankarra 'north'; kunankrari 'south'; thirriwa 'east'; yantakara 'west',4,NA
+Djabugay,Djabugay,dyy,compass_absolute,gunggarri 'north'; jiwarri 'south'; nuu 'east'; guwa west,4,NA
+Dyirbal,Dyirbal,dbl,compass_absolute,gunggarri 'north'; guynggurru 'south'; guliny 'east'; ruwa 'west',4,NA
+Dyirbal,Dyirbal,dbl,vertical_and_topographic_elevation,"-day- 'up, uphill'; -bayj- 'down, downhill'; waynyjil 'move upward, move uphill'; bungal 'move downward, move downhill'",4,NA
+Eastern Arrernte (Mparntwe dialect),Eastern Arrernte,aer,compass_absolute,ayerrere 'north'; ikngerre 'east'; antekerre 'south'; aturle 'west',4,NA
+Gaagudju,Gagadju,gbu,vertical_and_topographic_elevation,"gaangi 'up, high, top'; gankee-ganki 'ardaadji 'down, downhill, inside, under'; mabooliyo 'plain, outside'; [ngoinbu down (Spencer 1914)]",3,NA
+Garrwa,Garrawa,wrk,compass_absolute,langki 'north'; kula 'south'; karri 'east'; bayungu 'west',4,NA
+Gooniyandi,Gooniyandi,gni,compass_absolute,"biddi, boowooddoo 'north'; ngiyi 'south'; ngila 'east'; liya/liyaani 'west'",4,NA
+Gunya,Gunya,NA,compass_absolute,gadbu 'north'; guta 'south'; ngadba 'east'; barta 'west',4,sout2765
+Gurindji,Gurindji,gue,compass_absolute,kayi- 'north'; kurla- 'south'; karra(wa)-/kaa- 'east';karla- 'west',4,NA
+Kalkutung,Kalkatungu,ktg,compass_absolute,"tapungku 'north'; tiriwa,karuali 'south'; thirriwa, kialparri 'east'; rungkarri 'west'",4,NA
+Kaurna,Kaurna,zku,compass_absolute,kawanta 'north'; patpa 'south'; marri 'east'; wangka 'west',4,NA
+Kaurna,Kaurna,zku,vertical_topographic_scope_unknown_up_down,"karra 'up, above, high'; karnkandi 'raise, lift';yakingka below'; [worta(ra) 'behind, after']",4,NA
+Kayardild,Kayardild,gyd,compass_absolute,jirrkara 'north'; ra-a/rar-a 'south'; ri-ya 'east'; bad-a 'west',4,NA
+Kuku Yalanji,Kuku Yalanji,gvn,coast_only,"kungkarr 'north, northwest, north along coast'; jibarr 'southwest, south, south and inland from coast'; naka 'southeast, east, south, south and east along the coast'; kuwa 'northwest, west, northeast, north and inland'",4,NA
+Kumbainggar (Gumbaynggir),Gumbaynggirr,kgs,vertical_topographic_scope_unknown_up_down,"bida down';jalaa/jaali(ja) 'under, below, inside'; waaru 'high, top';bali 'up, top'",3,NA
+Lardil,Lardil,lbz,vertical_elevation_only,"walmaan 'up, up high, upwards, on top of'; wekiri 'on, on top of, upwards'; yarii 'on, on top of'; nyirriri 'down, downwards, below, low, under'",2,NA
+MalakMalak,Malak Malak,mpb,vertical_and_topographic_elevation,"kantjuk(-en) 'up, on top, high place, Top End'; puyunduk(-en) 'below, under, bottom, low place'; karrarra 'go up'; tjalk 'go down'",4,NA
+Malgana,Malgana,vml,compass_absolute,"yaburru 'north'; guba, gubanga 'south'; gagarrla 'east'; wardandu 'west'",4,NA
+Margany,Margany,zmc,compass_absolute,gadbu 'north'; guta 'south'; ngadba 'east'; barta 'west',4,NA
+Martu Wangka (Manyjilyjarra dialect),Martu Wangka,mpj,compass_absolute,kayili 'north'; yulparirra 'south'; kakarra 'east'; yapurra 'west',4,NA
+Matngele,Matngele,zml,vertical_topographic_elevation_and_river,"wuluk 'high, high country, upstream'; meny-gin 'upstream, up, on top' (throat-ALL); wubajang 'low, low country, dwnstream'; mari-yin 'downstream, bottom' (foot-ALL)",2,NA
+Mbabaram,Mbabaram,vmb,compass_absolute,nggwar 'north'; aber 'south'; ga 'east'; wo 'west',4,NA
+Na-Kara,Na-kara,nck,wind_only,"lungkurrma '?north, north-east'; narongkawa '?south'; djimurru 'east, east wind, north-east'; barra 'west, west wind'",4,NA
+Narungga,Narungga,nnr,compass_absolute,kurnara- 'north'; dhilba south'; winderani- 'east';,3,NA
+"Ngaanyatjarra (DH ""Western Desert"")",Ngaanyatjarra,ntj,vertical_topographic_scope_unknown_up_down,"katu 'up, above'; katalarra/katularra 'above, on top of, high'; kaninytjarra 'down, beneath, under, inside'; tjaru- 'down'",2,NA
+Ngalkbun (Dalabon),Dalabon,ngk,compass_absolute,djihbi 'north'; walum/walûngkad 'south'; rorrng 'east'; karri 'west',4,NA
+Ngandi,Ngandi,nid,compass_absolute,ngurri 'north'; bakay/ baka-/ baki- 'south'; rawarra/ rawirri-/ rarra- 'east'; ngani 'west',4,NA
+Ngarla,Ngarla,nrk,compass_absolute,"yapurru 'north'; wurruru 'south'; yiju, paji-rri 'east'; wulyulu 'west'",4,NA
+Ngarla,Ngarla,nrk,vertical_topographic_scope_unknown_up_down,"kankara 'up, above, high up'; kankarni 'on top of'; kanarni 'down, below, underneath, inside; on top of'",3,NA
+Ngarluma,Ngarluma,nrl,river_only,"jinggayi 'upstream, east, south'; yaburru/ yapurru/ yabul- 'downstream, west, north'; yir(r)a-ju 'north, east'; wulu-ju/wiliji- 'south, west'",4,NA
+Nhanda,Nhanda,NA,other,warrirlay east wind(doubtful)'; gaabalay west wind (doubtful)'; birraalay north wind(doubtful)'; wanggaalay south wind(doubtful),4,nhan1238
+Nyangumarta,Nyangumarta,nna,compass_absolute,yalinyja 'north'; kurila 'south'; kakarra 'east'; kara 'west',4,NA
+Nyulnyul,Nyulnyul,nyv,compass_absolute,"wardi 'north'; warlij 'south'; banawarr 'east'; kularr, kulukurr 'west'",4,NA
+Nyunga,Noongar,nys,compass_absolute,"maarrag, miyrnang,tjieræly, jerral, jeralitch, yearar 'north'way-lo, wil 'north'; min-ung, nurdee, bu-yal 'south'; bo-yal, e-ra, jar-ring,gun-gal, ka-kur,maarnang 'east'; winnagal, ngar-dee, waddelie, boocarl 'west'",4,NA
+Panytyima,Banyjima,pnw,compass_absolute,wartalpa 'north'; kurila 'south'; kakarra 'east'; wuluju 'west',4,NA
+Pintupi,Pintupi,piu,compass_absolute,"kayili, yalinytjarra 'north'; yurlparirra 'south'; kakarra, kakarrara, lukurrku 'east'; wilurarra, yapurra 'west'",4,NA
+PittaPitta,Pitta Pitta,pit,compass_absolute,thinangara 'north'; wakarra 'south'; thirriwa 'east'; yurla 'west',4,NA
+Rembarrnga,Rembarrnga,rmb,compass_absolute,pe 'north'; walam 'south'; wurra 'east'; karriny 'west',4,NA
+Ritarungo,Ritharrŋu,rit,compass_absolute,ngurruruy 'north'; baagay 'south'; rawarrang 'east';ngarni 'west',4,NA
+Sydney (Eora/Dharruk),Eora and Dharug,xdk,coast_and_wind,buwan 'northwest'; buruwi 'northeast'; banymari 'southwest'; (gunayima) 'southeast' [there's a bit more to this in Nash 2013],4,NA
+Sydney (Eora/Dharruk),Eora and Dharug,xdk,vertical_topographic_scope_unknown_up_down,"gul 'up'; buruwa 'above, upward, upstairs'; yinyun 'down'; gadi, dadu 'below, under'",4,NA
+Tiwi,Tiwi,tiw,coast_only,"kipirla 'in/on the open sea, on the ocean'; tingatinga(la) 'go along beach'; wartinga 'by land, overland, through bush'; yintula 'area near the shore of lake, strait or river, the low road, edge of an area such as the bush, along the shore versus 'up in the bush'",4,NA
+Tiwi,Tiwi,tiw,vertical_and_topographic_elevation,"kuriyuwu 'above, up, high, on top, outside'; kuluwuni 'ground, low, down';  yarti 'ground, earth, place, low, down'; yintula 'the low road' (O74)",4,NA
+Umbidhamu,Umpithamu,umd,compass_absolute,ungkarra 'north'; iiparra 'south'; aawarra 'east' (to the sea); kuwa 'west',4,NA
+Wajarri,Wajarri,wbv,compass_absolute,"milimili, yapurtu/yaburru 'north'; mirnangu 'south' (""from Njungar mirnong"") (cf mirnda/mirnta 'shade, shadow') ; wanmala,bidungu, maliyara 'east' (see kakararra 'up, east'); watchu'west' (1886)",4,NA
+Walmajarri,Walmajarri,wmt,compass_absolute,kayili/kayirra 'north'; kurlila/kurlirra 'south'; kakarra 'east'; karla 'west',4,NA
+Wanggangurru,Wangkanguru,ard,compass_absolute,thidnangkara 'north'; thirriwa 'east'; kudnangkari 'south'; yantakara 'west',4,NA
+Wardaman,Wardaman,wrr,compass_absolute,jongon 'north'; gorro 'south'; yiyanggu 'east'; namanya 'west',4,NA
+Warlpiri,Warlpiri,wbp,compass_absolute,yatuju/yatija- 'north'; kurlulu/kurli-/kurla- 'south'; kakarru/kakarra- 'east'; karlu/karla- 'west',4,NA
+"Warrnambool (dialect ""v"")",Gunditjmara,gjm,vertical_topographic_scope_unknown_up_down,"kani 'up, high'; winyu 'down, under'; winyanu 'under'; kulkut 'low'",3,NA
+Warrongo,Warrungu,wrg,compass_absolute,gonggarri ‘north'; golbila 'south'; wanggarri 'east'; gowa 'west',4,NA
+Warrwa,Warrwa,wwr,compass_absolute,yarday/yawan 'north'; yalmban 'south'; banu 'east'; kularr/wardiya 'west',4,NA
+Wik Mungkan,Wik-Mungkan,wim,compass_absolute,"kungk 'north'; yiip 'south'; kaaw, kap 'east'; kuuw 'west'",4,NA
+Wiradhuri,Gunditjmara,wrh,compass_absolute,"balima 'north'; guya 'south, rests (also fish)';dhirrangal, bululay, girranggawu'east'; yunhangany,dhurbuwunhanha'west'",4,NA
+Woiwurrung-Thagungwurrung (Taungurung),Taungurung,dgw,compass_absolute,"badjii 'north'; mirin, waboorn 'south'; galinbirem 'east'; mumilam 'west'",4,NA
+Woiwurrung-Thagungwurrung (Taungurung),Taungurung,dgw,wind_only,"brogi 'north wind'; gurriin 'south, south wind, storm wind'; gurriin-warram 'east wind'; natbrogo 'west, west wind'",4,NA
+Woiwurrung-Thagungwurrung (Taungurung),Taungurung,dgw,vertical_topographic_scope_unknown_up_down,"gaaparrang, gubi 'up'; gaab-ut, ngirr ngirrwan 'up, above'; lagbodu 'down, below'; miydjedi 'below, under'",2,NA
+Woiwurrung-Thagungwurrung (Woiwurrung),Woiwurrung,wyi,compass_absolute,"barradyi,winmali 'north';  mirin,waburn 'south'; galen-barriam 'east'; mumil(am) west",4,NA
+Woiwurrung-Thagungwurrung (Woiwurrung),Woiwurrung,wyi,vertical_topographic_scope_unknown_up_down,"gabuth, ngirr-ngirrwan, gabarreng (also given as 'beyond' and 'far'), gubi 'up, above'; mayi 'down'; my-je-de, kubberdon 'below'; kundui 'under'",4,NA
+Yalarnnga,Yalarnnga,ylr,compass_absolute,manungkumu 'north'; karruwali 'south'; thirriwa 'east'; tangkarri 'west',4,NA
+Yandruwandha (Innamincka),Yandruwantha,ynd,vertical_topographic_scope_unknown_up_down,"kamarra 'top'; kandra 'up, top, high'; kudu 'top'; parrari 'underneath'",2,NA
+Yankunytjatjara,Yankunytjatjara,kdd,compass_absolute,alintjarra 'north of'; ulparirra 'south of'; kakarrara 'east of'; wilurrara 'west of',4,NA
+Yanyuwa,Yanyuwa,jao,compass_absolute,akarra 'east'; a- 'west'; nguthunda 'north'; ngamala 'south',4,NA
+Yanyuwa,Yanyuwa,jao,compass_relative,akarra 'east'; a-wu 'west'; nguthunda 'north'; ngalu 'south',4,NA
+Yindjibarndi,Yindjibarndi,yij,compass_absolute,warta-/wartanta- 'north'; kaa-/kayila- 'south'; yaa- 'east'; wulu-/wula- 'west',4,NA
+Yintyingka-Ayabadhu,Yintyingka and Ayapathu,ayd,compass_absolute,"kungki 'north, northeast'; thiipi 'south, southwest'; kaawa 'east, southeast' (poss. also 'windward, sunup'); kuwa 'west, northwest' (poss. also 'sundown')",4,NA
+Yuwaalaraay/ Gamilaraay,Yuwaalaraay and Gamilaraay,kld,vertical_topographic_elevation_river_and_sun,"nga(a)rri-baa 'up, on top, above, high, uphill, upstream, east (sun up)'; nga-daa 'down, underneath, downhill, downstream, west (sundown)'; DEM-baa 'up'; DEM-daa 'down'",4,NA
+Alyawarr,Alyawarr,aly,vertical_and_topographic_elevation,"atwarima, atwarinima 'descend, go downhill, get down (e.g. from tree)'; atwarreyel 'go down'; erl.arrern 'do downwards'; ingarnima 'climb, go up (on a hill, in a tree etc)'; -ey.aynt 'do upwards'",2,NA
+Bardi,Bardi,bcj,wind_only,"ardi 'northeast' (north, skewed to the east); alang 'south'; baan(arr) 'east'; goolarr 'west' (""terms based on wind directions with consistently changing endings depending on the time of year""); alminyko, alymin 'windward'",5,NA
+Bunganditj (Buwandik),Bunganditj/Boandik,xbg,compass_absolute,win.ga 'north'; wipa 'south'; kan ngara 'east'; wangaru 'west'; wangmarayi 'west south-west',5,NA
+Djeebbana,Ndjébbana,djj,coast_only,"karlaba 'descend into water'; bolkkarda 'centre, middle, (in) deep water, on the open sea, north'; banakkabbiba 'littoral, under/in/through water'; karnangarronarra 'inland, dry land, ashore, overland'; yanakkabba 'dry land'",4,NA
+Gurindji,Gurindji,gue,river_only,"kanka- 'upstream, inside (room, cave, mouth etc)'; kani- 'downstream'; -karra 'side of river';  -nu 'cross-river'; (-)jarrk 'cross-river'",5,NA
+Iwaidja,Iwaidja,ibd,vertical_topographic_elevation_and_coast,"yurrngud 'up high, the top, away from the coast, inland, above'; wuwud 'down, below, towards the coast, seaward'; warndi 'be on top';urti 'go up, go uphill, go away from the coast, go inland'; wulaku 'go down, go downhill, go towards the coast, seaward'",5,NA
+Lardil,Lardil,lbz,wind_only,"jirrkuru 'leeward, north'; laru 'windward, south'; thurndathurn strong southeast wind; jirrkurumben, jirrkaraalin north wind; liyalin east wind",5,NA
+Martu Wangka (Manyjilyjarra dialect),Martu Wangka,mpj,vertical_topographic_scope_unknown_up_down,"katu 'up, above'; kata-rr-pa 'at the top end'; ngarna-warra 'up, high, above'; kaniny 'down, below, underneath, inside'; nyirri 'low down'",4,NA
+Ngadjunmaya,Ngadju???,nju,compass_absolute,"yalintjarra, mernu 'north'; tjurrga 'south'; kagarra 'east'; kakarra 'south east'; ngardii, yalinjarra 'west'",5,NA
+Pintupi,Pintupi,piu,vertical_topographic_scope_unknown_up_down,"yirra-/yirri- 'upward'; katu, kankarra 'up, above'; walu- 'downward'; kaninytjarra 'down, down low, under, inside'; yurnngu/yurrngu 'underneath, inside'",4,NA
+Warndarang,Warndarrang,wnd,compass_absolute,guymi/wunymi 'north'; wagi/wayburri/-yiwayi 'south'; gangu/yini 'east'; arrgarli 'west';,4,NA
+Warnman,Warnman,wbt,compass_absolute,kayili 'north'; ngaparti 'south'; kakarra 'east'; kararra 'west'; kara 'west'  (Burgman 2010),4,NA
+Warrgamay,Warrgamay,wgy,compass_absolute,"gunggarri 'north(wards)'; yirrganyji 'people, goods and places from the north'; gulbila 'south(wards)'; gunyin 'people, goods and places from the south'; guwa 'west, tablelands'",5,NA
+Yandruwandha (Innamincka),Yandruwantha,ynd,vertical_and_topographic_elevation,"thalka 'up, outside'; yita-thalka 'up there, further up a slope or bank'; pandhi 'down, bottom'; yita-pandhi down there, further down a bank or slope'; ngari 'down, bottom, inside'",5,NA
+Anmatyerre,Anmatyerr,amx,vertical_topographic_scope_unknown_up_down,"akern-antep, akernelak 'face/point/move upwards'; kwen 'down'; thar-irrem (E) 'go downwards'; arrarlernem (W, T) 'go downwards (in the air); thar intem 'lie facing or slanting downwards'; kwen-akerl, kwen-antep, kwenel-athek, kwenelak, thar, thar-thar 'facing down'",6,NA
+Dyirbal,Dyirbal,dbl,river_only,-dawVl- 'upriver'; -balbVl- 'downriver'; -guya 'cross-river'; wandil 'move upriver'; daday 'move downriver'; mabil 'move across-river',3,NA
+Iwaidja,Iwaidja,ibd,compass_absolute,"anganyburrurtikiny 'north'; awalawal 'north'; makumbu 'south'; walim 'south' (Gunwinyguan loan); ardilwarrki 'go east, eastwards';",3,NA
+Kuku-Uwanh (Kugu Nganhcara),Kugu Uwanh,uwa,vertical_topographic_scope_unknown_up_down,"kanhnyi 'up, top, above'; pal-anhnyi 'top'; yam-anhnyi, puy-anhnyi 'upward'; pake 'down, bottom, below, under, inside'; pal-awaage 'bottom'; yam-aage, puy-aage 'downward, inward'",6,NA
+Matngele,Matngele,zml,sun_only,"muerrue karrarr-ka ‘sunrise;,east’ (‘sun go.up-?’); muerrue tjalk ‘sunset, west’ (‘sun go.down’); muerrue wuluk ‘zenith; ?midday; north’ (‘sun be.on.top’)",3,NA
+Na-Kara,Na-kara,nck,coast_only,"mayawabba 'via the coast, littoral'; yana-kukkawa 'by the water, via the water, on the coast'; nkomawabba 'land-ways, via the inland'; ngornangornawarra 'at/along the coast'; marlbbinjawabba ""via the bush, forest'; wunabbardambarda 'of/via the inland waterways'",6,NA
+Yidiny,Yidiny,yii,compass_absolute,gunggari 'north'; ngara 'south'; naga 'east'; guwa 'west'; janggir 'northern'; gunyin 'southern',6,NA
+"Ngaanyatjarra (DH ""Western Desert"")",Ngaanyatjarra,ntj,compass_absolute,"kayili, yalinytjarra 'north'; yuliya 'northeast, northeast country'; wawulyu 'northwest, country to northwest'; yulparirra'south'; kakarrara 'east'; wilurarra 'west'; yapurra 'west, country to west'",6,NA
+"Yadhayekenu (east coast of peninsula) (""Uradhi"")",Yadhaykenu,NA,vertical_topographic_scope_unknown_up_down,"akinta 'up'; anpaantu 'upwards'; anpaa/ anpima 'above'; wuthama 'over'; akayma 'down, beneath'; akaantu 'downwards';",2,NA
+Anmatyerre,Anmatyerr,amx,compass_absolute,"ayerrerr, ayerrel-penh (E), aywerrel-penh (E) 'north'; aywelernety (W, E), aywelern (E), aywelern-athek (E) 'north (respect)'; antekerr, antekerr-penh (W, T), antekerr-pwenh (E) 'south'; antwekenety (W), antwekeneyt (E) 'south (respect)'; angerrakw, ingerr (W, T) 'east'; ngwelernety (W), ngwelern (E), ngwelerneyt (E), akngwelern (E) 'east (respect)'; altwerl 'west'; altwerlernety (W), altwerlerneyt (E) 'west (respect)'",4,NA
+Kaytetye,Kaytetye,gbb,compass_absolute,"ayerrere 'north'; aywelenite 'north (respect)'; (at)nteyerre 'south'; antekwernite 'south (respect)'; akngerrake 'east';akngwelenite 'east (respect)'; altemarle 'west'; altwele 'west (older speakers)', altwelenite 'west (respect)'",4,NA
+Alyawarr,Alyawarr,aly,compass_absolute,"arayna, ayirrirra 'north(wards)'; antikirra 'south(wards)'; akngirrakwa 'east(wards)'; altula 'west(wards)';  arayn 'north' (LN); antekerr 'south' (W),'west' (LN); ayerrer 'east' (LN), south (W); akngerrakw/ angerrakw/ akngwerrak 'east' (W), 'south' (LN); altwerl 'north (LN), 'west' (W)",4,NA
+Djinang,Djinaŋ,dji,wind_only,"jalatjang 'south(east) wind, south'; barra 'northwest monsoon, northwest'; rlunggurrma 'north wind'; jimurru 'east wind, east'; bulunu 'east wind'; marlawurru 'southeast wind'; rarranyjarr 'south wind, cold weather season'; warti miman 'wind direction'; wartinginyi gurrpigi 'point into the wind, head in direction ofoncoming wind'",6,NA
+Jaru,Jaru,ddj,compass_absolute,"gayirra(rra)/gayili 'north'; gayi-niyin 'from the north'; gayin-jarrg 'across water to north'; gala-nimbalanyu 'north side'; gurlani/gurlarra/gularra/gulirra 'south'; gularra-wura 'to south' ga-nimbalanyu 'south side'; gurlani-jarrg 'south across water'; gala(rra)/garlarra/galarri/garlani 'west, westward'; garla~garla 'west side'; garla-niyin 'from the west'",3,NA
+Nyunga,Noongar,nys,wind_only,"birunna, yuarlær 'north wind'; ngaardangarr 'north-northwest wind'; gaaning 'southwest wind, southwest';nangalar, nanjart, qaagarr, yaalaq, yaalamber 'east wind'; wining, wierit 'southerly wind, southeasterly wind'; waardity/wardat 'westerly wind, northwest wind, north, west, northwest';  durga, dal-go 'west wind'; durga 'northwest wind'; dolga 'north wind'; door-ga 'northeast wind'; dtal-li-ger, yir-ring-e-ree, dtallajar north-west wind d-yedik, karing,karring south-west wind cheeriung wind from the north meernan wind from the south  bernang wind from the south-west gulamwin sea breeze nandat east wind, land wind",9,NA
+Nyamal,Nyamal,nly,river_only,"yapurru 'north'; yapu-lpa 'west';jingkarrka 'south'; jingka-lpa 'east, upriver'; jingka-rni 'from the east'; jingkarr-kura 'to the east'; warta-lpa 'east'; warta-lpa 'north'; wartan-kura 'northwards'; wuluyu 'west'; wuluyu 'south'; wulaa-rni from the south'",4,NA
+Kuku-Uwanh (Kugu Nganhcara),Kugu Uwanh,uwa,compass_absolute,"kungke 'north'; pal-ungko 'north side'; yam-ungke, puy-ungke 'northward'; yibe 'south'; pal-ibo 'south side'; yam-ibe, puy-ibe 'southward';  kawa 'east'; pal-awara 'east side'; yam-awa, puy-aawa  eastward'; kuwa  'west'; pal-uwo  west side'; yam-uwa, puy-uwa 'westward'; kungke+kawa 'northeast'; kungke+kuwa 'northwest'; yibe+kawa 'southeast'; yibe+kuwa 'southwest'",8,NA

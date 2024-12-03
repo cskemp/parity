@@ -1,0 +1,311 @@
+language,name,iso_639_3,genus,family,fusion,source,level,tense,remoteness,obligatoriness,gcode,extra_count,complexity
+Abui [abz],Abui,abz,Greater Alor,Timor-Alor-Pantar,Isolating/Concatenative,"(Kratochvíl 2007: 209ff,350)",0,NA,NA,NA,abui1241,0,0
+Achumawi [acv],Achumawi,acv,Palaihnihan,Hokan,Concatenative,"(Angulo & Freeland, 1930: 89ff, 111)",0,NA,NA,NA,achu1247,0,0
+Ainu [ain],Ainu,ain,Ainu,Ainu,Concatenative,(Shibatani 1990: 80),0,NA,NA,NA,ainu1240,0,0
+Apinajé (Apinayé) [apn],Apinajé (Apinayé),apn,Ge-Kaingang,Macro-Ge,Isolating,(Cunha de Oliveira 2005: 170f),0,NA,NA,NA,apin1244,0,0
+Arandai [jbj],Arandai,jbj,South Bird’s Head,Marind,Isolating/Concatenative,(Voorhoeve 1985: 11),0,NA,NA,NA,aran1237,0,0
+Arapesh (Bukiyip) [ape],Arapesh (Bukiyip),ape,Kombio-Arapesh,Torricelli,Concatenative*,(Fortune 1942: 67),0,NA,NA,NA,buki1249,0,0
+Arikara [ari],Arikara,ari,Caddoan,Caddoan,Concatenative,(Merlan 1975: 14),0,NA,NA,NA,arik1262,0,0
+Awetí [awe],Awetí,awe,Aweti,Tupian,Concatenative,(Borella 2000: passim),0,NA,NA,NA,awet1244,0,0
+Bagirmi [bmi],Bagirmi,bmi,Bongo-Bagirmi,Central Sudanic,Concatenative*,(Stevenson 1969: 83),0,NA,NA,NA,bagi1246,0,0
+"Bai, Central [bca]","Bai, Central",bca,Bai,Sino-Tibetan,Isolating,(Wiersma 1990: 175ff),0,NA,NA,NA,cent2004,0,0
+"Bajau, West Coast [bdr]","Bajau, West Coast",bdr,Sama-Bajaw,Austronesian,Isolating,(Miller 2007: 329ff),0,NA,NA,NA,west2560,0,0
+Batak Toba [bbc],Batak Toba,bbc,Northwest Sumatra-Barrier Islands,Austronesian,Concatenative,(Nababan 1966: 29),0,NA,NA,NA,bata1289,0,0
+Begak (Ida’an) [dbj],Begak (Ida’an),dbj,North Borneo,Austronesian,Isolating/Concatenative,"(Goudswaard 2005: 151ff, passim)",0,NA,NA,NA,idaa1241,0,0
+Berta [wti],Berta,wti,Berta,Berta,Concatenative,(Cerulli 1947: 350),0,NA,NA,NA,bert1248,0,0
+Biak [bhw],Biak,bhw,South Halmahera-West New,Austronesian,Isolating,"(van den Heuvel 2006: 120, passim)",0,NA,NA,NA,biak1248,0,0
+Burmese [mya],Burmese,mya,Burmese-Lolo,Sino-Tibetan,Concatenative*,(Comrie 1985: 50f),0,NA,NA,NA,nucl1310,0,0
+"Cambodian (Khmer, Central) [khm]","Cambodian (Khmer, Central)",khm,Khmer,Austro-Asiatic,Isolating,(Huffman 1970: passim),0,NA,NA,NA,cent1989,0,0
+Chitimacha [ctm],Chitimacha,ctm,Chitimacha,Chitimacha,Concatenative,"(Swadesh 1946: 317, 322ff)",0,NA,NA,NA,chit1248,0,0
+Comanche [com],Comanche,com,Numic,Uto-Aztecan,Concatenative,(Charney 1989: passim),0,NA,NA,NA,coma1245,0,0
+Coos [csz],Coos,csz,Coosan,Oregon Coast,Concatenative*,"(Frachtenberg 1922a: 328ff, 343ff)",0,NA,NA,NA,coos1249,0,0
+"Diegueño, Jamul (Kumiai) [dih]","Diegueño, Jamul (Kumiai)",dih,Yuman,Hokan,Concatenative,"(Miller 1990: 119ff, passim)",0,NA,NA,NA,kumi1248,0,0
+"Dogon, Jamsay [djm]","Dogon, Jamsay",djm,Dogon,Dogon,Concatenative,(Heath 2005a: passim),0,NA,NA,NA,jams1239,0,0
+Fuyug [fuy],Fuyug,fuy,Goilalan,Trans-New Guinea,Concatenative,(Bradshaw 2007: 66ff),0,NA,NA,NA,fuyu1242,0,0
+Gade [ged],Gade,ged,Nupoid,Niger-Congo,Non-linear,(Sterk 1977: 164ff),0,NA,NA,NA,gade1242,0,0
+Golin [gvf],Golin,gvf,Chimbu,Trans-New Guinea,Concatenative,"(Evans et al. 2005: 38f, 45ff, passim)",0,NA,NA,NA,goli1247,0,0
+Guató [gta],Guató,gta,Guató,Macro-Ge,Concatenative,(Pimentel Palácio 1984: 60ff),0,NA,NA,NA,guat1253,0,0
+Gude [gde],Gude,gde,Biu-Mandara,Afro-Asiatic,Isolating,(Hoskison 1983: 82),0,NA,NA,NA,gude1246,0,0
+Hausa [hau],Hausa,hau,West Chadic,Afro-Asiatic,Isolating*,(Newman 2000: 564ff),0,NA,NA,NA,haus1257,0,0
+I’saka (Isaka) [ksi],I’saka (Isaka),ksi,Krisa,Skou,Isolating,(Donohue & San Roque 2002: passim),0,NA,NA,NA,kris1246,0,0
+Ika (Arhuaco ) [arh],Ika (Arhuaco ),arh,Aruak,Chibchan,Concatenative,(Frank 1985: 76ff),0,NA,NA,NA,arhu1242,0,0
+Jinghpo (Jingpho) [kac],Jinghpo (Jingpho),kac,Jinghpo,Sino-Tibetan,Isolating,(Qingxia & Diehl 2003: 406ff),0,NA,NA,NA,kach1280,0,0
+Ju|’hoan [ktz],Ju|’hoan,ktz,Ju-Kung,Kxa,Isolating,(Dickens n.y.: 5),0,NA,NA,NA,juho1239,0,0
+Kamasau [kms],Kamasau,kms,Marienberg,Torricelli,Isolating,"(Watters 1998: 191ff, 547)",0,NA,NA,NA,kama1367,0,0
+Kambera [xbr],Kambera,xbr,Central Malayo-Polynesian,Austronesian,Concatenative,(Klamer 1998: 317),0,NA,NA,NA,kamb1299,0,0
+"Kham (Kham, Western Parbate) [kjl]","Kham (Kham, Western Parbate)",kjl,Mahakiranti,Sino-Tibetan,Concatenative,"(Watters 1998: 191ff, 547)",0,NA,NA,NA,west2420,0,0
+Khmu’ (Khmu) [kjg],Khmu’ (Khmu),kjg,Palaung-Khmuic,Austro-Asiatic,Isolating,(Svantesson 1994: 266ff),0,NA,NA,NA,khmu1256,0,0
+Klamath (Klamath-Modoc) [kla],Klamath (Klamath-Modoc),kla,Klamath-Modoc,Penutian,Concatenative,(Underriner 2002: 13ff),0,NA,NA,NA,klam1254,0,0
+"Krumen, Tepo [ted]","Krumen, Tepo",ted,Kru,Niger-Congo,Non-linear,(Thalmann 1987: 390ff),0,NA,NA,NA,tepo1239,0,0
+Kwomtari [kwo],Kwomtari,kwo,Kwomtari,Kwomtari-Baibai,Concatenative,"(Honsberger et al. 2008: 14, 117f)",0,NA,NA,NA,nucl1593,0,0
+Lakhota (Lakota) [lkt],Lakhota (Lakota),lkt,Siouan,Siouan,Isolating/Concatenative*,(van Valin 1977: 4ff),0,NA,NA,NA,lako1247,0,0
+Lango [laj],Lango,laj,Nilotic,Eastern Sudanic,Non-linear*,(Noonan 1992: 136ff),0,NA,NA,NA,lang1324,0,0
+"Mandarin (Chinese, Mandarin) [cmn]","Mandarin (Chinese, Mandarin)",cmn,Chinese,Sino-Tibetan,Isolating/Concatenative*,(Li & Thompson 1981),0,NA,NA,NA,mand1415,0,0
+Mapudungun [arn],Mapudungun,arn,Araucanian,Araucanian,Concatenative*,"(Smeets 1989: 203ff, 306)",0,NA,NA,NA,mapu1245,0,0
+Maxakalí [mbl],Maxakalí,mbl,Maxakali,Macro-Ge,Isolating,(Pereira 1992: 70ff),0,NA,NA,NA,maxa1247,0,0
+Maybrat (Mai Brat) [ayz],Maybrat (Mai Brat),ayz,North-Central Bird’s Head,West Papuan,Concatenative*,(Dol 1999: passim),0,NA,NA,NA,maib1239,0,0
+Meithei (Meitei) [mni],Meithei (Meitei),mni,Kuki-Chin,Sino-Tibetan,Concatenative*,(Chelliah 1997),0,NA,NA,NA,mani1292,0,0
+"Mixtec, Chalcatongo (Mixtec, San Miguel el Grande) [mig]","Mixtec, Chalcatongo (Mixtec, San Miguel el Grande)",mig,Mixtecan,Oto-Manguean,Concatenative,"(Macaulay 1996: 45ff, 79ff)",0,NA,NA,NA,sanm1295,0,0
+Mocoví [moc],Mocoví,moc,South Guaicuruan,Guaicuruan,Concatenative,(Grondona 1998: 129),0,NA,NA,NA,moco1246,0,0
+Mon [mnw],Mon,mnw,Monic,Austro-Asiatic,Isolating,(Albaugh 2001),0,NA,NA,NA,monn1252,0,0
+Moskona [mtj],Moskona,mtj,East Bird’s Head,East Bird’s Head,Isolating/Concatenative,(Gravelle 2010: passim),0,NA,NA,NA,mosk1236,0,0
+Movima [mzp],Movima,mzp,Movima,Movima,Concatenative,"(Haude 2006: 13, 147ff, 158ff, 167ff, 510ff)",0,NA,NA,NA,movi1243,0,0
+Mualang [mtd],Mualang,mtd,Malayo-Sumbawan,Austronesian,Isolating,(Tjia 2007: 193),0,NA,NA,NA,mual1241,0,0
+Mundurukú [myu],Mundurukú,myu,Munduruku,Tupian,Isolating,"(Crofts 2004: 58, 294)",0,NA,NA,NA,mund1330,0,0
+Murle [mur],Murle,mur,Surmic,Nilo-Saharan,Concatenative,(Arensen 1982: 59ff),0,NA,NA,NA,murl1244,0,0
+"Nicobarese, Car [caq]","Nicobarese, Car",caq,Nicobarese,Austro-Asiatic,Concatenative,(Braine 1970: passim),0,NA,NA,NA,carn1240,0,0
+Olo [ong],Olo,ong,Wapei-Palei,Torricelli,Isolating,(Staley 2007: 29),0,NA,NA,NA,oloo1241,0,0
+Pacoh [pac],Pacoh,pac,Katuic,Austro-Asiatic,Isolating,"(Alves 2000: 305ff, passim)",0,NA,NA,NA,paco1243,0,0
+"Pame, Northern [pmq]","Pame, Northern",pmq,Pamean,Oto-Manguean,Concatenative,(Berthiaume 2003: 197ff),0,NA,NA,NA,nort2984,0,0
+Pirahã [myp],Pirahã,myp,Mura,Mura,Concatenative*,(Everett 2005: 631),0,NA,NA,NA,pira1253,0,0
+"Qiang (Qiang, Northern) [cng]","Qiang (Qiang, Northern)",cng,Qiangic,Sino-Tibetan,Concatenative,(LaPolla & Huang,0,NA,NA,NA,nort2722,0,0
+Rao [rao],Rao,rao,Annaberg,Lower Sepik-Ramu,Isolating,(Stanhope 1980: 10),0,NA,NA,NA,raoo1244,0,0
+Salinan [sln],Salinan,sln,Salinan,Salinan,Isolating,(Turner 1987: 155ff),0,NA,NA,NA,sali1253,0,0
+Sandawe [sad],Sandawe,sad,Sandawe,Khoisan,Concatenative,(Eaton 2010: 132ff),0,NA,NA,NA,sand1273,0,0
+Seediq (Taroko) [trv],Seediq (Taroko),trv,Atayalic,Austronesian,Isolating/Concatenative,(Tsukida 2000: 30),0,NA,NA,NA,taro1264,0,0
+Semelai [sza],Semelai,sza,Aslian,Austro-Asiatic,Concatenative,(Kruspe 2004: passim),0,NA,NA,NA,seme1247,0,0
+Shiriana (Ninam) [shb],Shiriana (Ninam),shb,Yanomam,Yanomam,Concatenative,(Gomez 1990: 93),0,NA,NA,NA,nina1238,0,0
+Skou [skv],Skou,skv,Western Skou,Skou,Concatenative/Non-linear,(Donohue 2004: 262ff),0,NA,NA,NA,nucl1634,0,0
+Taulil [tuh],Taulil,tuh,Taulil,Baining-Taulil,Isolating,(Laufer 1959: 207),0,NA,NA,NA,taul1251,0,0
+Ternate [tft],Ternate,tft,North Halmaheran,West Papuan,Isolating,(Hayami-Allen 2001: 58),0,NA,NA,NA,tern1247,0,0
+Thao [ssf],Thao,ssf,Western Plains Austronesian,Austronesian,Concatenative,(Wang 2004: 210),0,NA,NA,NA,thao1240,0,0
+Timucua [tjm],Timucua,tjm,Timucua,Timucua,Concatenative,(Granberry 1993: 88ff),0,NA,NA,NA,timu1245,0,0
+Tlingit [tli],Tlingit,tli,Tlingit,Na-Dene,Concatenative*,(Crippen 2008: 2),0,NA,NA,NA,tlin1245,0,0
+Trumai [tpy],Trumai,tpy,Trumai,Trumai,Isolating/Concatenative*,(Guirardello 1999: 98),0,NA,NA,NA,trum1247,0,0
+"Tzutujil (Tzutujil, Eastern) [tzj]","Tzutujil (Tzutujil, Eastern)",tzj,Mayan,Mayan,Concatenative,(Dayley 1981: 105ff),0,NA,NA,NA,tzut1248,0,0
+Urarina [ura],Urarina,ura,Urarina,Urarina,Concatenative,(Cunha de Oliveira 2005: 170f),0,NA,NA,NA,urar1246,0,0
+Urim [uri],Urim,uri,Urim,Torricelli,Isolating,"(Hemmilä & Luoma 1987: 21ff, 69)",0,NA,NA,NA,urim1252,0,0
+Yurok [yur],Yurok,yur,Yurok,Algic,Concatenative*,(Robins 1958: 32),0,NA,NA,NA,yuro1248,0,0
+"Asmat (Citak, Tamnim) [tml]","Asmat (Citak, Tamnim)",tml,Asmat-Kamoro,Trans-New Guinea,Concatenative*,(Voorhoeve 1965: 71ff),1,Past,2,optional,tamn1235,1,2
+Bao’an Tu (Bonan) [peh],Bao’an Tu (Bonan),peh,Mongolic,Altaic,Concatenative,(Fried 2010),1,Future,–,optional,bona1250,0,1
+Borôro [bor],Borôro,bor,Bororo,Macro-Ge,Isolating/Concatenative,(Crowell 1979: 87ff),1,Nonfuture,–,optional,boro1282,0,1
+"Chontal, Highland Oaxaca [chd]","Chontal, Highland Oaxaca",chd,Tequistlatecan,Tequistlatecan,Concatenative*,"(Turner 1966: 49, 60f)",1,Future,–,optional,high1242,0,1
+Esselen [esq],Esselen,esq,Esselen,Esselen,Concatenative,"(Shaul 1995: 217, passim)",1,Future,–,optional,esse1238,0,1
+"Greenlandic, West (Inuktitut,Greenlandic) [kal]","Greenlandic, West (Inuktitut,Greenlandic)",kal,Eskimo,Eskimo-Aleut,Concatenative*,(Fortescue 1984: 272ff),1,Future,–,optional,kala1399,0,1
+"Huave, San Francisco del Mar [hue]","Huave, San Francisco del Mar",hue,Huavean,Huavean,Concatenative,(Kim 2008: 273ff),1,Future,–,optional,sanf1258,0,1
+Jalonke (Yalunka) [yal],Jalonke (Yalunka),yal,Western Mande,Mande,Isolating,(Lüpke 2005: 118ff),1,Past,–,optional,yalu1240,0,1
+Javanese [jav],Javanese,jav,Javanese,Austronesian,Isolating,"(Dahl 1985: 161, Oglobin 2005: 607)",1,Future,–,optional,java1254,0,1
+Kanamarí [knm],Kanamarí,knm,Katukinan,Katukinan,Isolating/Concatenative,"(Gonçalves da Silva 2011: 183ff, Groth 1985)",1,Future,3,optional,kana1291,2,3
+"Koyra Chiini (Songhay, Koyra Chiini) [khq]","Koyra Chiini (Songhay, Koyra Chiini)",khq,Songhay,Songhay,Isolating*,"(Heath 1999: 156, 162)",1,Future,–,optional,koyr1240,0,1
+Krongo [kgo],Krongo,kgo,Kadugli,Kadu,Concatenative*,(Tucker & Bryan 1966: 309),1,Future,–,optional,kron1241,0,1
+Kunama [kun],Kunama,kun,Kunama,Kunama,Concatenative*,(Böhm 1984: 39ff),1,Future,–,optional,kuna1268,0,1
+Kuteb (Kutep) [kub],Kuteb (Kutep),kub,Platoid,Niger-Congo,Isolating,(Koops 2007: 222ff),1,Future,–,optional,kute1248,0,1
+"Mixe, Ayutla","Mixe, Ayutla",mxp,Mixe-Zoque,Mixe-Zoque,Isolating/Concatenative,"(Romero-Méndez 2008: 237, 303ff)",1,Past,–,optional,tlah1239,0,1
+Mosetén (Tsimané) [cas],Mosetén (Tsimané),cas,Mosetenan,Mosetenan,Isolating/Concatenative,"(Sakel 2004: 258, 363ff)",1,Past,–,optional,mose1249,0,1
+Navajo [nav],Navajo,nav,Athapaskan,Na-Dene,Concatenative*,"(Hoijer 1967: 93, Smith & Perkins 2003)",1,Future,–,optional,nava1243,0,1
+Nii [nii],Nii,nii,Wahgi,Trans-New Guinea,Concatenative,"(Stucky & Stucky: 13f, 80, 86)",1,Future,2,optional,niii1240,1,2
+Nisgha (Nisga’a) [ncg],Nisgha (Nisga’a),ncg,Tsimshianic,Penutian,Concatenative,(Tarpent 1989: passim),1,Future,–,optional,nisg1240,0,1
+Oneida [one],Oneida,one,Northern Iroquoian,Iroquoian,Concatenative*,(Dahl 1985: 173),1,Future,–,optional,onei1249,0,1
+Spokane [spo],Spokane,spo,Interior Salish,Salishan,Isolating/Concatenative,(Carlson 1972: 48ff),1,Future,–,optional,spok1245,0,1
+Takelma [tkm],Takelma,tkm,Takelma,Takelma,Non-linear,(Sapir 1922b: 94ff),1,Future,–,optional,take1257,0,1
+Taushiro [trr],Taushiro,trr,Taushiro,Taushiro,Concatenative,"(Turner 1966: 49, 60f)",1,Future,–,optional,taus1253,0,1
+Thai [tha],Thai,tha,Kam-Tai,Tai-Kadai,Isolating/Concatenative*,"(Dahl 1985: 174, Hudak. 1990)",1,Future,–,optional,thai1261,0,1
+"Towa, Jemez (Jemez) [tow]","Towa, Jemez (Jemez)",tow,Kiowa Tanoan,Kiowa Tanoan,Concatenative,"(Yumitani 1998: 146, 193f, 230)",1,Future,–,optional,jeme1245,0,1
+"Zapotec, Isthmus [zai]","Zapotec, Isthmus",zai,Zapotecan,Oto-Manguean,Concatenative,(Pickett & Black 2001: 51ff),1,Future,–,optional,isth1244,0,1
+Anindilyakwa [aoi],Anindilyakwa,aoi,Anindilyakwa,Australian,Concatenative,(Leeding 1989: 437ff),2,Past / Nonpast,–,optional,anin1240,0,2
+Apurinã [apu],Apurinã,apu,Purus,Arawakan,Concatenative*,(Facundes,2,Future /,–,obligatory,apur1254,0,2
+"Aymara (Aymaran, Central) [ayr]","Aymara (Aymaran, Central)",ayr,Aymaran,Aymaran,Concatenative*,"(Hardman et al. 2001: 87, 138ff)",2,Future / Nonfuture,–,obligatory,cent2142,0,2
+Barasano (Barasana-Eduria) [bsn],Barasano (Barasana-Eduria),bsn,Tucanoan,Tucanoan,Concatenative*,(Jones & Jones 1991: 37),2,Past / Nonpast,n,optional,bara1380,0,2
+Betoi [-],Betoi,-,Betoi,Betoi,Concatenative,(Zamponi 2002: 221ff),2,Past / Future,–,optional,beto1236,0,2
+Blackfoot [bla],Blackfoot,bla,Algonquian,Algic,Concatenative,(Frantz 1997: 31–6),2,Past / Future,–,optional,siks1238,0,2
+Bora [boa],Bora,boa,Boran,Huitotan,Concatenative/Non-linear,(Thiesen 1996: 64),2,Future / Nonfuture,–,obligatory,bora1263,0,2
+Brahui [brh],Brahui,brh,Northern Dravidian,Dravidian,Concatenative*,(Andronov 1980: 56ff),2,Past / Nonpast,–,obligatory,brah1256,0,2
+Chamorro [cha],Chamorro,cha,Chamorro,Austronesian,Isolating/ Concatenative*,(Topping 1973: 261ff),2,Future / Nonfuture,–,obligatory,cham1312,0,2
+Chinook (Wasco- Wishram) [wac],Chinook (Wasco- Wishram),wac,Chinookan,Penutian,Concatenative*,(Boas 1893: 62),2,Present / Future,n,NA,wasc1239,0,2
+Chukchi [ckt],Chukchi,ckt,Northern Chukotko- Kamchatkan,Chukotko- Kamchatkan,Concatenative*,(Muravyova 1998: 531ff),2,Future / Nonfuture,–,obligatory,chuk1273,0,2
+Engenni [enn],Engenni,enn,Edoid,Niger-Congo,Non-linear,(Thomas 1978: 70ff),2,Future / Nonfuture,n,optional,enge1239,0,2
+Finnish [fin],Finnish,fin,Finnic,Uralic,Concatenative*,"(Sulkala & Karjalainen 1992: 298ff, pas- sim)",2,Present / Past,n,obligatory,finn1318,0,2
+Gavião do Jiparaná [gvo],Gavião do Jiparaná,gvo,Monde,Tupian,Concatenative,"(Moore 1984: 68, passim)",2,Past / Nonpast,n,optional,gavi1246,0,2
+Gumuz [guk],Gumuz,guk,Gumuz,Nilo-Saharan,Concatenative,(Bender 1979: 48),2,Future / Nonfuture,n,obligatory,gumu1244,0,2
+Hopi [hop],Hopi,hop,Hopi,Uto-Aztecan,Concatenative,"(Jeanne 1978: 163ff, 172)",2,Future / Nonfuture,n,obligatory,hopi1249,0,2
+Hup (Hupdë) [jup],Hup (Hupdë),jup,Nadahup,Nadahup,Concatenative,(Epps 2005: 488),2,Future / Nonfuture,–,optional,hupd1244,0,2
+Ilocano [ilo],Ilocano,ilo,Northern Luzuon,Austronesian,Concatenative,(Rubino 1997: 276ff),2,Past / Future,–,optional,ilok1237,0,2
+Iraqw [irk],Iraqw,irk,Southern Cushitic,Afro-Asiatic,Concatenative/Non- linear,(Mous 1993: 151ff),2,Present / Past,–,obligatory,iraq1241,0,2
+Izi (Izi-Ezaa- Ikwo-Mgbo) [izi],Izi (Izi-Ezaa- Ikwo-Mgbo),izi,Igboid,Niger-Congo,Concatenative/Non- linear,"(Meier et al. 1975: 191, passim)",2,Future / Nonfuture,n,obligatory,izie1238,0,2
+Japanese [jpn],Japanese,jpn,Japanese,Japanese,Concatenative*,(Kaiser et al. 2001),2,Past / Nonpast,–,optional,nucl1643,0,2
+"Jiarong, Caodeng [jya]","Jiarong, Caodeng",jya,rGyarong,Sino-Tibetan,Concatenative,(Sun 2003: 496),2,Past / Nonpast,n,obligatory,jiar1240,0,2
+Kannada [kan],Kannada,kan,Southern Dravidian,Dravidian,Concatenative*,(Sridhar 1990: 219ff),2,Past / Nonpast,–,obligatory,nucl1305,0,2
+"Kanuri (Kanuri, Central) [knc]","Kanuri (Kanuri, Central)",knc,Western Saharan,Saharan,Concatenative,"(Hutchinson 1976: 48f, 51f)",2,Past / Future,n,obligatory,cent2050,0,2
+Karitiâna [ktn],Karitiâna,ktn,Arikem,Tupian,Concatenative,(Everett 2006: 265),2,Future / Nonfuture,n,obligatory,kari1311,0,2
+"Keresan, Santa Ana (Keres, Eastern) [kee]","Keresan, Santa Ana (Keres, Eastern)",kee,Keresan,Keresan,Concatenative,(Davis 1960: 27),2,Future / Nonfuture,–,obligatory,east1472,0,2
+"Kisi (Kissi, Northern) [kqs]","Kisi (Kissi, Northern)",kqs,Mel,Niger-Congo,Non-linear*,(Childs 1988: 218ff),2,Present / Past,–,NA,nort2765,0,2
+Koasati [cku],Koasati,cku,Muskogean,Muskogean,Concatenative*,(Kimball 1985: 180ff),2,Present / Past,Past: 4,optional,koas1236,3,5
+"Kolami (Kolami, Northwestern) [kfb]","Kolami (Kolami, Northwestern)",kfb,Central Dravidian,Dravidian,Concatenative,(McNair & McNair 1973: 156ff),2,Past / Nonpast,–,obligatory,nort2699,0,2
+Korean [kor],Korean,kor,Korean,Korean,Concatenative*,"(Sohn 2001: 362ff, passim)",2,Past / Nonpast,–,optional,kore1280,0,2
+Kuot [kto],Kuot,kto,Kuot,Kuot,Isolating/Non-linear,(Lindström 2002: 14),2,Future / Nonfuture,Future: 2,optional,kuot1243,1,3
+Kuuk Thaayorre (Thayore) [thd],Kuuk Thaayorre (Thayore),thd,Pama-Nyungan,Australian,Concatenative,(Gaby 2006: 353ff),2,Past / Nonpast,–,obligatory,thay1249,0,2
+Kuvi [kxv],Kuvi,kxv,South-Central Dravidian,Dravidian,Concatenative,(Israel 1979: 156ff),2,Past / Nonpast,–,obligatory,kuvi1243,0,2
+Lavukaleve [lvk],Lavukaleve,lvk,Lavukaleve,Solomons East Papuan,Concatenative*,(Terrill 1999: 295),2,Present / Future,n,optional,lavu1241,0,2
+Lepcha [lep],Lepcha,lep,Lepcha,Sino-Tibetan,Concatenative,"(Plaisier 2006: 111, 113)",2,Past / Nonpast,n,optional,lepc1244,0,2
+Logba [lgq],Logba,lgq,Kwa,Niger-Congo,Concatenative/Non- linear,(Dorvlo 2008: 140ff),2,Past / Future,n,optional,logb1245,0,2
+Macaguán [mbn],Macaguán,mbn,Guahiban,Guahiban,Concatenative/Non- linear,(Buenaventura et al. 1993: 41ff),2,Future / Nonfuture,–,obligatory,maca1259,0,2
+"Manobo, Western Bukidnon [mbb]","Manobo, Western Bukidnon",mbb,Greater Central Philippines,Austronesian,Isolating/ Concatenative,(Elkins 1970: 49ff),2,Past / Nonpast,–,optional,west2555,0,2
+"Mari, Hill [mrj]","Mari, Hill",mrj,Mari,Uralic,Concatenative,(Alhoniemi 1993: 114ff),2,Past / Nonpast,n,obligatory,west2392,0,2
+"Miwok, Lake [lmw]","Miwok, Lake",lmw,Miwok,Penutian,Concatenative,"(Callaghan 1963: 223, passim, Callaghan 1984)",2,Past / Future,n,optional,lake1258,0,2
+Mona (Mwan) [moa],Mona (Mwan),moa,Eastern Mande,Niger-Congo,Concatenative,(Fleming 1995: 37ff),2,Present / Past,n,obligatory,mwan1250,0,2
+Namia [nnm],Namia,nnm,Yellow River,Sepik,Concatenative,(Feldpausch & Feldpausch 1992: 38),2,Future / Nonfuture,n,obligatory,nami1256,0,2
+"Nubian, Kunuz (Kenuzi-Dongola) [kzh]","Nubian, Kunuz (Kenuzi-Dongola)",kzh,Nubian,Nilo-Saharan,Concatenative,(Abdel-Hafiz 1988: 130ff),2,Past / Future,n,obligatory,kenu1236,0,2
+Orig (Tegali) [ras],Orig (Tegali),ras,Rashad,Niger-Congo,Non-linear,(Schadeberg & Elias 1979: 49ff),2,Present / Past,n,obligatory,tega1236,0,2
+"Oromo, Harar (Oromo, Eastern) [hae]","Oromo, Harar (Oromo, Eastern)",hae,Lowland East Cushitic,Afro-Asiatic,Concatenative*,"(Owens 1985: 67ff, pas- sim)",2,Present / Past,–,optional,east2652,0,2
+Qawasqar [alc],Qawasqar,alc,Alacalufan,Alacalufan,Isolating/ Concatenative,"(Clairis 1985: 455ff, 468f)",2,Past / Future,–,optional,qawa1238,0,2
+Rama [rma],Rama,rma,Rama,Chibchan,Concatenative*,(Grinevald 1990: 144ff),2,Present / Past,–,obligatory,rama1270,0,2
+Rikbáktsa (Rikbaktsa) [rkb],Rikbáktsa (Rikbaktsa),rkb,Rikbaktsa,Macro-Ge,Concatenative,(Silva 2005: 57ff),2,Past / Nonpast,–,obligatory,rikb1245,0,2
+Sateré-Mawé [mav],Sateré-Mawé,mav,Mawe-Satere,Tupian,Isolating,(Pereira da Silva 2010: 135),2,Future / Nonfuture,n,obligatory,sate1243,0,2
+Selayar [sly],Selayar,sly,South Sulawesi,Austronesian,Concatenative,"(Basri 1999: 41, passim)",2,Future / Nonfuture,–,obligatory,sela1260,0,2
+Selknam (Ona) [ona],Selknam (Ona),ona,Chon Proper,Chon,Isolating,(Najlis 1973: 11ff),2,Present / Past,Past: 2,obligatory,onaa1245,1,3
+Shasta [sht],Shasta,sht,Shasta,Hokan,Concatenative,"(Silver 1966: 115, 127f)",2,Present / Past,Past: 2,optional,shas1239,1,3
+Tamashek (Tamasheq) [taq],Tamashek (Tamasheq),taq,Berber,Afro-Asiatic,Concatenative/Non- linear,(Heath 2005b: 299ff),2,Past / Future,–,optional,tama1365,0,2
+Ticuna [tca],Ticuna,tca,Ticuna,Ticuna,Isolating,"(Anderson 1962: 2, 18)",2,Future / Nonfuture,n,optional,ticu1245,0,2
+Urningangk (Urningangg) [urc],Urningangk (Urningangg),urc,Giimbiyu,Australian,Concatenative,(Campbell 2006: 90),2,Future / Nonfuture,–,obligatory,urni1239,0,2
+Wappo [wao],Wappo,wao,Wappo,Wappo-Yukuan,Concatenative,(Thompson et al. 2006: 32ff),2,Past / Future,n,obligatory,wapp1239,0,2
+Wari’ (Pakaásnovos) [pav],Wari’ (Pakaásnovos),pav,Chapacura- Wanham,Chapacura- Wanham,Isolating*,(Everett & Kern 1997: 310ff),2,Future / Nonfuture,–,optional,wari1268,0,2
+Warray (Waray) [wrz],Warray (Waray),wrz,Waray,Australian,Concatenative,(Harvey [not later than] 1999: 98ff),2,Past / Nonpast,–,obligatory,wara1290,0,2
+Wichí Lhamtés Vejoz [wlv],Wichí Lhamtés Vejoz,wlv,Matacoan,Matacoan,Concatenative,(Terraza 2009: 161ff),2,Past / Future,Past: 6,optional,wich1263,5,7
+Yala [yba],Yala,yba,Idomoid,Niger-Congo,Concatenative,(Oko 1986),2,Future / Nonfuture,n,obligatory,yala1263,0,2
+Yapese [yap],Yapese,yap,Yapese,Austronesian,Concatenative,(Hsu 1969: 141ff),2,Future / Nonfuture,–,obligatory,yape1248,0,2
+Yoruba [yor],Yoruba,yor,Defoid,Niger-Congo,Isolating/Non-linear*,(Bamgbosṣe 1966: 90ff; {Bode 2000 #3018; 132}),2,Future / Nonfuture,–,obligatory,yoru1245,0,2
+"Yukaghir, Kolyma (Yukaghir, Southern) [yux]","Yukaghir, Kolyma (Yukaghir, Southern)",yux,Yukaghir,Yukaghir,Concatenative,(Maslova 2003: 166ff),2,Future / Nonfuture,n,obligatory,sout2750,0,2
+Yuracare [yuz],Yuracare,yuz,Yuracare,Yuracare,Concatenative,(van Gijn 2006: 181ff),2,Post / Nonpost,n,optional,yura1255,0,2
+Aklan (Inakeanon) [akl],Aklan (Inakeanon),akl,Greater Central Philippine,Austronesian,Concatenative,(Chai 1971: 117f),3,Present / Past / Future,–,optional,akla1240,0,3
+Akoye [miw],Akoye,miw,Angan,Trans-New Guinea,Concatenative,(Whitney & Whitney 1991: 30ff),3,Present / Past / Future,Past: 3 / Future: 2,obligatory,akoy1238,3,6
+Alawa [alh],Alawa,alh,Maran,Australian,Concatenative,"(Dahl 1985: 159, Sharpe. 1972)",3,Present / Past / Future,–,obligatory,alaw1244,0,3
+"Albanian (Albanian, Tosk) [als]","Albanian (Albanian, Tosk)",als,Albanian,Indo-European,Concatenative,(Newmark et al. 1982: 35f),3,Present / Past / Future,–,obligatory,tosk1239,0,3
+Ama [amm],Ama,amm,Left May,Left May,Concatenative,(Årsjö 1999: 50),3,Present / Past / Future,Past: 3,obligatory,amap1240,2,5
+Amanab [amn],Amanab,amn,Border,Border,Concatenative,(Minch 1992: 110ff),3,Present / Past / Future,Past: 2,obligatory,aman1265,1,4
+Amarakaeri [amr],Amarakaeri,amr,Harakmbet,Harakmbet,Concatenative,"(Campbell 1976: 18, passim)",3,Present / Past / Future,Past: 2,obligatory,amar1274,1,4
+Ambulas [abt],Ambulas,abt,Middle Sepik,Sepik,Concatenative,(Wilson 1980: 67–8),3,Present / Past / Future,–,obligatory,ambu1247,0,3
+Anggor (Angor) [agg],Anggor (Angor),agg,Senagi,Senagi,Concatenative,(Litteral 1980: 69),3,Present / Past / Future,–,obligatory,ango1254,0,3
+Anong (Nung) [nun],Anong (Nung),nun,Nungish,Sino-Tibetan,Concatenative/ Non-linear,(Sun & Liu 2009: 80ff),3,Present / Past / Future,–,obligatory,nung1282,0,3
+Arabela [arl],Arabela,arl,Zaparoan,Zaparoan,Concatenative,(Wise n.y.: 61),3,Present / Past / Future,Past: 3,obligatory,arab1268,2,5
+Atakapa [aqp],Atakapa,aqp,Atakapa,Atakapa,Concatenative*,(Swanton 1929: 131),3,Present / Past / Future,–,obligatory,atak1252,0,3
+Awa Pit (Awa- Cuaiquer) [kwi],Awa Pit (Awa- Cuaiquer),kwi,Barbacoan,Barbacoan,Concatenative*,(Curnow 1997: 176),3,Present / Past / Future,–,obligatory,awac1239,0,3
+Awara [awx],Awara,awx,Finisterre-Huon,Trans-New Guinea,Concatenative,(Quigley 2002: 69),3,Present / Past / Future,–,obligatory,awar1248,0,3
+Awngi [awn],Awngi,awn,Central Cushitic,Afro-Asiatic,NA,"(Bybee et al. 1994: 82, 248 citing Hetzron 1969: 12ff)",3,Present / Past / Future,–,NA,awng1244,0,3
+Bardi [bcj],Bardi,bcj,Nyulnyulan,Australian,Concatenative,(Bowern 2004: 210ff),3,Present / Past / Future,–,obligatory,bard1255,0,3
+Basque [eus],Basque,eus,Basque,Basque,Concatenative*,(Hualde & Ortiz de Urbina 2003: 249ff),3,Present / Past / Future,–,obligatory,basq1248,0,3
+Beja (Bedawiyet) [bej],Beja (Bedawiyet),bej,Beja,Afro-Asiatic,Concatenative/ Non-linear*,(Wedekind et al. 2008),3,Present / Past / Future,–,obligatory,beja1238,0,3
+Berik [bkl],Berik,bkl,Tor,Tor-Orya,Concatenative,(Westrum 1988: 150ff),3,Present / Past / Future,–,obligatory,beri1254,0,3
+Burushaski [bsk],Burushaski,bsk,Burushaski,Burushaski,Concatenative*,(Munshi 2006),3,Present / Past / Future,–,obligatory,buru1296,0,3
+Buwandik (Bunganditj) [-],Buwandik (Bunganditj),-,Bungandidj,Australian,Concatenative,(Blake 2003: 57ff),3,Present / Past / Future,Past: 2,obligatory,bung1264,1,4
+"Chehalis, Upper [cjh]","Chehalis, Upper",cjh,Tsamosan,Salishan,Concatenative,(Kinkade 1963: 63ff),3,Present / Past / Future,–,obligatory,uppe1439,0,3
+Cherokee [chr],Cherokee,chr,Southern Iroquoian,Iroquoian,Concatenative,(King 1975: 71ff),3,Present / Past / Future,–,obligatory,cher1273,0,3
+Chichimeco (Chichimeca-Jonaz) [pei],Chichimeco (Chichimeca-Jonaz),pei,Chichimec,Oto-Manguean,Concatenative/ Non-linear,(Angulo 1933: 164ff),3,Present / Past / Future,Past: 3,obligatory,chic1272,2,5
+Chimariko [cid],Chimariko,cid,Chimariko,Hokan,Concatenative,(Jany 2009: 103ff),3,Present / Past / Future,–,obligatory,chim1301,0,3
+Chipaya [cap],Chipaya,cap,Uru-Chipaya,Uru-Chipaya,Concatenative,(Cerrón-Palomino 2006: 147ff),3,Present / Past / Future,–,obligatory,chip1262,0,3
+"Cora (Cora, El Nayar) [crn]","Cora (Cora, El Nayar)",crn,Corachol,Uto-Aztecan,Concatenative,(Casad 1984: 358ff),3,Present / Past / Future,Past: 2,obligatory,elna1235,1,4
+"Cuna (Kuna, San Blas) [cuk]","Cuna (Kuna, San Blas)",cuk,Kuna,Chibchan,Concatenative,(Holmer 1946: 192ff),3,Present / Past / Future,–,obligatory,sanb1242,0,3
+Cupeño [cup],Cupeño,cup,Takic,Uto-Aztecan,Concatenative,(Hill 2005: 116),3,Present / Past / Future,Future: 2,obligatory,cupe1243,1,4
+Daga [dgz],Daga,dgz,Dagan,Dagan,Concatenative*,"(Murane 1974: 49ff, 52ff, 58ff)",3,Present / Past / Future,–,obligatory,daga1275,0,3
+"Dani, Lower Grand Valley [dni]","Dani, Lower Grand Valley",dni,Dani,Trans-New Guinea,Concatenative*,(Bromley 1972: 28),3,Present / Past / Future,Future: 2,obligatory,lowe1415,1,4
+Dime [dim],Dime,dim,South Omotic,Afro-Asiatic,Concatenative,"(Seyoum 2008: 121ff, 128, 134, 136)",3,Present / Past / Future,Past: 2,obligatory,dime1235,1,4
+Duna [duc],Duna,duc,Duna,Trans-New Guinea,Isolating/ Concatenative,(Cochrane & Cochrane 1966: 17),3,Present / Past / Future,–,obligatory,duna1248,0,3
+East Dangla (Dangaléat) [daa],East Dangla (Dangaléat),daa,East Chadic,Afro-Asiatic,Concatenative/ Non-linear,(Shay 1999: 193–216),3,Present / Past / Future,–,obligatory,dang1274,0,3
+Enenlhet (Toba- Maskoy) [tmf],Enenlhet (Toba- Maskoy),tmf,Mascoian,Mascoian,Isolating,"(Unruh et al. 2003: 30, 284ff)",3,Present / Past / Future,Past: 2,obligatory,toba1268,1,4
+Epena Pedee (Epena) [sja],Epena Pedee (Epena),sja,Choco,Choco,Concatenative*,(Harms 1994: 97ff),3,Present / Past / Future,–,obligatory,epen1239,0,3
+Eton [eto],Eton,eto,Bantoid,Niger-Congo,Concatenative/ Non-linear,(van de Velde 2008: 231ff),3,Present / Past / Future,Past: 3,obligatory,eton1253,2,5
+Eudeve (Opata) [opt],Eudeve (Opata),opt,Cahita,Uto-Aztecan,Concatenative,(Shaul 1991: 82f),3,Present / Past / Future,–,obligatory,opat1246,0,3
+Evenki [evn],Evenki,evn,Tungusic,Altaic,Concatenative*,(Nedjalkov 1997: 235ff),3,Present / Past / Future,–,obligatory,even1259,0,3
+Fasu [faa],Fasu,faa,Fasu,Trans-New Guinea,Concatenative,"(Loeweke & May: 66f, passim)",3,Present / Past / Future,–,optional,fasu1242,0,3
+Fur [fvr],Fur,fvr,Fur,Fur,Concatenative/ Non-linear,"(Jakobi 1990: 94, 101ff, 115, 129)",3,Present / Past / Future,–,obligatory,furr1244,0,3
+Gaagudju (Gagadu) [gbu],Gaagudju (Gagadu),gbu,Gaagudju,Australian,Concatenative,(Harvey 1992: 209),3,Present / Past / Future,–,obligatory,gaga1251,0,3
+Gaahmg (Gaam) [tbi],Gaahmg (Gaam),tbi,Eastern Jebel,Eastern Sudanic,Concatenative/ Non-linear,"(Stirtz 2011: 20, 53, 173ff)",3,Past / Future / Nonpast,–,obligatory,gaam1241,0,3
+Garo [grt],Garo,grt,Bodo-Garo,Sino-Tibetan,Concatenative*,(Burling 2003: 390),3,Present / Past / Future,Future: 2,obligatory,garo1247,1,4
+Georgian [kat],Georgian,kat,Kartvelian,Kartvelian,Concatenative*,"(Dahl 1985: 164, Aronson 1990: 40ff)",3,Present / Past / Future,–,obligatory,nucl1302,0,3
+Gimira (Bench) [bcq],Gimira (Bench),bcq,North Omotic,Afro-Asiatic,Concatenative/ Non-linear,(Breeze 1990: 29),3,Present / Past / Future,–,obligatory,benc1235,0,3
+Gooniyandi [gni],Gooniyandi,gni,Bunuban,Australian,Concatenative*,(McGregor 1990: 215),3,Present / Past / Future,–,obligatory,goon1238,0,3
+Greek [ell],Greek,ell,Greek,Indo-European,Concatenative*,(Ruge 1984: 55ff),3,Present / Past / Future,–,obligatory,mode1248,0,3
+Gundangara [-],Gundangara,-,Anson Bay,Australian,Concatenative,(Mathews 1901: 145ff),3,Present / Past / Future,–,obligatory,gund1248,0,3
+"Haida, Skidegate (Haida, Southern) [hax]","Haida, Skidegate (Haida, Southern)",hax,Haida,Haida,Concatenative*,"(Levine 1977: 106, 115ff)",3,Past / Future / Nonfuture,–,obligatory,sout2956,0,3
+Halkomelem [hur],Halkomelem,hur,Central Salish,Salishan,Concatenative,(Galloway 1977: 296ff),3,Present / Past / Future,–,obligatory,halk1245,0,3
+"Hebrew, Modern [heb]","Hebrew, Modern",heb,Semitic,Afro-Asiatic,Concatenative/ Non-linear*,(Glinert 2004: 121ff),3,Present / Past / Future,–,obligatory,hebr1245,0,3
+Hindi [hin],Hindi,hin,Indic,Indo-European,Concatenative*,"(Dahl 1985: 168, Kachru 1990)",3,Present / Past / Future,–,obligatory,hind1269,0,3
+"Hmong Dâw (Miao, White) [mww]","Hmong Dâw (Miao, White)",mww,Hmong-Mien,Hmong-Mien,Isolating,(Mottin 1978: 84ff),3,Present / Past / Future,Past: 2,optional,hmon1333,1,4
+Hungarian [hun],Hungarian,hun,Ugric,Uralic,Concatenative*,(Kenesei et al. 1998: 289ff),3,Present / Past / Future,–,obligatory,hung1274,0,3
+Hurrian [-],Hurrian,-,Hurrian,Hurro-Urartian,Concatenative,(Bush 1964: 188ff),3,Present / Past / Future,–,obligatory,hurr1240,0,3
+Ibibio [ibb],Ibibio,ibb,Cross River,Niger-Congo,Concatenative/ Non-linear,(Kaufman 1968: 199),3,Present / Past / Future,–,obligatory,ibib1240,0,3
+Ik [ikx],Ik,ikx,Kuliak,Eastern Sudanic,Concatenative,"(Tucker 1971, 1972, 1973: passim)",3,Present / Past / Future,–,obligatory,ikkk1242,0,3
+Ineseño [inz],Ineseño,inz,Chumash,Chumash,Concatenative,(Applegate 1971: 291ff),3,Present / Past / Future,–,optional,ines1240,0,3
+Ingush [inh],Ingush,inh,Nakh,Nakh- Daghestanian,Concatenative*,(Nichols 2011: 243ff),3,Present / Past / Future,–,obligatory,ingu1240,0,3
+Italian [ita],Italian,ita,Romance,Indo-European,Concatenative,(personal knowledge),3,Present / Past / Future,–,obligatory,ital1282,0,3
+Iwam [iwm],Iwam,iwm,Upper Sepik,Sepik,Concatenative,(Conrad 1976: 9),3,Present / Past / Future,–,obligatory,iwam1256,0,3
+Jabutí [jbt],Jabutí,jbt,Jabutí,Jabutí,Concatenative,"(Nascimento Pires 1992: 78, passim)",3,Present / Past / Future,–,obligatory,djeo1235,0,3
+Jaminjung (Djamindjung) [djd],Jaminjung (Djamindjung),djd,Jaminjungan,Australian,Concatenative,(Schultze-Berndt 2000),3,Present / Past / Future,–,obligatory,djam1255,0,3
+Jarawara (Jamamadí) [jaa],Jarawara (Jamamadí),jaa,Arauan,Arauan,Concatenative,"(Vogel 2006: 34, Dixon 2003: 168, 174)",3,Present / Past / Future,Past: 3,obligatory,jama1261,2,5
+Javaé (Karajá) [kpj],Javaé (Karajá),kpj,Karaja,Macro-Ge,Concatenative,(Maia 1998: passim),3,Present / Past / Future,–,obligatory,kara1500,0,3
+Jivaro (Shuar) [jiv],Jivaro (Shuar),jiv,Jivaroan,Jivaroan,Concatenative,"(Turner 1958: 64, 89, 93f)",3,Present / Past / Future,Past: 2,obligatory,shua1257,1,4
+Juang [jun],Juang,jun,Munda,Austro-Asiatic,Concatenative,(Matson 1964: 28),3,Present / Past / Future,–,obligatory,juan1238,0,3
+Kabardian [kbd],Kabardian,kbd,Northwest Caucasian,Northwest Caucasian,Concatenative,(Colarusso 1992: 124),3,Present / Past / Future,–,obligatory,kaba1278,0,3
+Kaluli [bco],Kaluli,bco,Bosavi,Bosavi,Concatenative,(Grosh & Grosh 2004: 16ff),3,Present / Past / Future,–,obligatory,kalu1248,0,3
+Kamano [kbq],Kamano,kbq,Eastern Highlands,Trans-New Guinea,Concatenative,(Payne & Drew 2009 [1970]: 43ff),3,Present / Past / Future,–,optional,kama1370,0,3
+Kanoé [kxo],Kanoé,kxo,Kapixana,Kapixana,Concatenative,(Bacelar 2004: 220f),3,Present / Past / Future,–,obligatory,kano1245,0,3
+Kapampangan (Pampangan) [pam],Kapampangan (Pampangan),pam,Central Luzon,Austronesian,Concatenative/ Non-linear,(Mirikitani 1972: 65ff),3,Present / Past / Future,–,obligatory,pamp1243,0,3
+"Karaboro (Karaboro, Western) [kza]","Karaboro (Karaboro, Western)",kza,Gur,Niger-Congo,NA,(Dahl 1985: 176),3,Present / Past / Future,–,NA,west2466,0,3
+Karkar-Yuri [yuj],Karkar-Yuri,yuj,Karkar-Yuri,Karkar-Yuri,Concatenative,(Rigden 1986: pas- sim),3,Present / Past / Future,–,optional,kark1258,0,3
+Karok [kyh],Karok,kyh,Karok,Karok,Concatenative*,(Kroeber 1911: 432),3,Present / Past / Future,–,obligatory,karo1304,0,3
+Kayardild [gyd],Kayardild,gyd,Tangkic,Australian,Concatenative*,"(Evans 1995: 258, 402)",3,Present / Past / Future,–,obligatory,kaya1319,0,3
+Khasi [kha],Khasi,kha,Khasian,Austro-Asiatic,Isolating*,"(Roberts 1995: 55ff, 59ff)",3,Present / Past / Future,Future: 2,obligatory,khas1269,1,4
+Khwarshi (Khvarshi) [khv],Khwarshi (Khvarshi),khv,Avar-Andic-Tsezic,Nakh- Daghestanian,Concatenative,"(Khalilova 2009: 183, 184f, 188, passim)",3,Present / Past / Future,–,obligatory,khva1239,0,3
+Kusunda [kgg],Kusunda,kgg,Kusunda,Kusunda,Concatenative,(Watters 2006: 66f),3,Present / Past / Future,–,optional,kusu1250,0,3
+Lak [lbe],Lak,lbe,Lak-Dargwa,Nakh- Daghestanian,Concatenative,(Schulze 2007: 7),3,Present / Past / Future,–,obligatory,lakk1252,0,3
+Latvian [lav],Latvian,lav,Baltic,Indo-European,Concatenative,(Viksnins 1992: 130ff),3,Present / Past / Future,–,obligatory,latv1249,0,3
+Lembena [leq],Lembena,leq,Engan,Trans-New Guinea,Concatenative,(Heineman 1998: 24ff),3,Present / Past / Future,Past: 3,obligatory,lemb1266,2,5
+Lezgian (Lezgi) [lez],Lezgian (Lezgi),lez,Lezgic,Nakh- Daghestanian,Concatenative*,"(Haspelmath 1993: 136, 140ff, 146)",3,Present / Past / Future,–,obligatory,lezg1247,0,3
+Logo [log],Logo,log,Moru-Ma’di,Nilo-Saharan,Isolating,"(Wright 1995: 52ff, 55, 70ff)",3,Simltaneous / Anterior / Posterior,–,optional,logo1259,0,3
+"Malagasy (Malagasy, Plateau) [plt]","Malagasy (Malagasy, Plateau)",plt,Barito,Austronesian,Concatenative*,(Keenan & Polinsky 1998: passim),3,Present / Past / Future,–,obligatory,plat1254,0,3
+Mamaindé [wmd],Mamaindé,wmd,Nambiquaran,Nambiquaran,Concatenative,"(Eberhard 2009: 380ff, 394, 432, 445ff)",3,Present / Past / Future,Past: 3,obligatory,mama1278,2,5
+Matsés [mcf],Matsés,mcf,Panoan,Panoan,Concatenative,"(Fleck 2003: 395ff, 431)",3,Past / Future / Nonpast,Past: 3,obligatory,mats1244,2,5
+Maung [mph],Maung,mph,Iwaidjan,Australian,Concatenative*,"(Capell & Hinch 1970: 67ff, 73ff, 78ff)",3,Present / Past / Future,–,obligatory,maun1240,0,3
+Mauwake [mhl],Mauwake,mhl,Madang,Trans-New Guinea,Concatenative,(Berghäll 2010: 17),3,Present / Past / Future,–,obligatory,mauw1238,0,3
+Mbodomo (Gbaya- Mbodomo) [gmm],Mbodomo (Gbaya- Mbodomo),gmm,Gbaya-Manza- Ngbaka,Niger-Congo,Isolating/ Concatenative,(Boyd 1997: 96ff),3,Present / Past / Future,–,obligatory,gbay1281,0,3
+Mochica [-],Mochica,-,Chimúan,Chimúan,Concatenative,(Adelaar & Muysken 2004: 336f),3,Present / Past / Future,Past: 2,obligatory,moch1259,1,4
+Moro [mor],Moro,mor,Heiban,Kordofanian,Concatenative/ Non-linear,(Black & Black 1971: passim),3,Present / Past / Future,–,obligatory,moro1285,0,3
+"Nahuatl, Tetelcingo [nhg]","Nahuatl, Tetelcingo",nhg,Aztecan,Uto-Aztecan,Concatenative,(Tuggy 1982: 112f),3,Present / Past / Future,–,obligatory,tete1251,0,3
+Nasioi (Naasioi) [nas],Nasioi (Naasioi),nas,East Bougainville,East Bougainville,Concatenative,(Hurd & Hurd 1970: 57ff),3,Present / Past / Future,Past: 3 / Future: 2,obligatory,naas1242,3,6
+Nez Perce [nez],Nez Perce,nez,Sahaptian,Penutian,Concatenative,(Rude 1985: 51ff),3,Present / Past / Future,Past: 2,obligatory,nezp1238,1,4
+Ngäbere [gym],Ngäbere,gym,Guaymi,Chibchan,Concatenative,(Alphonse 1956: 26f),3,Present / Past / Future,Past: 2,obligatory,ngab1239,1,4
+Ngardi [-],Ngardi,-,Ngardi,Australian,Concatenative,(Honeyman 2005: 43),3,Present / Past / Future,–,obligatory,ngar1288,0,3
+Nuuchahnulth (Nootka) [noo],Nuuchahnulth (Nootka),noo,Southern Wakashan,Wakashan,Concatenative,"(Davidson 2002: 104ff, passim)",3,Nonfuture / Anterior / Posterior,–,optional,noot1239,0,3
+"Ocuilteco (Matlatzinca, Atzingo) [ocu]","Ocuilteco (Matlatzinca, Atzingo)",ocu,Otomian,Oto-Manguean,Concatenative,"(Muntzel 1986: 105, 111, 117)",3,Present / Past / Future,–,obligatory,atzi1235,0,3
+Orokaiva [okv],Orokaiva,okv,Binanderean,Trans-New Guinea,Concatenative,(Larsen 1977: 14),3,Present / Past / Future,Past: 3,obligatory,orok1269,2,5
+Páez [pbb],Páez,pbb,Páezan,Páezan,Concatenative,"(Slocum 1986: 58ff, 62)",3,Present / Past / Future,Past: 3,obligatory,paez1247,2,5
+Palauan [pau],Palauan,pau,Palauan,Austronesian,Concatenative,(Flora 1974: 73ff),3,Present / Past / Future,–,obligatory,pala1344,0,3
+"Persian (Farsi, Western) [pes]","Persian (Farsi, Western)",pes,Iranian,Indo-European,Concatenative*,"(Dahl 1985: 168, Mahootian 1997)",3,Present / Past / Future,–,obligatory,west2369,0,3
+Piaroa [pid],Piaroa,pid,Piaroa,Sáliban,Concatenative,(Mosonyi 2002: 96ff),3,Present / Past / Future,–,obligatory,piar1243,0,3
+"Popoloca, Mezontla [pbe]","Popoloca, Mezontla",pbe,Popolocan,Oto-Manguean,Concatenative,"(Veerman- Leichsenring 1991: 122, 202ff)",3,Present / Past / Future,–,obligatory,mezo1235,0,3
+Purepecha [tsz],Purepecha,tsz,Tarascan,Tarascan,Concatenative*,(Chamoreau 1998: 58),3,Present / Past / Future,–,obligatory,pure1242,0,3
+"Quechua, Imbabura (Quichua, Imbabura Highland) [qvi]","Quechua, Imbabura (Quichua, Imbabura Highland)",qvi,Quechuan,Quechuan,Concatenative*,(Cole 1982: 142ff),3,Present / Past / Future,–,obligatory,imba1240,0,3
+Rapanui (Rapa Nui) [rap],Rapanui (Rapa Nui),rap,Oceanic,Austronesian,Isolating*,(Du Feu 1996: 153ff),3,Past / Future / Nonpast,–,optional,rapa1244,0,3
+Rengao [ren],Rengao,ren,Bahnaric,Austro-Asiatic,Isolating,(Gregerson 1979: 43ff),3,Present / Past / Future,–,optional,reng1252,0,3
+Rotokas [roo],Rotokas,roo,West Bougainville,West Bougainville,Concatenative,(Firchow 1987: 20ff),3,Present / Past / Future,Future: 2,obligatory,roto1249,1,4
+Russian [rus],Russian,rus,Slavic,Indo-European,Concatenative*,"(Dahl 1985: 170, Timberlake. 2004)",3,Present / Past / Future,–,obligatory,russ1263,0,3
+Shenenawa [swo],Shenenawa,swo,Unclassified,Unclassified,Concatenative,(Cândido 2004: 109ff),3,Present / Past / Future,Past: 4,optional,shan1283,3,6
+Siuslaw [sis],Siuslaw,sis,Siuslawan,Oregon Coast,Concatenative,"(Frachtenberg 1922b: 491, 510–2, 527–9)",3,Present / Past / Future,–,obligatory,sius1254,0,3
+Sulka [sua],Sulka,sua,Sulka,Sulka,Concatenative,(Tharp 1996: 91ff),3,Present / Past / Future,–,obligatory,sulk1246,0,3
+Swedish [swe],Swedish,swe,Germanic,Indo-European,Concatenative,(personal knowledge),3,Present / Past / Future,–,obligatory,swed1254,0,3
+Tapiete (Ñandeva) [tpj],Tapiete (Ñandeva),tpj,Tupi-Guarani,Tupian,Concatenative,(González 2005: 154ff),3,Past / Future / Nonfuture,Past: 2 / Future: 2,obligatory,tapi1253,2,5
+"Tepehua (Tepehua, Tlachichilco) [tpt]","Tepehua (Tepehua, Tlachichilco)",tpt,Totonacan,Totonacan,Concatenative,(Watters 1988: 265ff),3,Present / Past / Future,–,obligatory,tlac1235,0,3
+"Tepehuan, Southeastern [stp]","Tepehuan, Southeastern",stp,Tepiman,Uto-Aztecan,Non-linear,(Willett 1991: 101ff),3,Present / Past / Future,–,obligatory,sout2976,0,3
+Tifal [tif],Tifal,tif,Ok,Trans-New Guinea,Concatenative,(Boush 1975: 22),3,Present / Past / Future,Past: 3 / Future: 2,obligatory,tifa1245,3,6
+Tiriyó (Trió) [tri],Tiriyó (Trió),tri,Cariban,Cariban,Concatenative,(Meira 1999: 297ff),3,Present / Past / Future,–,obligatory,trio1238,0,3
+Tiwi [tiw],Tiwi,tiw,Tiwian,Australian,Concatenative*,(Osborne 1974: 40),3,Present / Past / Future,–,obligatory,tiwi1244,0,3
+Turkish [tur],Turkish,tur,Turkic,Altaic,Concatenative*,(Kornfilt 1997: 236ff),3,Present / Past / Future,–,obligatory,nucl1301,0,3
+Ulwa (Sumo- Mayangna) [sum],Ulwa (Sumo- Mayangna),sum,Misumalpan,Misumalpan,Isolating/ Concatenative,(Green 1999: 93ff),3,Present / Past / Future,–,obligatory,sumu1234,0,3
+Umbugarla [umr],Umbugarla,umr,Umbugarla- Ngumbur,Australian,Concatenative,(Davies 1989: 58ff),3,Present / Past / Future,–,optional,umbu1235,0,3
+Ungarinjin (Ngarinyin) [ung],Ungarinjin (Ngarinyin),ung,Wororan,Australian,Concatenative,(Rumsey 1978: 104),3,Present / Past / Future,–,obligatory,ngar1284,0,3
+"Uw Cuwa (Tunebo, Angosturas) [tnd]","Uw Cuwa (Tunebo, Angosturas)",tnd,Chibchan Proper,Chibchan,Concatenative,(Headland 1994: 23),3,Present / Past / Future,Past: 2 / Future: 2,obligatory,ango1257,2,5
+Vietnamese [vie],Vietnamese,vie,Viet-Muong,Austro-Asiatic,Isolating*,(Thompson 1987: 209),3,Simltaneous / Anterior / Posterior,–,optional,viet1252,0,3
+Wambaya [wmb],Wambaya,wmb,West Barkly,Australian,Concatenative,(Nordlinger 1993: 195ff),3,Present / Past / Future,–,obligatory,wamb1258,0,3
+Wambon [wms],Wambon,wms,Awyu-Dumut,Trans-New Guinea,Concatenative/ Non-linear,(Vries & Vries- Wiersma 1992: 25ff),3,Present / Past / Future,–,obligatory,wamb1259,0,3
+Waorani [auc],Waorani,auc,Waorani,Waorani,Concatenative,"(Peeke 1973: 14ff, 38ff)",3,Present / Past / Future,Past: 2,NA,waor1240,1,4
+Warao [wba],Warao,wba,Warao,Warao,Concatenative*,(Osborn 1967: 47ff),3,Present / Past / Future,–,obligatory,wara1303,0,3
+Wardaman [wrr],Wardaman,wrr,Yangmanic,Australian,Concatenative*,(Merlan 1994: 175ff),3,Present / Past / Future,–,obligatory,ward1246,0,3
+Warihio (Huarijío) [var],Warihio (Huarijío),var,Tarahumaran,Uto-Aztecan,Concatenative,"(Felix Armendariz 2006: 55, 121ff)",3,Present / Past / Future,–,obligatory,huar1255,0,3
+Washo [was],Washo,was,Washo,Washo,Concatenative,"(Jacobsen 1964: 606ff, passim)",3,Present / Past / Future,Past: 3 / Future: 2,obligatory,wash1253,3,6
+Welsh [cym],Welsh,cym,Celtic,Indo-European,Concatenative,(King 1993: 136f),3,Present / Past / Future,–,obligatory,wels1247,0,3
+Wolof [wol],Wolof,wol,Northern Atlantic,Niger-Congo,Concatenative,"(Diouf 2009, Ngom 2003)",3,Present / Past / Future,–,optional,nucl1347,0,3
+Yagua [yad],Yagua,yad,Peba-Yaguan,Peba-Yaguan,Concatenative*,(Payne 1985: 240ff),3,Present / Past / Future,Past: 5 / Future: 2,obligatory,yagu1244,5,8
+Yale [nce],Yale,nce,Yale,Yale,Concatenative,(Campbell & Campbell 1987: 49),3,Present / Past / Future,–,obligatory,yale1246,0,3
+Yana [ynn],Yana,ynn,Yana,Hokan,Concatenative,(Sapir 1922a: 231ff),3,Present / Past / Future,Past: 2,obligatory,yana1271,1,4
+Yessan-Mayo [yss],Yessan-Mayo,yss,Tama Sepik,Sepik,Concatenative,(Foreman 1974: 39ff),3,Present / Past / Future,Past: 2,obligatory,yess1239,1,4
+Yuchi [yuc],Yuchi,yuc,Yuchi,Yuchi,Isolating,(Linn 2001: 270ff),3,Present / Past / Future,Future: 2,optional,yuch1247,1,4
+Zuni [zun],Zuni,zun,Zuni,Zuni,Concatenative,"(Nichols 1998: 10ff, passim)",3,Present / Past / Future,–,obligatory,zuni1245,0,3

@@ -1,0 +1,906 @@
+ID,Name,Code,Category,NumEntries
+418,Adnyamathanha,L10,matri-moieties,2
+972,Adyinuri,Y17,totems,0
+1086,Aghu-Tharnggala,Y65,sections,4
+932,Agwamin,Y132,sections,4
+932,Agwamin,Y132,sections,4
+932,Agwamin,Y132,totems,0
+932,Agwamin,Y132,totems,0
+932,Agwamin,Y132,patri-moieties,0
+121,Akarre,C28,subsections,8
+722,Alawa,N92,subsections,8
+722,Alawa,N92,patri-semi-moieties,4
+722,Alawa,N92,subsections,16
+722,Alawa,N92,subsections,8
+1050,Alngith,Y32,matri-moieties,2
+105,Alyawarr,C14,sections,4
+105,Alyawarr,C14,subsections,8
+105,Alyawarr,C14,sections,4
+105,Alyawarr,C14,sections,4
+105,Alyawarr,C14,sections,4
+849,Amangu,W12,matri-moieties,2
+1091,Angkamuthi,Y7,totems,0
+566,Anindilyakwa,N151,patri-moieties,2
+146,Anmatyerre,C8,subsections,8
+146,Anmatyerre,C8,subsections,8
+146,Anmatyerre,C8,subsections,8
+146,Anmatyerre,C8,subsections,8
+141,Antakirinya,C5,generational moieties,2
+141,Antakirinya,C5,generational moieties,2
+141,Antakirinya,C5,sections,4
+103,Antekerrepenh,C12,sections,4
+421,Arabana,L13,matri-moieties,2
+421,Arabana,L13,matri-moieties,2
+421,Arabana,L13,matri-moieties,2
+421,Arabana,L13,matri-moieties,2
+421,Arabana,L13,matri-moieties,2
+421,Arabana,L13,matri-moieties,2
+421,Arabana,L13,matri-moieties,2
+421,Arabana,L13,totems,12
+421,Arabana,L13,sections,0
+904,Areba,Y107,sections,4
+904,Areba,Y107,totems,3
+1052,Aritinngithigh,Y34,matri-moieties,2
+145,Arrernte,C8,generational moieties,2
+145,Arrernte,C8,sections,4
+145,Arrernte,C8,subsections,8
+145,Arrernte,C8,patri-moieties,2
+145,Arrernte,C8,subsections,8
+145,Arrernte,C8,subsections,8
+145,Arrernte,C8,subsections,8
+145,Arrernte,C8,subsections,8
+145,Arrernte,C8,sections,4
+1080,Ayabadhu,Y60,patri-moieties,2
+1080,Ayabadhu,Y60,patri-moieties,2
+307,Ayerrerenge,G12,sections,4
+307,Ayerrerenge,G12,subsections,8
+8,Badimaya,A14,sections,4
+172,Badjiri,D31,sections,4
+172,Badjiri,D31,sections,8
+172,Badjiri,D31,matri-moieties,2
+847,Balardung,W10,generational moieties,2
+847,Balardung,W10,generational moieties,2
+1110,Banambila,Y88,sections,0
+50,Banyjima,A53,sections,4
+192,Barababaraba,D5,underspecified sections,4
+254,Barada,E48,sections,8
+254,Barada,E48,matri-moieties,2
+361,Bardi,K15,sections,4
+361,Bardi,K15,sections,4
+182,Barunggam,D40,sections,8
+182,Barunggam,D40,matri-moieties,2
+182,Barunggam,D40,sections,8
+846,Bibbulman,W1,patri-moieties,2
+846,Bibbulman,W1,patri-moieties,2
+846,Bibbulman,W1,patri-semi-moieties,4
+779,Bidawal,S49,matri-moieties,2
+242,Bidjara (Central QLD),E37,matri-moieties,2
+455,Bidjara (South QLD),L43,sections,4
+455,Bidjara (South QLD),L43,matri-moieties,2
+455,Bidjara (South QLD),L43,matri-moieties,2
+455,Bidjara (South QLD),L43,sections,8
+455,Bidjara (South QLD),L43,matri-moieties,2
+38,Bidungu,A40,sections,4
+38,Bidungu,A40,sections,0
+175,Bigambul,D34,underspecified sections,4
+664,Bilinarra,N36,subsections,16
+664,Bilinarra,N36,subsections,16
+548,Binbinga,N138,subsections,16
+548,Binbinga,N138,subsections,16
+548,Binbinga,N138,subsections,8
+740,Bindjali,S15,matri-moieties,2
+910,Binggu,Y112,patri-moieties,2
+604,Bininj Gun-Wok,N186,subsections,16
+263,Biri,E56,sections,4
+263,Biri,E56,underspecified sections,2
+263,Biri,E56,underspecified sections,0
+19,Birniridjara,A25,sections,4
+235,Birpai,E3,underspecified sections,4
+764,Boonwurrung,S35,matri-moieties,2
+764,Boonwurrung,S35,patri-moieties,2
+764,Boonwurrung,S35,matri-moieties,2
+764,Boonwurrung,S35,patri-moieties,2
+738,Buandig,S13,matri-moieties,2
+738,Buandig,S13,matri-moieties,0
+738,Buandig,S13,matri-moieties,4
+738,Buandig,S13,matri-moieties,2
+738,Buandig,S13,phratries,10
+738,Buandig,S13,totems,8
+150,Bulali,D11,matri-moieties,2
+908,Bulway,Y110,patri-moieties,2
+213,Bundjalung,E12,sections,8
+400,Bunuba,K5,sections,4
+711,Burarra,N82,subsections,16
+711,Burarra,N82,subsections,16
+711,Burarra,N82,subsections,16
+711,Burarra,N82,matri-moieties,2
+711,Burarra,N82,patri-moieties,2
+236,Butchulla,E30,patri-moieties,2
+236,Butchulla,E30,sections,8
+236,Butchulla,E30,sections,4
+236,Butchulla,E30,matri-moieties,2
+236,Butchulla,E30,sections,8
+236,Butchulla,E30,underspecified sections,4
+236,Butchulla,E30,sections,4
+236,Butchulla,E30,sections,4
+229,Buyibara,E24,patri-moieties,2
+229,Buyibara,E24,matri-moieties,2
+229,Buyibara,E24,sections,8
+756,Dadi Dadi,S28,matri-moieties,2
+756,Dadi Dadi,S28,matri-moieties,2
+756,Dadi Dadi,S28,matri-moieties,2
+691,Dalabon,N60,subsections,0
+691,Dalabon,N60,subsections,0
+691,Dalabon,N60,subsections,16
+691,Dalabon,N60,patri-moieties,2
+230,Dalla,E25,matri-moieties,2
+230,Dalla,E25,sections,8
+230,Dalla,E25,sections,4
+53,Dargudi,A56,sections,4
+797,Darkinyung,S65,sections,8
+252,Darumbal,E46,sections,8
+252,Darumbal,E46,matri-moieties,2
+252,Darumbal,E46,sections,4
+252,Darumbal,E46,sections,4
+252,Darumbal,E46,sections,4
+746,Dhauwurd Wurrung,S20,matri-moieties,2
+746,Dhauwurd Wurrung,S20,matri-moieties,2
+746,Dhauwurd Wurrung,S20,totems,2
+422,Dhirari,L14,matri-moieties,2
+425,Diyari,L17,matri-moieties,2
+425,Diyari,L17,totems,26
+425,Diyari,L17,matri-moieties,2
+425,Diyari,L17,matri-moieties,2
+900,Djabadja,Y102,sections,4
+900,Djabadja,Y102,patri-moieties,2
+903,Djabugay,Y106,patri-moieties,2
+903,Djabugay,Y106,patri-moieties,2
+753,Djabwurrung,S26,matri-moieties,2
+761,Djadjawurrung,S31,matri-moieties,2
+761,Djadjawurrung,S31,patri-moieties,2
+1079,Djagaraga,Y6,totems,0
+232,Djagunda,E27,matri-moieties,2
+232,Djagunda,E27,sections,8
+20,Djalgandi,A26,generational moieties,2
+20,Djalgandi,A26,sections,4
+725,Djinang,N94,subsections,16
+725,Djinang,N94,patri-moieties,2
+267,Dunghutti,E6,sections,8
+267,Dunghutti,E6,sections,8
+267,Dunghutti,E6,sections,8
+267,Dunghutti,E6,sections,8
+297,Dungibara,E87,sections,8
+297,Dungibara,E87,matri-moieties,2
+225,Duungidjawu,E20,matri-moieties,2
+225,Duungidjawu,E20,sections,8
+225,Duungidjawu,E20,sections,4
+922,Dyirbal,Y123,sections,4
+922,Dyirbal,Y123,sections,8
+922,Dyirbal,Y123,sections,4
+922,Dyirbal,Y123,patri-moieties,2
+922,Dyirbal,Y123,sections,4
+922,Dyirbal,Y123,totems,10
+952,Dyirribarra Mamu,Y151,sections,4
+952,Dyirribarra Mamu,Y151,patri-moieties,2
+952,Dyirribarra Mamu,Y151,totems,10
+1081,Flinders Island Language,Y61,patri-moieties,2
+1081,Flinders Island Language,Y61,totems,5
+681,Gaagudju,N50,patri-semi-moieties,4
+681,Gaagudju,N50,matri-semi-moieties,4
+681,Gaagudju,N50,phratries,0
+251,Gabalbara,E45,patri-moieties,2
+251,Gabalbara,E45,sections,4
+171,Galali,D30,matri-moieties,2
+171,Galali,D30,matri-moieties,0
+388,Gambera,K39,patri-moieties,2
+163,Gamilaraay,D23,matri-moieties,2
+163,Gamilaraay,D23,sections,8
+163,Gamilaraay,D23,matri-moieties,2
+163,Gamilaraay,D23,underspecified sections,4
+163,Gamilaraay,D23,matri-moieties,2
+163,Gamilaraay,D23,sections,4
+163,Gamilaraay,D23,sections,8
+163,Gamilaraay,D23,sections,4
+333,Ganggalida,G34,subsections,16
+333,Ganggalida,G34,subsections,16
+333,Ganggalida,G34,patri-semi-moieties,0
+333,Ganggalida,G34,patri-moieties,0
+333,Ganggalida,G34,patri-moieties,0
+246,Gangulu,E40,matri-moieties,2
+246,Gangulu,E40,underspecified sections,4
+246,Gangulu,E40,matri-moieties,2
+246,Gangulu,E40,sections,8
+246,Gangulu,E40,sections,4
+438,Garendala,L29,matri-moieties,2
+438,Garendala,L29,matri-moieties,2
+243,Garingbal,E38,sections,8
+243,Garingbal,E38,totems,4
+243,Garingbal,E38,totems,0
+243,Garingbal,E38,sections,6
+570,Garrwa,N155,sections,8
+570,Garrwa,N155,subsections,16
+570,Garrwa,N155,patri-semi-moieties,4
+570,Garrwa,N155,subsections,16
+570,Garrwa,N155,patri-semi-moieties,4
+570,Garrwa,N155,subsections,16
+570,Garrwa,N155,subsections,16
+570,Garrwa,N155,patri-semi-moieties,0
+570,Garrwa,N155,patri-moieties,0
+298,Garumngar,E88,matri-moieties,2
+298,Garumngar,E88,sections,8
+250,Gayiri,E44,sections,4
+250,Gayiri,E44,underspecified sections,4
+250,Gayiri,E44,sections,4
+250,Gayiri,E44,totems,7
+210,Geawegal,E1,sections,8
+210,Geawegal,E1,underspecified sections,0
+183,Giabal,D41,matri-moieties,2
+183,Giabal,D41,sections,8
+215,Githabul,E14,sections,8
+215,Githabul,E14,sections,8
+215,Githabul,E14,matri-moieties,2
+215,Githabul,E14,matri-moieties,2
+215,Githabul,E14,sections,8
+241,Goeng Goeng,E36,matri-moieties,2
+241,Goeng Goeng,E36,sections,8
+1113,Gonaniin,Y91,sections,0
+1113,Gonaniin,Y91,sections,4
+411,Gooniyandi,K6,subsections,16
+887,Goreng,W5,generational moieties,2
+234,Gubbi Gubbi,E29,patri-moieties,2
+234,Gubbi Gubbi,E29,sections,8
+234,Gubbi Gubbi,E29,sections,8
+234,Gubbi Gubbi,E29,matri-moieties,2
+234,Gubbi Gubbi,E29,matri-moieties,2
+234,Gubbi Gubbi,E29,sections,8
+234,Gubbi Gubbi,E29,underspecified sections,4
+1117,Gudabal,Y95,patri-moieties,2
+1117,Gudabal,Y95,sections,4
+996,Gudang,Y191,totems,0
+268,Gudjal,E60,sections,4
+927,Gugu Badhun,Y128,sections,4
+927,Gugu Badhun,Y128,sections,4
+927,Gugu Badhun,Y128,sections,4
+927,Gugu Badhun,Y128,totems,0
+1108,Gugu Bididji,Y86,patri-moieties,2
+1109,Gugu Buyunji,Y87,patri-moieties,2
+1115,Gugu Dhaw,Y93,sections,4
+1115,Gugu Dhaw,Y93,patri-moieties,2
+1115,Gugu Dhaw,Y93,totems,3
+906,Gugu Djangun,Y109,sections,4
+906,Gugu Djangun,Y109,sections,4
+906,Gugu Djangun,Y109,patri-moieties,2
+906,Gugu Djangun,Y109,sections,4
+906,Gugu Djangun,Y109,patri-moieties,2
+906,Gugu Djangun,Y109,totems,10
+906,Gugu Djangun,Y109,sections,4
+906,Gugu Djangun,Y109,totems,0
+898,Gugu Gai Gai,Y100,patri-moieties,2
+901,Gugu Gulunggur,Y103,patri-moieties,2
+1116,Gugu Mini,Y94,sections,0
+1116,Gugu Mini,Y94,sections,4
+1116,Gugu Mini,Y94,sections,4
+1116,Gugu Mini,Y94,sections,4
+1116,Gugu Mini,Y94,sections,4
+1116,Gugu Mini,Y94,patri-moieties,2
+1100,Gugu Nyiguudyi,Y79,patri-moieties,0
+1112,Gugu Nyungkul,Y90,underspecified sections,4
+1112,Gugu Nyungkul,Y90,patri-moieties,2
+1112,Gugu Nyungkul,Y90,patri-moieties,2
+1093,Gugu Rarmul,Y71,sections,0
+1093,Gugu Rarmul,Y71,matri-moieties,2
+1093,Gugu Rarmul,Y71,sections,4
+1093,Gugu Rarmul,Y71,patri-moieties,2
+1093,Gugu Rarmul,Y71,sections,4
+1111,Gugu Tungay,Y89,patri-moieties,2
+902,Gugu Wakura,Y104,sections,0
+902,Gugu Wakura,Y104,sections,4
+902,Gugu Wakura,Y104,patri-moieties,2
+902,Gugu Wakura,Y104,sections,4
+1102,Gugu Warra,Y80,sections,4
+1102,Gugu Warra,Y80,sections,4
+1102,Gugu Warra,Y80,sections,4
+1102,Gugu Warra,Y80,sections,4
+1121,Gugu Yalunju,Y99,patri-moieties,2
+1114,Gugu Yanyu,Y92,patri-moieties,0
+1114,Gugu Yanyu,Y92,patri-moieties,2
+1096,Gugu Yawa,Y74,matri-moieties,2
+1096,Gugu Yawa,Y74,sections,4
+759,Gulidjan,S30,matri-moieties,2
+925,Gulngay,Y126,sections,4
+278,Gumbaynggir,E7,sections,8
+278,Gumbaynggir,E7,sections,8
+278,Gumbaynggir,E7,sections,8
+278,Gumbaynggir,E7,sections,4
+278,Gumbaynggir,E7,sections,4
+327,Gundara,G29,sections,0
+327,Gundara,G29,sections,4
+327,Gundara,G29,sections,4
+327,Gundara,G29,patri-moieties,2
+327,Gundara,G29,sections,4
+327,Gundara,G29,totems,3
+699,Gundjeihmi,N71,subsections,16
+699,Gundjeihmi,N71,matri-moieties,2
+240,Gungabula,E35,sections,4
+240,Gungabula,E35,matri-moieties,2
+240,Gungabula,E35,matri-moieties,0
+240,Gungabula,E35,matri-moieties,2
+240,Gungabula,E35,sections,8
+240,Gungabula,E35,matri-moieties,2
+178,Gunggari,D37,matri-moieties,2
+178,Gunggari,D37,underspecified sections,4
+178,Gunggari,D37,sections,4
+912,Gunggay,Y114,patri-moieties,2
+912,Gunggay,Y114,patri-moieties,2
+912,Gunggay,Y114,patri-moieties,2
+912,Gunggay,Y114,patri-moieties,2
+384,Gunin,K36,patri-moieties,2
+384,Gunin,K36,patri-moieties,2
+116,Gunindiri,C23,subsections,16
+116,Gunindiri,C23,patri-semi-moieties,0
+116,Gunindiri,C23,patri-moieties,0
+119,Gurdanji,C26,subsections,16
+119,Gurdanji,C26,patri-moieties,2
+119,Gurdanji,C26,subsections,16
+119,Gurdanji,C26,patri-moieties,2
+119,Gurdanji,C26,patri-semi-moieties,4
+119,Gurdanji,C26,subsections,16
+119,Gurdanji,C26,subsections,16
+119,Gurdanji,C26,patri-semi-moieties,4
+18,Gurduwanga,A24,sections,4
+238,Gureng Gureng,E32,sections,8
+238,Gureng Gureng,E32,sections,8
+238,Gureng Gureng,E32,sections,8
+238,Gureng Gureng,E32,matri-moieties,2
+238,Gureng Gureng,E32,sections,4
+238,Gureng Gureng,E32,matri-moieties,2
+238,Gureng Gureng,E32,sections,8
+113,Gurindji,C20,subsections,16
+113,Gurindji,C20,patri-moieties,2
+113,Gurindji,C20,subsections,16
+113,Gurindji,C20,patri-moieties,2
+113,Gurindji,C20,subsections,16
+703,Gurrgoni,N75,subsections,16
+703,Gurrgoni,N75,patri-moieties,2
+1104,Guugu Yimidhirr,Y82,patri-moieties,2
+354,Guwa,G9,matri-moieties,2
+354,Guwa,G9,matri-moieties,2
+354,Guwa,G9,sections,4
+174,Guwamu,D33,sections,4
+231,Guwar,E26,matri-moieties,2
+231,Guwar,E26,sections,8
+255,Guwinmal,E49,matri-moieties,2
+255,Guwinmal,E49,sections,8
+255,Guwinmal,E49,sections,4
+255,Guwinmal,E49,underspecified sections,4
+255,Guwinmal,E49,sections,8
+255,Guwinmal,E49,matri-moieties,0
+176,Guyambal,D35,sections,8
+55,Ibarga,A59,sections,4
+310,Indjilandji,G14,subsections,16
+310,Indjilandji,G14,subsections,16
+310,Indjilandji,G14,patri-semi-moieties,0
+310,Indjilandji,G14,patri-moieties,0
+668,Iwaidja,N39,matri-moieties,2
+668,Iwaidja,N39,subsections,16
+668,Iwaidja,N39,subsections,14
+415,Jabirrjabirr,K8,sections,4
+886,Jadira,W49,sections,4
+228,Jagara,E23,sections,4
+228,Jagara,E23,matri-moieties,2
+228,Jagara,E23,sections,8
+597,Jaminjung,N18,patri-moieties,2
+597,Jaminjung,N18,subsections,16
+597,Jaminjung,N18,subsections,16
+223,Jandai,E19,sections,8
+223,Jandai,E19,matri-moieties,2
+223,Jandai,E19,matri-moieties,2
+223,Jandai,E19,sections,8
+291,Jarowair,E81,matri-moieties,2
+291,Jarowair,E81,sections,8
+358,Jaru,K12,subsections,16
+358,Jaru,K12,subsections,16
+362,Jawi,K16,sections,4
+687,Jawoyn,N57,subsections,8
+687,Jawoyn,N57,matri-moieties,2
+687,Jawoyn,N57,patri-moieties,2
+687,Jawoyn,N57,subsections,16
+687,Jawoyn,N57,subsections,8
+687,Jawoyn,N57,subsections,16
+115,Jingulu,C22,subsections,16
+115,Jingulu,C22,subsections,16
+115,Jingulu,C22,patri-moieties,2
+115,Jingulu,C22,subsections,16
+115,Jingulu,C22,patri-moieties,2
+115,Jingulu,C22,patri-moieties,2
+865,Jiwarli,W28,sections,4
+382,Jiyil,K34,subsections,16
+382,Jiyil,K34,patri-moieties,2
+382,Jiyil,K34,matri-moieties,2
+382,Jiyil,K34,totems,10
+382,Jiyil,K34,subsections,16
+366,Jukun,K2,sections,4
+366,Jukun,K2,sections,4
+366,Jukun,K2,sections,4
+87,Juwaliny,A88,sections,4
+1062,Kaanju,Y44,patri-moieties,2
+1062,Kaanju,Y44,patri-moieties,2
+13,Kalaako,A2,generational moieties,2
+37,Kalaamaya,A4,sections,4
+37,Kalaamaya,A4,generational moieties,2
+309,Kalkatungu,G13,matri-moieties,2
+309,Kalkatungu,G13,sections,4
+309,Kalkatungu,G13,sections,4
+309,Kalkatungu,G13,sections,4
+309,Kalkatungu,G13,matri-moieties,2
+309,Kalkatungu,G13,sections,4
+309,Kalkatungu,G13,matri-moieties,2
+309,Kalkatungu,G13,sections,4
+309,Kalkatungu,G13,matri-moieties,2
+309,Kalkatungu,G13,totems,0
+876,Kaniyang,W4,matri-moieties,2
+61,Karajarri,A64,sections,4
+61,Karajarri,A64,sections,4
+61,Karajarri,A64,sections,4
+61,Karajarri,A64,generational moieties,2
+443,Karanya,L32,matri-moieties,2
+443,Karanya,L32,sections,4
+443,Karanya,L32,matri-moieties,2
+875,Kariyarra,W39,sections,4
+875,Kariyarra,W39,sections,4
+875,Kariyarra,W39,sections,4
+127,Karrangpurru,C33,subsections,16
+47,Kartujarra,A51,sections,4
+47,Kartujarra,A51,sections,4
+47,Kartujarra,A51,patri-moieties,2
+47,Kartujarra,A51,generational moieties,2
+446,Karuwali,L35,matri-moieties,2
+446,Karuwali,L35,sections,8
+446,Karuwali,L35,matri-moieties,2
+1068,Kawalgaw Ya,Y5,totems,4
+334,Kayardild,G35,totems,8
+104,Kaytetye,C13,subsections,8
+104,Kaytetye,C13,subsections,8
+104,Kaytetye,C13,generational moieties,2
+104,Kaytetye,C13,patri-moieties,2
+752,Keerray-Woorroong,S25,matri-semi-moieties,4
+367,Kija,K20,subsections,16
+367,Kija,K20,subsections,16
+49,Kiyajarra,A52,sections,4
+49,Kiyajarra,A52,patri-moieties,2
+49,Kiyajarra,A52,generational moieties,2
+179,Kogai,D38,sections,8
+1107,Kok-Kaper,Y85,sections,4
+1107,Kok-Kaper,Y85,patri-moieties,2
+1107,Kok-Kaper,Y85,patri-moieties,2
+123,Kokatha,C3,generational moieties,2
+123,Kokatha,C3,sections,4
+794,Ku-ring-gai / Gameraigal,S62,underspecified sections,4
+1078,Kugu Nganhcara,Y59,patri-moieties,2
+326,Kukatj,G28,sections,4
+326,Kukatj,G28,sections,4
+326,Kukatj,G28,totems,0
+143,Kukatja (NT),C7,subsections,0
+65,Kukatja (WA),A68,generational moieties,2
+65,Kukatja (WA),A68,generational moieties,2
+1106,Kuku Thaypan,Y84,sections,4
+1106,Kuku Thaypan,Y84,patri-moieties,2
+1106,Kuku Thaypan,Y84,sections,4
+1103,Kuku Walandja,Y81,sections,0
+1103,Kuku Walandja,Y81,patri-moieties,2
+1099,Kuku Yalanji,Y78,sections,0
+1099,Kuku Yalanji,Y78,sections,4
+1099,Kuku Yalanji,Y78,patri-moieties,2
+1099,Kuku Yalanji,Y78,patri-moieties,2
+968,Kuku-Yalunyu,Y166,patri-moieties,2
+696,Kunbarlang,N69,matri-moieties,2
+696,Kunbarlang,N69,subsections,16
+696,Kunbarlang,N69,phratries,4
+696,Kunbarlang,N69,totems,4
+698,Kune,N70,subsections,16
+698,Kune,N70,matri-moieties,2
+698,Kune,N70,patri-moieties,2
+449,Kungkari,L38,matri-moieties,2
+449,Kungkari,L38,sections,8
+590,Kuninjku,N173,subsections,16
+590,Kuninjku,N173,patri-moieties,2
+590,Kuninjku,N173,matri-moieties,2
+1105,Kunjen,Y83,sections,4
+328,Kunkalanya,G3,matri-moieties,2
+328,Kunkalanya,G3,sections,4
+693,Kunwinjku,N65,matri-moieties,2
+693,Kunwinjku,N65,subsections,16
+693,Kunwinjku,N65,matri-moieties,2
+693,Kunwinjku,N65,subsections,16
+693,Kunwinjku,N65,patri-moieties,2
+693,Kunwinjku,N65,matri-moieties,4
+693,Kunwinjku,N65,matri-semi-moieties,4
+693,Kunwinjku,N65,subsections,16
+693,Kunwinjku,N65,phratries,7
+693,Kunwinjku,N65,totems,36
+693,Kunwinjku,N65,totems,2
+84,Kurajarra,A85,sections,4
+84,Kurajarra,A85,patri-moieties,2
+84,Kurajarra,A85,generational moieties,2
+204,Kureinji,D6,matri-moieties,2
+872,Kurrama,W36,sections,4
+332,Kurtjar,G33,sections,4
+332,Kurtjar,G33,sections,0
+332,Kurtjar,G33,totems,3
+332,Kurtjar,G33,sections,4
+330,Kuthant,G31,sections,4
+330,Kuthant,G31,sections,4
+330,Kuthant,G31,sections,4
+330,Kuthant,G31,patri-moieties,0
+330,Kuthant,G31,totems,2
+1090,Kuuk Thaayorre,Y69,patri-moieties,2
+1028,Kuuku Ya u,Y22,patri-moieties,2
+1028,Kuuku Ya u,Y22,totems,2
+9,Kuwarra,A16,sections,4
+9,Kuwarra,A16,sections,4
+9,Kuwarra,A16,sections,4
+9,Kuwarra,A16,sections,4
+129,Kuwarranyji,C35,subsections,16
+129,Kuwarranyji,C35,patri-moieties,0
+129,Kuwarranyji,C35,subsections,16
+480,Kuyani,L9,matri-moieties,2
+337,Lardil,G38,subsections,8
+337,Lardil,G38,subsections,8
+337,Lardil,G38,patri-semi-moieties,0
+337,Lardil,G38,patri-moieties,0
+337,Lardil,G38,subsections,0
+122,Lower Arrernte,C29,sections,0
+122,Lower Arrernte,C29,patri-moieties,2
+122,Lower Arrernte,C29,sections,4
+144,Luritja,C7,subsections,16
+144,Luritja,C7,subsections,16
+918,Luthigh,Y12,totems,0
+208,Madhi Madhi,D8,matri-moieties,0
+208,Madhi Madhi,D8,matri-moieties,2
+917,Madjay,Y119,patri-moieties,2
+85,Maduwongga,A86,sections,4
+452,Maiawali,L40,sections,4
+452,Maiawali,L40,matri-moieties,2
+378,Malngin,K30,subsections,16
+479,Malyangapa,L8,matri-moieties,2
+479,Malyangapa,L8,matri-moieties,2
+479,Malyangapa,L8,matri-moieties,2
+285,Manaldjahli,E76,matri-moieties,2
+285,Manaldjahli,E76,sections,8
+28,Mandjindja,A33,sections,4
+28,Mandjindja,A33,sections,4
+62,Mangala,A65,sections,4
+706,Mangarrayi,N78,patri-semi-moieties,4
+706,Mangarrayi,N78,patri-moieties,2
+706,Mangarrayi,N78,subsections,8
+706,Mangarrayi,N78,subsections,8
+48,Manjiljarra,A51,generational moieties,2
+48,Manjiljarra,A51,sections,4
+48,Manjiljarra,A51,sections,4
+48,Manjiljarra,A51,sections,4
+48,Manjiljarra,A51,patri-moieties,2
+203,Marawara,D6,matri-moieties,2
+203,Marawara,D6,matri-moieties,2
+203,Marawara,D6,matri-moieties,2
+184,Margany,D42,matri-moieties,2
+184,Margany,D42,sections,8
+495,Marra,N112,patri-semi-moieties,4
+495,Marra,N112,patri-semi-moieties,4
+495,Marra,N112,patri-semi-moieties,4
+495,Marra,N112,patri-semi-moieties,4
+495,Marra,N112,patri-moieties,2
+495,Marra,N112,patri-semi-moieties,4
+575,Marramaninyshi,N16,subsections,8
+675,Marrgu,N45,matri-moieties,2
+675,Marrgu,N45,subsections,16
+56,Martu Wangka,A6,sections,4
+871,Martuthunira,W35,sections,4
+444,Marulta,L33,matri-moieties,2
+516,Marungun,N116,patri-moieties,2
+516,Marungun,N116,subsections,16
+692,Mawng,N64,matri-moieties,2
+692,Mawng,N64,subsections,16
+692,Mawng,N64,matri-moieties,2
+692,Mawng,N64,subsections,16
+692,Mawng,N64,matri-moieties,4
+692,Mawng,N64,phratries,6
+692,Mawng,N64,totems,6
+692,Mawng,N64,subsections,14
+858,Maya,W20,sections,4
+323,Mayi-Kulan,G25,sections,8
+323,Mayi-Kulan,G25,sections,8
+322,Mayi-Kutuna,G24,sections,4
+322,Mayi-Kutuna,G24,sections,6
+312,Mayi-Thakurti,G16,matri-moieties,2
+312,Mayi-Thakurti,G16,matri-moieties,2
+312,Mayi-Thakurti,G16,sections,4
+312,Mayi-Thakurti,G16,sections,4
+312,Mayi-Thakurti,G16,totems,0
+312,Mayi-Thakurti,G16,sections,4
+318,Mayi-Yapi,G20,matri-moieties,2
+318,Mayi-Yapi,G20,sections,4
+318,Mayi-Yapi,G20,sections,4
+318,Mayi-Yapi,G20,matri-moieties,2
+318,Mayi-Yapi,G20,sections,4
+913,Mbabaram,Y115,sections,4
+913,Mbabaram,Y115,sections,0
+913,Mbabaram,Y115,sections,4
+913,Mbabaram,Y115,patri-moieties,2
+319,Mbara,G21,sections,4
+319,Mbara,G21,totems,0
+1059,Mbeiwum,Y41,patri-moieties,2
+684,Mengerrdji,N53,matri-moieties,2
+684,Mengerrdji,N53,subsections,16
+202,Milpulo,D59,matri-moieties,2
+202,Milpulo,D59,matri-moieties,2
+857,Minang,W2,patri-moieties,2
+857,Minang,W2,patri-moieties,2
+324,Mingin,G26,sections,4
+825,Minjambuta,S90,matri-moieties,2
+825,Minjambuta,S90,patri-moieties,2
+376,Miriwoong,K29,subsections,16
+89,Mirning,A9,totems,4
+394,Miwa,K44,patri-moieties,2
+257,Miyan,E50,matri-moieties,2
+257,Miyan,E50,matri-moieties,2
+257,Miyan,E50,sections,8
+226,Moondjan,E21,sections,8
+226,Moondjan,E21,matri-moieties,2
+1074,Morrobalama,Y55,patri-moieties,2
+80,Mount Margaret,A81,generational moieties,2
+80,Mount Margaret,A81,generational moieties,2
+118,Mudburra,C25,subsections,16
+118,Mudburra,C25,subsections,16
+118,Mudburra,C25,patri-semi-moieties,0
+118,Mudburra,C25,patri-moieties,2
+118,Mudburra,C25,subsections,16
+118,Mudburra,C25,subsections,16
+118,Mudburra,C25,subsections,16
+118,Mudburra,C25,patri-moieties,2
+118,Mudburra,C25,subsections,16
+118,Mudburra,C25,patri-moieties,2
+118,Mudburra,C25,subsections,16
+118,Mudburra,C25,patri-moieties,2
+1119,Muluridji,Y97,patri-moieties,2
+1119,Muluridji,Y97,patri-moieties,2
+1119,Muluridji,Y97,sections,4
+372,Munumburu,K25,patri-moieties,2
+199,Muringam,D56,sections,8
+525,Murngin,N117,subsections,16
+525,Murngin,N117,subsections,16
+525,Murngin,N117,subsections,16
+657,Murrinhpatha,N3,patri-moieties,2
+657,Murrinhpatha,N3,subsections,16
+657,Murrinhpatha,N3,totems,0
+657,Murrinhpatha,N3,patri-moieties,2
+657,Murrinhpatha,N3,subsections,16
+657,Murrinhpatha,N3,sections,0
+657,Murrinhpatha,N3,patri-moieties,2
+173,Muruwari,D32,matri-moieties,2
+173,Muruwari,D32,sections,4
+173,Muruwari,D32,sections,4
+709,Nakkara,N80,matri-moieties,2
+709,Nakkara,N80,subsections,16
+709,Nakkara,N80,subsections,16
+709,Nakkara,N80,subsections,16
+709,Nakkara,N80,patri-moieties,2
+301,Nalbo,E90,matri-moieties,2
+301,Nalbo,E90,sections,8
+417,Narungga,L1,matri-moieties,2
+428,Nauo,L2,matri-moieties,2
+428,Nauo,L2,matri-moieties,2
+702,Ndjebbana,N74,matri-moieties,2
+702,Ndjebbana,N74,subsections,16
+702,Ndjebbana,N74,subsections,16
+702,Ndjebbana,N74,patri-moieties,2
+33,Ngaanyatjarra,A38,sections,4
+33,Ngaanyatjarra,A38,generational moieties,2
+33,Ngaanyatjarra,A38,sections,4
+41,Ngaatjatjara,A43,sections,4
+41,Ngaatjatjara,A43,generational moieties,2
+41,Ngaatjatjara,A43,generational moieties,2
+25,Ngadawanga,A30,sections,4
+920,Ngadjan,Y121,patri-moieties,2
+920,Ngadjan,Y121,sections,4
+920,Ngadjan,Y121,patri-moieties,2
+920,Ngadjan,Y121,totems,10
+462,Ngadjuri,L5,matri-moieties,2
+462,Ngadjuri,L5,matri-moieties,2
+705,Ngalakgan,N77,patri-moieties,2
+705,Ngalakgan,N77,matri-moieties,2
+705,Ngalakgan,N77,patri-semi-moieties,0
+705,Ngalakgan,N77,subsections,0
+705,Ngalakgan,N77,subsections,8
+705,Ngalakgan,N77,patri-semi-moieties,4
+705,Ngalakgan,N77,patri-moieties,2
+705,Ngalakgan,N77,subsections,0
+705,Ngalakgan,N77,patri-moieties,2
+705,Ngalakgan,N77,patri-semi-moieties,4
+705,Ngalakgan,N77,subsections,16
+112,Ngalia,C2,generational moieties,2
+607,Ngaliwurru,N19,subsections,0
+607,Ngaliwurru,N19,generational moieties,0
+607,Ngaliwurru,N19,subsections,16
+138,Ngaliya,C43,subsections,16
+138,Ngaliya,C43,subsections,16
+256,Ngambaa,E5,sections,4
+431,Ngamini,L22,matri-moieties,2
+431,Ngamini,L22,matri-moieties,2
+431,Ngamini,L22,matri-semi-moieties,0
+431,Ngamini,L22,matri-moieties,2
+586,Ngan giwumirri,N17,subsections,0
+586,Ngan giwumirri,N17,subsections,0
+586,Ngan giwumirri,N17,subsections,16
+720,Ngandi,N90,patri-moieties,2
+164,Nganyaywana,D24,sections,8
+164,Nganyaywana,D24,sections,8
+164,Nganyaywana,D24,sections,4
+276,Ngarabal,E68,matri-moieties,2
+276,Ngarabal,E68,sections,8
+66,Ngardi,A69,subsections,0
+776,Ngarigu,S46,matri-moieties,2
+776,Ngarigu,S46,matri-moieties,2
+776,Ngarigu,S46,matri-moieties,2
+776,Ngarigu,S46,matri-moieties,2
+120,Ngarinyman,C27,subsections,16
+77,Ngarla (WA South of Newman),A79,sections,4
+77,Ngarla (WA South of Newman),A79,sections,4
+77,Ngarla (WA South of Newman),A79,sections,4
+77,Ngarla (WA South of Newman),A79,sections,4
+874,Ngarluma,W38,sections,4
+874,Ngarluma,W38,sections,4
+874,Ngarluma,W38,sections,4
+530,Ngarnga,N121,subsections,16
+530,Ngarnga,N121,subsections,16
+530,Ngarnga,N121,patri-semi-moieties,4
+530,Ngarnga,N121,subsections,16
+266,Ngaro,E59,sections,8
+266,Ngaro,E59,matri-moieties,2
+314,Ngawun,G17,sections,4
+314,Ngawun,G17,matri-moieties,2
+314,Ngawun,G17,totems,0
+314,Ngawun,G17,sections,4
+162,Ngiyampaa,D22,matri-moieties,4
+162,Ngiyampaa,D22,sections,8
+316,Nguburindi,G19,sections,4
+316,Nguburindi,G19,subsections,16
+316,Nguburindi,G19,patri-semi-moieties,0
+316,Nguburindi,G19,patri-moieties,0
+340,Ngulupulu,G40,matri-moieties,2
+340,Ngulupulu,G40,sections,4
+389,Ngumbarl,K4,sections,4
+817,Ngurai-illamwurrung,S83,matri-moieties,2
+817,Ngurai-illamwurrung,S83,patri-moieties,2
+188,Nguri,D46,matri-moieties,2
+188,Nguri,D46,sections,8
+2,Ngurlu,A10,sections,4
+227,Nguwera,E22,matri-moieties,2
+227,Nguwera,E22,sections,8
+227,Nguwera,E22,patri-moieties,2
+227,Nguwera,E22,underspecified sections,4
+867,Nhuwala,W30,sections,4
+99,Norseman,A99,generational moieties,2
+451,Nukunu,L4,matri-moieties,2
+451,Nukunu,L4,matri-moieties,2
+655,Nungali,N28,subsections,16
+537,Nunggubuyu,N128,patri-moieties,2
+537,Nunggubuyu,N128,patri-moieties,2
+537,Nunggubuyu,N128,patri-semi-moieties,4
+537,Nunggubuyu,N128,subsections,0
+964,Nyagali,Y162,patri-moieties,2
+964,Nyagali,Y162,patri-moieties,2
+1,Nyaki Nyaki,A1,generational moieties,2
+1,Nyaki Nyaki,A1,generational moieties,2
+54,Nyamal,A58,sections,4
+10,Nyanganyatjara,A17,sections,4
+58,Nyangumarta (coastal),A61,sections,4
+58,Nyangumarta (coastal),A61,sections,4
+1138,Nyangumarta (inland),A61b,sections,4
+928,Nyawaygi,Y129,sections,8
+377,Nyikina,K3,sections,4
+377,Nyikina,K3,sections,4
+377,Nyikina,K3,subsections,16
+414,Nyininy,K7,subsections,16
+414,Nyininy,K7,subsections,16
+414,Nyininy,K7,matri-moieties,2
+414,Nyininy,K7,patri-moieties,2
+414,Nyininy,K7,totems,10
+46,Nyiyaparli,A50,sections,4
+359,Nyulnyul,K13,sections,4
+359,Nyulnyul,K13,sections,4
+1008,Ogh Awarrangg,Y201,patri-moieties,2
+1008,Ogh Awarrangg,Y201,sections,4
+1008,Ogh Awarrangg,Y201,totems,1
+1013,Ogh Undjan,Y206,sections,4
+1013,Ogh Undjan,Y206,patri-moieties,2
+1013,Ogh Undjan,Y206,totems,3
+1095,Olkola,Y73,sections,0
+1095,Olkola,Y73,sections,4
+1095,Olkola,Y73,sections,4
+1095,Olkola,Y73,sections,4
+1095,Olkola,Y73,patri-moieties,2
+1095,Olkola,Y73,totems,3
+899,Oykangand,Y101,sections,4
+899,Oykangand,Y101,sections,4
+899,Oykangand,Y101,patri-moieties,2
+899,Oykangand,Y101,sections,4
+899,Oykangand,Y101,totems,6
+151,Paakantyi,D12,matri-moieties,2
+151,Paakantyi,D12,matri-moieties,2
+151,Paakantyi,D12,matri-moieties,2
+151,Paakantyi,D12,matri-moieties,2
+151,Paakantyi,D12,underspecified sections,0
+151,Paakantyi,D12,totems,4
+189,Paaruntyi,D47,matri-moieties,2
+189,Paaruntyi,D47,matri-moieties,2
+1085,Pakanh,Y64,patri-moieties,2
+1085,Pakanh,Y64,patri-moieties,2
+52,Palyku,A55,sections,4
+472,Parnkalla,L6,matri-moieties,2
+472,Parnkalla,L6,matri-moieties,2
+472,Parnkalla,L6,matri-moieties,2
+861,Payungu,W23,sections,4
+88,Pililuna,A89,sections,4
+1136,Pindiini,A102,generational moieties,2
+870,Pinikura,W34,sections,4
+892,Pinjarup,W6,matri-moieties,2
+892,Pinjarup,W6,matri-moieties,2
+892,Pinjarup,W6,patri-semi-moieties,0
+101,Pintupi,C10,generational moieties,2
+101,Pintupi,C10,sections,4
+101,Pintupi,C10,subsections,16
+101,Pintupi,C10,sections,4
+101,Pintupi,C10,subsections,16
+101,Pintupi,C10,subsections,16
+419,Pirladapa,L11,matri-moieties,2
+447,Pirriya,L36,matri-moieties,2
+447,Pirriya,L36,sections,8
+142,Pitjantjatjara,C6,generational moieties,2
+142,Pitjantjatjara,C6,generational moieties,2
+142,Pitjantjatjara,C6,generational moieties,2
+142,Pitjantjatjara,C6,generational moieties,2
+350,Pitta Pitta,G6,matri-moieties,2
+350,Pitta Pitta,G6,sections,4
+350,Pitta Pitta,G6,sections,4
+350,Pitta Pitta,G6,matri-moieties,2
+350,Pitta Pitta,G6,sections,4
+435,Punthamara,L26,matri-moieties,2
+435,Punthamara,L26,sections,8
+435,Punthamara,L26,underspecified sections,4
+435,Punthamara,L26,matri-moieties,2
+435,Punthamara,L26,matri-moieties,2
+862,Purduna,W24,sections,4
+51,Putijarra,A54,sections,4
+51,Putijarra,A54,patri-moieties,2
+51,Putijarra,A54,generational moieties,2
+339,Rakaya,G4,matri-moieties,2
+339,Rakaya,G4,sections,4
+701,Rembarrnga,N73,subsections,16
+701,Rembarrnga,N73,patri-moieties,2
+701,Rembarrnga,N73,matri-moieties,2
+701,Rembarrnga,N73,subsections,16
+351,Ringu Ringu,G7,matri-moieties,2
+351,Ringu Ringu,G7,sections,4
+486,Ritharrngu,N104,patri-moieties,2
+486,Ritharrngu,N104,subsections,16
+924,Tagalaka,Y125,sections,4
+924,Tagalaka,Y125,patri-moieties,2
+924,Tagalaka,Y125,sections,4
+736,Tanganekald,S11,patri-moieties,2
+239,Taribelang,E33,matri-moieties,2
+239,Taribelang,E33,sections,8
+766,Taungurung,S37,matri-moieties,2
+766,Taungurung,S37,patri-moieties,2
+864,Thalanyji,W26,sections,4
+153,Thangkaali,D14,matri-moieties,2
+859,Tharrkari,W21,sections,4
+863,Thiin,W25,sections,4
+883,Thirrily,W46,sections,4
+26,Tjupany,A31,sections,4
+296,Turubul,E86,sections,8
+296,Turubul,E86,sections,8
+296,Turubul,E86,matri-moieties,2
+296,Turubul,E86,matri-moieties,2
+1069,Umbindhamu,Y50,patri-moieties,2
+1063,Umpila,Y45,patri-moieties,2
+364,Ungarinyin,K18,patri-moieties,2

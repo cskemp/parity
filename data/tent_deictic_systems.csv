@@ -1,0 +1,158 @@
+phylum_family,sub_group,orig_language,language,gcode,system_type,complexity
+OTO-MANGUEAN,zapotecan,AmatlaÂn Zapotec,Amatlán Zapotec,amat1238,-2 N + 2,5
+AUSTRONESIAN,oceanic,AnejomÄ,Aneityum,anei1239,-3 N + 3,7
+AUSTRONESIAN,oceanic,`Are`are,'Are'are,area1240,-2 N + 2,5
+AUSTRONESIAN,oceanic,Arosi,Arosi,aros1241,-4 N +4,9
+ANDEAN-EQUATORIAL,arawakan,AshaÂ ninca,Asháninka,asha1243,-2 N + 2,5
+AUSTRONESIAN,formosan,Atayal,Atayal,atay1247,-2 N + 2,5
+PAEZAN-BARBACOAN,NA,Cuaiquer~Awa Pit,Awa-Cuaiquer,awac1239,-1 N + 2,4
+INDO-PACIFIC,NA,Ayiwo,Äiwoo,ayiw1239,-2 N + 2,5
+ALTAIC,turkic,Azeri,Central Oghuz,azer1255,-3 N + 3,7
+ISOLATE,NA,Basque,Basque,basq1248,-2 N + 3,6
+ALTAIC,mongolean,Bonan,Bonan,bona1250,-2 N + 2,5
+INDO-EUROPEAN,italic,Portuguese (Brasilian),Brazilian Portuguese,braz1246,-3 N + 2,6
+INDO-EUROPEAN,slavic,Bulgarian,Bulgarian,bulg1262,-2 N + 2,5
+ALTAIC,mongolean,Buriat,Buriat,buri1258,-2 N + 2,5
+AZTEC-TANOAN,NA,Cahuilla,Cahuilla,cahu1264,-1 N + 1,3
+GE-PANO-CARIB,NA,Capanahua,Capanahua,capa1241,-2 N + 2,5
+AUSTRONESIAN,indonesian,Chamorro,Chamorro,cham1312,-2 N + 2,5
+AUSTRONESIAN,oceanic,Cheke Holo~Maringe,Cheke Holo,chek1238,-3 N + 3,7
+IROQUOIAN,NA,Cherokee,Cherokee,cher1273,-1 N + 1,3
+MACRO-ALGONQUIAN,algonquian,Cheyenne,Cheyenne,chey1247,-1 N + 1,3
+CHIBCHAN,NA,Chibcha~Muisca (Extinct),Chibcha,chib1270,-5 N +5,11
+MACRO-ALGONQUIAN,muskogean,Chickasaw,Chickasaw,chic1270,-2 N + 2,5
+MACRO-ALGONQUIAN,muskogean,Choctaw,Choctaw,choc1276,-2 N + 2,5
+AFRO-ASIATIC,semitic,Arabic (Classical),Classical Arabic,clas1259,-3 N + 3,7
+OTO-MANGUEAN,mixtecan,Coatzopan Mixtec,Coatzospan Mixtec,coat1241,-2 N + 3,6
+OTO-MANGUEAN,chinantecan,Comaltepec Chinantec,Comaltepec Chinantec,coma1246,-4 N +4,9
+OTO-MANGUEAN,mixtecan,Copala Trique,Copala Triqui,copa1237,-2 N + 2,5
+INDO-EUROPEAN,slavic,Czech,Czech,czec1258,-2 N + 2,5
+INDO-EUROPEAN,germanic,Danish,Danish,dani1285,-2 N + 2,5
+ALTAIC,mongolean,Daghur,Dagur,daur1238,-2 N + 2,5
+ALTAIC,mongolean,Dongxiang,Dongxiang,dong1285,-2 N + 2,5
+AFRO-ASIATIC,omotic,Dorze,Dorze,dorz1235,-2 N + 2,5
+INDO-EUROPEAN,germanic,Dutch,Dutch,dutc1256,-2 N + 2,5
+OTO-MANGUEAN,otomian,Eastern OtomÂõ,Eastern Otomi,east2737,-2 N + 2,5
+ARTIFICIAL,NA,Esperanto,Esperanto,espe1235,-3 N + 3,7
+URALIC,finno-urgic,Estonian,Estonian,esto1258,-2 N + 2,5
+ALTAIC,tungus,Evenki~Solon,Evenki,even1259,-2 N + 2,5
+INDO-EUROPEAN,indo-iranian,Farsi,Farsic-Caucasian Tat,fars1254,-4 N + 3,8
+AUSTRONESIAN,oceanic,Fijian (Standard),Fijian,fiji1243,-2 N + 2,5
+URALIC,finno-urgic,Finnish,Finnish,finn1318,-2 N + 2,5
+INDO-EUROPEAN,italic,Galician,Galician,gali1258,-3 N + 2,6
+GE-PANO-CARIB,NA,Carib,Galibi Carib,gali1262,-3 N + 3,7
+AUSTRONESIAN,oceanic,Kiribati~Gilbertese,Gilbertese,gilb1244,-2 N + 2,5
+INDO-EUROPEAN,hellenic,Greek (Modern),Greek,gree1276,-2 N + 2,5
+ANDEAN-EQUATORIAL,arawakan,Guahibo,Guahibo-Playero,guah1254,-3 N + 3,7
+AZTEC-TANOAN,NA,Guerrero Nahuatl,Central Guerrero Nahuatl,guer1241,-3 N + 3,7
+OTO-MANGUEAN,amuzgoan,Guerrero Amuzgo,Guerrero Amuzgo,guer1243,-3 N + 2,6
+OTO-MANGUEAN,zapotecan,Guevea De Humboldt Zapotec,Guevea De Humboldt Zapotec,guev1238,-2 N + 2,5
+AUSTRONESIAN,oceanic,Raga,Hano,hano1246,-2 N + 2,5
+AFRO-ASIATIC,chadic,Hausa,Hausa,haus1257,-2 N + 5,8
+AUSTRONESIAN,oceanic,Hawai`ian,Hawaiian,hawa1245,-2 N + 2,5
+AFRO-ASIATIC,semitic,Hebrew (Modern),Modern Hebrew,hebr1245,-2 N + 2,5
+MIXE-ZORQUE,NA,Sierra Popoluca,Highland Popoluca,high1276,-2 N + 2,5
+INDO-EUROPEAN,indo-iranian,Hindi,Hindi,hind1269,-4 N +4,9
+PENUTIAN,mayan,Veracruz Huasteco,Huastec,huas1242,-3 N + 3,7
+AUSTRONESIAN,oceanic,Hula,Hula,hula1239,-2 N + 2,5
+URALIC,finno-urgic,Hungarian,Hungarian,hung1274,-2 N + 2,5
+INDO-EUROPEAN,germanic,Icelandic,Icelandic,icel1247,-2 N + 2,5
+INDO-PACIFIC,NA,Ipili,Ipili,ipil1240,-2 N + 3,6
+INDO-EUROPEAN,celtic,Gaelic (Irish & Scottish),Irish,iris1253,-2 N + 2,5
+INDO-EUROPEAN,italic,Italian,Italian,ital1282,-2 N + 2,5
+KHOISAN,NA,Ju/`hoasi,South-Eastern Ju,juho1239,-2 N + 2,5
+KHOISAN,NA,!XuÄ,Ju-Kung,juku1256,-2 N + 2,5
+INDO-PACIFIC,NA,Kalam,Kalam,kala1397,-6 N +6 (and beyond),13
+NIGER-CONGO,bantu,Kalanga,Kalanga-Nambya,kala1405,-3 N + 3,7
+ALTAIC,mongolean,Kalmyk-Oirat,Kalmyk,kalm1244,-2 N + 2,5
+ALTAIC,turkic,Kazakh,Kazakh,kaza1248,-2 N + 2,5
+AUSTRO-ASIATIC,mon-khmer,Khmu`,Khmu,khmu1256,-4 N +4,9
+AUSTRONESIAN,oceanic,Kilivia,Kilivila,kili1267,-3 N + 3,7
+ALTAIC,turkic,Kyrghyz,Kirghiz,kirg1245,-2 N + 2,5
+INDO-PACIFIC,NA,Komba,Komba,komb1273,-3 N + 3,7
+INDO-PACIFIC,NA,Kope,Kope,kope1239,-2 N + 2,5
+ALTAIC,korean,Korean,Korean,kore1280,-3 N + 3,7
+AUSTRONESIAN,oceanic,Kwaio,Kwaio,kwai1243,-2 N + 2,5
+TAI,NA,Thai,Kxoe-Ani,kxoe1242,-2 N + 2,5
+PENUTIAN,mayan,LacandoÂ n,Lacandon,laca1243,-4 N + 3,8
+OTO-MANGUEAN,zapotecan,Lachixio Zapotec,Lachixío Zapotec,lach1249,-2 N + 2,5
+TAI,NA,Lao,Lao,laoo1244,-3 N + 2,6
+AUSTRONESIAN,oceanic,Lenakel,Lenakel,lena1238,-3 N + 3,7
+INDO-EUROPEAN,baltic,Lithuanian,Lithuanian,lith1251,-2 N + 3,6
+AZTEC-TANOAN,NA,LuisenÄo,Luiseño,luis1254,-1 N + 1,3
+AUSTRONESIAN,indonesian,Malagasy,Malagasic,mala1537,-4 N +4,9
+MACRO- ALGONQUIAN,algonquian,Maliseet-Passamaquoddy,Malecite-Passamaquoddy,male1292,-2 N + 1,4
+AFRO-ASIATIC,semitic,Maltese,Maltese,malt1254,-2 N + 3,6
+ALTAIC,tungus,Manchu,Manchu,manc1252,-2 N + 2,5
+SINO-TIBETAN,sinitic,Mandarin,Mandarin Chinese,mand1415,-3 N + 3,7
+AUSTRONESIAN,oceanic,MaÅori,Maori,maor1246,-3 N + 3,7
+AUSTRONESIAN,oceanic,Central Buang,Mapos Buang,mapo1242,-2 N + 2,5
+AUSTRONESIAN,oceanic,Marshallese,Marshallese,mars1254,-3 N + 3,7
+AZTEC-TANOAN,NA,Mayo,Mayo,mayo1264,-2 N + 2,5
+SUBTIABA-TLAPANEC,NA,MeÁ `phaÁ aÁ ~Tlapanec,Mephaa,meph1234,-3 N + 3,7
+ALTAIC,mongolean,Mongolian,Mongolian,mong1331,-2 N + 2,5
+PIDGINS & CREOLES,NA,Mauritian & Seychelles Creoles,Morisyen,mori1278,-2 N + 2,5
+AUSTRONESIAN,oceanic,Motu,Motu,motu1246,-2 N + 2,5
+ALTAIC,tungus,Nanai,Nanai,nana1257,-2 N + 2,5
+MACRO-ALGONQUIAN,algonquian,Naskapi,Naskapi,nask1242,-2 N + 2,5
+URALIC,finno-urgic,Northern SaÂmi,North Saami,nort2671,-2 N + 2,5
+AZTEC-TANOAN,NA,Northern Paiute,Northern Paiute,nort2954,-2 N + 1,4
+ANDEAN-EQUATORIAL,quechuan,Bolivian Quechua,North Bolivian Quechua,nort2976,-2 N + 2,5
+INDO-EUROPEAN,germanic,Norwegian,Norwegian,norw1258,-2 N + 2,5
+ALTAIC,turkic,Turkish,Turkish,nucl1301,-2 N + 2,5
+DRAVIDIAN,NA,Kannada,Kannada,nucl1305,-4 N +4,9
+ALTAIC,japanese,Japanese,Japanese,nucl1643,-3 N + 3,7
+AUSTRONESIAN,indonesian,Malay,Nuclear Malayic,nucl1806,-2 N + 3,6
+ALTAIC,tungus,Orochen,Oroch,oroc1248,-2 N + 2,5
+AUSTRONESIAN,formosan,Paiwan,Paiwan,paiw1248,-2 N + 2,5
+AUSTRONESIAN,indonesian,Palauan,Palauan,pala1344,-2 N + 2,5
+PIDGINS & CREOLES,NA,Solomon Islands Pijin & Tok Pisin,Pijin,piji1239,-2 N + 2,5
+INDO-EUROPEAN,slavic,Polish,Polish,poli1260,-2 N + 2,5
+AUSTRONESIAN,chamic,Rhade,Rade,rade1240,-2 N + 2,5
+INDO-EUROPEAN,italic,Rumanian,Romanian,roma1327,-3 N + 3,7
+AUSTRONESIAN,oceanic,Rotuman,Rotuman,rotu1241,-3 N + 3,7
+AUSTRONESIAN,oceanic,Roviana,Roviana,rovi1238,-3 N + 3,7
+INDO-EUROPEAN,slavic,Russian,Russian,russ1263,-2 N + 2,5
+ALTAIC,turkic,Salar,Salar,sala1264,-2 N + 2,5
+AUSTRONESIAN,oceanic,SaÅmoan,Samoan,samo1305,-2 N + 2,5
+OTO-MANGUEAN,popolacan,San JeroÂnimo Mazatec,San Jerónimo Tecóatl Mazatec,sanj1286,-2 N + 2,5
+OTO-MANGUEAN,zapotecan,Albarradas Zapotec,Santo Domingo Albarradas Zapotec,sant1450,-3 N + 3,7
+AUSTRONESIAN,oceanic,Erromangan~Sie,Sie,siee1239,-5 N +5,11
+INDO-EUROPEAN,slavic,Slovene,Slovenian,slov1268,-2 N + 2,5
+INDO-EUROPEAN,slavic,Sorbian,Sorbian,sorb1249,-2 N + 2,5
+INDO-EUROPEAN,slavic,Serbo-Croatian,Serbian-Croatian-Bosnian,sout1528,-3 N + 3,7
+NIGER-CONGO,bantu,Southern Sotho,Southern Sotho,sout2807,-3 N + 2,6
+AZTEC-TANOAN,NA,South-eastern Puebla Nahuatl,Southeastern Puebla Nahuatl,sout2973,-2 N + 2,5
+AZTEC-TANOAN,NA,Southern Tepehuan,Southern Tepehuan,sout2975,-3 N + 2,6
+OTO-MANGUEAN,mixtecan,Eastern Mixtec,Southeastern Alta Mixtec,sout3400,-2 N + 2,5
+INDO-EUROPEAN,italic,Spanish,Spanish,stan1288,-2 N + 2,5
+INDO-EUROPEAN,italic,Catalan,Catalan,stan1289,-2 N + 2,5
+INDO-EUROPEAN,italic,French,French,stan1290,-2 N + 2,5
+INDO-EUROPEAN,germanic,English,English,stan1293,-1 N + 1,3
+INDO-EUROPEAN,germanic,German,German,stan1295,-2 N + 2,5
+INDO-PACIFIC,NA,Sulka,Sulka,sulk1246,-2 N + 2,5
+NIGER-CONGO,bantu,Kiswahili,Swahili (G.40),swah1254,-4 N +4,9
+INDO-EUROPEAN,germanic,Swedish,Swedish,swed1254,-2 N + 2,5
+AUSTRONESIAN,indonesian,Tagalog,Tagalog,taga1270,-2 N + 2,5
+AUSTRONESIAN,oceanic,Tahitian,Tahitian,tahi1242,-2 N + 2,5
+SINO-TIBETAN,sinitic,Taiwanese,Taibei Hokkien,taib1242,-3 N + 3,7
+ALTAIC,turkic,Tatar,Tatar,tata1255,-2 N + 2,5
+AUSTRONESIAN,oceanic,Tolo,Tolo,tolo1253,-2 N + 2,5
+AUSTRONESIAN,oceanic,Tongan,Tonga (Tonga Islands),tong1325,-2 N + 2,5
+NIGER-CONGO,bantu,Tswana,Tswana,tswa1253,-2 N + 2,5
+ALTAIC,mongolean,Tu~Monghur,Monguoric,tuuu1240,-2 N + 2,5
+AUSTRONESIAN,oceanic,Tuvaluan,Tuvalu,tuva1244,-2 N + 2,5
+ALTAIC,turkic,Tuva,Tuvinian,tuvi1240,-2 N + 2,5
+PENUTIAN,mayan,Huixtec Tzotzil,Tzotzil,tzot1259,-3 N + 3,7
+ALTAIC,turkic,Uyghur,Uighur,uigh1240,-2 N + 2,5
+OTO-MANGUEAN,chinantecan,Usila Chinantec,Usila Chinantec,usil1237,-2 N + 2,5
+ALTAIC,turkic,Uzbek,Uzbek,uzbe1247,-2 N + 2,5
+INDO-PACIFIC,NA,Varapu,Bauni,wara1302,-3 N + 3,7
+INDO-EUROPEAN,celtic,Welsh,Welsh,wels1247,-2 N + 3,6
+INDO-EUROPEAN,germanic,Low Saxon,West Low German,west2357,-2 N + 2,5
+AUSTRONESIAN,oceanic,Wayan,Western Viti Levu-Yasawas Fijian,west2519,-6 N +6 (and beyond),13
+ALTAIC,tungus,Sibe,Xibe,xibe1242,-2 N + 2,5
+AUSTRONESIAN,oceanic,Yapese,Yapese,yape1248,-3 N + 3,7
+OTO-MANGUEAN,zapotecan,Yatzachi Zapotec,Yatzachi Zapotec,yatz1235,-3 N + 3,7
+PENUTIAN,mayan,Yucatec,Yucatec Maya,yuca1254,-3 N + 3,7
+INDO-PACIFIC,NA,Natleba,NA,NA,-3 N + 3,7

@@ -1,0 +1,222 @@
+---
+title: "Additional figures"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(here)
+library(tidyverse)
+library(patchwork)
+library(rgl)
+
+mytheme <-  theme_classic(base_size = 10)  +
+            theme(strip.background = element_blank()) 
+
+odd_even_cols <- c("#619CFF", "#F8766D")
+```
+
+# Additional figures
+
+This notebook creates some additional figures appearing in Kemp, Even or Odd? Symmetry and the size of category systems across languages.
+
+## Seasons / Moon Phases
+Make pieces for the seasons/moon phases figure
+
+```{r rgl_season, include=TRUE}
+s <- 0.5
+x <- seq(2*pi, (1/s) * 5* pi, 0.03)
+z <- sin(s*x)
+y <- 0 * x
+
+open3d()
+
+bg3d("white")
+
+# Plot the points
+plot3d(
+  x, y, z,
+  col = "grey",            # Set color to grey
+  size = 1,              # Set size of points
+  type = "p",              # Use spheres for points
+  box = TRUE,
+  axes = FALSE,
+  xlab = "", ylab = "", zlab = ""  # Remove axis labels
+)
+
+#segments3d(c(0,30),c(0,0), c(-2,-2), col = "black")
+
+view3d(90,40)
+
+# Set scaling for x and y axes
+aspect3d(1.5, 1, 1)   
+
+rgl.postscript(here("output", "figures", "sinusoid.svg"), fmt="svg")
+```
+
+```{r rgl_helix, include=TRUE}
+
+s <- 0.5
+x <- seq(0, (1/s) * 5* pi, 0.44)
+z <- sin(s*x)
+y <- cos(s*x)
+
+test <- tibble(x=x, y=y, z=z) %>% 
+  mutate(year = if_else(x > 6*pi, 1, 2)) %>% 
+  mutate(year = if_else(x < 2*pi, 3, year)) 
+  
+
+yr1 <- test %>% 
+  filter(year == 1)
+yr2 <- test %>% 
+  filter(year == 2)
+yr3 <- test %>% 
+  filter(year == 3)
+
+open3d()
+
+bg3d("white")
+
+# Plot the points
+plot3d(
+  yr3$x, yr3$y, yr3$z,
+  col = "lightgreen",            # Set color to grey
+  size = 4,              # Set size of points
+  #type = "s",              # Use spheres for points
+  type = "p",              # Use spheres for points
+  box = TRUE,
+  axes = FALSE,
+  xlab = "", ylab = "", zlab = ""  # Remove axis labels
+)
+
+points3d(
+  yr2$x, yr2$y, yr2$z,
+  col = "lightblue",
+  size = 4
+)
+
+points3d(
+  yr1$x, yr1$y, yr1$z,
+  col = "grey",
+  size = 4
+)
+
+view3d(90,40)
+
+# Set scaling for x and y axes
+aspect3d(1.5, 1, 1)   
+
+rgl.postscript(here("output", "figures", "helix.svg"), fmt="svg")
+
+```
+
+## Color
+
+```{r color_space}
+
+# Parameters
+n <- 500  # Resolution of the grid (higher = smoother gradients)
+
+# Create a grid of x and y coordinates
+grid <- expand.grid(
+  x = seq(-1, 1, length.out = n),
+  y = seq(-1, 1, length.out = n)
+)
+
+# Compute radial and angular coordinates, and assign colors
+
+ymult <- 1 # scaling to change apparent size of yellow region (unused)
+rexp <- 2  # scaling to make central white region noticeable
+
+grid <- grid %>%
+  mutate(
+    r = sqrt(x^2 + y^2),                # Radial distance from center
+    rpow = r^rexp,                # Radial distance from center
+    theta = atan2(y, x),                # Angle in radians
+    r = ifelse(r > 1, NA, r),            # Keep points inside the circle
+    xnorm = x/r,
+    ynorm = y/r
+  ) %>%
+  filter(!is.na(r)) %>%                 # Remove points outside the circle
+  mutate(
+    # Map to the Red-Green and Blue-Yellow axes
+    red = pmax(0, xnorm) + ymult * pmax(0, ynorm),      # Red increases with positive x and yellow (positive y)
+    green = pmax(0, -xnorm) +ymult *  pmax(0, ynorm),   # Green increases with negative x and yellow (positive y)
+    blue = pmax(0, -ynorm),                 # Blue increases with negative y only
+    # Normalize and blend with white toward the center
+    color = rgb(
+      pmin(1, red * rpow + (1 - rpow)),       # Cap red values to [0, 1]
+      pmin(1, green * rpow + (1 - rpow)),     # Cap green values to [0, 1]
+      pmin(1, blue * rpow + (1 - rpow))       # Cap blue values to [0, 1]
+    )
+  )
+
+# Plot the smooth color disk
+plim <- 1.85
+
+disk_plot <- ggplot(grid, aes(x = x, y = y, fill = color)) +
+  geom_raster("interpolate" = TRUE) +                # No borders for smooth look
+  scale_fill_identity() +                # Use custom fill colors
+  coord_fixed() +                        # Eq ual aspect ratio
+  theme_void() +                         # Remove axes and background
+  # Add axis labels
+  annotate("text", x = 1.2, y = 0, label = "Red", color = "black", size = 3, hjust = 0) +
+  annotate("text", x = -1.2, y = 0, label = "Green", color = "black", size = 3, hjust = 1) +
+  annotate("text", x = 0, y = 1.2, label = "Yellow", color = "black", size = 3, vjust = 0) +
+  annotate("text", x = 0, y = -1.2, label = "Blue", color = "black", size = 3, vjust = 1) +
+  xlim(c(-plim, plim)) + ylim(c(-plim,plim))
+
+```
+
+```{r color_system}
+# Parameters
+n <- 100  # Number of points per wedge (smoothness)
+r_outer <- 1  # Outer radius of the wedges
+r_inner <- 0.4  # Radius of the gray circle
+
+# Function to generate wedge coordinates (extending to the center)
+generate_wedge <- function(start_angle, end_angle, r) {
+  tibble(
+    angle = c(start_angle, seq(start_angle, end_angle, length.out = n), end_angle),
+    x = c(0, r * cos(seq(start_angle, end_angle, length.out = n)), 0),
+    y = c(0, r * sin(seq(start_angle, end_angle, length.out = n)), 0)
+  )
+}
+
+# Generate data for the wedges (extending to the center)
+yellow_wedge <- generate_wedge(pi/4, 3*pi/4, r_outer) %>% mutate(color = "yellow")
+red_wedge <- generate_wedge(-pi/4, pi/4, r_outer) %>% mutate(color = "red")
+blue_wedge <- generate_wedge(5*pi/4, 7*pi/4, r_outer) %>% mutate(color = "blue")
+green_wedge <- generate_wedge(3*pi/4, 5*pi/4, r_outer) %>% mutate(color = "green")
+
+# Combine wedges into one dataset
+wedges <- bind_rows(yellow_wedge, red_wedge, blue_wedge, green_wedge)
+
+# Generate data for the gray circle
+gray_circle <- tibble(
+  angle = seq(0, 2 * pi, length.out = n),
+  x = r_inner * cos(angle),
+  y = r_inner * sin(angle),
+  color = "gray"
+)
+
+# Plot
+system_plot  <- ggplot() +
+  # Plot wedges (order matters: plot wedges first)
+  geom_polygon(data = wedges, aes(x = x, y = y, fill = color, group = color), color = NA) +
+  # Plot gray circle (overlap the center completely)
+  geom_polygon(data = gray_circle, aes(x = x, y = y), fill = "gray", color = "gray") +
+  scale_fill_identity() +
+  coord_fixed() +  # Equal aspect ratio
+  theme_void() +
+annotate("text", x = 1.2, y = 0, label = "Red", color = NULL, size = 5, hjust = 0) +
+  annotate("text", x = -1.2, y = 0, label = "Green", color = NULL, size = 5, hjust = 1) +
+  annotate("text", x = 0, y = 1.2, label = "Yellow", color = NULL, size = 5, vjust = 0) +
+  annotate("text", x = 0, y = -1.2, label = "Blue", color = NULL, size = 5, vjust = 1) +
+  xlim(c(-plim, plim)) + ylim(c(-plim,plim))
+
+color_plot <- disk_plot + system_plot +
+    plot_annotation(tag_levels = c('a'), tag_suffix = ')')
+
+ggsave(here("output", "figures", "color.pdf"), plot = color_plot, width = 4,height = 2)
+```
