@@ -5,5 +5,5 @@ This folder includes data files for all domains except for color. Color data are
 `ozspace_sizes.csv` is derived from the original data base of locational systems provided by Dorothea Hoffmann, Bill Palmer and Alice Gaby. This data base is not included in this repository.
 
 ## raw data
-Raw data files for several domains are included in `rawdata/`
+Raw data files for several domains are included in `rawdata/`. A complete version of the moon phase data is included in `rawdata/moon_phases/`
 

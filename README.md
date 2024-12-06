@@ -12,8 +12,3 @@ Includes two notebooks that run the main analyses and create figures for the man
 
 Includes data files for domains considered in the paper
 
- includes data files for all domains except for color. Color data are based on the `wcs` package prepared by jvosten.
-
-
-
-
