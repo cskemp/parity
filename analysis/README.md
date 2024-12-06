@@ -1,7 +1,8 @@
+## Analyses
 
-The main analysis notebook is `plot_sizes.Rmd`.
+The main analysis notebook is `main_analyses.Rmd`.
 
-`make_figs.Rmd` generates figure panels for seasons, moon phases, and color.
+`additional_figures.Rmd` generates figure panels for seasons, moon phases, and color.
 
 
 
