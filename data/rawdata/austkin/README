@@ -1,18 +1,18 @@
-Searched for systems with social categories on Austkin:
+We first searched for systems with social categories on Austkin:
 
 http://www.austkin.net/index.php?loc=complexsearch&condition=or&word=&term1=0&term2=0&soccat%5B%5D=generational+moieties&soccat%5B%5D=matri-moieties&soccat%5B%5D=matri-semi-moieties&soccat%5B%5D=patri-moieties&soccat%5B%5D=patri-semi-moieties&soccat%5B%5D=phratries&soccat%5B%5D=sections&soccat%5B%5D=underspecified+sections&soccat%5B%5D=subsections&soccat%5B%5D=totems&marriage%5B%5D=0&submit=Search+and+map
 
 Social Categories
 You searched for: generational moieties or matri-moieties or matri-semi-moieties or patri-moieties or patri-semi-moieties or phratries or sections or underspecified sections or subsections or totems
 
-Then
+Then saved this page as a html and used this command to pull out system ids:
 
 > grep -o 'id=[0-9]\+' aa.html > austkin_ids.txt
 
-This has repeats! Take the ids in the second part of the file
-
-Then run
+The resulting file has repeats, so we take the ids in the second part of the file. We then run 
 
 > python scrape_austkin.py > austkin_scrape.txt
 > python parse_scrape.py
+
+The first command scrapes systems from the AustKin site, and the second converts the output into the form we need for our analyses.
 
