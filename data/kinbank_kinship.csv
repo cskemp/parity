@@ -1,23 +1,4 @@
 language_ID,glottocode,glottolog_name,size,class
-ErzyaMordvin,erzy1239,Erzya,6,siblings
-Estonian,esto1258,Estonian,2,siblings
-Finnish,finn1318,Finnish,2,siblings
-ForestEnets,fore1265,Forest Enets,8,siblings
-HillMari,west2392,Western Mari,6,siblings
-Hungarian,hung1274,Hungarian,6,siblings
-KazymKhanty,nort2672,Kazym Khanty,6,siblings
-KomiZyrian,komi1268,Komi-Zyrian,2,siblings
-Livonian,livv1244,Liv,2,siblings
-MeadowMari,gras1239,Grassland Mari,6,siblings
-MokshaMordvin,moks1248,Moksha,5,siblings
-Nganasan,ngan1291,Nganasan,3,siblings
-NorthSaami,nort2671,North Saami,6,siblings
-SkoltSaami,skol1241,Skolt Saami,2,siblings
-SosvaMansi,nort2677,Sosva Mansi,5,siblings
-SouthSaami,sout2674,South Saami,4,siblings
-TundraNenets,nene1249,Tundra Nenets,7,siblings
-Udmurt,udmu1245,Udmurt,5,siblings
-Veps,veps1250,Veps,4,siblings
 p_abuiabui1241,abui1241,Abui,4,siblings
 p_achineseachi1257,achi1257,Acehnese,4,siblings
 p_adangadan1251,adan1251,Adang,3,siblings
@@ -540,8 +521,6 @@ p_tetundilitetumtetu1246,tetu1246,Tetun Dili,5,siblings
 p_thaothao1240,thao1240,Thao,1,siblings
 p_thayorekuukthaayorrethay1249,thay1249,Thayore,4,siblings
 p_tialotominitomi1243,tomi1243,Tomini,2,siblings
-p_tidoreversion1tido1248,tido1248,Tidore,6,siblings
-p_tidoreversion2tido1248a,tido1248,Tidore,5,siblings
 p_tigaktiga1245,tiga1245,Tigak,2,siblings
 p_tikopiatiko1237a,tiko1237,Tikopia,2,siblings
 p_tiraxmaemaee1241,maee1241,Tirax,2,siblings
@@ -614,8 +593,8 @@ p_xalangimaevovanuatumari1426h,mari1426,Sunwadia,2,siblings
 p_xaracuucanalaxara1244,xara1244,Xârâcùù,3,siblings
 p_xawia1234,awia1234,Awiakay-Karimba,6,siblings
 p_xibexibe1242,xibe1242,Xibe,4,siblings
-p_xmala1294,mala1294,NA,6,siblings
-p_xtido1249,tido1249,NA,4,siblings
+p_xmala1494,mala1494,Mala (Papua New Guinea),6,siblings
+p_xtido1248,tido1248,Tidore,4,siblings
 p_yabemyabe1254,yabe1254,Yabem,4,siblings
 p_yadhaykenuyadh1237,yadh1237,Yadhaykenu,4,siblings
 p_yagwoiayagw1240,yagw1240,Yagwoia,4,siblings
@@ -640,9 +619,10 @@ v_aghulaghu1253,aghu1253,Aghul,3,siblings
 v_aguarunaagua1253,agua1253,Aguaruna,4,siblings
 v_akhvakhnorthernakhvakhakhv1239,akhv1239,Akhvakh,4,siblings
 v_akkadianakka1240,akka1240,Akkadian,6,siblings
-v_albanianalba1267,alba1267,Albanian,5,siblings
+v_albanianalba1267,alba1267,Albanian,4,siblings
 v_albaniantosktosk1239,tosk1239,Northern Tosk Albanian,3,siblings
 v_alyawarralya1239,alya1239,Alyawarr,7,siblings
+v_ameleamel1241,amel1241,Amele,2,siblings
 v_amharicamha1245,amha1245,Amharic,4,siblings
 v_amisamis1246,amis1246,Amis,3,siblings
 v_anambeanam1249,anam1249,Anambé,5,siblings
@@ -654,7 +634,7 @@ v_arawetearaw1273,araw1273,Araweté,6,siblings
 v_archiarch1244,arch1244,Archi,4,siblings
 v_arizonayaquiyaqu1251a,yaqu1251,Yaqui,1,siblings
 v_armeniannucl1235,nucl1235,Eastern Armenian,2,siblings
-v_assameseassa1263,assa1263,Assamese,5,siblings
+v_assameseassa1263,assa1263,Assamese,4,siblings
 v_asutanzaniaasut1235,asut1235,Asu (Tanzania),6,siblings
 v_atayalatay1247,atay1247,Atayal,3,siblings
 v_atsugewiatsu1245,atsu1245,Atsugewi,3,siblings
@@ -666,7 +646,9 @@ v_avarbatluxbatl1238,batl1238,Batlux,4,siblings
 v_avarhiddialecthidd1238,hidd1238,Hid,4,siblings
 v_avazkhunzakhkunz1243,kunz1243,Xunzax,4,siblings
 v_avestanaves1237,aves1237,Avestan,2,siblings
+v_awaawap1236,awap1236,Awa (Papua New Guinea),5,siblings
 v_awetiawet1244,awet1244,Awetí,7,siblings
+v_awiyaanaawiy1238,awiy1238,Awiyaana,5,siblings
 v_ayoreoayor1240,ayor1240,Ayoreo,4,siblings
 v_aztecclas1250,clas1250,Classical Nahuatl,2,siblings
 v_badimayabadi1246,badi1246,Badimaya,4,siblings
@@ -676,8 +658,9 @@ v_balicongobali1274,bali1274,Bali (Democratic Republic of Congo),1,siblings
 v_balidrcbali1275,bali1275,Ibali Teke,1,siblings
 v_balochibalo1260,balo1260,Balochic,1,siblings
 v_bamunbamu1253,bamu1253,Bamun,3,siblings
-v_bandjalangband1339,band1339,Bandjalangic,18,siblings
+v_bandjalangband1339,band1339,Bandjalangic,14,siblings
 v_bannockbann1248,bann1248,Bannock,4,siblings
+v_barainucl1630,nucl1630,Barai,4,siblings
 v_baribari1297,bari1297,Barí,2,siblings
 v_basquebasq1248,basq1248,Basque,2,siblings
 v_basquewest1508,west1508,Western Low Navarrese,8,siblings
@@ -738,7 +721,8 @@ v_cupenocupe1243,cupe1243,Cupeño,4,siblings
 v_cuscoquechuacusc1236,cusc1236,Cusco Quechua,4,siblings
 v_czechczec1258,czec1258,Czech,2,siblings
 v_dandamimariadand1238,dand1238,Dandami Maria,4,siblings
-v_danishdani1285,dani1285,Danish,5,siblings
+v_danishdani1285,dani1285,Danish,4,siblings
+v_danodano1240,dano1240,Dano,4,siblings
 v_dargwachiragchir1284,chir1284,Chirag,4,siblings
 v_dargwaitsariitsa1239,icar1234,Icari,4,siblings
 v_daridari1249,dari1249,Dari,2,siblings
@@ -747,14 +731,16 @@ v_dekwanamaquiritarimaqu1238,maqu1238,Ye'kwana,2,siblings
 v_delinenort2942,nort2942,North Slavey,3,siblings
 v_denesulinechip1261,chip1261,Chipewyan,4,siblings
 v_denethasouthslaveysout2959,sout2959,South Slavey,4,siblings
-v_dharumbaldhar1248,dhar1248,Dharumbal,7,siblings
+v_dharumbaldhar1248,dhar1248,Dharumbal,6,siblings
 v_dhuwaldhuw1249,dhuw1249,Dhuwal,5,siblings
 v_digodigo1243,digo1243,Digo,4,siblings
 v_dingding1239,ding1239,Ding,6,siblings
 v_diyaridier1241,dier1241,Dieri,6,siblings
 v_djambarrpuyngudjam1256,djam1256,Djambarrpuyngu,3,siblings
-v_djinangdjin1253,djin1253,Djinang,5,siblings
+v_djinangdjin1253,djin1253,Djinang,4,siblings
 v_dogribdogr1252,dogr1252,Dogrib,4,siblings
+v_domdomm1246,domm1246,Dom,2,siblings
+v_doromukokidoro1266,doro1266,Doromu-Koki,3,siblings
 v_dualadual1243,dual1243,Duala,5,siblings
 v_dutchdutc1256,dutc1256,Dutch,2,siblings
 v_dyirbaldyir1250,dyir1250,Dyirbal,7,siblings
@@ -766,19 +752,26 @@ v_ekondamongoekon1238,ekon1238,Ekonda Mongo,4,siblings
 v_elamiteelam1244,elam1244,Elamite,2,siblings
 v_ellicetuva1244,tuva1244,Tuvalu,6,siblings
 v_emerillonemer1243,emer1243,Teko,3,siblings
+v_engaenga1252,enga1252,Enga,3,siblings
 v_epenaepen1239,epen1239,Epena,4,siblings
 v_erzyaerzy1239,erzy1239,Erzya,4,siblings
+v_erzyamordvinerzy1239,erzy1239,Erzya,6,siblings
+v_estonianesto1258,esto1258,Estonian,2,siblings
 v_eudeveeude1234,eude1234,Eudeve,4,siblings
 v_eyakeyak1241,eyak1241,Eyak,4,siblings
 v_fangegfang1246,fang1246,Fang (Equatorial Guinea),7,siblings
 v_fefefefe1239,fefe1239,Fe'fe',9,siblings
+v_finnishfinn1318,finn1318,Finnish,2,siblings
 v_fipafipa1238,fipa1238,Fipa,2,siblings
 v_fordataford1242,ford1242,Fordata,2,siblings
+v_forestenetsfore1265,fore1265,Forest Enets,8,siblings
 v_frisianfris1239,fris1239,Frisian,4,siblings
 v_futunanseast2447,east2447,East Futuna,2,siblings
 v_gabrielinotong1329,tong1329,Tongva,4,siblings
+v_gadsupgads1258,gads1258,Gadsup,4,siblings
 v_galibicaribgali1262,gali1262,Galibi Carib,9,siblings
 v_gandagand1255,gand1255,Ganda,4,siblings
+v_gapapaiwagapa1238,gapa1238,Gapapaiwa,3,siblings
 v_giryamagiry1241,giry1241,Giryama,3,siblings
 v_godoberighod1238,ghod1238,Godoberi,4,siblings
 v_gogogogo1263,gogo1263,Gogo,3,siblings
@@ -791,19 +784,23 @@ v_gujaratiguja1252,guja1252,Gujarati,4,siblings
 v_gumatjguma1253,guma1253,Gumatj,5,siblings
 v_gumbaynggirkumb1268,kumb1268,Kumbainggar,7,siblings
 v_gununakunepuel1244,puel1244,Puelche,3,siblings
-v_gunyaguny1241,guny1241,Gunya,8,siblings
-v_gupapuyngugupa1247,gupa1247,Gupapuyngu,8,siblings
+v_gunyaguny1241,guny1241,Gunya,5,siblings
+v_gupapuyngugupa1247,gupa1247,Gupapuyngu,7,siblings
 v_gurindjiguri1247,guri1247,Gurindji,6,siblings
 v_gusiigusi1247,gusi1247,Gusii,2,siblings
 v_guuguyimidhirrgugu1255,gugu1255,Guugu Yimidhirr,5,siblings
 v_hahaaa1252,haaa1252,Ha,4,siblings
+v_haliahali1244,hali1244,Halia,2,siblings
+v_hamtaihamt1247,hamt1247,Hamtai,4,siblings
+v_hapororanhita1242,hita1242,Hitau-Pororan,2,siblings
 v_hausahaus1257,haus1257,Hausa,6,siblings
 v_hawaiianshawa1245,hawa1245,Hawaiian,5,siblings
 v_hayahaya1250,haya1250,Haya,3,siblings
 v_hehehehe1240,hehe1240,Hehe,3,siblings
 v_hererohere1253,here1253,Herero,8,siblings
 v_highlandpueblanahuatlhigh1278,high1278,Highland Puebla Nahuatl,2,siblings
-v_hindihind1269,hind1269,Hindi,8,siblings
+v_hillmariwest2392,west2392,Western Mari,6,siblings
+v_hindihind1269,hind1269,Hindi,6,siblings
 v_hinuqhinu1240,hinu1240,Hinuq,5,siblings
 v_hittitehitt1242,hitt1242,Hittite,4,siblings
 v_hopihopi1249,hopi1249,Hopi,4,siblings
@@ -811,6 +808,7 @@ v_hopishopi1249b,hopi1249,Hopi,1,siblings
 v_hotiyuwanayuwa1244,yuwa1244,Hoti,4,siblings
 v_huastecnahuatlhuas1257,huas1257,Huasteca Nahuatl,1,siblings
 v_huicholhuic1243,huic1243,Huichol,1,siblings
+v_hungarianhung1274,hung1274,Hungarian,6,siblings
 v_hunzahunz1248,hunz1248,Hunza,3,siblings
 v_hunzibhunz1247,hunz1247,Hunzib,4,siblings
 v_hupahupa1239,hupa1239,Hupa-Chilula,4,siblings
@@ -847,27 +845,30 @@ v_karokkaro1304,karo1304,Karok,4,siblings
 v_kartujarrakart1247,kart1247,Kartujarra,4,siblings
 v_karuwalikarr1236,karr1236,Karruwali,2,siblings
 v_kashmirikash1277,kash1277,Kashmiri,2,siblings
-v_kaurnakaur1267,kaur1267,Kaurna,6,siblings
+v_kaurnakaur1267,kaur1267,Kaurna,5,siblings
 v_kawaiisukawa1283,kawa1283,Kawaiisu,4,siblings
 v_kayabikaya1329,kaya1329,Kayabí,6,siblings
 v_kazakhkaza1248,kaza1248,Kazakh,5,siblings
 v_kazymberezoversuryskarerkhantykhan1273,khan1273,Kazym-Berezover-Suryskarer Khanty,5,siblings
+v_kazymkhantynort2672,nort2672,Kazym Khanty,6,siblings
 v_keikeii1239,keii1239,Kei,3,siblings
 v_kerewekere1283,kere1283,Kerewe,1,siblings
 v_ketkett1243,kett1243,Ket,3,siblings
 v_kikuyukiku1240,kiku1240,Kikuyu,4,siblings
 v_kiowaapachekiow1264,kiow1264,Kiowa Apache,2,siblings
 v_kitanemukserr1255b,serr1255,Serrano,2,siblings
-v_kodavakoda1255,koda1255,Kodava,6,siblings
+v_kodavakoda1255,koda1255,Kodava,5,siblings
 v_kodikodi1247,kodi1247,Kodi-Gaura,4,siblings
-v_komizyriankomi1268,komi1268,Komi-Zyrian,4,siblings
+v_komizyriankomi1268,komi1268,Komi-Zyrian,5,siblings
 v_komkomc1235,komc1235,Kom (Cameroon),5,siblings
 v_komodrckomo1260,komo1260,Komo (Democratic Republic of Congo),8,siblings
+v_korafeyeghakora1294,kora1294,Korafe-Yegha,7,siblings
+v_koreankore1280,kore1280,Korean,6,siblings
 v_kotakota1274,kota1274,Kota (Gabon),5,siblings
 v_koyakoya1251,koya1251,Koya,5,siblings
-v_kuikuii1252,kuii1252,Kui (India),7,siblings
+v_kuikuii1252,kuii1252,Kui (India),6,siblings
 v_kukatjakuka1246,kuka1246,Kukatja,7,siblings
-v_kukuyalanjikuku1273,kuku1273,Kuku-Yalanji,7,siblings
+v_kukuyalanjikuku1273,kuku1273,Kuku-Yalanji,5,siblings
 v_kumaonikuma1273,kuma1273,Kumaoni,4,siblings
 v_kumykkumy1244,kumy1244,Kumyk,4,siblings
 v_kungjuho1239,juho1239,South-Eastern Ju,5,siblings
@@ -878,6 +879,7 @@ v_kwasiokwas1243,kwas1243,Kwasio,5,siblings
 v_kwerekwer1261,kwer1261,Kwere,6,siblings
 v_lahndalahn1241,lahn1241,Lahnda,2,siblings
 v_lalabisalala1264,lala1264,Lala-Bisa,1,siblings
+v_lalalala1268,lala1268,Lala,2,siblings
 v_lambalamb1271,lamb1271,Lamba,5,siblings
 v_langilang1320,lang1320,Langi,6,siblings
 v_latinlati1261,lati1261,Latin,4,siblings
@@ -887,13 +889,14 @@ v_lengualeng1262,leng1262,Lengua,1,siblings
 v_lingalaling1263,ling1263,Kinshasa Lingala,6,siblings
 v_lipanapachelipa1241,lipa1241,Lipan Apache,3,siblings
 v_lithuanianlith1251,lith1251,Lithuanian,2,siblings
+v_livonianlivv1244,livv1244,Liv,2,siblings
 v_lowerpimapimabajopima1248,pima1248,Pima Bajo,1,siblings
 v_lozilozi1239,lozi1239,Lozi,3,siblings
 v_lubakatangaluba1250,luba1250,Luba-Katanga,6,siblings
 v_lubalulualuba1249,luba1249,Luba-Lulua,4,siblings
 v_lubuagankalingalubu1243,lubu1243,Lubuagan Kalinga,2,siblings
 v_lugurulugu1238,lugu1238,Luguru,3,siblings
-v_luisenoluis1253,luis1253,Luiseno-Juaneño,8,siblings
+v_luisenoluis1253,luis1253,Luiseno-Juaneño,4,siblings
 v_lundalund1266,lund1266,Lunda,4,siblings
 v_luvaleluva1239,luva1239,Luvale,4,siblings
 v_luxembourgishluxe1241,luxe1241,Moselle Franconian,2,siblings
@@ -902,17 +905,19 @@ v_macedonianmace1250,mace1250,Macedonian,4,siblings
 v_macushimacu1259,macu1259,Macushi,3,siblings
 v_magyarhung1274,hung1274,Hungarian,4,siblings
 v_mahasupaharimaha1287,maha1287,Mahasu Pahari,4,siblings
+v_maisinmais1250,mais1250,Maisin,3,siblings
 v_maithilimait1250,mait1250,Maithili,4,siblings
 v_makondemako1251,mako1251,Makonde,3,siblings
 v_malapandarammala1468,mala1468,Malapandaram,6,siblings
 v_malayalammala1464,mala1464,Malayalam,7,siblings
 v_malganamalg1242,malg1242,Malgana,4,siblings
+v_mandarinchinamand1415,mand1415,Mandarin Chinese,6,siblings
 v_mangarevansmang1401,mang1401,Mangareva,4,siblings
 v_mansimans1258,mans1258,Northern Mansi,4,siblings
 v_maorimaor1246,maor1246,Maori,7,siblings
 v_mapudungunmapu1245,mapu1245,Mapudungun,6,siblings
-v_marathimara1378,mara1378,Marathi,6,siblings
-v_marganymarg1253,marg1253,Margany,8,siblings
+v_marathimara1378,mara1378,Marathi,4,siblings
+v_marganymarg1253,marg1253,Margany,6,siblings
 v_marieast2328,east2328,Eastern Mari,4,siblings
 v_martuwangkamart1256,mart1256,Martu Wangka,6,siblings
 v_marwariindiamarw1260,marw1260,Marwari (India),3,siblings
@@ -924,39 +929,45 @@ v_mbalambal1257,mbal1257,Mbala,6,siblings
 v_mberember1257,mber1257,Mbere-Mbamba,2,siblings
 v_mbuunmpuo1241,mpuo1241,Mbuun,4,siblings
 v_mbyaguaranimbya1239,mbya1239,Mbyá Guaraní,1,siblings
+v_meadowmarigras1239,gras1239,Grassland Mari,6,siblings
 v_mekeomeke1243,meke1243,Mekeo,2,siblings
+v_melpamelp1238,melp1238,Melpa,2,siblings
+v_menyameny1245,meny1245,Menya,6,siblings
 v_merumeru1245,meru1245,Meru,6,siblings
 v_metameta1238,meta1238,Meta',4,siblings
 v_middleenglishmidd1317,midd1317,Middle English,2,siblings
 v_middlehighgermanmidd1343,midd1343,Middle High German,2,siblings
 v_midobmido1240,mido1240,Midob,4,siblings
+v_misimapaneatimisi1243,misi1243,Misima-Paneati,2,siblings
 v_mocovimoco1246,moco1246,Mocoví,3,siblings
 v_moderngreekmode1248,mode1248,Modern Greek,2,siblings
 v_modernwelshwels1247,wels1247,Welsh,4,siblings
 v_mokpwemokp1239,mokp1239,Mokpwe,3,siblings
+v_mokshamordvinmoks1248,moks1248,Moksha,5,siblings
 v_mongomong1338,mong1338,Mongo,5,siblings
-v_monomono1275,mono1275,Mono (USA),8,siblings
+v_monomono1275,mono1275,Mono (USA),7,siblings
 v_mosetenchimanemose1249,mose1249,Mosetén-Chimané,4,siblings
 v_movimamovi1243,movi1243,Movima,3,siblings
 v_mudburramudb1240,mudb1240,Mudburra,3,siblings
 v_muiscachibchachib1270,chib1270,Chibcha,3,siblings
 v_mundurukumund1330,mund1330,Mundurukú,9,siblings
 v_mungakamung1266,mung1266,Mungaka,6,siblings
-v_muruwarimuru1266,muru1266,Muruwari,6,siblings
+v_muruwarimuru1266,muru1266,Muruwari,5,siblings
 v_myenemyen1241,myen1241,Myene,6,siblings
 v_navajonava1243,nava1243,Navajo,3,siblings
 v_negerhollandsnege1244,nege1244,Negerhollands,2,siblings
-v_nepalinepa1254,nepa1254,Nepali,8,siblings
+v_nepalinepa1254,nepa1254,Nepali,5,siblings
 v_nets1241,nets1241,Natsilingmiutut,4,siblings
 v_nevomepima1248b,pima1248,Pima Bajo,1,siblings
 v_ngaanyatjarrangaa1240,ngaa1240,Ngaanyatjarra,7,siblings
 v_ngaatjatjarrangaa1240,ngaa1240,Ngaanyatjarra,3,siblings
 v_ngadjumayangad1258,ngad1258,Ngadjunmaya,6,siblings
+v_nganasanngan1291,ngan1291,Nganasan,3,siblings
 v_ngarinymanngar1235,ngar1235,Ngarinman,4,siblings
 v_ngarlangar1286,yinh1234,Yinhawangka,5,siblings
 v_ngarlumangar1287,ngar1287,Ngarluma,8,siblings
 v_ngarrindjerinarr1259,narr1259,Narrinyeri,3,siblings
-v_ngiyambaawang1291,wang1291,Ngiyambaa,7,siblings
+v_ngiyambaawang1291,wang1291,Ngiyambaa,6,siblings
 v_ngulungul1246,ngul1246,Ngulu,3,siblings
 v_nhantanhan1238,nhan1238,Nhanda,3,siblings
 v_ninamnina1238,nina1238,Ninam,1,siblings
@@ -978,6 +989,7 @@ v_northernsaminort2671,nort2671,North Saami,6,siblings
 v_northerntepehuannort2959,nort2959,Northern Tepehuan,2,siblings
 v_northmarquesannort2845,nort2845,North Marquesan,4,siblings
 v_northnorthernpaiutenort1551,nort1551,North Northern Paiute,4,siblings
+v_northsaaminort2671,nort2671,North Saami,6,siblings
 v_northwesternmaidunort2951,nort2951,Northwest Maidu,3,siblings
 v_norwegianbokmalnorw1259,norw1259,Norwegian Bokmål,2,siblings
 v_nsongsong1299,song1299,Nsong-Mpiin,3,siblings
@@ -987,28 +999,30 @@ v_nyamalnyam1271,nyam1271,Nyamal,3,siblings
 v_nyangumartanyan1301,nyan1301,Nyangumarta,5,siblings
 v_nyoronyor1246,nyor1246,Nyoro,5,siblings
 v_oduoduu1239,oduu1239,O'du,4,siblings
+v_oksapminoksa1245,oksa1245,Oksapmin,6,siblings
 v_oldaramaicolda1245,olda1245,Old Aramaic-Sam'alian,4,siblings
 v_oldchurchslavonicchur1257,chur1257,Church Slavic,2,siblings
-v_oldenglishca4501100olde1238,olde1238,Old English (ca. 450-1100),3,siblings
+v_oldenglishca4501100olde1238,olde1238,Old English (ca. 450-1100),2,siblings
 v_oldhighgermanca7501050oldh1241,oldh1241,Old High German (ca. 750-1050),2,siblings
 v_oldirisholdi1245,oldi1245,Early Irish,2,siblings
 v_oldnorseoldn1244,oldn1244,Old Norse,2,siblings
 v_oldprussianprus1238,prus1238,Old Prussian,2,siblings
 v_oldwelsholdw1239,oldw1239,Old-Middle Welsh,2,siblings
 v_ontongjavaonto1237,onto1237,Luangiua,2,siblings
-v_opataopat1246,opat1246,Teguima,6,siblings
-v_oriyaoriy1255,oriy1255,Odia,7,siblings
+v_opataopat1246,opat1246,Teguima,5,siblings
+v_oriyaoriy1255,oriy1255,Odia,6,siblings
+v_orokoloorok1267,orok1267,Orokolo,5,siblings
 v_ossetianosse1243,osse1243,Modern Ossetic,2,siblings
-v_osseticosse1245,osse1245,Ossetic,3,siblings
+v_osseticosse1245,osse1245,Ossetic,2,siblings
 v_ottowaojibwaotta1242,otta1242,Ottawa,3,siblings
 v_paakantyidarl1243,darl1243,Paakantyi,7,siblings
 v_paezpaez1247,paez1247,Páez,1,siblings
 v_paliyanpali1274,pali1274,Paliyan,4,siblings
 v_panareenap1235,enap1235,Panare,2,siblings
-v_panjabipanj1256,panj1256,Eastern Panjabi,8,siblings
+v_panjabipanj1256,panj1256,Eastern Panjabi,6,siblings
 v_paraguayanguaranipara1311,para1311,Paraguayan Guaraní,11,siblings
 v_parakanapara1312,para1312,Parakanã,6,siblings
-v_pashtopash1269,pash1269,Pashto,9,siblings
+v_pashtopash1269,pash1269,Pashto,6,siblings
 v_pausernapaus1244,paus1244,Warázu,5,siblings
 v_payungubayu1240,bayu1240,Bayungu,4,siblings
 v_phendephen1239,phen1239,Phende,5,siblings
@@ -1018,13 +1032,13 @@ v_pintupiluritjapint1250,pint1250,Pintupi-Luritja,8,siblings
 v_pipilpipi1250,pipi1250,Pipil,1,siblings
 v_pirriyapirr1240,pirr1240,Pirriya,5,siblings
 v_pitjantjatjarapitj1243,pitj1243,Pitjantjatjara,7,siblings
-v_pittapittapitt1247,pitt1247,Pitta Pitta,7,siblings
+v_pittapittapitt1247,pitt1247,Pitta Pitta,6,siblings
 v_pokomopoko1261,poko1261,Pokomo,1,siblings
 v_polcipolc1243,polc1243,Pesse,3,siblings
 v_polishpoli1260,poli1260,Polish,2,siblings
 v_portugueseport1283,port1283,Portuguese,2,siblings
 v_praiphai1238,phai1238,Prai,4,siblings
-v_prototupiguaranitupi1276,tupi1239,NA,6,siblings
+v_prototupiguaranitupi1276,tupi1276,NA,6,siblings
 v_puinavepuin1248,puin1248,Puinave,4,siblings
 v_pumepume1238,pume1238,Pumé,4,siblings
 v_puyumapuyu1239,puyu1239,Puyuma,3,siblings
@@ -1036,6 +1050,7 @@ v_ritharrngurita1239,rita1239,Ritarungo,4,siblings
 v_romanianroma1327,roma1327,Romanian,4,siblings
 v_rotinesetermanuterm1237,term1237,Termanu,5,siblings
 v_rotumansrotu1241,rotu1241,Rotuman,9,siblings
+v_rumurumu1243,rumu1243,Rumu,3,siblings
 v_rundirund1242,rund1242,Rundi,5,siblings
 v_russianruss1263,russ1263,Russian,2,siblings
 v_rutulshin1265,shin1265,Shina (Nakh-Daghestan),4,siblings
@@ -1054,6 +1069,7 @@ v_saterfriesischsate1242,sate1242,Ems-Weser Frisian,2,siblings
 v_sekiseki1238,seki1238,Seki,5,siblings
 v_selknamonaa1245,onaa1245,Selk'nam,4,siblings
 v_selkupselk1253,selk1253,Selkup,4,siblings
+v_sepikiwamsepi1255,sepi1255,Sepik Iwam,4,siblings
 v_serbocroationsout1528,sout1528,Serbian-Croatian-Bosnian,2,siblings
 v_serbsserb1264,serb1264,Serbian Standard,2,siblings
 v_seriseri1257,seri1257,Seri,2,siblings
@@ -1067,16 +1083,20 @@ v_sindhisind1272,sind1272,Sindhi,4,siblings
 v_sinhalasinh1246,sinh1246,Sinhala,4,siblings
 v_sionsion1247,sion1247,Siona-Tetete,2,siblings
 v_sirionosiri1273,siri1273,Sirionó,4,siblings
+v_skoltsaamiskol1241,skol1241,Skolt Saami,2,siblings
 v_slovakianslov1269,slov1269,Slovak,2,siblings
 v_slovenianslov1268,slov1268,Slovenian,2,siblings
 v_sogasoga1242,soga1242,Soga,4,siblings
 v_songoorasong1300,song1300,Songoora,3,siblings
+v_sosvamansinort2677,nort2677,Sosva Mansi,5,siblings
 v_southeasterntepehuanosout2976,sout2976,Southeastern Tepehuan,3,siblings
 v_southerncoastaltsimshiannucl1649,nucl1649,Southern-Coastal Tsimshian,3,siblings
 v_southernpaiutesout2969,sout2969,Southern Paiute,4,siblings
 v_southerntepehuansout2975,sout2975,Southern Tepehuan,2,siblings
 v_southernuteutee1244,utee1244,Ute,2,siblings
 v_southmarquesansout2866,sout2866,South Marquesan,4,siblings
+v_southsaamisout2674,sout2674,South Saami,4,siblings
+v_southtairorasout2943,sout2943,South Tairora,6,siblings
 v_standardcatalanstan1289,stan1289,Catalan,2,siblings
 v_standardenglishstan1293,stan1293,English,2,siblings
 v_standardfrenchstan1290,stan1290,French,4,siblings
@@ -1087,26 +1107,28 @@ v_sukusuku1259,suku1259,Suku,6,siblings
 v_sumbwasumb1240,sumb1240,Sumbwa,3,siblings
 v_suruisuru1262,suru1262,Suruí,4,siblings
 v_suundisuun1239,suun1239,Suundi,3,siblings
-v_swedishswed1254,swed1254,Swedish,5,siblings
+v_swedishswed1254,swed1254,Swedish,4,siblings
 v_taabwashil1264,shil1264,Shila,3,siblings
+v_tabriaktabr1243,tabr1243,Tabriak,4,siblings
 v_tahitianstahi1242,tahi1242,Tahitian,4,siblings
-v_tajiktaji1245,taji1245,Tajik,7,siblings
-v_tamiltami1289,tami1289,Tamil,7,siblings
+v_tajiktaji1245,taji1245,Tajik,6,siblings
+v_tamiltami1289,tami1289,Tamil,6,siblings
 v_tanalatana1285,tana1285,Tañala,4,siblings
 v_tapirapetapi1254,tapi1254,Tapirapé,6,siblings
-v_tarahumaracent2131,cent2131,Central Tarahumara,9,siblings
+v_tarahumaracent2131,cent2131,Central Tarahumara,6,siblings
 v_tehuelchetehu1242,tehu1242,Tehuelche,1,siblings
 v_telugutelu1262,telu1262,Telugu,5,siblings
 v_tembetemb1276,temb1276,Tenetehara,6,siblings
 v_temitemi1247,temi1247,Temi,2,siblings
 v_tenharimtenh1241,tenh1241,Tenharim-Parintintin-Diahoi,4,siblings
+v_tereitere1278,tere1278,Terei,4,siblings
 v_tetelatete1250,tete1250,Tetela,5,siblings
 v_tikopiatiko1237,tiko1237,Tikopia,2,siblings
 v_tivtivv1240,tivv1240,Tiv,3,siblings
 v_tlingittlin1245,tlin1245,Tlingit,3,siblings
 v_tobatoba1269,toba1269,Toba,5,siblings
 v_tocantinsasurinitoca1235,toca1235,Tocantins Asurini,6,siblings
-v_todatoda1252,toda1252,Toda,8,siblings
+v_todatoda1252,toda1252,Toda,6,siblings
 v_tohonooodhamtoho1245,toho1245,Tohono O'odham,1,siblings
 v_tokelautoke1240,toke1240,Tokelau,3,siblings
 v_tokharianatokh1242,tokh1242,Tokharian A,2,siblings
@@ -1126,18 +1148,21 @@ v_tubartuba1279,tuba1279,Tubar,3,siblings
 v_tubatulabaltuba1278,tuba1278,Tübatulabal,2,siblings
 v_tucanotuca1252,tuca1252,Tucano,6,siblings
 v_tumpishashoshonipana1305,pana1305,Panamint,5,siblings
-v_tundranenetsnene1249,nene1249,Tundra Nenets,4,siblings
+v_tundranenetsnene1249,nene1249,Tundra Nenets,9,siblings
 v_tupinambatupi1273,tupi1273,Tupinambá,6,siblings
 v_tupitupi1274,tupi1274,Lingua Geral Paulista,7,siblings
 v_tuyucatuyu1244,tuyu1244,Tuyuca,2,siblings
 v_tzeltaltzel1254,tzel1254,Tzeltal,3,siblings
+v_udmurtudmu1245,udmu1245,Udmurt,5,siblings
 v_ukrainianukra1253,ukra1253,Ukrainian,2,siblings
 v_ulawaulaw1237,ulaw1237,Ulawa,1,siblings
 v_umbunduumbu1257,umbu1257,Umbundu,5,siblings
 v_umpilaumpi1239,umpi1239,Umpila,2,siblings
 v_urduurdu1245,urdu1245,Urdu,5,siblings
 v_vendavend1245,vend1245,Venda,3,siblings
+v_vepsveps1250,veps1250,Veps,4,siblings
 v_vlaxromanivlax1238,vlax1238,Vlax Romani,2,siblings
+v_wahginucl1620,nucl1620,Wahgi,2,siblings
 v_wailakiwail1244,wail1244,Eel River Athabaskan,4,siblings
 v_waimiriatroariwaim1253,waim1253,Waimiri-Atroari,6,siblings
 v_waiwaiwaiw1244,waiw1244,Waiwai,2,siblings
@@ -1150,14 +1175,15 @@ v_waoraniwaor1240,waor1240,Waorani,3,siblings
 v_wapishanawapi1253,wapi1253,Wapishana,3,siblings
 v_wappowapp1239,wapp1239,Wappo,4,siblings
 v_warlmanpawarl1255,warl1255,Warlmanpa,5,siblings
-v_warlpiriwarl1254,warl1254,Warlpiri,11,siblings
-v_warnmanwanm1242,wanm1242,Wanman,8,siblings
+v_warlpiriwarl1254,warl1254,Warlpiri,8,siblings
+v_warnmanwanm1242,wanm1242,Wanman,6,siblings
 v_waropenwaro1242,waro1242,Waropen,4,siblings
 v_warumunguwaru1265,waru1265,Warumungu,4,siblings
 v_warunguwaru1264,waru1264,Warrongo,12,siblings
 v_waurawaur1244,waur1244,Waurá,4,siblings
 v_wayampiwaya1270,waya1270,Wayampi,5,siblings
 v_wayuuwayu1243,wayu1243,Wayuu,3,siblings
+v_wedauweda1241,weda1241,Wedau,3,siblings
 v_westernapachewest2615,west2615,Western Apache,3,siblings
 v_westernarmenianhoms1234,homs1234,Western Armenian,4,siblings
 v_westernfarsiwest2369,west2369,Western Farsi,4,siblings
@@ -1165,8 +1191,9 @@ v_westernpanjabiwest2386,west2386,Western Panjabi,4,siblings
 v_whitemesauteutee1244b,utee1244,Ute,1,siblings
 v_wichiwich1264,wich1264,Wichí Lhamtés Güisnay,2,siblings
 v_wikmungkanwikm1247,wikm1247,Wik-Mungkan,9,siblings
-v_wiradjuriwira1262,wira1262,Wiradhuri,13,siblings
-v_wiranguwira1265,wira1265,Wirangu,8,siblings
+v_wiradjuriwira1262,wira1262,Wiradhuri,12,siblings
+v_wiranguwira1265,wira1265,Wirangu,7,siblings
+v_wiruwiru1244,wiru1244,Wiru,2,siblings
 v_woiwurrungwoiw1237,woiw1237,Woiwurrung-Thagungwurrung,6,siblings
 v_wulguruwulg1239,wulg1239,Wulguru,4,siblings
 v_wuvuluauawuvu1239,wuvu1239,Wuvulu-Aua,3,siblings
@@ -1176,7 +1203,7 @@ v_yalarnngayala1262,yala1262,Yalarnnga,3,siblings
 v_yamanayama1264,yama1264,Yámana,4,siblings
 v_yamdenayamd1240,yamd1240,Yamdena,2,siblings
 v_yamitaoyami1254,yami1254,Yami,2,siblings
-v_yandruwandhayand1253,yand1253,Yandruwandha,5,siblings
+v_yandruwandhayand1253,yand1253,Yandruwandha,3,siblings
 v_yanomamiyano1262,yano1262,Yanomám,1,siblings
 v_yansiyans1239,yans1239,Yansi,2,siblings
 v_yanyuwayany1243,yany1243,Yanyuwa,4,siblings
@@ -1188,36 +1215,17 @@ v_yerukulayeru1240,yeru1240,Yerukula,3,siblings
 v_yidinyyidi1250,yidi1250,Yidiñ,4,siblings
 v_yindjibarndiyind1247,yind1247,Yindjibarndi,7,siblings
 v_yombeyomb1244,yomb1244,Yombe,2,siblings
-v_yortayortayort1237,yort1237,Yorta Yorta,13,siblings
+v_yortayortayort1237,yort1237,Yorta Yorta,10,siblings
 v_yucatecmayayuca1254,yuca1254,Yucatec Maya,3,siblings
 v_yugambehyugu1249,yugu1249,Yugumbir,7,siblings
 v_yukiyuki1243,yuki1243,Northern Yukian,3,siblings
 v_yulparijayulp1239,yulp1239,Yulparija,5,siblings
 v_yurokyuro1248,yuro1248,Yurok,8,siblings
-v_yuwaalaraaygami1243,gami1243,Yuwaalaraay-Gamilaraay,8,siblings
+v_yuwaalaraaygami1243,gami1243,Yuwaalaraay-Gamilaraay,6,siblings
 v_zigulazigu1242,zigu1242,Zigula,3,siblings
 v_zinzazinz1238,zinz1238,Zinza,2,siblings
 v_zuluzulu1248,zulu1248,Zulu,3,siblings
 v_zunizuni1245,zuni1245,Zuni,3,siblings
-ErzyaMordvin,erzy1239,Erzya,6,parent_siblings
-Estonian,esto1258,Estonian,2,parent_siblings
-Finnish,finn1318,Finnish,2,parent_siblings
-ForestEnets,fore1265,Forest Enets,2,parent_siblings
-HillMari,west2392,Western Mari,6,parent_siblings
-Hungarian,hung1274,Hungarian,2,parent_siblings
-KazymKhanty,nort2672,Kazym Khanty,7,parent_siblings
-KomiZyrian,komi1268,Komi-Zyrian,4,parent_siblings
-Livonian,livv1244,Liv,2,parent_siblings
-MeadowMari,gras1239,Grassland Mari,6,parent_siblings
-MokshaMordvin,moks1248,Moksha,5,parent_siblings
-Nganasan,ngan1291,Nganasan,6,parent_siblings
-NorthSaami,nort2671,North Saami,5,parent_siblings
-SkoltSaami,skol1241,Skolt Saami,5,parent_siblings
-SosvaMansi,nort2677,Sosva Mansi,4,parent_siblings
-SouthSaami,sout2674,South Saami,5,parent_siblings
-TundraNenets,nene1249,Tundra Nenets,7,parent_siblings
-Udmurt,udmu1245,Udmurt,2,parent_siblings
-Veps,veps1250,Veps,2,parent_siblings
 p_abuiabui1241,abui1241,Abui,6,parent_siblings
 p_achineseachi1257,achi1257,Acehnese,4,parent_siblings
 p_adangadan1251,adan1251,Adang,3,parent_siblings
@@ -1386,7 +1394,7 @@ p_kaurenaraukaur1271,kaur1271,Kaure-Narau,7,parent_siblings
 p_kayardildkaya1318,kaya1318,Kayardild-Yangkaal,4,parent_siblings
 p_kemtuikkemt1242,kemt1242,Kemtuik,6,parent_siblings
 p_ketengbankete1254,kete1254,Ketengban,4,parent_siblings
-p_keyaganakeya1238,keya1238,Keyagana,4,parent_siblings
+p_keyaganakeya1238,keya1238,Keyagana,3,parent_siblings
 p_khalkhamongolianmong1331,mong1331,Mongolian,4,parent_siblings
 p_kilivilakili1267,kili1267,Kilivila,4,parent_siblings
 p_kilmerikilm1241,kilm1241,Kilmeri,4,parent_siblings
@@ -1734,8 +1742,6 @@ p_thaothao1240,thao1240,Thao,1,parent_siblings
 p_thayorekuukthaayorrethay1249,thay1249,Thayore,6,parent_siblings
 p_tialetial1239,tial1239,Tiale,2,parent_siblings
 p_tialotominitomi1243,tomi1243,Tomini,2,parent_siblings
-p_tidoreversion1tido1248,tido1248,Tidore,3,parent_siblings
-p_tidoreversion2tido1248a,tido1248,Tidore,2,parent_siblings
 p_tikopiatiko1237a,tiko1237,Tikopia,4,parent_siblings
 p_tiraxmaemaee1241,maee1241,Tirax,4,parent_siblings
 p_tirimeagrandcoulitiri1258,tiri1258,Tiri-Mea,1,parent_siblings
@@ -1803,8 +1809,8 @@ p_xalangimaevovanuatumari1426h,mari1426,Sunwadia,4,parent_siblings
 p_xaracuucanalaxara1244,xara1244,Xârâcùù,3,parent_siblings
 p_xawia1234,awia1234,Awiakay-Karimba,7,parent_siblings
 p_xibexibe1242,xibe1242,Xibe,6,parent_siblings
-p_xmala1294,mala1294,NA,5,parent_siblings
-p_xtido1249,tido1249,NA,8,parent_siblings
+p_xmala1494,mala1494,Mala (Papua New Guinea),5,parent_siblings
+p_xtido1248,tido1248,Tidore,8,parent_siblings
 p_yabemyabe1254,yabe1254,Yabem,4,parent_siblings
 p_yadhaykenuyadh1237,yadh1237,Yadhaykenu,8,parent_siblings
 p_yagwoiayagw1240,yagw1240,Yagwoia,4,parent_siblings
@@ -1829,7 +1835,7 @@ v_aghulaghu1253,aghu1253,Aghul,2,parent_siblings
 v_aguarunaagua1253,agua1253,Aguaruna,6,parent_siblings
 v_akhvakhnorthernakhvakhakhv1239,akhv1239,Akhvakh,4,parent_siblings
 v_akkadianakka1240,akka1240,Akkadian,4,parent_siblings
-v_albanianalba1267,alba1267,Albanian,7,parent_siblings
+v_albanianalba1267,alba1267,Albanian,5,parent_siblings
 v_albaniantosktosk1239,tosk1239,Northern Tosk Albanian,4,parent_siblings
 v_alyawarralya1239,alya1239,Alyawarr,4,parent_siblings
 v_amharicamha1245,amha1245,Amharic,2,parent_siblings
@@ -1840,8 +1846,8 @@ v_angaiteanga1316,anga1316,Angaité,4,parent_siblings
 v_arabanaarab1267,arab1267,Arabana,3,parent_siblings
 v_arawetearaw1273,araw1273,Araweté,4,parent_siblings
 v_archiarch1244,arch1244,Archi,6,parent_siblings
-v_armeniannucl1235,nucl1235,Eastern Armenian,5,parent_siblings
-v_assameseassa1263,assa1263,Assamese,7,parent_siblings
+v_armeniannucl1235,nucl1235,Eastern Armenian,4,parent_siblings
+v_assameseassa1263,assa1263,Assamese,6,parent_siblings
 v_asutanzaniaasut1235,asut1235,Asu (Tanzania),9,parent_siblings
 v_atsugewiatsu1245,atsu1245,Atsugewi,4,parent_siblings
 v_avacanoeiroavac1239,avac1239,Avá-Canoeiro,1,parent_siblings
@@ -1851,7 +1857,9 @@ v_avaravar1256,avar1256,Avar,7,parent_siblings
 v_avarbatluxbatl1238,batl1238,Batlux,2,parent_siblings
 v_avarhiddialecthidd1238,hidd1238,Hid,4,parent_siblings
 v_avazkhunzakhkunz1243,kunz1243,Xunzax,3,parent_siblings
+v_awaawap1236,awap1236,Awa (Papua New Guinea),2,parent_siblings
 v_awetiawet1244,awet1244,Awetí,5,parent_siblings
+v_awiyaanaawiy1238,awiy1238,Awiyaana,2,parent_siblings
 v_ayoreoayor1240,ayor1240,Ayoreo,4,parent_siblings
 v_aztecclas1250,clas1250,Classical Nahuatl,3,parent_siblings
 v_badimayabadi1246,badi1246,Badimaya,3,parent_siblings
@@ -1862,6 +1870,7 @@ v_balidrcbali1275,bali1275,Ibali Teke,1,parent_siblings
 v_balochibalo1260,balo1260,Balochic,4,parent_siblings
 v_bandjalangband1339,band1339,Bandjalangic,5,parent_siblings
 v_bannockbann1248,bann1248,Bannock,4,parent_siblings
+v_barainucl1630,nucl1630,Barai,2,parent_siblings
 v_baribari1297,bari1297,Barí,4,parent_siblings
 v_basquebasq1248,basq1248,Basque,4,parent_siblings
 v_basquewest1508,west1508,Western Low Navarrese,2,parent_siblings
@@ -1914,6 +1923,7 @@ v_cuscoquechuacusc1236,cusc1236,Cusco Quechua,4,parent_siblings
 v_czechczec1258,czec1258,Czech,3,parent_siblings
 v_dandamimariadand1238,dand1238,Dandami Maria,6,parent_siblings
 v_danishdani1285,dani1285,Danish,6,parent_siblings
+v_danodano1240,dano1240,Dano,5,parent_siblings
 v_dargwachiragchir1284,chir1284,Chirag,2,parent_siblings
 v_dargwaitsariitsa1239,icar1234,Icari,2,parent_siblings
 v_daridari1249,dari1249,Dari,4,parent_siblings
@@ -1922,13 +1932,15 @@ v_delinenort2942,nort2942,North Slavey,4,parent_siblings
 v_denesulinechip1261,chip1261,Chipewyan,2,parent_siblings
 v_denethasouthslaveysout2959,sout2959,South Slavey,3,parent_siblings
 v_dharumbaldhar1248,dhar1248,Dharumbal,4,parent_siblings
-v_dhuwaldhuw1249,dhuw1249,Dhuwal,3,parent_siblings
+v_dhuwaldhuw1249,dhuw1249,Dhuwal,2,parent_siblings
 v_digodigo1243,digo1243,Digo,7,parent_siblings
 v_dingding1239,ding1239,Ding,4,parent_siblings
-v_diyaridier1241,dier1241,Dieri,6,parent_siblings
+v_diyaridier1241,dier1241,Dieri,5,parent_siblings
 v_djambarrpuyngudjam1256,djam1256,Djambarrpuyngu,4,parent_siblings
 v_djinangdjin1253,djin1253,Djinang,2,parent_siblings
 v_dogribdogr1252,dogr1252,Dogrib,1,parent_siblings
+v_domdomm1246,domm1246,Dom,1,parent_siblings
+v_doromukokidoro1266,doro1266,Doromu-Koki,6,parent_siblings
 v_dualadual1243,dual1243,Duala,5,parent_siblings
 v_dumaduma1253,duma1253,Duma,4,parent_siblings
 v_dutchdutc1256,dutc1256,Dutch,2,parent_siblings
@@ -1940,16 +1952,22 @@ v_easternyiddisheast2295,east2295,Eastern Yiddish,4,parent_siblings
 v_ekondamongoekon1238,ekon1238,Ekonda Mongo,4,parent_siblings
 v_ellicetuva1244,tuva1244,Tuvalu,3,parent_siblings
 v_emerillonemer1243,emer1243,Teko,4,parent_siblings
+v_engaenga1252,enga1252,Enga,2,parent_siblings
 v_erzyaerzy1239,erzy1239,Erzya,3,parent_siblings
+v_erzyamordvinerzy1239,erzy1239,Erzya,6,parent_siblings
+v_estonianesto1258,esto1258,Estonian,2,parent_siblings
 v_eyakeyak1241,eyak1241,Eyak,4,parent_siblings
 v_fangegfang1246,fang1246,Fang (Equatorial Guinea),4,parent_siblings
 v_fefefefe1239,fefe1239,Fe'fe',3,parent_siblings
+v_finnishfinn1318,finn1318,Finnish,2,parent_siblings
 v_fipafipa1238,fipa1238,Fipa,4,parent_siblings
 v_flindersislandflin1247,flin1247,Flinders Island,1,parent_siblings
 v_fordataford1242,ford1242,Fordata,3,parent_siblings
-v_frisianfris1239,fris1239,Frisian,3,parent_siblings
+v_forestenetsfore1265,fore1265,Forest Enets,2,parent_siblings
+v_frisianfris1239,fris1239,Frisian,2,parent_siblings
 v_futunanseast2447,east2447,East Futuna,4,parent_siblings
 v_gabrielinotong1329,tong1329,Tongva,3,parent_siblings
+v_gadsupgads1258,gads1258,Gadsup,1,parent_siblings
 v_galibicaribgali1262,gali1262,Galibi Carib,4,parent_siblings
 v_gandagand1255,gand1255,Ganda,4,parent_siblings
 v_giryamagiry1241,giry1241,Giryama,6,parent_siblings
@@ -1963,23 +1981,28 @@ v_gumatjguma1253,guma1253,Gumatj,4,parent_siblings
 v_gumbaynggirkumb1268,kumb1268,Kumbainggar,3,parent_siblings
 v_gununakunepuel1244,puel1244,Puelche,4,parent_siblings
 v_gunyaguny1241,guny1241,Gunya,4,parent_siblings
-v_gupapuyngugupa1247,gupa1247,Gupapuyngu,6,parent_siblings
+v_gupapuyngugupa1247,gupa1247,Gupapuyngu,5,parent_siblings
 v_gurindjiguri1247,guri1247,Gurindji,3,parent_siblings
 v_gusiigusi1247,gusi1247,Gusii,2,parent_siblings
 v_guuguyimidhirrgugu1255,gugu1255,Guugu Yimidhirr,9,parent_siblings
 v_hahaaa1252,haaa1252,Ha,5,parent_siblings
+v_haliahali1244,hali1244,Halia,1,parent_siblings
+v_hamtaihamt1247,hamt1247,Hamtai,2,parent_siblings
+v_hapororanhita1242,hita1242,Hitau-Pororan,2,parent_siblings
 v_hausahaus1257,haus1257,Hausa,4,parent_siblings
 v_hawaiianshawa1245,hawa1245,Hawaiian,2,parent_siblings
 v_hayahaya1250,haya1250,Haya,4,parent_siblings
 v_hehehehe1240,hehe1240,Hehe,10,parent_siblings
 v_hererohere1253,here1253,Herero,6,parent_siblings
-v_hindihind1269,hind1269,Hindi,7,parent_siblings
+v_hillmariwest2392,west2392,Western Mari,6,parent_siblings
+v_hindihind1269,hind1269,Hindi,5,parent_siblings
 v_hinuqhinu1240,hinu1240,Hinuq,5,parent_siblings
 v_hittitehitt1242,hitt1242,Hittite,1,parent_siblings
 v_hopihopi1249,hopi1249,Hopi,3,parent_siblings
 v_hotiyuwanayuwa1244,yuwa1244,Hoti,1,parent_siblings
 v_huastecnahuatlhuas1257,huas1257,Huasteca Nahuatl,1,parent_siblings
 v_huicholhuic1243,huic1243,Huichol,1,parent_siblings
+v_hungarianhung1274,hung1274,Hungarian,2,parent_siblings
 v_hunzahunz1248,hunz1248,Hunza,2,parent_siblings
 v_hunzibhunz1247,hunz1247,Hunzib,2,parent_siblings
 v_hupahupa1239,hupa1239,Hupa-Chilula,4,parent_siblings
@@ -1989,7 +2012,7 @@ v_igbonucl1417,nucl1417,Igbo,7,parent_siblings
 v_ingrianingr1248,ingr1248,Ingrian,3,parent_siblings
 v_ingushingu1240,ingu1240,Ingush,5,parent_siblings
 v_inxokvariinxo1238,inxo1238,Inxokvari,4,parent_siblings
-v_irishiris1253,iris1253,Irish,5,parent_siblings
+v_irishiris1253,iris1253,Irish,4,parent_siblings
 v_italianital1282,ital1282,Italian,2,parent_siblings
 v_jamaicancreolejama1262,jama1262,Jamaican Creole English,6,parent_siblings
 v_japanesenucl1643,nucl1643,Japanese,2,parent_siblings
@@ -2014,8 +2037,9 @@ v_kashmirikash1277,kash1277,Kashmiri,4,parent_siblings
 v_kaurnakaur1267,kaur1267,Kaurna,2,parent_siblings
 v_kawaiisukawa1283,kawa1283,Kawaiisu,2,parent_siblings
 v_kayabikaya1329,kaya1329,Kayabí,4,parent_siblings
-v_kazakhkaza1248,kaza1248,Kazakh,5,parent_siblings
+v_kazakhkaza1248,kaza1248,Kazakh,4,parent_siblings
 v_kazymberezoversuryskarerkhantykhan1273,khan1273,Kazym-Berezover-Suryskarer Khanty,5,parent_siblings
+v_kazymkhantynort2672,nort2672,Kazym Khanty,7,parent_siblings
 v_keikeii1239,keii1239,Kei,2,parent_siblings
 v_kelekele1257,kele1257,Kélé,4,parent_siblings
 v_kerewekere1283,kere1283,Kerewe,2,parent_siblings
@@ -2023,14 +2047,16 @@ v_ketkett1243,kett1243,Ket,2,parent_siblings
 v_kikuyukiku1240,kiku1240,Kikuyu,4,parent_siblings
 v_kiowaapachekiow1264,kiow1264,Kiowa Apache,4,parent_siblings
 v_kitanemukserr1255b,serr1255,Serrano,4,parent_siblings
-v_kodavakoda1255,koda1255,Kodava,8,parent_siblings
+v_kodavakoda1255,koda1255,Kodava,7,parent_siblings
 v_kodikodi1247,kodi1247,Kodi-Gaura,2,parent_siblings
-v_komizyriankomi1268,komi1268,Komi-Zyrian,4,parent_siblings
+v_komizyriankomi1268,komi1268,Komi-Zyrian,8,parent_siblings
 v_komkomc1235,komc1235,Kom (Cameroon),1,parent_siblings
 v_komodrckomo1260,komo1260,Komo (Democratic Republic of Congo),6,parent_siblings
+v_korafeyeghakora1294,kora1294,Korafe-Yegha,2,parent_siblings
+v_koreankore1280,kore1280,Korean,10,parent_siblings
 v_kotakota1274,kota1274,Kota (Gabon),4,parent_siblings
 v_koyakoya1251,koya1251,Koya,5,parent_siblings
-v_kuikuii1252,kuii1252,Kui (India),7,parent_siblings
+v_kuikuii1252,kuii1252,Kui (India),6,parent_siblings
 v_kukatjakuka1246,kuka1246,Kukatja,5,parent_siblings
 v_kukuyalanjikuku1273,kuku1273,Kuku-Yalanji,5,parent_siblings
 v_kumaonikuma1273,kuma1273,Kumaoni,5,parent_siblings
@@ -2040,17 +2066,19 @@ v_kurukhkuru1302,kuru1302,Indian Kurux,9,parent_siblings
 v_kuvikuvi1243,kuvi1243,Kuvi,6,parent_siblings
 v_kwasiokwas1243,kwas1243,Kwasio,2,parent_siblings
 v_kwerekwer1261,kwer1261,Kwere,9,parent_siblings
-v_lahndalahn1241,lahn1241,Lahnda,4,parent_siblings
+v_lahndalahn1241,lahn1241,Lahnda,3,parent_siblings
 v_lalabisalala1264,lala1264,Lala-Bisa,4,parent_siblings
+v_lalalala1268,lala1268,Lala,2,parent_siblings
 v_lambalamb1271,lamb1271,Lamba,4,parent_siblings
 v_langilang1320,lang1320,Langi,4,parent_siblings
 v_latinlati1261,lati1261,Latin,4,parent_siblings
-v_latvianlatv1249,latv1249,Latvian,9,parent_siblings
+v_latvianlatv1249,latv1249,Latvian,5,parent_siblings
 v_laufijianlaua1243,laua1243,Lauan,6,parent_siblings
 v_lengualeng1262,leng1262,Lengua,4,parent_siblings
 v_lingalaling1263,ling1263,Kinshasa Lingala,7,parent_siblings
 v_lipanapachelipa1241,lipa1241,Lipan Apache,4,parent_siblings
 v_lithuanianlith1251,lith1251,Lithuanian,4,parent_siblings
+v_livonianlivv1244,livv1244,Liv,2,parent_siblings
 v_lowerpimapimabajopima1248,pima1248,Pima Bajo,3,parent_siblings
 v_lozilozi1239,lozi1239,Lozi,6,parent_siblings
 v_lubakatangaluba1250,luba1250,Luba-Katanga,7,parent_siblings
@@ -2065,19 +2093,21 @@ v_macedonianmace1250,mace1250,Macedonian,3,parent_siblings
 v_macushimacu1259,macu1259,Macushi,4,parent_siblings
 v_magyarhung1274,hung1274,Hungarian,3,parent_siblings
 v_mahasupaharimaha1287,maha1287,Mahasu Pahari,4,parent_siblings
+v_maisinmais1250,mais1250,Maisin,2,parent_siblings
 v_maithilimait1250,mait1250,Maithili,4,parent_siblings
 v_makondemako1251,mako1251,Makonde,2,parent_siblings
 v_malapandarammala1468,mala1468,Malapandaram,6,parent_siblings
 v_malayalammala1464,mala1464,Malayalam,7,parent_siblings
 v_malganamalg1242,malg1242,Malgana,1,parent_siblings
+v_mandarinchinamand1415,mand1415,Mandarin Chinese,4,parent_siblings
 v_mangarevansmang1401,mang1401,Mangareva,6,parent_siblings
 v_mansimans1258,mans1258,Northern Mansi,5,parent_siblings
 v_maorimaor1246,maor1246,Maori,3,parent_siblings
 v_mapudungunmapu1245,mapu1245,Mapudungun,4,parent_siblings
-v_marathimara1378,mara1378,Marathi,7,parent_siblings
+v_marathimara1378,mara1378,Marathi,4,parent_siblings
 v_marganymarg1253,marg1253,Margany,4,parent_siblings
 v_marieast2328,east2328,Eastern Mari,3,parent_siblings
-v_martuwangkamart1256,mart1256,Martu Wangka,7,parent_siblings
+v_martuwangkamart1256,mart1256,Martu Wangka,6,parent_siblings
 v_marwariindiamarw1260,marw1260,Marwari (India),5,parent_siblings
 v_masaabamasa1299,masa1299,Masaaba,10,parent_siblings
 v_mayomayo1264,mayo1264,Mayo,2,parent_siblings
@@ -2085,15 +2115,20 @@ v_mbalambal1257,mbal1257,Mbala,3,parent_siblings
 v_mberember1257,mber1257,Mbere-Mbamba,4,parent_siblings
 v_mbuunmpuo1241,mpuo1241,Mbuun,4,parent_siblings
 v_mbyaguaranimbya1239,mbya1239,Mbyá Guaraní,5,parent_siblings
+v_meadowmarigras1239,gras1239,Grassland Mari,6,parent_siblings
+v_melpamelp1238,melp1238,Melpa,2,parent_siblings
+v_menyameny1245,meny1245,Menya,2,parent_siblings
 v_merumeru1245,meru1245,Meru,8,parent_siblings
 v_metameta1238,meta1238,Meta',1,parent_siblings
 v_middleenglishmidd1317,midd1317,Middle English,2,parent_siblings
 v_middlehighgermanmidd1343,midd1343,Middle High German,4,parent_siblings
 v_midobmido1240,mido1240,Midob,4,parent_siblings
+v_misimapaneatimisi1243,misi1243,Misima-Paneati,1,parent_siblings
 v_mocovimoco1246,moco1246,Mocoví,2,parent_siblings
 v_moderngreekmode1248,mode1248,Modern Greek,2,parent_siblings
 v_modernwelshwels1247,wels1247,Welsh,4,parent_siblings
 v_mokpwemokp1239,mokp1239,Mokpwe,3,parent_siblings
+v_mokshamordvinmoks1248,moks1248,Moksha,5,parent_siblings
 v_mongomong1338,mong1338,Mongo,6,parent_siblings
 v_monomono1275,mono1275,Mono (USA),4,parent_siblings
 v_mosetenchimanemose1249,mose1249,Mosetén-Chimané,4,parent_siblings
@@ -2106,11 +2141,12 @@ v_muruwarimuru1266,muru1266,Muruwari,5,parent_siblings
 v_myenemyen1241,myen1241,Myene,8,parent_siblings
 v_navajonava1243,nava1243,Navajo,4,parent_siblings
 v_ndumundum1239,ndum1239,Ndumu,3,parent_siblings
-v_nepalinepa1254,nepa1254,Nepali,11,parent_siblings
+v_nepalinepa1254,nepa1254,Nepali,8,parent_siblings
 v_nets1241,nets1241,Natsilingmiutut,5,parent_siblings
 v_ngaanyatjarrangaa1240,ngaa1240,Ngaanyatjarra,6,parent_siblings
 v_ngaatjatjarrangaa1240,ngaa1240,Ngaanyatjarra,2,parent_siblings
 v_ngadjumayangad1258,ngad1258,Ngadjunmaya,3,parent_siblings
+v_nganasanngan1291,ngan1291,Nganasan,6,parent_siblings
 v_ngarinymanngar1235,ngar1235,Ngarinman,4,parent_siblings
 v_ngarlumangar1287,ngar1287,Ngarluma,2,parent_siblings
 v_ngarrindjerinarr1259,narr1259,Narrinyeri,2,parent_siblings
@@ -2137,6 +2173,7 @@ v_northernsaminort2671,nort2671,North Saami,6,parent_siblings
 v_northerntepehuannort2959,nort2959,Northern Tepehuan,4,parent_siblings
 v_northmarquesannort2845,nort2845,North Marquesan,5,parent_siblings
 v_northnorthernpaiutenort1551,nort1551,North Northern Paiute,4,parent_siblings
+v_northsaaminort2671,nort2671,North Saami,5,parent_siblings
 v_northwesternmaidunort2951,nort2951,Northwest Maidu,4,parent_siblings
 v_norwegianbokmalnorw1259,norw1259,Norwegian Bokmål,2,parent_siblings
 v_nsongsong1299,song1299,Nsong-Mpiin,5,parent_siblings
@@ -2145,6 +2182,7 @@ v_nyamalnyam1271,nyam1271,Nyamal,4,parent_siblings
 v_nyangumartanyan1301,nyan1301,Nyangumarta,4,parent_siblings
 v_nyoronyor1246,nyor1246,Nyoro,4,parent_siblings
 v_oduoduu1239,oduu1239,O'du,2,parent_siblings
+v_oksapminoksa1245,oksa1245,Oksapmin,2,parent_siblings
 v_oldaramaicolda1245,olda1245,Old Aramaic-Sam'alian,2,parent_siblings
 v_oldenglishca4501100olde1238,olde1238,Old English (ca. 450-1100),4,parent_siblings
 v_oldhighgermanca7501050oldh1241,oldh1241,Old High German (ca. 750-1050),2,parent_siblings
@@ -2155,33 +2193,34 @@ v_oldrussianoldr1238,oldr1238,Old Russian,4,parent_siblings
 v_oldwelsholdw1239,oldw1239,Old-Middle Welsh,1,parent_siblings
 v_ontongjavaonto1237,onto1237,Luangiua,3,parent_siblings
 v_opataopat1246,opat1246,Teguima,10,parent_siblings
-v_oriyaoriy1255,oriy1255,Odia,9,parent_siblings
+v_oriyaoriy1255,oriy1255,Odia,6,parent_siblings
+v_orokoloorok1267,orok1267,Orokolo,4,parent_siblings
 v_ossetianosse1243,osse1243,Modern Ossetic,4,parent_siblings
 v_ottowaojibwaotta1242,otta1242,Ottawa,4,parent_siblings
 v_paakantyidarl1243,darl1243,Paakantyi,4,parent_siblings
 v_paezpaez1247,paez1247,Páez,4,parent_siblings
 v_paliyanpali1274,pali1274,Paliyan,6,parent_siblings
 v_panareenap1235,enap1235,Panare,6,parent_siblings
-v_panjabipanj1256,panj1256,Eastern Panjabi,8,parent_siblings
+v_panjabipanj1256,panj1256,Eastern Panjabi,5,parent_siblings
 v_paraguayanguaranipara1311,para1311,Paraguayan Guaraní,9,parent_siblings
 v_parakanapara1312,para1312,Parakanã,4,parent_siblings
-v_pashtopash1269,pash1269,Pashto,6,parent_siblings
+v_pashtopash1269,pash1269,Pashto,3,parent_siblings
 v_pausernapaus1244,paus1244,Warázu,3,parent_siblings
-v_payungubayu1240,bayu1240,Bayungu,6,parent_siblings
+v_payungubayu1240,bayu1240,Bayungu,4,parent_siblings
 v_phendephen1239,phen1239,Phende,3,parent_siblings
 v_pilagapila1245,pila1245,Pilagá,2,parent_siblings
 v_pimadeyepachicchih1238,chih1238,Chihuahua Pima Bajo,2,parent_siblings
 v_pinjipinj1243,pinj1243,Pinji,3,parent_siblings
-v_pintupiluritjapint1250,pint1250,Pintupi-Luritja,6,parent_siblings
+v_pintupiluritjapint1250,pint1250,Pintupi-Luritja,5,parent_siblings
 v_pipilpipi1250,pipi1250,Pipil,1,parent_siblings
 v_pitjantjatjarapitj1243,pitj1243,Pitjantjatjara,7,parent_siblings
-v_pittapittapitt1247,pitt1247,Pitta Pitta,5,parent_siblings
+v_pittapittapitt1247,pitt1247,Pitta Pitta,4,parent_siblings
 v_pokomopoko1261,poko1261,Pokomo,3,parent_siblings
 v_polcipolc1243,polc1243,Pesse,3,parent_siblings
 v_polishpoli1260,poli1260,Polish,4,parent_siblings
 v_portugueseport1283,port1283,Portuguese,2,parent_siblings
 v_praiphai1238,phai1238,Prai,3,parent_siblings
-v_prototupiguaranitupi1276,tupi1239,NA,4,parent_siblings
+v_prototupiguaranitupi1276,tupi1276,NA,4,parent_siblings
 v_puinavepuin1248,puin1248,Puinave,4,parent_siblings
 v_pumepume1238,pume1238,Pumé,4,parent_siblings
 v_punupunu1239,punu1239,Punu,4,parent_siblings
@@ -2193,6 +2232,7 @@ v_ritharrngurita1239,rita1239,Ritarungo,4,parent_siblings
 v_romanianroma1327,roma1327,Romanian,2,parent_siblings
 v_rotinesetermanuterm1237,term1237,Termanu,7,parent_siblings
 v_rotumansrotu1241,rotu1241,Rotuman,2,parent_siblings
+v_rumurumu1243,rumu1243,Rumu,5,parent_siblings
 v_rundirund1242,rund1242,Rundi,4,parent_siblings
 v_russianruss1263,russ1263,Russian,2,parent_siblings
 v_rutulshin1265,shin1265,Shina (Nakh-Daghestan),4,parent_siblings
@@ -2212,6 +2252,7 @@ v_saterfriesischsate1242,sate1242,Ems-Weser Frisian,2,parent_siblings
 v_sekiseki1238,seki1238,Seki,4,parent_siblings
 v_selknamonaa1245,onaa1245,Selk'nam,4,parent_siblings
 v_selkupselk1253,selk1253,Selkup,6,parent_siblings
+v_sepikiwamsepi1255,sepi1255,Sepik Iwam,6,parent_siblings
 v_serbocroationsout1528,sout1528,Serbian-Croatian-Bosnian,3,parent_siblings
 v_serbsserb1264,serb1264,Serbian Standard,3,parent_siblings
 v_seriseri1257,seri1257,Seri,4,parent_siblings
@@ -2221,20 +2262,24 @@ v_shipiboship1254,ship1254,Shipibo-Conibo,5,parent_siblings
 v_shishii1238,shii1238,Shi,4,parent_siblings
 v_shoshonishos1248,shos1248,Shoshoni,3,parent_siblings
 v_sindhisind1272,sind1272,Sindhi,5,parent_siblings
-v_sinhalasinh1246,sinh1246,Sinhala,14,parent_siblings
+v_sinhalasinh1246,sinh1246,Sinhala,9,parent_siblings
 v_sionsion1247,sion1247,Siona-Tetete,2,parent_siblings
 v_sirasira1266,sira1266,Sira,4,parent_siblings
 v_sirionosiri1273,siri1273,Sirionó,4,parent_siblings
+v_skoltsaamiskol1241,skol1241,Skolt Saami,5,parent_siblings
 v_slovakianslov1269,slov1269,Slovak,3,parent_siblings
 v_slovenianslov1268,slov1268,Slovenian,2,parent_siblings
 v_sogasoga1242,soga1242,Soga,4,parent_siblings
 v_songoorasong1300,song1300,Songoora,3,parent_siblings
+v_sosvamansinort2677,nort2677,Sosva Mansi,4,parent_siblings
 v_southeasterntepehuanosout2976,sout2976,Southeastern Tepehuan,6,parent_siblings
 v_southernpaiutesout2969,sout2969,Southern Paiute,3,parent_siblings
 v_southerntepehuansout2975,sout2975,Southern Tepehuan,3,parent_siblings
 v_southerntepehuanwsout2977,sout2977,Southwestern Tepehuan,1,parent_siblings
 v_southernuteutee1244,utee1244,Ute,7,parent_siblings
-v_standardcatalanstan1289,stan1289,Catalan,3,parent_siblings
+v_southsaamisout2674,sout2674,South Saami,5,parent_siblings
+v_southtairorasout2943,sout2943,South Tairora,2,parent_siblings
+v_standardcatalanstan1289,stan1289,Catalan,2,parent_siblings
 v_standardenglishstan1293,stan1293,English,2,parent_siblings
 v_standardfrenchstan1290,stan1290,French,2,parent_siblings
 v_standardgermanstan1295,stan1295,German,2,parent_siblings
@@ -2246,6 +2291,7 @@ v_suruisuru1262,suru1262,Suruí,4,parent_siblings
 v_suundisuun1239,suun1239,Suundi,1,parent_siblings
 v_swedishswed1254,swed1254,Swedish,6,parent_siblings
 v_taabwashil1264,shil1264,Shila,4,parent_siblings
+v_tabriaktabr1243,tabr1243,Tabriak,2,parent_siblings
 v_tahitianstahi1242,tahi1242,Tahitian,2,parent_siblings
 v_tajiktaji1245,taji1245,Tajik,3,parent_siblings
 v_tamiltami1289,tami1289,Tamil,7,parent_siblings
@@ -2253,10 +2299,11 @@ v_tanalatana1285,tana1285,Tañala,4,parent_siblings
 v_tapirapetapi1254,tapi1254,Tapirapé,6,parent_siblings
 v_tarahumaracent2131,cent2131,Central Tarahumara,8,parent_siblings
 v_tehuelchetehu1242,tehu1242,Tehuelche,3,parent_siblings
-v_telugutelu1262,telu1262,Telugu,7,parent_siblings
+v_telugutelu1262,telu1262,Telugu,4,parent_siblings
 v_tembetemb1276,temb1276,Tenetehara,4,parent_siblings
 v_temitemi1247,temi1247,Temi,2,parent_siblings
 v_tenharimtenh1241,tenh1241,Tenharim-Parintintin-Diahoi,4,parent_siblings
+v_tereitere1278,tere1278,Terei,2,parent_siblings
 v_tetelatete1250,tete1250,Tetela,5,parent_siblings
 v_tikopiatiko1237,tiko1237,Tikopia,4,parent_siblings
 v_tivtivv1240,tivv1240,Tiv,2,parent_siblings
@@ -2280,19 +2327,22 @@ v_tubartuba1279,tuba1279,Tubar,1,parent_siblings
 v_tubatulabaltuba1278,tuba1278,Tübatulabal,2,parent_siblings
 v_tucanotuca1252,tuca1252,Tucano,4,parent_siblings
 v_tumpishashoshonipana1305,pana1305,Panamint,4,parent_siblings
-v_tundranenetsnene1249,nene1249,Tundra Nenets,3,parent_siblings
+v_tundranenetsnene1249,nene1249,Tundra Nenets,10,parent_siblings
 v_tupinambatupi1273,tupi1273,Tupinambá,3,parent_siblings
 v_tupitupi1274,tupi1274,Lingua Geral Paulista,4,parent_siblings
 v_tuyucatuyu1244,tuyu1244,Tuyuca,4,parent_siblings
 v_tzeltaltzel1254,tzel1254,Tzeltal,3,parent_siblings
+v_udmurtudmu1245,udmu1245,Udmurt,2,parent_siblings
 v_ukrainianukra1253,ukra1253,Ukrainian,6,parent_siblings
 v_ulawaulaw1237,ulaw1237,Ulawa,2,parent_siblings
 v_umbunduumbu1257,umbu1257,Umbundu,2,parent_siblings
 v_umpilaumpi1239,umpi1239,Umpila,8,parent_siblings
-v_urduurdu1245,urdu1245,Urdu,6,parent_siblings
+v_urduurdu1245,urdu1245,Urdu,5,parent_siblings
 v_vendavend1245,vend1245,Venda,6,parent_siblings
+v_vepsveps1250,veps1250,Veps,2,parent_siblings
 v_vilivili1238,vili1238,Vili,2,parent_siblings
 v_vlaxromanivlax1238,vlax1238,Vlax Romani,3,parent_siblings
+v_wahginucl1620,nucl1620,Wahgi,2,parent_siblings
 v_wailakiwail1244,wail1244,Eel River Athabaskan,4,parent_siblings
 v_waimiriatroariwaim1253,waim1253,Waimiri-Atroari,4,parent_siblings
 v_waiwaiwaiw1244,waiw1244,Waiwai,3,parent_siblings
@@ -2312,6 +2362,7 @@ v_warunguwaru1264,waru1264,Warrongo,4,parent_siblings
 v_waurawaur1244,waur1244,Waurá,4,parent_siblings
 v_wayampiwaya1270,waya1270,Wayampi,4,parent_siblings
 v_wayuuwayu1243,wayu1243,Wayuu,4,parent_siblings
+v_wedauweda1241,weda1241,Wedau,2,parent_siblings
 v_westernapachewest2615,west2615,Western Apache,3,parent_siblings
 v_westernarmenianhoms1234,homs1234,Western Armenian,4,parent_siblings
 v_westernfarsiwest2369,west2369,Western Farsi,5,parent_siblings
@@ -2321,6 +2372,7 @@ v_whitemesauteutee1244b,utee1244,Ute,1,parent_siblings
 v_wikmungkanwikm1247,wikm1247,Wik-Mungkan,9,parent_siblings
 v_wiradjuriwira1262,wira1262,Wiradhuri,6,parent_siblings
 v_wiranguwira1265,wira1265,Wirangu,4,parent_siblings
+v_wiruwiru1244,wiru1244,Wiru,1,parent_siblings
 v_wiyotwiyo1248,wiyo1248,Wiyot,4,parent_siblings
 v_woiwurrungwoiw1237,woiw1237,Woiwurrung-Thagungwurrung,2,parent_siblings
 v_wulguruwulg1239,wulg1239,Wulguru,5,parent_siblings
@@ -2347,30 +2399,11 @@ v_yugambehyugu1249,yugu1249,Yugumbir,5,parent_siblings
 v_yukiyuki1243,yuki1243,Northern Yukian,7,parent_siblings
 v_yulparijayulp1239,yulp1239,Yulparija,4,parent_siblings
 v_yurokyuro1248,yuro1248,Yurok,2,parent_siblings
-v_yuwaalaraaygami1243,gami1243,Yuwaalaraay-Gamilaraay,5,parent_siblings
+v_yuwaalaraaygami1243,gami1243,Yuwaalaraay-Gamilaraay,4,parent_siblings
 v_zigulazigu1242,zigu1242,Zigula,6,parent_siblings
 v_zinzazinz1238,zinz1238,Zinza,2,parent_siblings
 v_zuluzulu1248,zulu1248,Zulu,5,parent_siblings
 v_zunizuni1245,zuni1245,Zuni,4,parent_siblings
-ErzyaMordvin,erzy1239,Erzya,4,grandparents
-Estonian,esto1258,Estonian,6,grandparents
-Finnish,finn1318,Finnish,6,grandparents
-ForestEnets,fore1265,Forest Enets,4,grandparents
-HillMari,west2392,Western Mari,3,grandparents
-Hungarian,hung1274,Hungarian,2,grandparents
-KazymKhanty,nort2672,Kazym Khanty,4,grandparents
-KomiZyrian,komi1268,Komi-Zyrian,6,grandparents
-Livonian,livv1244,Liv,5,grandparents
-MeadowMari,gras1239,Grassland Mari,4,grandparents
-MokshaMordvin,moks1248,Moksha,4,grandparents
-Nganasan,ngan1291,Nganasan,2,grandparents
-NorthSaami,nort2671,North Saami,2,grandparents
-SkoltSaami,skol1241,Skolt Saami,3,grandparents
-SosvaMansi,nort2677,Sosva Mansi,4,grandparents
-SouthSaami,sout2674,South Saami,6,grandparents
-TundraNenets,nene1249,Tundra Nenets,2,grandparents
-Udmurt,udmu1245,Udmurt,4,grandparents
-Veps,veps1250,Veps,2,grandparents
 p_abuiabui1241,abui1241,Abui,1,grandparents
 p_achineseachi1257,achi1257,Acehnese,2,grandparents
 p_adangadan1251,adan1251,Adang,1,grandparents
@@ -2878,8 +2911,6 @@ p_tetundilitetumtetu1246,tetu1246,Tetun Dili,1,grandparents
 p_thaothao1240,thao1240,Thao,2,grandparents
 p_thayorekuukthaayorrethay1249,thay1249,Thayore,4,grandparents
 p_tialotominitomi1243,tomi1243,Tomini,2,grandparents
-p_tidoreversion1tido1248,tido1248,Tidore,2,grandparents
-p_tidoreversion2tido1248a,tido1248,Tidore,2,grandparents
 p_tikopiatiko1237a,tiko1237,Tikopia,1,grandparents
 p_tiraxmaemaee1241,maee1241,Tirax,1,grandparents
 p_tirimeagrandcoulitiri1258,tiri1258,Tiri-Mea,2,grandparents
@@ -2901,7 +2932,7 @@ p_tucanoanbarawaim1255,waim1255,Waimaha,2,grandparents
 p_tukangbesisouthtuka1249,tuka1249,Tukang Besi South,1,grandparents
 p_tulambatutula1253,tula1253,Tulambatu,1,grandparents
 p_tungagtung1290,tung1290,Tungag,1,grandparents
-p_turkishnucl1301,nucl1301,Turkish,6,grandparents
+p_turkishnucl1301,nucl1301,Turkish,5,grandparents
 p_turungturu1249,turu1249,Turung,4,grandparents
 p_tuvalunanumeatuva1244,tuva1244,Tuvalu,1,grandparents
 p_umajumankayanumaj1240,umaj1240,Uma Juman,2,grandparents
@@ -2949,8 +2980,8 @@ p_xalangimaevovanuatumari1426h,mari1426,Sunwadia,1,grandparents
 p_xaracuucanalaxara1244,xara1244,Xârâcùù,2,grandparents
 p_xawia1234,awia1234,Awiakay-Karimba,1,grandparents
 p_xibexibe1242,xibe1242,Xibe,4,grandparents
-p_xmala1294,mala1294,NA,1,grandparents
-p_xtido1249,tido1249,NA,2,grandparents
+p_xmala1494,mala1494,Mala (Papua New Guinea),1,grandparents
+p_xtido1248,tido1248,Tidore,2,grandparents
 p_yabemyabe1254,yabe1254,Yabem,3,grandparents
 p_yadhaykenuyadh1237,yadh1237,Yadhaykenu,5,grandparents
 p_yagwoiayagw1240,yagw1240,Yagwoia,2,grandparents
@@ -2968,7 +2999,7 @@ p_yugambalyugambehyuga1244,yuga1244,Yugambal,2,grandparents
 p_yukultaganggalidagang1267a,gang1267,Ganggalida,4,grandparents
 p_yuracareyura1255,yura1255,Yuracaré,2,grandparents
 p_zabanakiazaba1237,zaba1237,Zabana,1,grandparents
-v_acheache1246,ache1246,Aché,4,grandparents
+v_acheache1246,ache1246,Aché,2,grandparents
 v_achuarachu1249,achu1249,Achuar,2,grandparents
 v_adnyamathanhaadny1235,adny1235,Adnyamathanha,4,grandparents
 v_aghulaghu1253,aghu1253,Aghul,2,grandparents
@@ -2978,6 +3009,7 @@ v_akkadianakka1240,akka1240,Akkadian,1,grandparents
 v_albanianalba1267,alba1267,Albanian,2,grandparents
 v_albaniantosktosk1239,tosk1239,Northern Tosk Albanian,2,grandparents
 v_alyawarralya1239,alya1239,Alyawarr,4,grandparents
+v_ameleamel1241,amel1241,Amele,1,grandparents
 v_amisamis1246,amis1246,Amis,2,grandparents
 v_anambeanam1249,anam1249,Anambé,2,grandparents
 v_ancientgreekanci1242,anci1242,Ancient Greek,6,grandparents
@@ -2987,8 +3019,8 @@ v_arabanaarab1267,arab1267,Arabana,3,grandparents
 v_arawetearaw1273,araw1273,Araweté,2,grandparents
 v_archiarch1244,arch1244,Archi,2,grandparents
 v_arizonayaquiyaqu1251a,yaqu1251,Yaqui,3,grandparents
-v_armeniannucl1235,nucl1235,Eastern Armenian,4,grandparents
-v_assameseassa1263,assa1263,Assamese,4,grandparents
+v_armeniannucl1235,nucl1235,Eastern Armenian,3,grandparents
+v_assameseassa1263,assa1263,Assamese,3,grandparents
 v_asutanzaniaasut1235,asut1235,Asu (Tanzania),2,grandparents
 v_atayalatay1247,atay1247,Atayal,2,grandparents
 v_atsugewiatsu1245,atsu1245,Atsugewi,4,grandparents
@@ -3000,15 +3032,18 @@ v_avarbatluxbatl1238,batl1238,Batlux,2,grandparents
 v_avarhiddialecthidd1238,hidd1238,Hid,2,grandparents
 v_avazkhunzakhkunz1243,kunz1243,Xunzax,2,grandparents
 v_avestanaves1237,aves1237,Avestan,2,grandparents
+v_awaawap1236,awap1236,Awa (Papua New Guinea),2,grandparents
 v_awetiawet1244,awet1244,Awetí,2,grandparents
+v_awiyaanaawiy1238,awiy1238,Awiyaana,2,grandparents
 v_ayoreoayor1240,ayor1240,Ayoreo,2,grandparents
 v_aztecclas1250,clas1250,Classical Nahuatl,2,grandparents
 v_badimayabadi1246,badi1246,Badimaya,1,grandparents
 v_bafiabafi1243,bafi1243,Bafia,1,grandparents
 v_bahvalalbagv1239,bagv1239,Bagvalal,2,grandparents
 v_balochibalo1260,balo1260,Balochic,4,grandparents
-v_bandjalangband1339,band1339,Bandjalangic,8,grandparents
+v_bandjalangband1339,band1339,Bandjalangic,5,grandparents
 v_bannockbann1248,bann1248,Bannock,3,grandparents
+v_barainucl1630,nucl1630,Barai,1,grandparents
 v_baribari1297,bari1297,Barí,2,grandparents
 v_basquebasq1248,basq1248,Basque,2,grandparents
 v_basquewest1508,west1508,Western Low Navarrese,2,grandparents
@@ -3019,7 +3054,7 @@ v_belarusianbela1254,bela1254,Belarusian,2,grandparents
 v_bembabemb1257,bemb1257,Bemba (Zambia),1,grandparents
 v_benatanzaniabena1262,bena1262,Bena (Tanzania),2,grandparents
 v_bendebend1258,bend1258,Bende,1,grandparents
-v_bengalibeng1280,beng1280,Bengali,9,grandparents
+v_bengalibeng1280,beng1280,Bengali,6,grandparents
 v_berabera1259,bera1259,Bera,2,grandparents
 v_bezhtabezh1248,bezh1248,Bezhta,2,grandparents
 v_biharibiha1245,biha1245,Bihari,4,grandparents
@@ -3035,7 +3070,7 @@ v_bulgarianbulg1262,bulg1262,Bulgarian,2,grandparents
 v_bununbunu1267,bunu1267,Bunun,2,grandparents
 v_burmesenucl1310,nucl1310,Burmese,2,grandparents
 v_bushoongbush1247,bush1247,Bushoong,1,grandparents
-v_cahuillacahu1264,cahu1264,Cahuilla,6,grandparents
+v_cahuillacahu1264,cahu1264,Cahuilla,5,grandparents
 v_carnicobaresecarn1240,carn1240,Car Nicobarese,1,grandparents
 v_cayubabacayu1262,cayu1262,Cayubaba,2,grandparents
 v_centralaymaracent2142,cent2142,Central Aymara,2,grandparents
@@ -3068,6 +3103,7 @@ v_cuscoquechuacusc1236,cusc1236,Cusco Quechua,2,grandparents
 v_czechczec1258,czec1258,Czech,2,grandparents
 v_dandamimariadand1238,dand1238,Dandami Maria,4,grandparents
 v_danishdani1285,dani1285,Danish,2,grandparents
+v_danodano1240,dano1240,Dano,2,grandparents
 v_dargwachiragchir1284,chir1284,Chirag,2,grandparents
 v_dargwaitsariitsa1239,icar1234,Icari,2,grandparents
 v_daridari1249,dari1249,Dari,2,grandparents
@@ -3075,17 +3111,19 @@ v_dekwanamaquiritarimaqu1238,maqu1238,Ye'kwana,2,grandparents
 v_delinenort2942,nort2942,North Slavey,2,grandparents
 v_denesulinechip1261,chip1261,Chipewyan,2,grandparents
 v_denethasouthslaveysout2959,sout2959,South Slavey,2,grandparents
-v_dharumbaldhar1248,dhar1248,Dharumbal,5,grandparents
-v_dhuwaldhuw1249,dhuw1249,Dhuwal,6,grandparents
+v_dharumbaldhar1248,dhar1248,Dharumbal,4,grandparents
+v_dhuwaldhuw1249,dhuw1249,Dhuwal,4,grandparents
 v_digodigo1243,digo1243,Digo,2,grandparents
 v_dingding1239,ding1239,Ding,3,grandparents
-v_diyaridier1241,dier1241,Dieri,7,grandparents
+v_diyaridier1241,dier1241,Dieri,5,grandparents
 v_djambarrpuyngudjam1256,djam1256,Djambarrpuyngu,4,grandparents
 v_djinangdjin1253,djin1253,Djinang,4,grandparents
 v_dogribdogr1252,dogr1252,Dogrib,2,grandparents
+v_domdomm1246,domm1246,Dom,2,grandparents
+v_doromukokidoro1266,doro1266,Doromu-Koki,1,grandparents
 v_dualadual1243,dual1243,Duala,3,grandparents
 v_dutchdutc1256,dutc1256,Dutch,2,grandparents
-v_dyirbaldyir1250,dyir1250,Dyirbal,8,grandparents
+v_dyirbaldyir1250,dyir1250,Dyirbal,4,grandparents
 v_easterislandersrapa1244,rapa1244,Rapanui,1,grandparents
 v_easternarmenianeast2283,nucl1235,Eastern Armenian,2,grandparents
 v_easternpaharinepalieast1436,east1436,Eastern Pahari,2,grandparents
@@ -3093,19 +3131,25 @@ v_easternyiddisheast2295,east2295,Eastern Yiddish,2,grandparents
 v_ekondamongoekon1238,ekon1238,Ekonda Mongo,2,grandparents
 v_ellicetuva1244,tuva1244,Tuvalu,2,grandparents
 v_emerillonemer1243,emer1243,Teko,2,grandparents
+v_engaenga1252,enga1252,Enga,4,grandparents
 v_epenaepen1239,epen1239,Epena,1,grandparents
 v_erzyaerzy1239,erzy1239,Erzya,2,grandparents
+v_erzyamordvinerzy1239,erzy1239,Erzya,4,grandparents
+v_estonianesto1258,esto1258,Estonian,6,grandparents
 v_eudeveeude1234,eude1234,Eudeve,2,grandparents
 v_eyakeyak1241,eyak1241,Eyak,4,grandparents
 v_fangegfang1246,fang1246,Fang (Equatorial Guinea),1,grandparents
 v_fefefefe1239,fefe1239,Fe'fe',6,grandparents
+v_finnishfinn1318,finn1318,Finnish,6,grandparents
 v_fipafipa1238,fipa1238,Fipa,2,grandparents
 v_flindersislandflin1247,flin1247,Flinders Island,4,grandparents
+v_forestenetsfore1265,fore1265,Forest Enets,4,grandparents
 v_frisianfris1239,fris1239,Frisian,2,grandparents
 v_futunanseast2447,east2447,East Futuna,1,grandparents
 v_gabrielinotong1329,tong1329,Tongva,1,grandparents
 v_galibicaribgali1262,gali1262,Galibi Carib,2,grandparents
 v_gandagand1255,gand1255,Ganda,1,grandparents
+v_gapapaiwagapa1238,gapa1238,Gapapaiwa,2,grandparents
 v_giryamagiry1241,giry1241,Giryama,2,grandparents
 v_godoberighod1238,ghod1238,Godoberi,2,grandparents
 v_gogogogo1263,gogo1263,Gogo,2,grandparents
@@ -3114,28 +3158,32 @@ v_gothicgoth1244,goth1244,Gothic,1,grandparents
 v_guajaguaj1256,guaj1256,Guajá,2,grandparents
 v_guarayuguar1292,guar1292,Guarayu,2,grandparents
 v_guarijiohuar1255,huar1255,Huarijio,4,grandparents
-v_gujaratiguja1252,guja1252,Gujarati,7,grandparents
+v_gujaratiguja1252,guja1252,Gujarati,5,grandparents
 v_gumatjguma1253,guma1253,Gumatj,3,grandparents
 v_gumbaynggirkumb1268,kumb1268,Kumbainggar,4,grandparents
 v_gununakunepuel1244,puel1244,Puelche,2,grandparents
-v_gunyaguny1241,guny1241,Gunya,6,grandparents
+v_gunyaguny1241,guny1241,Gunya,4,grandparents
 v_gupapuyngugupa1247,gupa1247,Gupapuyngu,5,grandparents
 v_gurindjiguri1247,guri1247,Gurindji,4,grandparents
 v_gusiigusi1247,gusi1247,Gusii,2,grandparents
 v_guuguyimidhirrgugu1255,gugu1255,Guugu Yimidhirr,5,grandparents
 v_hahaaa1252,haaa1252,Ha,2,grandparents
+v_hamtaihamt1247,hamt1247,Hamtai,2,grandparents
+v_hapororanhita1242,hita1242,Hitau-Pororan,1,grandparents
 v_hausahaus1257,haus1257,Hausa,1,grandparents
 v_hawaiianshawa1245,hawa1245,Hawaiian,3,grandparents
 v_hayahaya1250,haya1250,Haya,2,grandparents
 v_hehehehe1240,hehe1240,Hehe,2,grandparents
 v_hererohere1253,here1253,Herero,2,grandparents
 v_highlandpueblanahuatlhigh1278,high1278,Highland Puebla Nahuatl,2,grandparents
-v_hindihind1269,hind1269,Hindi,8,grandparents
+v_hillmariwest2392,west2392,Western Mari,3,grandparents
+v_hindihind1269,hind1269,Hindi,4,grandparents
 v_hinuqhinu1240,hinu1240,Hinuq,2,grandparents
 v_hittitehitt1242,hitt1242,Hittite,2,grandparents
 v_hopihopi1249,hopi1249,Hopi,2,grandparents
 v_hotiyuwanayuwa1244,yuwa1244,Hoti,2,grandparents
 v_huicholhuic1243,huic1243,Huichol,3,grandparents
+v_hungarianhung1274,hung1274,Hungarian,2,grandparents
 v_hunzahunz1248,hunz1248,Hunza,1,grandparents
 v_hunzibhunz1247,hunz1247,Hunzib,2,grandparents
 v_hupahupa1239,hupa1239,Hupa-Chilula,4,grandparents
@@ -3176,19 +3224,22 @@ v_kawaiisukawa1283,kawa1283,Kawaiisu,4,grandparents
 v_kayabikaya1329,kaya1329,Kayabí,2,grandparents
 v_kazakhkaza1248,kaza1248,Kazakh,2,grandparents
 v_kazymberezoversuryskarerkhantykhan1273,khan1273,Kazym-Berezover-Suryskarer Khanty,2,grandparents
+v_kazymkhantynort2672,nort2672,Kazym Khanty,4,grandparents
 v_kerewekere1283,kere1283,Kerewe,2,grandparents
 v_ketkett1243,kett1243,Ket,3,grandparents
 v_kikuyukiku1240,kiku1240,Kikuyu,2,grandparents
-v_kodavakoda1255,koda1255,Kodava,3,grandparents
+v_kodavakoda1255,koda1255,Kodava,2,grandparents
 v_kodikodi1247,kodi1247,Kodi-Gaura,2,grandparents
-v_komizyriankomi1268,komi1268,Komi-Zyrian,2,grandparents
+v_komizyriankomi1268,komi1268,Komi-Zyrian,6,grandparents
 v_komkomc1235,komc1235,Kom (Cameroon),5,grandparents
 v_komodrckomo1260,komo1260,Komo (Democratic Republic of Congo),1,grandparents
+v_korafeyeghakora1294,kora1294,Korafe-Yegha,2,grandparents
+v_koreankore1280,kore1280,Korean,4,grandparents
 v_kotakota1274,kota1274,Kota (Gabon),1,grandparents
 v_koyakoya1251,koya1251,Koya,4,grandparents
-v_kuikuii1252,kuii1252,Kui (India),6,grandparents
+v_kuikuii1252,kuii1252,Kui (India),4,grandparents
 v_kukatjakuka1246,kuka1246,Kukatja,6,grandparents
-v_kukuyalanjikuku1273,kuku1273,Kuku-Yalanji,5,grandparents
+v_kukuyalanjikuku1273,kuku1273,Kuku-Yalanji,4,grandparents
 v_kumaonikuma1273,kuma1273,Kumaoni,2,grandparents
 v_kumykkumy1244,kumy1244,Kumyk,2,grandparents
 v_kungjuho1239,juho1239,South-Eastern Ju,2,grandparents
@@ -3198,15 +3249,17 @@ v_kwasiokwas1243,kwas1243,Kwasio,1,grandparents
 v_kwerekwer1261,kwer1261,Kwere,2,grandparents
 v_lahndalahn1241,lahn1241,Lahnda,4,grandparents
 v_lalabisalala1264,lala1264,Lala-Bisa,1,grandparents
+v_lalalala1268,lala1268,Lala,1,grandparents
 v_lambalamb1271,lamb1271,Lamba,1,grandparents
 v_langilang1320,lang1320,Langi,2,grandparents
 v_latinlati1261,lati1261,Latin,2,grandparents
-v_latvianlatv1249,latv1249,Latvian,10,grandparents
+v_latvianlatv1249,latv1249,Latvian,7,grandparents
 v_laufijianlaua1243,laua1243,Lauan,2,grandparents
 v_lengualeng1262,leng1262,Lengua,2,grandparents
 v_lingalaling1263,ling1263,Kinshasa Lingala,3,grandparents
 v_lipanapachelipa1241,lipa1241,Lipan Apache,2,grandparents
 v_lithuanianlith1251,lith1251,Lithuanian,3,grandparents
+v_livonianlivv1244,livv1244,Liv,5,grandparents
 v_lozilozi1239,lozi1239,Lozi,1,grandparents
 v_lubakatangaluba1250,luba1250,Luba-Katanga,1,grandparents
 v_lubalulualuba1249,luba1249,Luba-Lulua,1,grandparents
@@ -3221,18 +3274,20 @@ v_macedonianmace1250,mace1250,Macedonian,2,grandparents
 v_macushimacu1259,macu1259,Macushi,2,grandparents
 v_magyarhung1274,hung1274,Hungarian,2,grandparents
 v_mahasupaharimaha1287,maha1287,Mahasu Pahari,2,grandparents
-v_maithilimait1250,mait1250,Maithili,9,grandparents
+v_maisinmais1250,mais1250,Maisin,1,grandparents
+v_maithilimait1250,mait1250,Maithili,6,grandparents
 v_makondemako1251,mako1251,Makonde,2,grandparents
 v_malapandarammala1468,mala1468,Malapandaram,4,grandparents
 v_malayalammala1464,mala1464,Malayalam,3,grandparents
+v_mandarinchinamand1415,mand1415,Mandarin Chinese,4,grandparents
 v_mangarevansmang1401,mang1401,Mangareva,1,grandparents
 v_mansimans1258,mans1258,Northern Mansi,2,grandparents
 v_maorimaor1246,maor1246,Maori,2,grandparents
 v_mapudungunmapu1245,mapu1245,Mapudungun,2,grandparents
 v_marathimara1378,mara1378,Marathi,2,grandparents
-v_marganymarg1253,marg1253,Margany,7,grandparents
+v_marganymarg1253,marg1253,Margany,5,grandparents
 v_marieast2328,east2328,Eastern Mari,2,grandparents
-v_martuwangkamart1256,mart1256,Martu Wangka,3,grandparents
+v_martuwangkamart1256,mart1256,Martu Wangka,2,grandparents
 v_marwariindiamarw1260,marw1260,Marwari (India),4,grandparents
 v_masaabamasa1299,masa1299,Masaaba,2,grandparents
 v_mashcopiromash1270,mash1270,Mashco Piro,2,grandparents
@@ -3241,14 +3296,19 @@ v_mayomayo1264,mayo1264,Mayo,1,grandparents
 v_mbalambal1257,mbal1257,Mbala,1,grandparents
 v_mberember1257,mber1257,Mbere-Mbamba,1,grandparents
 v_mbyaguaranimbya1239,mbya1239,Mbyá Guaraní,1,grandparents
+v_meadowmarigras1239,gras1239,Grassland Mari,4,grandparents
+v_melpamelp1238,melp1238,Melpa,2,grandparents
+v_menyameny1245,meny1245,Menya,2,grandparents
 v_merumeru1245,meru1245,Meru,1,grandparents
 v_middleenglishmidd1317,midd1317,Middle English,2,grandparents
 v_middlehighgermanmidd1343,midd1343,Middle High German,2,grandparents
 v_midobmido1240,mido1240,Midob,2,grandparents
+v_misimapaneatimisi1243,misi1243,Misima-Paneati,1,grandparents
 v_mocovimoco1246,moco1246,Mocoví,2,grandparents
 v_moderngreekmode1248,mode1248,Modern Greek,2,grandparents
-v_modernwelshwels1247,wels1247,Welsh,4,grandparents
+v_modernwelshwels1247,wels1247,Welsh,2,grandparents
 v_mokpwemokp1239,mokp1239,Mokpwe,3,grandparents
+v_mokshamordvinmoks1248,moks1248,Moksha,4,grandparents
 v_mongomong1338,mong1338,Mongo,1,grandparents
 v_monomono1275,mono1275,Mono (USA),4,grandparents
 v_mosetenchimanemose1249,mose1249,Mosetén-Chimané,2,grandparents
@@ -3267,6 +3327,7 @@ v_nevomepima1248b,pima1248,Pima Bajo,2,grandparents
 v_ngaanyatjarrangaa1240,ngaa1240,Ngaanyatjarra,2,grandparents
 v_ngaatjatjarrangaa1240,ngaa1240,Ngaanyatjarra,3,grandparents
 v_ngadjumayangad1258,ngad1258,Ngadjunmaya,4,grandparents
+v_nganasanngan1291,ngan1291,Nganasan,2,grandparents
 v_ngarinymanngar1235,ngar1235,Ngarinman,4,grandparents
 v_ngarlumangar1287,ngar1287,Ngarluma,5,grandparents
 v_ngiyambaawang1291,wang1291,Ngiyambaa,4,grandparents
@@ -3291,6 +3352,7 @@ v_northernsaminort2671,nort2671,North Saami,2,grandparents
 v_northerntepehuannort2959,nort2959,Northern Tepehuan,3,grandparents
 v_northmarquesannort2845,nort2845,North Marquesan,2,grandparents
 v_northnorthernpaiutenort1551,nort1551,North Northern Paiute,4,grandparents
+v_northsaaminort2671,nort2671,North Saami,2,grandparents
 v_northwesternmaidunort2951,nort2951,Northwest Maidu,4,grandparents
 v_norwegianbokmalnorw1259,norw1259,Norwegian Bokmål,2,grandparents
 v_nsongsong1299,song1299,Nsong-Mpiin,1,grandparents
@@ -3300,6 +3362,7 @@ v_nyamalnyam1271,nyam1271,Nyamal,4,grandparents
 v_nyangumartanyan1301,nyan1301,Nyangumarta,4,grandparents
 v_nyoronyor1246,nyor1246,Nyoro,2,grandparents
 v_oduoduu1239,oduu1239,O'du,3,grandparents
+v_oksapminoksa1245,oksa1245,Oksapmin,1,grandparents
 v_oldaramaicolda1245,olda1245,Old Aramaic-Sam'alian,2,grandparents
 v_oldchurchslavonicchur1257,chur1257,Church Slavic,2,grandparents
 v_oldenglishca4501100olde1238,olde1238,Old English (ca. 450-1100),2,grandparents
@@ -3310,7 +3373,8 @@ v_oldprussianprus1238,prus1238,Old Prussian,2,grandparents
 v_oldwelsholdw1239,oldw1239,Old-Middle Welsh,2,grandparents
 v_ontongjavaonto1237,onto1237,Luangiua,1,grandparents
 v_opataopat1246,opat1246,Teguima,4,grandparents
-v_oriyaoriy1255,oriy1255,Odia,6,grandparents
+v_oriyaoriy1255,oriy1255,Odia,4,grandparents
+v_orokoloorok1267,orok1267,Orokolo,1,grandparents
 v_ossetianosse1243,osse1243,Modern Ossetic,3,grandparents
 v_ottowaojibwaotta1242,otta1242,Ottawa,2,grandparents
 v_paakantyidarl1243,darl1243,Paakantyi,5,grandparents
@@ -3329,13 +3393,13 @@ v_pimadeyepachicchih1238,chih1238,Chihuahua Pima Bajo,2,grandparents
 v_pinjipinj1243,pinj1243,Pinji,3,grandparents
 v_pintupiluritjapint1250,pint1250,Pintupi-Luritja,2,grandparents
 v_pitjantjatjarapitj1243,pitj1243,Pitjantjatjara,2,grandparents
-v_pittapittapitt1247,pitt1247,Pitta Pitta,7,grandparents
+v_pittapittapitt1247,pitt1247,Pitta Pitta,6,grandparents
 v_pokomopoko1261,poko1261,Pokomo,2,grandparents
 v_polcipolc1243,polc1243,Pesse,1,grandparents
 v_polishpoli1260,poli1260,Polish,2,grandparents
 v_portugueseport1283,port1283,Portuguese,2,grandparents
 v_praiphai1238,phai1238,Prai,2,grandparents
-v_prototupiguaranitupi1276,tupi1239,NA,2,grandparents
+v_prototupiguaranitupi1276,tupi1276,NA,2,grandparents
 v_puinavepuin1248,puin1248,Puinave,2,grandparents
 v_pumepume1238,pume1238,Pumé,2,grandparents
 v_punupunu1239,punu1239,Punu,1,grandparents
@@ -3348,6 +3412,7 @@ v_ritharrngurita1239,rita1239,Ritarungo,5,grandparents
 v_romanianroma1327,roma1327,Romanian,2,grandparents
 v_rotinesetermanuterm1237,term1237,Termanu,2,grandparents
 v_rotumansrotu1241,rotu1241,Rotuman,1,grandparents
+v_rumurumu1243,rumu1243,Rumu,2,grandparents
 v_rundirund1242,rund1242,Rundi,2,grandparents
 v_russianruss1263,russ1263,Russian,2,grandparents
 v_rutulshin1265,shin1265,Shina (Nakh-Daghestan),2,grandparents
@@ -3363,32 +3428,37 @@ v_sateremawesate1243,sate1243,Sateré-Mawé,2,grandparents
 v_saterfriesischsate1242,sate1242,Ems-Weser Frisian,2,grandparents
 v_selknamonaa1245,onaa1245,Selk'nam,2,grandparents
 v_selkupselk1253,selk1253,Selkup,2,grandparents
+v_sepikiwamsepi1255,sepi1255,Sepik Iwam,3,grandparents
 v_serbocroationsout1528,sout1528,Serbian-Croatian-Bosnian,2,grandparents
 v_serbsserb1264,serb1264,Serbian Standard,2,grandparents
 v_seriseri1257,seri1257,Seri,2,grandparents
-v_serranoserr1255,serr1255,Serrano,5,grandparents
+v_serranoserr1255,serr1255,Serrano,4,grandparents
 v_shastashas1239,shas1239,Shasta,3,grandparents
 v_shipiboship1254,ship1254,Shipibo-Conibo,4,grandparents
 v_shishii1238,shii1238,Shi,2,grandparents
 v_shoshonishos1248,shos1248,Shoshoni,4,grandparents
 v_sindhisind1272,sind1272,Sindhi,4,grandparents
-v_sinhalasinh1246,sinh1246,Sinhala,4,grandparents
+v_sinhalasinh1246,sinh1246,Sinhala,2,grandparents
 v_sionsion1247,sion1247,Siona-Tetete,2,grandparents
-v_sirionosiri1273,siri1273,Sirionó,3,grandparents
-v_slovakianslov1269,slov1269,Slovak,3,grandparents
+v_sirionosiri1273,siri1273,Sirionó,2,grandparents
+v_skoltsaamiskol1241,skol1241,Skolt Saami,3,grandparents
+v_slovakianslov1269,slov1269,Slovak,2,grandparents
 v_slovenianslov1268,slov1268,Slovenian,2,grandparents
 v_sogasoga1242,soga1242,Soga,2,grandparents
 v_songoorasong1300,song1300,Songoora,1,grandparents
+v_sosvamansinort2677,nort2677,Sosva Mansi,4,grandparents
 v_southeasterntepehuanosout2976,sout2976,Southeastern Tepehuan,2,grandparents
 v_southerncoastaltsimshiannucl1649,nucl1649,Southern-Coastal Tsimshian,2,grandparents
 v_southernpaiutesout2969,sout2969,Southern Paiute,1,grandparents
 v_southerntepehuansout2975,sout2975,Southern Tepehuan,1,grandparents
 v_southernuteutee1244,utee1244,Ute,4,grandparents
 v_southmarquesansout2866,sout2866,South Marquesan,3,grandparents
+v_southsaamisout2674,sout2674,South Saami,6,grandparents
+v_southtairorasout2943,sout2943,South Tairora,2,grandparents
 v_standardcatalanstan1289,stan1289,Catalan,2,grandparents
 v_standardenglishstan1293,stan1293,English,2,grandparents
 v_standardfrenchstan1290,stan1290,French,2,grandparents
-v_standardgermanstan1295,stan1295,German,4,grandparents
+v_standardgermanstan1295,stan1295,German,3,grandparents
 v_standardspanishstan1288,stan1288,Spanish,2,grandparents
 v_sukumasuku1261,suku1261,Sukuma,2,grandparents
 v_sukusuku1259,suku1259,Suku,1,grandparents
@@ -3396,24 +3466,26 @@ v_sumbwasumb1240,sumb1240,Sumbwa,2,grandparents
 v_suruisuru1262,suru1262,Suruí,2,grandparents
 v_suundisuun1239,suun1239,Suundi,1,grandparents
 v_swedishswed1254,swed1254,Swedish,2,grandparents
+v_tabriaktabr1243,tabr1243,Tabriak,3,grandparents
 v_tahitianstahi1242,tahi1242,Tahitian,1,grandparents
 v_tajiktaji1245,taji1245,Tajik,4,grandparents
-v_tamiltami1289,tami1289,Tamil,4,grandparents
+v_tamiltami1289,tami1289,Tamil,3,grandparents
 v_tanalatana1285,tana1285,Tañala,2,grandparents
 v_tapirapetapi1254,tapi1254,Tapirapé,2,grandparents
 v_tarahumaracent2131,cent2131,Central Tarahumara,3,grandparents
 v_tehuelchetehu1242,tehu1242,Tehuelche,2,grandparents
-v_telugutelu1262,telu1262,Telugu,7,grandparents
+v_telugutelu1262,telu1262,Telugu,4,grandparents
 v_tembetemb1276,temb1276,Tenetehara,2,grandparents
 v_temitemi1247,temi1247,Temi,2,grandparents
 v_tenharimtenh1241,tenh1241,Tenharim-Parintintin-Diahoi,2,grandparents
+v_tereitere1278,tere1278,Terei,4,grandparents
 v_tetelatete1250,tete1250,Tetela,1,grandparents
 v_tikopiatiko1237,tiko1237,Tikopia,1,grandparents
 v_tivtivv1240,tivv1240,Tiv,3,grandparents
 v_tlingittlin1245,tlin1245,Tlingit,1,grandparents
 v_tobatoba1269,toba1269,Toba,2,grandparents
 v_tocantinsasurinitoca1235,toca1235,Tocantins Asurini,2,grandparents
-v_todatoda1252,toda1252,Toda,4,grandparents
+v_todatoda1252,toda1252,Toda,3,grandparents
 v_tohonooodhamtoho1245,toho1245,Tohono O'odham,4,grandparents
 v_tokelautoke1240,toke1240,Tokelau,1,grandparents
 v_tokharianbtokh1243,tokh1243,Tokharian B,1,grandparents
@@ -3436,13 +3508,16 @@ v_tupinambatupi1273,tupi1273,Tupinambá,2,grandparents
 v_tupitupi1274,tupi1274,Lingua Geral Paulista,2,grandparents
 v_tuyucatuyu1244,tuyu1244,Tuyuca,2,grandparents
 v_tzeltaltzel1254,tzel1254,Tzeltal,2,grandparents
+v_udmurtudmu1245,udmu1245,Udmurt,4,grandparents
 v_ukrainianukra1253,ukra1253,Ukrainian,2,grandparents
 v_ulawaulaw1237,ulaw1237,Ulawa,2,grandparents
 v_umbunduumbu1257,umbu1257,Umbundu,2,grandparents
 v_umpilaumpi1239,umpi1239,Umpila,4,grandparents
 v_urduurdu1245,urdu1245,Urdu,4,grandparents
 v_vendavend1245,vend1245,Venda,1,grandparents
+v_vepsveps1250,veps1250,Veps,2,grandparents
 v_vlaxromanivlax1238,vlax1238,Vlax Romani,4,grandparents
+v_wahginucl1620,nucl1620,Wahgi,2,grandparents
 v_wailakiwail1244,wail1244,Eel River Athabaskan,4,grandparents
 v_waimiriatroariwaim1253,waim1253,Waimiri-Atroari,2,grandparents
 v_waiwaiwaiw1244,waiw1244,Waiwai,2,grandparents
@@ -3455,7 +3530,7 @@ v_waoraniwaor1240,waor1240,Waorani,2,grandparents
 v_wapishanawapi1253,wapi1253,Wapishana,2,grandparents
 v_wappowapp1239,wapp1239,Wappo,4,grandparents
 v_warlmanpawarl1255,warl1255,Warlmanpa,4,grandparents
-v_warlpiriwarl1254,warl1254,Warlpiri,7,grandparents
+v_warlpiriwarl1254,warl1254,Warlpiri,5,grandparents
 v_warnmanwanm1242,wanm1242,Wanman,3,grandparents
 v_waropenwaro1242,waro1242,Waropen,2,grandparents
 v_warumunguwaru1265,waru1265,Warumungu,5,grandparents
@@ -3463,6 +3538,7 @@ v_warunguwaru1264,waru1264,Warrongo,5,grandparents
 v_waurawaur1244,waur1244,Waurá,2,grandparents
 v_wayampiwaya1270,waya1270,Wayampi,2,grandparents
 v_wayuuwayu1243,wayu1243,Wayuu,2,grandparents
+v_wedauweda1241,weda1241,Wedau,1,grandparents
 v_westernapachewest2615,west2615,Western Apache,3,grandparents
 v_westernarmenianhoms1234,homs1234,Western Armenian,2,grandparents
 v_westernfarsiwest2369,west2369,Western Farsi,2,grandparents
@@ -3472,19 +3548,20 @@ v_wichiwich1264,wich1264,Wichí Lhamtés Güisnay,2,grandparents
 v_wikmungkanwikm1247,wikm1247,Wik-Mungkan,5,grandparents
 v_wiradjuriwira1262,wira1262,Wiradhuri,6,grandparents
 v_wiranguwira1265,wira1265,Wirangu,4,grandparents
+v_wiruwiru1244,wiru1244,Wiru,2,grandparents
 v_wiyotwiyo1248,wiyo1248,Wiyot,2,grandparents
 v_woiwurrungwoiw1237,woiw1237,Woiwurrung-Thagungwurrung,1,grandparents
 v_wulguruwulg1239,wulg1239,Wulguru,5,grandparents
 v_yakacaryaka1272,yaka1272,Yaka (Central African Republic),1,grandparents
 v_yakapelendelonzoyaka1269,yaka1269,Yaka-Pelende-Lonzo,1,grandparents
-v_yalarnngayala1262,yala1262,Yalarnnga,4,grandparents
+v_yalarnngayala1262,yala1262,Yalarnnga,3,grandparents
 v_yamanayama1264,yama1264,Yámana,2,grandparents
 v_yamitaoyami1254,yami1254,Yami,2,grandparents
-v_yandruwandhayand1253,yand1253,Yandruwandha,7,grandparents
+v_yandruwandhayand1253,yand1253,Yandruwandha,5,grandparents
 v_yanomamiyano1262,yano1262,Yanomám,2,grandparents
 v_yanyuwayany1243,yany1243,Yanyuwa,4,grandparents
 v_yaquiyaqu1251,yaqu1251,Yaqui,3,grandparents
-v_yarluyandingam1265,ngam1265,Ngamini-Yarluyandi-Karangura,5,grandparents
+v_yarluyandingam1265,ngam1265,Ngamini-Yarluyandi-Karangura,4,grandparents
 v_yaviteroyavi1244,yavi1244,Yavitero-Pareni,2,grandparents
 v_yerukulayeru1240,yeru1240,Yerukula,4,grandparents
 v_yidinyyidi1250,yidi1250,Yidiñ,4,grandparents
@@ -3495,22 +3572,11 @@ v_yucatecmayayuca1254,yuca1254,Yucatec Maya,5,grandparents
 v_yugambehyugu1249,yugu1249,Yugumbir,3,grandparents
 v_yulparijayulp1239,yulp1239,Yulparija,2,grandparents
 v_yurokyuro1248,yuro1248,Yurok,2,grandparents
-v_yuwaalaraaygami1243,gami1243,Yuwaalaraay-Gamilaraay,9,grandparents
+v_yuwaalaraaygami1243,gami1243,Yuwaalaraay-Gamilaraay,4,grandparents
 v_zigulazigu1242,zigu1242,Zigula,2,grandparents
 v_zinzazinz1238,zinz1238,Zinza,2,grandparents
 v_zuluzulu1248,zulu1248,Zulu,3,grandparents
 v_zunizuni1245,zuni1245,Zuni,2,grandparents
-ErzyaMordvin,erzy1239,Erzya,4,grandchildren
-Estonian,esto1258,Estonian,4,grandchildren
-Finnish,finn1318,Finnish,4,grandchildren
-HillMari,west2392,Western Mari,2,grandchildren
-Hungarian,hung1274,Hungarian,2,grandchildren
-KazymKhanty,nort2672,Kazym Khanty,2,grandchildren
-Livonian,livv1244,Liv,4,grandchildren
-MeadowMari,gras1239,Grassland Mari,2,grandchildren
-SkoltSaami,skol1241,Skolt Saami,4,grandchildren
-SosvaMansi,nort2677,Sosva Mansi,3,grandchildren
-Udmurt,udmu1245,Udmurt,4,grandchildren
 p_abuiabui1241,abui1241,Abui,1,grandchildren
 p_achineseachi1257,achi1257,Acehnese,2,grandchildren
 p_adangadan1251,adan1251,Adang,1,grandchildren
@@ -3986,8 +4052,6 @@ p_tetundilitetumtetu1246,tetu1246,Tetun Dili,1,grandchildren
 p_thaothao1240,thao1240,Thao,1,grandchildren
 p_thayorekuukthaayorrethay1249,thay1249,Thayore,6,grandchildren
 p_tialotominitomi1243,tomi1243,Tomini,1,grandchildren
-p_tidoreversion1tido1248,tido1248,Tidore,1,grandchildren
-p_tidoreversion2tido1248a,tido1248,Tidore,1,grandchildren
 p_tikopiatiko1237a,tiko1237,Tikopia,1,grandchildren
 p_tiraxmaemaee1241,maee1241,Tirax,1,grandchildren
 p_tirimeagrandcoulitiri1258,tiri1258,Tiri-Mea,1,grandchildren
@@ -4050,8 +4114,8 @@ p_xalangimaevovanuatumari1426h,mari1426,Sunwadia,1,grandchildren
 p_xaracuucanalaxara1244,xara1244,Xârâcùù,1,grandchildren
 p_xawia1234,awia1234,Awiakay-Karimba,1,grandchildren
 p_xibexibe1242,xibe1242,Xibe,4,grandchildren
-p_xmala1294,mala1294,NA,1,grandchildren
-p_xtido1249,tido1249,NA,1,grandchildren
+p_xmala1494,mala1494,Mala (Papua New Guinea),1,grandchildren
+p_xtido1248,tido1248,Tidore,1,grandchildren
 p_yabemyabe1254,yabe1254,Yabem,2,grandchildren
 p_yadhaykenuyadh1237,yadh1237,Yadhaykenu,1,grandchildren
 p_yagwoiayagw1240,yagw1240,Yagwoia,2,grandchildren
@@ -4078,6 +4142,7 @@ v_akkadianakka1240,akka1240,Akkadian,1,grandchildren
 v_albanianalba1267,alba1267,Albanian,2,grandchildren
 v_albaniantosktosk1239,tosk1239,Northern Tosk Albanian,2,grandchildren
 v_alyawarralya1239,alya1239,Alyawarr,6,grandchildren
+v_ameleamel1241,amel1241,Amele,1,grandchildren
 v_amisamis1246,amis1246,Amis,1,grandchildren
 v_ancientgreekanci1242,anci1242,Ancient Greek,4,grandchildren
 v_andiandi1255,andi1255,Andi,2,grandchildren
@@ -4097,6 +4162,7 @@ v_avarbatluxbatl1238,batl1238,Batlux,2,grandchildren
 v_avarhiddialecthidd1238,hidd1238,Hid,2,grandchildren
 v_avazkhunzakhkunz1243,kunz1243,Xunzax,2,grandchildren
 v_avestanaves1237,aves1237,Avestan,2,grandchildren
+v_awaawap1236,awap1236,Awa (Papua New Guinea),1,grandchildren
 v_awetiawet1244,awet1244,Awetí,2,grandchildren
 v_ayoreoayor1240,ayor1240,Ayoreo,2,grandchildren
 v_aztecclas1250,clas1250,Classical Nahuatl,1,grandchildren
@@ -4104,6 +4170,7 @@ v_bafiabafi1243,bafi1243,Bafia,1,grandchildren
 v_bahvalalbagv1239,bagv1239,Bagvalal,2,grandchildren
 v_bandjalangband1339,band1339,Bandjalangic,2,grandchildren
 v_bannockbann1248,bann1248,Bannock,4,grandchildren
+v_barainucl1630,nucl1630,Barai,1,grandchildren
 v_baribari1297,bari1297,Barí,2,grandchildren
 v_basquebasq1248,basq1248,Basque,2,grandchildren
 v_basquewest1508,west1508,Western Low Navarrese,1,grandchildren
@@ -4151,6 +4218,7 @@ v_cuscoquechuacusc1236,cusc1236,Cusco Quechua,1,grandchildren
 v_czechczec1258,czec1258,Czech,2,grandchildren
 v_dandamimariadand1238,dand1238,Dandami Maria,4,grandchildren
 v_danishdani1285,dani1285,Danish,3,grandchildren
+v_danodano1240,dano1240,Dano,1,grandchildren
 v_dargwachiragchir1284,chir1284,Chirag,2,grandchildren
 v_dargwaitsariitsa1239,icar1234,Icari,2,grandchildren
 v_daridari1249,dari1249,Dari,1,grandchildren
@@ -4165,9 +4233,10 @@ v_diyaridier1241,dier1241,Dieri,4,grandchildren
 v_djambarrpuyngudjam1256,djam1256,Djambarrpuyngu,3,grandchildren
 v_djinangdjin1253,djin1253,Djinang,3,grandchildren
 v_dogribdogr1252,dogr1252,Dogrib,1,grandchildren
+v_doromukokidoro1266,doro1266,Doromu-Koki,1,grandchildren
 v_dualadual1243,dual1243,Duala,1,grandchildren
 v_dutchdutc1256,dutc1256,Dutch,2,grandchildren
-v_dyirbaldyir1250,dyir1250,Dyirbal,16,grandchildren
+v_dyirbaldyir1250,dyir1250,Dyirbal,12,grandchildren
 v_easterislandersrapa1244,rapa1244,Rapanui,1,grandchildren
 v_easternarmenianeast2283,nucl1235,Eastern Armenian,1,grandchildren
 v_easternpaharinepalieast1436,east1436,Eastern Pahari,2,grandchildren
@@ -4175,10 +4244,14 @@ v_easternyiddisheast2295,east2295,Eastern Yiddish,1,grandchildren
 v_ekondamongoekon1238,ekon1238,Ekonda Mongo,1,grandchildren
 v_elamiteelam1244,elam1244,Elamite,1,grandchildren
 v_ellicetuva1244,tuva1244,Tuvalu,1,grandchildren
+v_engaenga1252,enga1252,Enga,2,grandchildren
 v_epenaepen1239,epen1239,Epena,1,grandchildren
 v_erzyaerzy1239,erzy1239,Erzya,1,grandchildren
+v_erzyamordvinerzy1239,erzy1239,Erzya,4,grandchildren
+v_estonianesto1258,esto1258,Estonian,4,grandchildren
 v_eyakeyak1241,eyak1241,Eyak,4,grandchildren
 v_fangegfang1246,fang1246,Fang (Equatorial Guinea),2,grandchildren
+v_finnishfinn1318,finn1318,Finnish,4,grandchildren
 v_fipafipa1238,fipa1238,Fipa,1,grandchildren
 v_frisianfris1239,fris1239,Frisian,2,grandchildren
 v_futunanseast2447,east2447,East Futuna,1,grandchildren
@@ -4190,9 +4263,9 @@ v_gogogogo1263,gogo1263,Gogo,1,grandchildren
 v_gothicgoth1244,goth1244,Gothic,1,grandchildren
 v_guajaguaj1256,guaj1256,Guajá,2,grandchildren
 v_guarayuguar1292,guar1292,Guarayu,2,grandchildren
-v_gujaratiguja1252,guja1252,Gujarati,8,grandchildren
+v_gujaratiguja1252,guja1252,Gujarati,6,grandchildren
 v_gumatjguma1253,guma1253,Gumatj,3,grandchildren
-v_gumbaynggirkumb1268,kumb1268,Kumbainggar,5,grandchildren
+v_gumbaynggirkumb1268,kumb1268,Kumbainggar,4,grandchildren
 v_gununakunepuel1244,puel1244,Puelche,2,grandchildren
 v_gunyaguny1241,guny1241,Gunya,1,grandchildren
 v_gupapuyngugupa1247,gupa1247,Gupapuyngu,7,grandchildren
@@ -4200,16 +4273,19 @@ v_gurindjiguri1247,guri1247,Gurindji,3,grandchildren
 v_gusiigusi1247,gusi1247,Gusii,1,grandchildren
 v_guuguyimidhirrgugu1255,gugu1255,Guugu Yimidhirr,3,grandchildren
 v_hahaaa1252,haaa1252,Ha,1,grandchildren
+v_hapororanhita1242,hita1242,Hitau-Pororan,1,grandchildren
 v_hausahaus1257,haus1257,Hausa,2,grandchildren
 v_hawaiianshawa1245,hawa1245,Hawaiian,1,grandchildren
 v_hayahaya1250,haya1250,Haya,1,grandchildren
 v_hehehehe1240,hehe1240,Hehe,1,grandchildren
 v_highlandpueblanahuatlhigh1278,high1278,Highland Puebla Nahuatl,2,grandchildren
-v_hindihind1269,hind1269,Hindi,9,grandchildren
+v_hillmariwest2392,west2392,Western Mari,2,grandchildren
+v_hindihind1269,hind1269,Hindi,5,grandchildren
 v_hinuqhinu1240,hinu1240,Hinuq,2,grandchildren
 v_hittitehitt1242,hitt1242,Hittite,2,grandchildren
 v_hopihopi1249,hopi1249,Hopi,1,grandchildren
 v_hotiyuwanayuwa1244,yuwa1244,Hoti,1,grandchildren
+v_hungarianhung1274,hung1274,Hungarian,2,grandchildren
 v_hunzahunz1248,hunz1248,Hunza,1,grandchildren
 v_hunzibhunz1247,hunz1247,Hunzib,2,grandchildren
 v_hupahupa1239,hupa1239,Hupa-Chilula,2,grandchildren
@@ -4242,16 +4318,19 @@ v_karitianakari1311,kari1311,Karitiâna,2,grandchildren
 v_kariyarrakari1304,kari1304,Kariyarra,4,grandchildren
 v_karokkaro1304,karo1304,Karok,3,grandchildren
 v_kartujarrakart1247,kart1247,Kartujarra,2,grandchildren
-v_kashmirikash1277,kash1277,Kashmiri,7,grandchildren
+v_kashmirikash1277,kash1277,Kashmiri,6,grandchildren
 v_kaurnakaur1267,kaur1267,Kaurna,5,grandchildren
 v_kayabikaya1329,kaya1329,Kayabí,2,grandchildren
 v_kazakhkaza1248,kaza1248,Kazakh,3,grandchildren
 v_kazymberezoversuryskarerkhantykhan1273,khan1273,Kazym-Berezover-Suryskarer Khanty,2,grandchildren
+v_kazymkhantynort2672,nort2672,Kazym Khanty,2,grandchildren
 v_kerewekere1283,kere1283,Kerewe,1,grandchildren
 v_ketkett1243,kett1243,Ket,1,grandchildren
 v_kikuyukiku1240,kiku1240,Kikuyu,2,grandchildren
 v_komizyriankomi1268,komi1268,Komi-Zyrian,1,grandchildren
 v_komodrckomo1260,komo1260,Komo (Democratic Republic of Congo),1,grandchildren
+v_korafeyeghakora1294,kora1294,Korafe-Yegha,1,grandchildren
+v_koreankore1280,kore1280,Korean,2,grandchildren
 v_kotakota1274,kota1274,Kota (Gabon),1,grandchildren
 v_kuikuii1252,kuii1252,Kui (India),4,grandchildren
 v_kukatjakuka1246,kuka1246,Kukatja,2,grandchildren
@@ -4266,6 +4345,7 @@ v_kwasiokwas1243,kwas1243,Kwasio,2,grandchildren
 v_kwerekwer1261,kwer1261,Kwere,1,grandchildren
 v_lahndalahn1241,lahn1241,Lahnda,4,grandchildren
 v_lalabisalala1264,lala1264,Lala-Bisa,1,grandchildren
+v_lalalala1268,lala1268,Lala,1,grandchildren
 v_lambalamb1271,lamb1271,Lamba,1,grandchildren
 v_langilang1320,lang1320,Langi,1,grandchildren
 v_latinlati1261,lati1261,Latin,2,grandchildren
@@ -4274,7 +4354,8 @@ v_laufijianlaua1243,laua1243,Lauan,1,grandchildren
 v_lengualeng1262,leng1262,Lengua,1,grandchildren
 v_lingalaling1263,ling1263,Kinshasa Lingala,1,grandchildren
 v_lipanapachelipa1241,lipa1241,Lipan Apache,1,grandchildren
-v_lithuanianlith1251,lith1251,Lithuanian,8,grandchildren
+v_lithuanianlith1251,lith1251,Lithuanian,6,grandchildren
+v_livonianlivv1244,livv1244,Liv,4,grandchildren
 v_lozilozi1239,lozi1239,Lozi,1,grandchildren
 v_lubakatangaluba1250,luba1250,Luba-Katanga,1,grandchildren
 v_lugurulugu1238,lugu1238,Luguru,1,grandchildren
@@ -4287,10 +4368,12 @@ v_macedonianmace1250,mace1250,Macedonian,2,grandchildren
 v_macushimacu1259,macu1259,Macushi,1,grandchildren
 v_magyarhung1274,hung1274,Hungarian,1,grandchildren
 v_mahasupaharimaha1287,maha1287,Mahasu Pahari,2,grandchildren
+v_maisinmais1250,mais1250,Maisin,1,grandchildren
 v_maithilimait1250,mait1250,Maithili,4,grandchildren
 v_makondemako1251,mako1251,Makonde,1,grandchildren
 v_malapandarammala1468,mala1468,Malapandaram,2,grandchildren
 v_malayalammala1464,mala1464,Malayalam,2,grandchildren
+v_mandarinchinamand1415,mand1415,Mandarin Chinese,4,grandchildren
 v_mangarevansmang1401,mang1401,Mangareva,1,grandchildren
 v_mansimans1258,mans1258,Northern Mansi,1,grandchildren
 v_maorimaor1246,maor1246,Maori,1,grandchildren
@@ -4306,10 +4389,14 @@ v_mbalambal1257,mbal1257,Mbala,1,grandchildren
 v_mberember1257,mber1257,Mbere-Mbamba,1,grandchildren
 v_mbuunmpuo1241,mpuo1241,Mbuun,1,grandchildren
 v_mbyaguaranimbya1239,mbya1239,Mbyá Guaraní,1,grandchildren
+v_meadowmarigras1239,gras1239,Grassland Mari,2,grandchildren
+v_melpamelp1238,melp1238,Melpa,2,grandchildren
+v_menyameny1245,meny1245,Menya,2,grandchildren
 v_merumeru1245,meru1245,Meru,1,grandchildren
 v_middleenglishmidd1317,midd1317,Middle English,2,grandchildren
 v_middlehighgermanmidd1343,midd1343,Middle High German,3,grandchildren
 v_midobmido1240,mido1240,Midob,2,grandchildren
+v_misimapaneatimisi1243,misi1243,Misima-Paneati,2,grandchildren
 v_mocovimoco1246,moco1246,Mocoví,1,grandchildren
 v_moderngreekmode1248,mode1248,Modern Greek,2,grandchildren
 v_modernwelshwels1247,wels1247,Welsh,2,grandchildren
@@ -4328,7 +4415,7 @@ v_nepalinepa1254,nepa1254,Nepali,3,grandchildren
 v_nets1241,nets1241,Natsilingmiutut,1,grandchildren
 v_ngaanyatjarrangaa1240,ngaa1240,Ngaanyatjarra,4,grandchildren
 v_ngaatjatjarrangaa1240,ngaa1240,Ngaanyatjarra,3,grandchildren
-v_ngarinymanngar1235,ngar1235,Ngarinman,6,grandchildren
+v_ngarinymanngar1235,ngar1235,Ngarinman,5,grandchildren
 v_ngarlumangar1287,ngar1287,Ngarluma,5,grandchildren
 v_ngoningon1269,ngon1269,Tanzania-Mozambique Ngoni,1,grandchildren
 v_ngulungul1246,ngul1246,Ngulu,1,grandchildren
@@ -4357,16 +4444,18 @@ v_nyamalnyam1271,nyam1271,Nyamal,3,grandchildren
 v_nyangumartanyan1301,nyan1301,Nyangumarta,6,grandchildren
 v_nyoronyor1246,nyor1246,Nyoro,1,grandchildren
 v_oduoduu1239,oduu1239,O'du,2,grandchildren
+v_oksapminoksa1245,oksa1245,Oksapmin,1,grandchildren
 v_oldaramaicolda1245,olda1245,Old Aramaic-Sam'alian,2,grandchildren
 v_oldchurchslavonicchur1257,chur1257,Church Slavic,2,grandchildren
-v_oldenglishca4501100olde1238,olde1238,Old English (ca. 450-1100),6,grandchildren
+v_oldenglishca4501100olde1238,olde1238,Old English (ca. 450-1100),5,grandchildren
 v_oldhighgermanca7501050oldh1241,oldh1241,Old High German (ca. 750-1050),3,grandchildren
 v_oldirisholdi1245,oldi1245,Early Irish,1,grandchildren
 v_oldnorseoldn1244,oldn1244,Old Norse,4,grandchildren
 v_oldwelsholdw1239,oldw1239,Old-Middle Welsh,1,grandchildren
 v_ontongjavaonto1237,onto1237,Luangiua,1,grandchildren
 v_opataopat1246,opat1246,Teguima,2,grandchildren
-v_oriyaoriy1255,oriy1255,Odia,3,grandchildren
+v_oriyaoriy1255,oriy1255,Odia,2,grandchildren
+v_orokoloorok1267,orok1267,Orokolo,1,grandchildren
 v_ossetianosse1243,osse1243,Modern Ossetic,4,grandchildren
 v_ottowaojibwaotta1242,otta1242,Ottawa,1,grandchildren
 v_paakantyidarl1243,darl1243,Paakantyi,1,grandchildren
@@ -4388,7 +4477,7 @@ v_polcipolc1243,polc1243,Pesse,1,grandchildren
 v_polishpoli1260,poli1260,Polish,2,grandchildren
 v_portugueseport1283,port1283,Portuguese,2,grandchildren
 v_praiphai1238,phai1238,Prai,2,grandchildren
-v_prototupiguaranitupi1276,tupi1239,NA,2,grandchildren
+v_prototupiguaranitupi1276,tupi1276,NA,2,grandchildren
 v_puinavepuin1248,puin1248,Puinave,2,grandchildren
 v_pumepume1238,pume1238,Pumé,2,grandchildren
 v_punupunu1239,punu1239,Punu,1,grandchildren
@@ -4400,6 +4489,7 @@ v_ritharrngurita1239,rita1239,Ritarungo,3,grandchildren
 v_romanianroma1327,roma1327,Romanian,2,grandchildren
 v_rotinesetermanuterm1237,term1237,Termanu,1,grandchildren
 v_rotumansrotu1241,rotu1241,Rotuman,2,grandchildren
+v_rumurumu1243,rumu1243,Rumu,2,grandchildren
 v_rundirund1242,rund1242,Rundi,1,grandchildren
 v_russianruss1263,russ1263,Russian,2,grandchildren
 v_rutulshin1265,shin1265,Shina (Nakh-Daghestan),1,grandchildren
@@ -4413,6 +4503,7 @@ v_sateremawesate1243,sate1243,Sateré-Mawé,1,grandchildren
 v_saterfriesischsate1242,sate1242,Ems-Weser Frisian,1,grandchildren
 v_selknamonaa1245,onaa1245,Selk'nam,1,grandchildren
 v_selkupselk1253,selk1253,Selkup,1,grandchildren
+v_sepikiwamsepi1255,sepi1255,Sepik Iwam,2,grandchildren
 v_serbocroationsout1528,sout1528,Serbian-Croatian-Bosnian,2,grandchildren
 v_serbsserb1264,serb1264,Serbian Standard,2,grandchildren
 v_seriseri1257,seri1257,Seri,1,grandchildren
@@ -4423,9 +4514,11 @@ v_sindhisind1272,sind1272,Sindhi,4,grandchildren
 v_sinhalasinh1246,sinh1246,Sinhala,2,grandchildren
 v_sionsion1247,sion1247,Siona-Tetete,2,grandchildren
 v_sirionosiri1273,siri1273,Sirionó,2,grandchildren
+v_skoltsaamiskol1241,skol1241,Skolt Saami,4,grandchildren
 v_slovakianslov1269,slov1269,Slovak,2,grandchildren
 v_slovenianslov1268,slov1268,Slovenian,2,grandchildren
 v_sogasoga1242,soga1242,Soga,1,grandchildren
+v_sosvamansinort2677,nort2677,Sosva Mansi,3,grandchildren
 v_southeasterntepehuanosout2976,sout2976,Southeastern Tepehuan,1,grandchildren
 v_southernuteutee1244,utee1244,Ute,4,grandchildren
 v_southmarquesansout2866,sout2866,South Marquesan,2,grandchildren
@@ -4440,21 +4533,23 @@ v_suruisuru1262,suru1262,Suruí,1,grandchildren
 v_suundisuun1239,suun1239,Suundi,1,grandchildren
 v_swedishswed1254,swed1254,Swedish,2,grandchildren
 v_taabwashil1264,shil1264,Shila,1,grandchildren
+v_tabriaktabr1243,tabr1243,Tabriak,6,grandchildren
 v_tahitianstahi1242,tahi1242,Tahitian,1,grandchildren
-v_tamiltami1289,tami1289,Tamil,4,grandchildren
+v_tamiltami1289,tami1289,Tamil,3,grandchildren
 v_tanalatana1285,tana1285,Tañala,1,grandchildren
 v_tapirapetapi1254,tapi1254,Tapirapé,3,grandchildren
 v_tarahumaracent2131,cent2131,Central Tarahumara,2,grandchildren
 v_tehuelchetehu1242,tehu1242,Tehuelche,2,grandchildren
-v_telugutelu1262,telu1262,Telugu,4,grandchildren
+v_telugutelu1262,telu1262,Telugu,2,grandchildren
 v_tembetemb1276,temb1276,Tenetehara,2,grandchildren
+v_tereitere1278,tere1278,Terei,1,grandchildren
 v_tetelatete1250,tete1250,Tetela,1,grandchildren
 v_tikopiatiko1237,tiko1237,Tikopia,1,grandchildren
 v_tivtivv1240,tivv1240,Tiv,1,grandchildren
 v_tlingittlin1245,tlin1245,Tlingit,1,grandchildren
 v_tobatoba1269,toba1269,Toba,1,grandchildren
 v_tocantinsasurinitoca1235,toca1235,Tocantins Asurini,2,grandchildren
-v_todatoda1252,toda1252,Toda,4,grandchildren
+v_todatoda1252,toda1252,Toda,3,grandchildren
 v_tohonooodhamtoho1245,toho1245,Tohono O'odham,1,grandchildren
 v_tokelautoke1240,toke1240,Tokelau,1,grandchildren
 v_tolowatolo1259,tolo1259,Tolowa-Chetco,2,grandchildren
@@ -4474,12 +4569,14 @@ v_tupinambatupi1273,tupi1273,Tupinambá,1,grandchildren
 v_tupitupi1274,tupi1274,Lingua Geral Paulista,2,grandchildren
 v_tuyucatuyu1244,tuyu1244,Tuyuca,2,grandchildren
 v_tzeltaltzel1254,tzel1254,Tzeltal,2,grandchildren
-v_ukrainianukra1253,ukra1253,Ukrainian,4,grandchildren
+v_udmurtudmu1245,udmu1245,Udmurt,4,grandchildren
+v_ukrainianukra1253,ukra1253,Ukrainian,2,grandchildren
 v_ulawaulaw1237,ulaw1237,Ulawa,2,grandchildren
 v_umbunduumbu1257,umbu1257,Umbundu,1,grandchildren
 v_umpilaumpi1239,umpi1239,Umpila,4,grandchildren
-v_urduurdu1245,urdu1245,Urdu,6,grandchildren
+v_urduurdu1245,urdu1245,Urdu,4,grandchildren
 v_vlaxromanivlax1238,vlax1238,Vlax Romani,4,grandchildren
+v_wahginucl1620,nucl1620,Wahgi,2,grandchildren
 v_wailakiwail1244,wail1244,Eel River Athabaskan,3,grandchildren
 v_waimiriatroariwaim1253,waim1253,Waimiri-Atroari,1,grandchildren
 v_waiwaiwaiw1244,waiw1244,Waiwai,1,grandchildren
@@ -4490,11 +4587,12 @@ v_waoraniwaor1240,waor1240,Waorani,1,grandchildren
 v_wapishanawapi1253,wapi1253,Wapishana,1,grandchildren
 v_wappowapp1239,wapp1239,Wappo,3,grandchildren
 v_warlmanpawarl1255,warl1255,Warlmanpa,1,grandchildren
-v_warlpiriwarl1254,warl1254,Warlpiri,6,grandchildren
+v_warlpiriwarl1254,warl1254,Warlpiri,5,grandchildren
 v_warumunguwaru1265,waru1265,Warumungu,3,grandchildren
 v_warunguwaru1264,waru1264,Warrongo,8,grandchildren
 v_waurawaur1244,waur1244,Waurá,2,grandchildren
 v_wayuuwayu1243,wayu1243,Wayuu,1,grandchildren
+v_wedauweda1241,weda1241,Wedau,1,grandchildren
 v_westernapachewest2615,west2615,Western Apache,2,grandchildren
 v_westernarmenianhoms1234,homs1234,Western Armenian,2,grandchildren
 v_westernfarsiwest2369,west2369,Western Farsi,5,grandchildren
@@ -4503,12 +4601,13 @@ v_wichiwich1264,wich1264,Wichí Lhamtés Güisnay,2,grandchildren
 v_wikmungkanwikm1247,wikm1247,Wik-Mungkan,4,grandchildren
 v_wiradjuriwira1262,wira1262,Wiradhuri,1,grandchildren
 v_wiranguwira1265,wira1265,Wirangu,3,grandchildren
+v_wiruwiru1244,wiru1244,Wiru,1,grandchildren
 v_wulguruwulg1239,wulg1239,Wulguru,2,grandchildren
 v_yakacaryaka1272,yaka1272,Yaka (Central African Republic),1,grandchildren
 v_yakapelendelonzoyaka1269,yaka1269,Yaka-Pelende-Lonzo,1,grandchildren
 v_yalarnngayala1262,yala1262,Yalarnnga,5,grandchildren
 v_yamanayama1264,yama1264,Yámana,1,grandchildren
-v_yandruwandhayand1253,yand1253,Yandruwandha,3,grandchildren
+v_yandruwandhayand1253,yand1253,Yandruwandha,2,grandchildren
 v_yansiyans1239,yans1239,Yansi,3,grandchildren
 v_yanyuwayany1243,yany1243,Yanyuwa,2,grandchildren
 v_yaquiyaqu1251,yaqu1251,Yaqui,3,grandchildren
@@ -4524,23 +4623,6 @@ v_zigulazigu1242,zigu1242,Zigula,1,grandchildren
 v_zinzazinz1238,zinz1238,Zinza,1,grandchildren
 v_zuluzulu1248,zulu1248,Zulu,1,grandchildren
 v_zunizuni1245,zuni1245,Zuni,2,grandchildren
-ErzyaMordvin,erzy1239,Erzya,10,nieces_nephews
-Estonian,esto1258,Estonian,4,nieces_nephews
-Finnish,finn1318,Finnish,4,nieces_nephews
-ForestEnets,fore1265,Forest Enets,1,nieces_nephews
-HillMari,west2392,Western Mari,8,nieces_nephews
-Hungarian,hung1274,Hungarian,2,nieces_nephews
-KazymKhanty,nort2672,Kazym Khanty,6,nieces_nephews
-KomiZyrian,komi1268,Komi-Zyrian,8,nieces_nephews
-Livonian,livv1244,Liv,4,nieces_nephews
-MeadowMari,gras1239,Grassland Mari,10,nieces_nephews
-MokshaMordvin,moks1248,Moksha,3,nieces_nephews
-NorthSaami,nort2671,North Saami,6,nieces_nephews
-SkoltSaami,skol1241,Skolt Saami,6,nieces_nephews
-SosvaMansi,nort2677,Sosva Mansi,4,nieces_nephews
-SouthSaami,sout2674,South Saami,6,nieces_nephews
-TundraNenets,nene1249,Tundra Nenets,7,nieces_nephews
-Udmurt,udmu1245,Udmurt,10,nieces_nephews
 p_abuiabui1241,abui1241,Abui,1,nieces_nephews
 p_achineseachi1257,achi1257,Acehnese,2,nieces_nephews
 p_adangadan1251,adan1251,Adang,1,nieces_nephews
@@ -4711,7 +4793,7 @@ p_kristangmalaccacreoleportugesemala1533,mala1533,Malacca-Batavia Portuguese Cre
 p_kuanuakuan1248,kuan1248,Kuanua,4,nieces_nephews
 p_kukuyalanjikuku1273,kuku1273,Kuku-Yalanji,3,nieces_nephews
 p_kumankuma1280,kuma1280,Kuman,6,nieces_nephews
-p_kunimaipakuni1267,kuni1267,Kunimaipa,3,nieces_nephews
+p_kunimaipakuni1267,kuni1267,Kunimaipa,4,nieces_nephews
 p_kunjenkunj1248,kunj1248,Southwestern Alaya-Athima,2,nieces_nephews
 p_kuotkuot1243,kuot1243,Kuot,3,nieces_nephews
 p_kuukuyaukuuk1238,kuuk1238,Kuuku-Ya'u,4,nieces_nephews
@@ -5051,8 +5133,8 @@ p_xalangimaevovanuatumari1426h,mari1426,Sunwadia,2,nieces_nephews
 p_xaracuucanalaxara1244,xara1244,Xârâcùù,2,nieces_nephews
 p_xawia1234,awia1234,Awiakay-Karimba,3,nieces_nephews
 p_xibexibe1242,xibe1242,Xibe,4,nieces_nephews
-p_xmala1294,mala1294,NA,3,nieces_nephews
-p_xtido1249,tido1249,NA,1,nieces_nephews
+p_xmala1494,mala1494,Mala (Papua New Guinea),3,nieces_nephews
+p_xtido1248,tido1248,Tidore,1,nieces_nephews
 p_yabemyabe1254,yabe1254,Yabem,4,nieces_nephews
 p_yagwoiayagw1240,yagw1240,Yagwoia,2,nieces_nephews
 p_yakanyaka1277,yaka1277,Yakan,1,nieces_nephews
@@ -5078,6 +5160,7 @@ v_akhvakhnorthernakhvakhakhv1239,akhv1239,Akhvakh,2,nieces_nephews
 v_albanianalba1267,alba1267,Albanian,2,nieces_nephews
 v_albaniantosktosk1239,tosk1239,Northern Tosk Albanian,2,nieces_nephews
 v_alyawarralya1239,alya1239,Alyawarr,2,nieces_nephews
+v_ameleamel1241,amel1241,Amele,1,nieces_nephews
 v_amharicamha1245,amha1245,Amharic,2,nieces_nephews
 v_ancientgreekanci1242,anci1242,Ancient Greek,2,nieces_nephews
 v_andiandi1255,andi1255,Andi,2,nieces_nephews
@@ -5085,8 +5168,8 @@ v_angaiteanga1316,anga1316,Angaité,2,nieces_nephews
 v_arabanaarab1267,arab1267,Arabana,3,nieces_nephews
 v_arawetearaw1273,araw1273,Araweté,6,nieces_nephews
 v_archiarch1244,arch1244,Archi,1,nieces_nephews
-v_armeniannucl1235,nucl1235,Eastern Armenian,5,nieces_nephews
-v_assameseassa1263,assa1263,Assamese,4,nieces_nephews
+v_armeniannucl1235,nucl1235,Eastern Armenian,4,nieces_nephews
+v_assameseassa1263,assa1263,Assamese,3,nieces_nephews
 v_asutanzaniaasut1235,asut1235,Asu (Tanzania),2,nieces_nephews
 v_atsugewiatsu1245,atsu1245,Atsugewi,1,nieces_nephews
 v_avacanoeiroavac1239,avac1239,Avá-Canoeiro,1,nieces_nephews
@@ -5097,13 +5180,16 @@ v_avarbatluxbatl1238,batl1238,Batlux,2,nieces_nephews
 v_avarhiddialecthidd1238,hidd1238,Hid,2,nieces_nephews
 v_avazkhunzakhkunz1243,kunz1243,Xunzax,2,nieces_nephews
 v_avestanaves1237,aves1237,Avestan,2,nieces_nephews
+v_awaawap1236,awap1236,Awa (Papua New Guinea),2,nieces_nephews
 v_awetiawet1244,awet1244,Awetí,6,nieces_nephews
+v_awiyaanaawiy1238,awiy1238,Awiyaana,2,nieces_nephews
 v_ayoreoayor1240,ayor1240,Ayoreo,2,nieces_nephews
 v_aztecclas1250,clas1250,Classical Nahuatl,1,nieces_nephews
 v_badimayabadi1246,badi1246,Badimaya,1,nieces_nephews
 v_bahvalalbagv1239,bagv1239,Bagvalal,4,nieces_nephews
-v_bandjalangband1339,band1339,Bandjalangic,8,nieces_nephews
+v_bandjalangband1339,band1339,Bandjalangic,6,nieces_nephews
 v_bannockbann1248,bann1248,Bannock,5,nieces_nephews
+v_barainucl1630,nucl1630,Barai,4,nieces_nephews
 v_baribari1297,bari1297,Barí,2,nieces_nephews
 v_basquebasq1248,basq1248,Basque,1,nieces_nephews
 v_basquewest1508,west1508,Western Low Navarrese,1,nieces_nephews
@@ -5115,7 +5201,7 @@ v_benatanzaniabena1262,bena1262,Bena (Tanzania),2,nieces_nephews
 v_bendebend1258,bend1258,Bende,2,nieces_nephews
 v_bengalibeng1280,beng1280,Bengali,9,nieces_nephews
 v_berabera1259,bera1259,Bera,1,nieces_nephews
-v_bezhtabezh1248,bezh1248,Bezhta,4,nieces_nephews
+v_bezhtabezh1248,bezh1248,Bezhta,2,nieces_nephews
 v_biharibiha1245,biha1245,Bihari,4,nieces_nephews
 v_bilabila1255,bila1255,Bila,1,nieces_nephews
 v_birhorbirh1242,birh1242,Birhor,6,nieces_nephews
@@ -5153,6 +5239,7 @@ v_cupenocupe1243,cupe1243,Cupeño,6,nieces_nephews
 v_czechczec1258,czec1258,Czech,5,nieces_nephews
 v_dandamimariadand1238,dand1238,Dandami Maria,2,nieces_nephews
 v_danishdani1285,dani1285,Danish,2,nieces_nephews
+v_danodano1240,dano1240,Dano,3,nieces_nephews
 v_dargwachiragchir1284,chir1284,Chirag,1,nieces_nephews
 v_dargwaitsariitsa1239,icar1234,Icari,1,nieces_nephews
 v_daridari1249,dari1249,Dari,6,nieces_nephews
@@ -5160,14 +5247,16 @@ v_dekwanamaquiritarimaqu1238,maqu1238,Ye'kwana,2,nieces_nephews
 v_delinenort2942,nort2942,North Slavey,2,nieces_nephews
 v_denesulinechip1261,chip1261,Chipewyan,2,nieces_nephews
 v_denethasouthslaveysout2959,sout2959,South Slavey,10,nieces_nephews
-v_dharumbaldhar1248,dhar1248,Dharumbal,6,nieces_nephews
-v_dhuwaldhuw1249,dhuw1249,Dhuwal,4,nieces_nephews
+v_dharumbaldhar1248,dhar1248,Dharumbal,5,nieces_nephews
+v_dhuwaldhuw1249,dhuw1249,Dhuwal,3,nieces_nephews
 v_digodigo1243,digo1243,Digo,1,nieces_nephews
 v_dingding1239,ding1239,Ding,3,nieces_nephews
 v_diyaridier1241,dier1241,Dieri,4,nieces_nephews
 v_djambarrpuyngudjam1256,djam1256,Djambarrpuyngu,1,nieces_nephews
 v_djinangdjin1253,djin1253,Djinang,3,nieces_nephews
 v_dogribdogr1252,dogr1252,Dogrib,2,nieces_nephews
+v_domdomm1246,domm1246,Dom,1,nieces_nephews
+v_doromukokidoro1266,doro1266,Doromu-Koki,3,nieces_nephews
 v_dutchdutc1256,dutc1256,Dutch,2,nieces_nephews
 v_dyirbaldyir1250,dyir1250,Dyirbal,12,nieces_nephews
 v_easterislandersrapa1244,rapa1244,Rapanui,3,nieces_nephews
@@ -5176,14 +5265,20 @@ v_easternpaharinepalieast1436,east1436,Eastern Pahari,2,nieces_nephews
 v_easternyiddisheast2295,east2295,Eastern Yiddish,2,nieces_nephews
 v_ekondamongoekon1238,ekon1238,Ekonda Mongo,2,nieces_nephews
 v_ellicetuva1244,tuva1244,Tuvalu,1,nieces_nephews
+v_engaenga1252,enga1252,Enga,4,nieces_nephews
 v_erzyaerzy1239,erzy1239,Erzya,2,nieces_nephews
+v_erzyamordvinerzy1239,erzy1239,Erzya,10,nieces_nephews
+v_estonianesto1258,esto1258,Estonian,4,nieces_nephews
 v_eyakeyak1241,eyak1241,Eyak,1,nieces_nephews
 v_fangegfang1246,fang1246,Fang (Equatorial Guinea),1,nieces_nephews
 v_fefefefe1239,fefe1239,Fe'fe',1,nieces_nephews
+v_finnishfinn1318,finn1318,Finnish,4,nieces_nephews
 v_fipafipa1238,fipa1238,Fipa,1,nieces_nephews
 v_fordataford1242,ford1242,Fordata,2,nieces_nephews
+v_forestenetsfore1265,fore1265,Forest Enets,1,nieces_nephews
 v_frisianfris1239,fris1239,Frisian,3,nieces_nephews
 v_futunanseast2447,east2447,East Futuna,2,nieces_nephews
+v_gadsupgads1258,gads1258,Gadsup,1,nieces_nephews
 v_galibicaribgali1262,gali1262,Galibi Carib,6,nieces_nephews
 v_gandagand1255,gand1255,Ganda,3,nieces_nephews
 v_giryamagiry1241,giry1241,Giryama,3,nieces_nephews
@@ -5200,13 +5295,17 @@ v_gurindjiguri1247,guri1247,Gurindji,1,nieces_nephews
 v_gusiigusi1247,gusi1247,Gusii,2,nieces_nephews
 v_guuguyimidhirrgugu1255,gugu1255,Guugu Yimidhirr,5,nieces_nephews
 v_hahaaa1252,haaa1252,Ha,2,nieces_nephews
+v_haliahali1244,hali1244,Halia,1,nieces_nephews
+v_hamtaihamt1247,hamt1247,Hamtai,3,nieces_nephews
 v_hausahaus1257,haus1257,Hausa,2,nieces_nephews
 v_hawaiianshawa1245,hawa1245,Hawaiian,2,nieces_nephews
 v_hayahaya1250,haya1250,Haya,3,nieces_nephews
 v_hehehehe1240,hehe1240,Hehe,3,nieces_nephews
 v_hererohere1253,here1253,Herero,2,nieces_nephews
+v_hillmariwest2392,west2392,Western Mari,8,nieces_nephews
 v_hindihind1269,hind1269,Hindi,4,nieces_nephews
 v_hinuqhinu1240,hinu1240,Hinuq,2,nieces_nephews
+v_hungarianhung1274,hung1274,Hungarian,2,nieces_nephews
 v_hunzahunz1248,hunz1248,Hunza,3,nieces_nephews
 v_hunzibhunz1247,hunz1247,Hunzib,2,nieces_nephews
 v_hupahupa1239,hupa1239,Hupa-Chilula,3,nieces_nephews
@@ -5241,13 +5340,16 @@ v_kashmirikash1277,kash1277,Kashmiri,4,nieces_nephews
 v_kaurnakaur1267,kaur1267,Kaurna,3,nieces_nephews
 v_kazakhkaza1248,kaza1248,Kazakh,4,nieces_nephews
 v_kazymberezoversuryskarerkhantykhan1273,khan1273,Kazym-Berezover-Suryskarer Khanty,2,nieces_nephews
+v_kazymkhantynort2672,nort2672,Kazym Khanty,6,nieces_nephews
 v_kerewekere1283,kere1283,Kerewe,2,nieces_nephews
 v_kikuyukiku1240,kiku1240,Kikuyu,2,nieces_nephews
 v_kiowaapachekiow1264,kiow1264,Kiowa Apache,3,nieces_nephews
 v_kitanemukserr1255b,serr1255,Serrano,2,nieces_nephews
-v_komizyriankomi1268,komi1268,Komi-Zyrian,2,nieces_nephews
+v_komizyriankomi1268,komi1268,Komi-Zyrian,10,nieces_nephews
 v_komkomc1235,komc1235,Kom (Cameroon),1,nieces_nephews
 v_komodrckomo1260,komo1260,Komo (Democratic Republic of Congo),2,nieces_nephews
+v_korafeyeghakora1294,kora1294,Korafe-Yegha,2,nieces_nephews
+v_koreankore1280,kore1280,Korean,1,nieces_nephews
 v_koyakoya1251,koya1251,Koya,5,nieces_nephews
 v_kuikuii1252,kuii1252,Kui (India),4,nieces_nephews
 v_kukuyalanjikuku1273,kuku1273,Kuku-Yalanji,4,nieces_nephews
@@ -5263,11 +5365,12 @@ v_lahndalahn1241,lahn1241,Lahnda,4,nieces_nephews
 v_lambalamb1271,lamb1271,Lamba,2,nieces_nephews
 v_langilang1320,lang1320,Langi,3,nieces_nephews
 v_latinlati1261,lati1261,Latin,4,nieces_nephews
-v_latvianlatv1249,latv1249,Latvian,4,nieces_nephews
+v_latvianlatv1249,latv1249,Latvian,2,nieces_nephews
 v_lengualeng1262,leng1262,Lengua,1,nieces_nephews
 v_lingalaling1263,ling1263,Kinshasa Lingala,2,nieces_nephews
 v_lipanapachelipa1241,lipa1241,Lipan Apache,3,nieces_nephews
-v_lithuanianlith1251,lith1251,Lithuanian,7,nieces_nephews
+v_lithuanianlith1251,lith1251,Lithuanian,4,nieces_nephews
+v_livonianlivv1244,livv1244,Liv,4,nieces_nephews
 v_lozilozi1239,lozi1239,Lozi,1,nieces_nephews
 v_lubakatangaluba1250,luba1250,Luba-Katanga,2,nieces_nephews
 v_lubalulualuba1249,luba1249,Luba-Lulua,4,nieces_nephews
@@ -5281,15 +5384,17 @@ v_macamaca1260,maca1260,Maca,2,nieces_nephews
 v_macedonianmace1250,mace1250,Macedonian,4,nieces_nephews
 v_macushimacu1259,macu1259,Macushi,2,nieces_nephews
 v_magyarhung1274,hung1274,Hungarian,2,nieces_nephews
+v_maisinmais1250,mais1250,Maisin,3,nieces_nephews
 v_maithilimait1250,mait1250,Maithili,4,nieces_nephews
 v_makondemako1251,mako1251,Makonde,1,nieces_nephews
 v_malapandarammala1468,mala1468,Malapandaram,4,nieces_nephews
 v_malayalammala1464,mala1464,Malayalam,3,nieces_nephews
+v_mandarinchinamand1415,mand1415,Mandarin Chinese,4,nieces_nephews
 v_mangarevansmang1401,mang1401,Mangareva,1,nieces_nephews
 v_mansimans1258,mans1258,Northern Mansi,2,nieces_nephews
 v_maorimaor1246,maor1246,Maori,3,nieces_nephews
 v_mapudungunmapu1245,mapu1245,Mapudungun,3,nieces_nephews
-v_marathimara1378,mara1378,Marathi,7,nieces_nephews
+v_marathimara1378,mara1378,Marathi,6,nieces_nephews
 v_marieast2328,east2328,Eastern Mari,2,nieces_nephews
 v_martuwangkamart1256,mart1256,Martu Wangka,7,nieces_nephews
 v_marwariindiamarw1260,marw1260,Marwari (India),5,nieces_nephews
@@ -5300,15 +5405,19 @@ v_mbalambal1257,mbal1257,Mbala,1,nieces_nephews
 v_mberember1257,mber1257,Mbere-Mbamba,1,nieces_nephews
 v_mbuunmpuo1241,mpuo1241,Mbuun,1,nieces_nephews
 v_mbyaguaranimbya1239,mbya1239,Mbyá Guaraní,4,nieces_nephews
+v_meadowmarigras1239,gras1239,Grassland Mari,10,nieces_nephews
+v_melpamelp1238,melp1238,Melpa,4,nieces_nephews
 v_merumeru1245,meru1245,Meru,3,nieces_nephews
 v_metameta1238,meta1238,Meta',1,nieces_nephews
 v_middleenglishmidd1317,midd1317,Middle English,2,nieces_nephews
 v_middlehighgermanmidd1343,midd1343,Middle High German,4,nieces_nephews
 v_midobmido1240,mido1240,Midob,2,nieces_nephews
+v_misimapaneatimisi1243,misi1243,Misima-Paneati,2,nieces_nephews
 v_mocovimoco1246,moco1246,Mocoví,2,nieces_nephews
 v_moderngreekmode1248,mode1248,Modern Greek,2,nieces_nephews
 v_modernwelshwels1247,wels1247,Welsh,2,nieces_nephews
 v_mokpwemokp1239,mokp1239,Mokpwe,5,nieces_nephews
+v_mokshamordvinmoks1248,moks1248,Moksha,3,nieces_nephews
 v_mongomong1338,mong1338,Mongo,3,nieces_nephews
 v_monomono1275,mono1275,Mono (USA),5,nieces_nephews
 v_movimamovi1243,movi1243,Movima,1,nieces_nephews
@@ -5344,6 +5453,7 @@ v_northernojibwanort2961,nort2961,Northwestern Ojibwa,6,nieces_nephews
 v_northernpomonort2966,nort2966,Northern Pomo,4,nieces_nephews
 v_northernsaminort2671,nort2671,North Saami,4,nieces_nephews
 v_northnorthernpaiutenort1551,nort1551,North Northern Paiute,3,nieces_nephews
+v_northsaaminort2671,nort2671,North Saami,6,nieces_nephews
 v_northwesternmaidunort2951,nort2951,Northwest Maidu,2,nieces_nephews
 v_norwegianbokmalnorw1259,norw1259,Norwegian Bokmål,2,nieces_nephews
 v_nsongsong1299,song1299,Nsong-Mpiin,1,nieces_nephews
@@ -5353,9 +5463,10 @@ v_nyamalnyam1271,nyam1271,Nyamal,2,nieces_nephews
 v_nyangumartanyan1301,nyan1301,Nyangumarta,3,nieces_nephews
 v_nyoronyor1246,nyor1246,Nyoro,2,nieces_nephews
 v_oduoduu1239,oduu1239,O'du,2,nieces_nephews
+v_oksapminoksa1245,oksa1245,Oksapmin,4,nieces_nephews
 v_oldaramaicolda1245,olda1245,Old Aramaic-Sam'alian,2,nieces_nephews
 v_oldchurchslavonicchur1257,chur1257,Church Slavic,2,nieces_nephews
-v_oldenglishca4501100olde1238,olde1238,Old English (ca. 450-1100),6,nieces_nephews
+v_oldenglishca4501100olde1238,olde1238,Old English (ca. 450-1100),4,nieces_nephews
 v_oldhighgermanca7501050oldh1241,oldh1241,Old High German (ca. 750-1050),4,nieces_nephews
 v_oldirisholdi1245,oldi1245,Early Irish,3,nieces_nephews
 v_oldnorseoldn1244,oldn1244,Old Norse,2,nieces_nephews
@@ -5364,15 +5475,16 @@ v_oldrussianoldr1238,oldr1238,Old Russian,4,nieces_nephews
 v_ontongjavaonto1237,onto1237,Luangiua,2,nieces_nephews
 v_opataopat1246,opat1246,Teguima,5,nieces_nephews
 v_oriyaoriy1255,oriy1255,Odia,4,nieces_nephews
+v_orokoloorok1267,orok1267,Orokolo,4,nieces_nephews
 v_ossetianosse1243,osse1243,Modern Ossetic,4,nieces_nephews
 v_ottowaojibwaotta1242,otta1242,Ottawa,5,nieces_nephews
 v_paakantyidarl1243,darl1243,Paakantyi,4,nieces_nephews
 v_paliyanpali1274,pali1274,Paliyan,3,nieces_nephews
 v_panareenap1235,enap1235,Panare,2,nieces_nephews
-v_panjabipanj1256,panj1256,Eastern Panjabi,7,nieces_nephews
+v_panjabipanj1256,panj1256,Eastern Panjabi,4,nieces_nephews
 v_paraguayanguaranipara1311,para1311,Paraguayan Guaraní,8,nieces_nephews
 v_parakanapara1312,para1312,Parakanã,5,nieces_nephews
-v_pashtopash1269,pash1269,Pashto,5,nieces_nephews
+v_pashtopash1269,pash1269,Pashto,4,nieces_nephews
 v_pausernapaus1244,paus1244,Warázu,2,nieces_nephews
 v_phendephen1239,phen1239,Phende,1,nieces_nephews
 v_pilagapila1245,pila1245,Pilagá,2,nieces_nephews
@@ -5382,7 +5494,7 @@ v_pittapittapitt1247,pitt1247,Pitta Pitta,2,nieces_nephews
 v_polishpoli1260,poli1260,Polish,4,nieces_nephews
 v_portugueseport1283,port1283,Portuguese,2,nieces_nephews
 v_praiphai1238,phai1238,Prai,2,nieces_nephews
-v_prototupiguaranitupi1276,tupi1239,NA,4,nieces_nephews
+v_prototupiguaranitupi1276,tupi1276,NA,4,nieces_nephews
 v_puinavepuin1248,puin1248,Puinave,2,nieces_nephews
 v_pumepume1238,pume1238,Pumé,2,nieces_nephews
 v_qawasquarqawa1238,qawa1238,Qawasqar,1,nieces_nephews
@@ -5393,6 +5505,7 @@ v_ritharrngurita1239,rita1239,Ritarungo,1,nieces_nephews
 v_romanianroma1327,roma1327,Romanian,2,nieces_nephews
 v_rotinesetermanuterm1237,term1237,Termanu,3,nieces_nephews
 v_rotumansrotu1241,rotu1241,Rotuman,2,nieces_nephews
+v_rumurumu1243,rumu1243,Rumu,2,nieces_nephews
 v_rundirund1242,rund1242,Rundi,4,nieces_nephews
 v_russianruss1263,russ1263,Russian,5,nieces_nephews
 v_rutulshin1265,shin1265,Shina (Nakh-Daghestan),1,nieces_nephews
@@ -5408,6 +5521,7 @@ v_sateremawesate1243,sate1243,Sateré-Mawé,2,nieces_nephews
 v_saterfriesischsate1242,sate1242,Ems-Weser Frisian,2,nieces_nephews
 v_selknamonaa1245,onaa1245,Selk'nam,2,nieces_nephews
 v_selkupselk1253,selk1253,Selkup,1,nieces_nephews
+v_sepikiwamsepi1255,sepi1255,Sepik Iwam,2,nieces_nephews
 v_serbocroationsout1528,sout1528,Serbian-Croatian-Bosnian,6,nieces_nephews
 v_serbsserb1264,serb1264,Serbian Standard,4,nieces_nephews
 v_seriseri1257,seri1257,Seri,1,nieces_nephews
@@ -5420,14 +5534,18 @@ v_sindhisind1272,sind1272,Sindhi,4,nieces_nephews
 v_sinhalasinh1246,sinh1246,Sinhala,5,nieces_nephews
 v_sionsion1247,sion1247,Siona-Tetete,3,nieces_nephews
 v_sirionosiri1273,siri1273,Sirionó,5,nieces_nephews
+v_skoltsaamiskol1241,skol1241,Skolt Saami,6,nieces_nephews
 v_slovakianslov1269,slov1269,Slovak,2,nieces_nephews
 v_slovenianslov1268,slov1268,Slovenian,2,nieces_nephews
 v_sogasoga1242,soga1242,Soga,3,nieces_nephews
 v_songoorasong1300,song1300,Songoora,2,nieces_nephews
+v_sosvamansinort2677,nort2677,Sosva Mansi,4,nieces_nephews
 v_southeasterntepehuanosout2976,sout2976,Southeastern Tepehuan,8,nieces_nephews
 v_southerncoastaltsimshiannucl1649,nucl1649,Southern-Coastal Tsimshian,1,nieces_nephews
 v_southernuteutee1244,utee1244,Ute,7,nieces_nephews
 v_southmarquesansout2866,sout2866,South Marquesan,2,nieces_nephews
+v_southsaamisout2674,sout2674,South Saami,6,nieces_nephews
+v_southtairorasout2943,sout2943,South Tairora,2,nieces_nephews
 v_standardcatalanstan1289,stan1289,Catalan,2,nieces_nephews
 v_standardenglishstan1293,stan1293,English,2,nieces_nephews
 v_standardfrenchstan1290,stan1290,French,2,nieces_nephews
@@ -5438,21 +5556,23 @@ v_sukusuku1259,suku1259,Suku,1,nieces_nephews
 v_suruisuru1262,suru1262,Suruí,1,nieces_nephews
 v_swedishswed1254,swed1254,Swedish,5,nieces_nephews
 v_taabwashil1264,shil1264,Shila,2,nieces_nephews
+v_tabriaktabr1243,tabr1243,Tabriak,5,nieces_nephews
 v_tahitianstahi1242,tahi1242,Tahitian,2,nieces_nephews
 v_tamiltami1289,tami1289,Tamil,10,nieces_nephews
 v_tanalatana1285,tana1285,Tañala,4,nieces_nephews
 v_tapirapetapi1254,tapi1254,Tapirapé,6,nieces_nephews
 v_tarahumaracent2131,cent2131,Central Tarahumara,2,nieces_nephews
 v_tehuelchetehu1242,tehu1242,Tehuelche,2,nieces_nephews
-v_telugutelu1262,telu1262,Telugu,7,nieces_nephews
+v_telugutelu1262,telu1262,Telugu,6,nieces_nephews
 v_tembetemb1276,temb1276,Tenetehara,7,nieces_nephews
 v_tenharimtenh1241,tenh1241,Tenharim-Parintintin-Diahoi,3,nieces_nephews
+v_tereitere1278,tere1278,Terei,4,nieces_nephews
 v_tikopiatiko1237,tiko1237,Tikopia,2,nieces_nephews
 v_tivtivv1240,tivv1240,Tiv,1,nieces_nephews
 v_tlingittlin1245,tlin1245,Tlingit,1,nieces_nephews
 v_tobatoba1269,toba1269,Toba,2,nieces_nephews
 v_tocantinsasurinitoca1235,toca1235,Tocantins Asurini,5,nieces_nephews
-v_todatoda1252,toda1252,Toda,9,nieces_nephews
+v_todatoda1252,toda1252,Toda,7,nieces_nephews
 v_tohonooodhamtoho1245,toho1245,Tohono O'odham,1,nieces_nephews
 v_tokelautoke1240,toke1240,Tokelau,5,nieces_nephews
 v_tolowatolo1259,tolo1259,Tolowa-Chetco,3,nieces_nephews
@@ -5465,16 +5585,18 @@ v_trumaitrum1247,trum1247,Trumai,2,nieces_nephews
 v_tsongatson1249,tson1249,Tsonga,2,nieces_nephews
 v_tswanatswa1253,tswa1253,Tswana,5,nieces_nephews
 v_tucanotuca1252,tuca1252,Tucano,6,nieces_nephews
-v_tundranenetsnene1249,nene1249,Tundra Nenets,2,nieces_nephews
+v_tundranenetsnene1249,nene1249,Tundra Nenets,9,nieces_nephews
 v_tupinambatupi1273,tupi1273,Tupinambá,5,nieces_nephews
 v_tupitupi1274,tupi1274,Lingua Geral Paulista,8,nieces_nephews
 v_tuyucatuyu1244,tuyu1244,Tuyuca,2,nieces_nephews
 v_tzeltaltzel1254,tzel1254,Tzeltal,2,nieces_nephews
-v_ukrainianukra1253,ukra1253,Ukrainian,9,nieces_nephews
+v_udmurtudmu1245,udmu1245,Udmurt,10,nieces_nephews
+v_ukrainianukra1253,ukra1253,Ukrainian,6,nieces_nephews
 v_ulawaulaw1237,ulaw1237,Ulawa,2,nieces_nephews
 v_umbunduumbu1257,umbu1257,Umbundu,1,nieces_nephews
 v_umpilaumpi1239,umpi1239,Umpila,4,nieces_nephews
 v_urduurdu1245,urdu1245,Urdu,4,nieces_nephews
+v_wahginucl1620,nucl1620,Wahgi,2,nieces_nephews
 v_wailakiwail1244,wail1244,Eel River Athabaskan,6,nieces_nephews
 v_waimiriatroariwaim1253,waim1253,Waimiri-Atroari,5,nieces_nephews
 v_wajarriwaja1257,waja1257,Wajarri,1,nieces_nephews
@@ -5493,6 +5615,7 @@ v_warunguwaru1264,waru1264,Warrongo,5,nieces_nephews
 v_waurawaur1244,waur1244,Waurá,2,nieces_nephews
 v_wayampiwaya1270,waya1270,Wayampi,7,nieces_nephews
 v_wayuuwayu1243,wayu1243,Wayuu,1,nieces_nephews
+v_wedauweda1241,weda1241,Wedau,2,nieces_nephews
 v_westernapachewest2615,west2615,Western Apache,2,nieces_nephews
 v_westernarmenianhoms1234,homs1234,Western Armenian,2,nieces_nephews
 v_westernfarsiwest2369,west2369,Western Farsi,7,nieces_nephews
@@ -5502,12 +5625,13 @@ v_wichiwich1264,wich1264,Wichí Lhamtés Güisnay,2,nieces_nephews
 v_wikmungkanwikm1247,wikm1247,Wik-Mungkan,9,nieces_nephews
 v_wiradjuriwira1262,wira1262,Wiradhuri,1,nieces_nephews
 v_wiranguwira1265,wira1265,Wirangu,5,nieces_nephews
+v_wiruwiru1244,wiru1244,Wiru,1,nieces_nephews
 v_wiyotwiyo1248,wiyo1248,Wiyot,2,nieces_nephews
 v_wulguruwulg1239,wulg1239,Wulguru,1,nieces_nephews
 v_wuvuluauawuvu1239,wuvu1239,Wuvulu-Aua,3,nieces_nephews
 v_yakacaryaka1272,yaka1272,Yaka (Central African Republic),2,nieces_nephews
 v_yakapelendelonzoyaka1269,yaka1269,Yaka-Pelende-Lonzo,1,nieces_nephews
-v_yalarnngayala1262,yala1262,Yalarnnga,4,nieces_nephews
+v_yalarnngayala1262,yala1262,Yalarnnga,3,nieces_nephews
 v_yamanayama1264,yama1264,Yámana,2,nieces_nephews
 v_yamdenayamd1240,yamd1240,Yamdena,2,nieces_nephews
 v_yandruwandhayand1253,yand1253,Yandruwandha,2,nieces_nephews
@@ -5527,23 +5651,6 @@ v_zigulazigu1242,zigu1242,Zigula,1,nieces_nephews
 v_zinzazinz1238,zinz1238,Zinza,1,nieces_nephews
 v_zuluzulu1248,zulu1248,Zulu,1,nieces_nephews
 v_zunizuni1245,zuni1245,Zuni,3,nieces_nephews
-ErzyaMordvin,erzy1239,Erzya,2,cousins
-Estonian,esto1258,Estonian,7,cousins
-Finnish,finn1318,Finnish,3,cousins
-Hungarian,hung1274,Hungarian,4,cousins
-KazymKhanty,nort2672,Kazym Khanty,8,cousins
-KomiZyrian,komi1268,Komi-Zyrian,5,cousins
-Livonian,livv1244,Liv,3,cousins
-MeadowMari,gras1239,Grassland Mari,3,cousins
-MokshaMordvin,moks1248,Moksha,3,cousins
-Nganasan,ngan1291,Nganasan,4,cousins
-NorthSaami,nort2671,North Saami,4,cousins
-SkoltSaami,skol1241,Skolt Saami,4,cousins
-SosvaMansi,nort2677,Sosva Mansi,4,cousins
-SouthSaami,sout2674,South Saami,5,cousins
-TundraNenets,nene1249,Tundra Nenets,2,cousins
-Udmurt,udmu1245,Udmurt,3,cousins
-Veps,veps1250,Veps,2,cousins
 p_abuiabui1241,abui1241,Abui,6,cousins
 p_adangadan1251,adan1251,Adang,6,cousins
 p_agob-ende-kawamagob1244,agob1244,Agob-Ende-Kawam,4,cousins
@@ -5711,7 +5818,7 @@ p_kuanuakuan1248,kuan1248,Kuanua,6,cousins
 p_kukuyalanjikuku1273,kuku1273,Kuku-Yalanji,2,cousins
 p_kulisusukuli1254,kuli1254,Kulisusu,1,cousins
 p_kumankuma1280,kuma1280,Kuman,4,cousins
-p_kunimaipakuni1267,kuni1267,Kunimaipa,6,cousins
+p_kunimaipakuni1267,kuni1267,Kunimaipa,10,cousins
 p_kunjenkunj1248,kunj1248,Southwestern Alaya-Athima,2,cousins
 p_kuotkuot1243,kuot1243,Kuot,3,cousins
 p_kuukuyaukuuk1238,kuuk1238,Kuuku-Ya'u,2,cousins
@@ -5773,79 +5880,79 @@ p_modolemodo1249,modo1249,Modole,2,cousins
 p_momufasfass1245,fass1245,Momu-Fas,4,cousins
 p_monimoni1261,moni1261,Moni,5,cousins
 p_monumbonucl1458,nucl1458,Monumbo,10,cousins
-p_morgan1871amazuluamazulukafirzulu1248,zulu1248,Zulu,14,cousins
-p_morgan1871anahnelingrosventresofprairiegros1243,gros1243,Gros Ventre,9,cousins
+p_morgan1871amazuluamazulukafirzulu1248,zulu1248,Zulu,15,cousins
+p_morgan1871anahnelingrosventresofprairiegros1243,gros1243,Gros Ventre,10,cousins
 p_morgan1871arikaraarickareearik1262,arik1262,Arikara,5,cousins
-p_morgan1871assiniboineasiniboineassi1247,assi1247,Assiniboine,12,cousins
+p_morgan1871assiniboineasiniboineassi1247,assi1247,Assiniboine,13,cousins
 p_morgan1871baffininuktituteskimonorthumberlandinletbaff1241,baff1241,Baffin Inuktitut,5,cousins
 p_morgan1871bengalibeng1280,beng1280,Bengali,11,cousins
 p_morgan1871bloodsiksikabloodblackfootbloo1239,bloo1239,Blood,10,cousins
-p_morgan1871burmeseburm1266,burm1266,Burmish,13,cousins
-p_morgan1871canaresenucl1305,nucl1305,Kannada,8,cousins
+p_morgan1871burmeseburm1266,burm1266,Burmish,15,cousins
+p_morgan1871canaresenucl1305,nucl1305,Kannada,9,cousins
 p_morgan1871cayugacayu1261,cayu1261,Cayuga,5,cousins
-p_morgan1871cherokeecher1273,cher1273,Cherokee,13,cousins
-p_morgan1871chibchanewgranadachib1270,chib1270,Chibcha,11,cousins
+p_morgan1871cherokeecher1273,cher1273,Cherokee,14,cousins
+p_morgan1871chibchanewgranadachib1270,chib1270,Chibcha,12,cousins
 p_morgan1871chickasachic1270,chic1270,Chickasaw,10,cousins
 p_morgan1871chinesesini1245,sini1245,Sinitic,9,cousins
-p_morgan1871choctaw1choc1276,choc1276,Choctaw,10,cousins
+p_morgan1871choctaw1choc1276,choc1276,Choctaw,11,cousins
 p_morgan1871choctaw2choc1276,choc1276,Choctaw,9,cousins
 p_morgan1871creekcree1270,cree1270,Creek,11,cousins
-p_morgan1871creeofthelowlandscree1272,cree1272,Cree,7,cousins
+p_morgan1871creeofthelowlandscree1272,cree1272,Cree,8,cousins
 p_morgan1871crowcrow1244,crow1244,Crow,11,cousins
 p_morgan1871dakotablackfootlako1247,lako1247,Lakota,13,cousins
 p_morgan1871dakotabrulebrul1239,brul1239,Brulé,12,cousins
-p_morgan1871dakotaisauntiedako1258,dako1258,Dakota,13,cousins
+p_morgan1871dakotaisauntiedako1258,dako1258,Dakota,16,cousins
 p_morgan1871dakotaogalallalako1247,lako1247,Lakota,14,cousins
-p_morgan1871dakotasissetondako1258,dako1258,Dakota,14,cousins
-p_morgan1871dakotauncpapalako1247,lako1247,Lakota,12,cousins
-p_morgan1871dakotayanktonaisdako1258,dako1258,Dakota,17,cousins
-p_morgan1871dakotayanktondako1258,dako1258,Dakota,12,cousins
+p_morgan1871dakotasissetondako1258,dako1258,Dakota,15,cousins
+p_morgan1871dakotauncpapalako1247,lako1247,Lakota,13,cousins
+p_morgan1871dakotayanktonaisdako1258,dako1258,Dakota,19,cousins
+p_morgan1871dakotayanktondako1258,dako1258,Dakota,13,cousins
 p_morgan1871delawarecomm1246,comm1246,Common Delaware,10,cousins
-p_morgan1871etchemiuormalisetemale1293,male1293,Malecite,22,cousins
+p_morgan1871etchemiuormalisetemale1293,male1293,Malecite,23,cousins
 p_morgan1871grandpawneepawn1254,pawn1254,Pawnee,11,cousins
 p_morgan1871gujaratiguja1252,guja1252,Gujarati,7,cousins
 p_morgan1871hareindiansortanatinnehare1243,hare1243,Slaveyic,12,cousins
-p_morgan1871hawaiianhawa1245,hawa1245,Hawaiian,21,cousins
+p_morgan1871hawaiianhawa1245,hawa1245,Hawaiian,23,cousins
 p_morgan1871hindihind1269,hind1269,Hindi,14,cousins
-p_morgan1871iowaiowa1245,iowa1245,Iowa-Oto,16,cousins
+p_morgan1871iowaiowa1245,iowa1245,Iowa-Oto,18,cousins
 p_morgan1871japanesejapa1256,japa1256,Japanesic,5,cousins
 p_morgan1871kalaallisuteskimogreenlandkala1399,kala1399,Kalaallisut,2,cousins
-p_morgan1871karenkare1337,kare1337,Karenic,5,cousins
+p_morgan1871karenkare1337,kare1337,Karenic,4,cousins
 p_morgan1871karenpwodialectpwoo1239,pwoo1239,Pwo,3,cousins
 p_morgan1871karensgaudialectsgaw1245,sgaw1245,S'gaw Karen,2,cousins
 p_morgan1871kaskaskiaalgo1255,algo1255,Algonquin,11,cousins
 p_morgan1871kawkans1243,kans1243,Kansa,14,cousins
-p_morgan1871kickapookikapookick1244,kick1244,Kickapoo,13,cousins
-p_morgan1871kingsmillislandsgilb1244,gilb1244,Gilbertese,6,cousins
+p_morgan1871kickapookikapookick1244,kick1244,Kickapoo,15,cousins
+p_morgan1871kingsmillislandsgilb1244,gilb1244,Gilbertese,8,cousins
 p_morgan1871kootenaykute1249,kute1249,Kutenai,4,cousins
-p_morgan1871kusaienkosr1238,kosr1238,Kosraean,3,cousins
+p_morgan1871kusaienkosr1238,kosr1238,Kosraean,4,cousins
 p_morgan1871kutchinorlouchieuxgwic1235,gwic1235,Gwich'in,7,cousins
 p_morgan1871lagunawest2632,west2632,Western Keres,4,cousins
 p_morgan1871mandanmand1446,mand1446,Mandan,6,cousins
-p_morgan1871maorimaor1246,maor1246,Maori,13,cousins
+p_morgan1871maorimaor1246,maor1246,Maori,15,cousins
 p_morgan1871marathimara1378,mara1378,Marathi,10,cousins
-p_morgan1871menominemeno1252,meno1252,Menominee,11,cousins
+p_morgan1871menominemeno1252,meno1252,Menominee,12,cousins
 p_morgan1871miamimiam1252,miam1252,Miami,11,cousins
-p_morgan1871miemacmikm1235,mikm1235,Mi'kmaq,8,cousins
+p_morgan1871miemacmikm1235,mikm1235,Mi'kmaq,9,cousins
 p_morgan1871minnitareehida1246,hida1246,Hidatsa,14,cousins
 p_morgan1871mohawkmoha1258,moha1258,Mohawk,10,cousins
-p_morgan1871moheganmohe1244,mohe1244,Mohegan-Montauk-Narragansett,12,cousins
-p_morgan1871mountaincherokeecher1273,cher1273,Cherokee,13,cousins
+p_morgan1871moheganmohe1244,mohe1244,Mohegan-Montauk-Narragansett,13,cousins
+p_morgan1871mountaincherokeecher1273,cher1273,Cherokee,14,cousins
 p_morgan1871munseemuns1251,muns1251,Munsee,16,cousins
 p_morgan1871ojibwakansasojib1241,ojib1241,Ojibwa,13,cousins
-p_morgan1871ojibwalakehuronojib1241,ojib1241,Ojibwa,15,cousins
+p_morgan1871ojibwalakehuronojib1241,ojib1241,Ojibwa,16,cousins
 p_morgan1871ojibwalakemichiganuppe1274,uppe1274,Upper Michigan-Wisconsin Chippewa,7,cousins
 p_morgan1871ojibwalakesuperiorojib1241,ojib1241,Ojibwa,13,cousins
-p_morgan1871omahaomah1247,omah1247,Omaha-Ponca,18,cousins
+p_morgan1871omahaomah1247,omah1247,Omaha-Ponca,19,cousins
 p_morgan1871oneidaonei1249,onei1249,Oneida,5,cousins
 p_morgan1871onondagaonon1246,onon1246,Onondaga,5,cousins
 p_morgan1871osageosag1243,osag1243,Osage,15,cousins
-p_morgan1871otoeotoo1241,otoo1241,Oto,17,cousins
+p_morgan1871otoeotoo1241,otoo1241,Oto,19,cousins
 p_morgan1871ottawaotawaotta1242,otta1242,Ottawa,14,cousins
 p_morgan1871peoriapeor1238,peor1238,Peoria,10,cousins
 p_morgan1871pianeshawmiam1252,miam1252,Miami,11,cousins
-p_morgan1871piegansiksikapieganblackfootpieg1239,pieg1239,Piegan,13,cousins
-p_morgan1871plainscreecreeoftheprairieplai1258,plai1258,Plains Cree,9,cousins
+p_morgan1871piegansiksikapieganblackfootpieg1239,pieg1239,Piegan,14,cousins
+p_morgan1871plainscreecreeoftheprairieplai1258,plai1258,Plains Cree,10,cousins
 p_morgan1871potawatomipotawattamiepota1247,pota1247,Potawatomi,11,cousins
 p_morgan1871punkaponc1241,ponc1241,Ponca,13,cousins
 p_morgan1871redknifeortalsoteenadogr1252,dogr1252,Dogrib,8,cousins
@@ -5855,16 +5962,16 @@ p_morgan1871senecasene1264,sene1264,Seneca,5,cousins
 p_morgan1871shawneeshaw1249,shaw1249,Shawnee,16,cousins
 p_morgan1871shiyanchey1247,chey1247,Cheyenne,4,cousins
 p_morgan1871slavelakeindiansorachaotinneslav1253,slav1253,Slave,6,cousins
-p_morgan1871spokanespok1245,spok1245,Spokane,10,cousins
-p_morgan1871tamiltami1289,tami1289,Tamil,14,cousins
+p_morgan1871spokanespok1245,spok1245,Spokane,11,cousins
+p_morgan1871tamiltami1289,tami1289,Tamil,17,cousins
 p_morgan1871telugutelu1262,telu1262,Telugu,12,cousins
 p_morgan1871tesuquetesu1245,tesu1245,Tesuque,3,cousins
-p_morgan1871tukuthegwic1235,gwic1235,Gwich'in,9,cousins
+p_morgan1871tukuthegwic1235,gwic1235,Gwich'in,10,cousins
 p_morgan1871tuscaroratusc1257,tusc1257,Tuscarora,4,cousins
-p_morgan1871twomountainiroquioslaur1250,laur1250,Laurentian,8,cousins
+p_morgan1871twomountainiroquioslaur1250,laur1250,Laurentian,9,cousins
 p_morgan1871weawnucl1653,nucl1653,Nuclear Miami,10,cousins
 p_morgan1871winnebagoewinn1245,winn1245,Winnebago-Chiwere,12,cousins
-p_morgan1871woodscreecreeofthewoodswood1236,wood1236,Woods Cree,9,cousins
+p_morgan1871woodscreecreeofthewoodswood1236,wood1236,Woods Cree,10,cousins
 p_morgan1871wyandotewyan1247,wyan1247,Huron-Wyandot,8,cousins
 p_morgan1871yakamayaki1237,yaki1237,Northwest Sahaptin,4,cousins
 p_moribawahmori1268,mori1268,Mori Bawah,1,cousins
@@ -5952,7 +6059,7 @@ p_setamanseta1246,seta1246,Setaman,6,cousins
 p_sibesibe1248,sibe1248,Sibe (Nasioi),7,cousins
 p_siesyesiee1239,siee1239,Sie,1,cousins
 p_sikaianasika1261,sika1261,Sikaiana,2,cousins
-p_sogeramsoge1235,soge1235,Sogeram,5,cousins
+p_sogeramsoge1235,soge1235,Sogeram,4,cousins
 p_sonsorolsons1242,sons1242,Sonsorol,1,cousins
 p_sougbmani1235,mani1235,Sougb,6,cousins
 p_southeastambrymsout2859,sout2859,Southeast Ambrym,4,cousins
@@ -6045,8 +6152,8 @@ p_wogeowoge1237,woge1237,Wogeo,4,cousins
 p_xalangimaevovanuatumari1426h,mari1426,Sunwadia,4,cousins
 p_xawia1234,awia1234,Awiakay-Karimba,8,cousins
 p_xibexibe1242,xibe1242,Xibe,4,cousins
-p_xmala1294,mala1294,NA,4,cousins
-p_xtido1249,tido1249,NA,4,cousins
+p_xmala1494,mala1494,Mala (Papua New Guinea),4,cousins
+p_xtido1248,tido1248,Tidore,4,cousins
 p_yabemyabe1254,yabe1254,Yabem,5,cousins
 p_yagwoiayagw1240,yagw1240,Yagwoia,5,cousins
 p_yakanyaka1277,yaka1277,Yakan,1,cousins
@@ -6071,6 +6178,7 @@ v_akhvakhnorthernakhvakhakhv1239,akhv1239,Akhvakh,2,cousins
 v_albanianalba1267,alba1267,Albanian,3,cousins
 v_albaniantosktosk1239,tosk1239,Northern Tosk Albanian,2,cousins
 v_alyawarralya1239,alya1239,Alyawarr,11,cousins
+v_ameleamel1241,amel1241,Amele,2,cousins
 v_amharicamha1245,amha1245,Amharic,4,cousins
 v_ancientgreekanci1242,anci1242,Ancient Greek,3,cousins
 v_andiandi1255,andi1255,Andi,4,cousins
@@ -6078,7 +6186,7 @@ v_angaiteanga1316,anga1316,Angaité,1,cousins
 v_arabanaarab1267,arab1267,Arabana,5,cousins
 v_arawetearaw1273,araw1273,Araweté,6,cousins
 v_archiarch1244,arch1244,Archi,4,cousins
-v_armeniannucl1235,nucl1235,Eastern Armenian,13,cousins
+v_armeniannucl1235,nucl1235,Eastern Armenian,12,cousins
 v_assameseassa1263,assa1263,Assamese,7,cousins
 v_asutanzaniaasut1235,asut1235,Asu (Tanzania),4,cousins
 v_atsugewiatsu1245,atsu1245,Atsugewi,1,cousins
@@ -6089,19 +6197,22 @@ v_avarbatluxbatl1238,batl1238,Batlux,2,cousins
 v_avarhiddialecthidd1238,hidd1238,Hid,2,cousins
 v_avazkhunzakhkunz1243,kunz1243,Xunzax,2,cousins
 v_avestanaves1237,aves1237,Avestan,2,cousins
+v_awaawap1236,awap1236,Awa (Papua New Guinea),6,cousins
 v_awetiawet1244,awet1244,Awetí,7,cousins
+v_awiyaanaawiy1238,awiy1238,Awiyaana,3,cousins
 v_ayoreoayor1240,ayor1240,Ayoreo,3,cousins
 v_bahvalalbagv1239,bagv1239,Bagvalal,4,cousins
 v_balochibalo1260,balo1260,Balochic,2,cousins
-v_bandjalangband1339,band1339,Bandjalangic,12,cousins
+v_bandjalangband1339,band1339,Bandjalangic,9,cousins
 v_bannockbann1248,bann1248,Bannock,7,cousins
+v_barainucl1630,nucl1630,Barai,6,cousins
 v_baribari1297,bari1297,Barí,2,cousins
 v_basquebasq1248,basq1248,Basque,2,cousins
 v_basquewest1508,west1508,Western Low Navarrese,3,cousins
-v_batangabata1285,bata1285,Batanga,34,cousins
+v_batangabata1285,bata1285,Batanga,36,cousins
 v_batstsovatushbats1242,bats1242,Bats,2,cousins
 v_baurebaur1253,baur1253,Baure,1,cousins
-v_belarusianbela1254,bela1254,Belarusian,4,cousins
+v_belarusianbela1254,bela1254,Belarusian,3,cousins
 v_bembabemb1257,bemb1257,Bemba (Zambia),2,cousins
 v_benatanzaniabena1262,bena1262,Bena (Tanzania),7,cousins
 v_bendebend1258,bend1258,Bende,3,cousins
@@ -6136,7 +6247,7 @@ v_chokwechok1245,chok1245,Chokwe,5,cousins
 v_cintalargacint1239,cint1239,Cinta Larga,10,cousins
 v_coastalyukiyuki1243b,yuki1243,Northern Yukian,2,cousins
 v_cocamacocamillacoca1259,coca1259,Cocama-Cocamilla,4,cousins
-v_cocopacoco1261,coco1261,Cocopa,6,cousins
+v_cocopacoco1261,coco1261,Cocopa,5,cousins
 v_cofancofa1242,cofa1242,Cofán,2,cousins
 v_colloquialmalaymala1479,mala1479,Central Malay,2,cousins
 v_comanchecoma1245,coma1245,Comanche,6,cousins
@@ -6148,21 +6259,24 @@ v_cuscoquechuacusc1236,cusc1236,Cusco Quechua,4,cousins
 v_czechczec1258,czec1258,Czech,4,cousins
 v_dandamimariadand1238,dand1238,Dandami Maria,8,cousins
 v_danishdani1285,dani1285,Danish,4,cousins
+v_danodano1240,dano1240,Dano,6,cousins
 v_dargwachiragchir1284,chir1284,Chirag,2,cousins
 v_dargwaitsariitsa1239,icar1234,Icari,2,cousins
-v_daridari1249,dari1249,Dari,12,cousins
+v_daridari1249,dari1249,Dari,10,cousins
 v_dekwanamaquiritarimaqu1238,maqu1238,Ye'kwana,2,cousins
 v_delinenort2942,nort2942,North Slavey,3,cousins
 v_denesulinechip1261,chip1261,Chipewyan,2,cousins
 v_denethasouthslaveysout2959,sout2959,South Slavey,2,cousins
 v_dharumbaldhar1248,dhar1248,Dharumbal,2,cousins
-v_dhuwaldhuw1249,dhuw1249,Dhuwal,6,cousins
+v_dhuwaldhuw1249,dhuw1249,Dhuwal,4,cousins
 v_digodigo1243,digo1243,Digo,3,cousins
 v_dingding1239,ding1239,Ding,7,cousins
 v_diyaridier1241,dier1241,Dieri,6,cousins
 v_djambarrpuyngudjam1256,djam1256,Djambarrpuyngu,3,cousins
 v_djinangdjin1253,djin1253,Djinang,5,cousins
 v_dogribdogr1252,dogr1252,Dogrib,3,cousins
+v_domdomm1246,domm1246,Dom,4,cousins
+v_doromukokidoro1266,doro1266,Doromu-Koki,4,cousins
 v_dualadual1243,dual1243,Duala,3,cousins
 v_dutchdutc1256,dutc1256,Dutch,2,cousins
 v_dyirbaldyir1250,dyir1250,Dyirbal,15,cousins
@@ -6174,15 +6288,20 @@ v_ekondamongoekon1238,ekon1238,Ekonda Mongo,2,cousins
 v_elamiteelam1244,elam1244,Elamite,1,cousins
 v_ellicetuva1244,tuva1244,Tuvalu,3,cousins
 v_emerillonemer1243,emer1243,Teko,2,cousins
+v_engaenga1252,enga1252,Enga,7,cousins
 v_erzyaerzy1239,erzy1239,Erzya,2,cousins
+v_erzyamordvinerzy1239,erzy1239,Erzya,2,cousins
+v_estonianesto1258,esto1258,Estonian,7,cousins
 v_eyakeyak1241,eyak1241,Eyak,1,cousins
 v_fangegfang1246,fang1246,Fang (Equatorial Guinea),3,cousins
 v_fefefefe1239,fefe1239,Fe'fe',1,cousins
+v_finnishfinn1318,finn1318,Finnish,3,cousins
 v_fipafipa1238,fipa1238,Fipa,3,cousins
 v_fordataford1242,ford1242,Fordata,5,cousins
 v_frisianfris1239,fris1239,Frisian,3,cousins
 v_futunanseast2447,east2447,East Futuna,4,cousins
 v_gabrielinotong1329,tong1329,Tongva,1,cousins
+v_gadsupgads1258,gads1258,Gadsup,1,cousins
 v_galibicaribgali1262,gali1262,Galibi Carib,9,cousins
 v_gandagand1255,gand1255,Ganda,4,cousins
 v_giryamagiry1241,giry1241,Giryama,7,cousins
@@ -6195,21 +6314,25 @@ v_gujaratiguja1252,guja1252,Gujarati,10,cousins
 v_gumatjguma1253,guma1253,Gumatj,3,cousins
 v_gumbaynggirkumb1268,kumb1268,Kumbainggar,5,cousins
 v_gununakunepuel1244,puel1244,Puelche,2,cousins
-v_gupapuyngugupa1247,gupa1247,Gupapuyngu,5,cousins
+v_gupapuyngugupa1247,gupa1247,Gupapuyngu,4,cousins
 v_gurindjiguri1247,guri1247,Gurindji,1,cousins
 v_gusiigusi1247,gusi1247,Gusii,3,cousins
 v_guuguyimidhirrgugu1255,gugu1255,Guugu Yimidhirr,4,cousins
 v_hahaaa1252,haaa1252,Ha,6,cousins
+v_haliahali1244,hali1244,Halia,3,cousins
+v_hamtaihamt1247,hamt1247,Hamtai,6,cousins
+v_hapororanhita1242,hita1242,Hitau-Pororan,3,cousins
 v_hausahaus1257,haus1257,Hausa,4,cousins
 v_hawaiianshawa1245,hawa1245,Hawaiian,5,cousins
 v_hayahaya1250,haya1250,Haya,5,cousins
 v_hehehehe1240,hehe1240,Hehe,6,cousins
 v_hererohere1253,here1253,Herero,3,cousins
 v_highlandpueblanahuatlhigh1278,high1278,Highland Puebla Nahuatl,1,cousins
-v_hindihind1269,hind1269,Hindi,12,cousins
+v_hindihind1269,hind1269,Hindi,10,cousins
 v_hinuqhinu1240,hinu1240,Hinuq,2,cousins
 v_hittitehitt1242,hitt1242,Hittite,2,cousins
 v_hopishopi1249b,hopi1249,Hopi,1,cousins
+v_hungarianhung1274,hung1274,Hungarian,4,cousins
 v_hunzahunz1248,hunz1248,Hunza,5,cousins
 v_hunzibhunz1247,hunz1247,Hunzib,2,cousins
 v_hupahupa1239,hupa1239,Hupa-Chilula,2,cousins
@@ -6245,8 +6368,9 @@ v_kartujarrakart1247,kart1247,Kartujarra,8,cousins
 v_kashmirikash1277,kash1277,Kashmiri,10,cousins
 v_kaurnakaur1267,kaur1267,Kaurna,3,cousins
 v_kayabikaya1329,kaya1329,Kayabí,1,cousins
-v_kazakhkaza1248,kaza1248,Kazakh,18,cousins
+v_kazakhkaza1248,kaza1248,Kazakh,20,cousins
 v_kazymberezoversuryskarerkhantykhan1273,khan1273,Kazym-Berezover-Suryskarer Khanty,2,cousins
+v_kazymkhantynort2672,nort2672,Kazym Khanty,8,cousins
 v_keikeii1239,keii1239,Kei,3,cousins
 v_kerewekere1283,kere1283,Kerewe,1,cousins
 v_ketkett1243,kett1243,Ket,2,cousins
@@ -6254,9 +6378,11 @@ v_kikuyukiku1240,kiku1240,Kikuyu,7,cousins
 v_kiowaapachekiow1264,kiow1264,Kiowa Apache,2,cousins
 v_kitanemukserr1255b,serr1255,Serrano,1,cousins
 v_kodavakoda1255,koda1255,Kodava,2,cousins
-v_komizyriankomi1268,komi1268,Komi-Zyrian,2,cousins
+v_komizyriankomi1268,komi1268,Komi-Zyrian,6,cousins
 v_komkomc1235,komc1235,Kom (Cameroon),3,cousins
 v_komodrckomo1260,komo1260,Komo (Democratic Republic of Congo),5,cousins
+v_korafeyeghakora1294,kora1294,Korafe-Yegha,5,cousins
+v_koreankore1280,kore1280,Korean,3,cousins
 v_kotakota1274,kota1274,Kota (Gabon),5,cousins
 v_koyakoya1251,koya1251,Koya,7,cousins
 v_kuikuii1252,kuii1252,Kui (India),5,cousins
@@ -6272,15 +6398,17 @@ v_kwasiokwas1243,kwas1243,Kwasio,2,cousins
 v_kwerekwer1261,kwer1261,Kwere,3,cousins
 v_lahndalahn1241,lahn1241,Lahnda,6,cousins
 v_lakemiwoklake1258,lake1258,Lake Miwok,7,cousins
+v_lalalala1268,lala1268,Lala,2,cousins
 v_lambalamb1271,lamb1271,Lamba,7,cousins
 v_langilang1320,lang1320,Langi,6,cousins
 v_latinlati1261,lati1261,Latin,8,cousins
-v_latvianlatv1249,latv1249,Latvian,4,cousins
+v_latvianlatv1249,latv1249,Latvian,2,cousins
 v_laufijianlaua1243,laua1243,Lauan,7,cousins
 v_lengualeng1262,leng1262,Lengua,1,cousins
 v_lingalaling1263,ling1263,Kinshasa Lingala,3,cousins
 v_lipanapachelipa1241,lipa1241,Lipan Apache,4,cousins
-v_lithuanianlith1251,lith1251,Lithuanian,6,cousins
+v_lithuanianlith1251,lith1251,Lithuanian,5,cousins
+v_livonianlivv1244,livv1244,Liv,3,cousins
 v_lozilozi1239,lozi1239,Lozi,4,cousins
 v_lubakatangaluba1250,luba1250,Luba-Katanga,2,cousins
 v_lubalulualuba1249,luba1249,Luba-Lulua,2,cousins
@@ -6289,20 +6417,22 @@ v_lugurulugu1238,lugu1238,Luguru,5,cousins
 v_luisenoluis1253,luis1253,Luiseno-Juaneño,7,cousins
 v_lundalund1266,lund1266,Lunda,6,cousins
 v_luvaleluva1239,luva1239,Luvale,6,cousins
-v_luxembourgishluxe1241,luxe1241,Moselle Franconian,2,cousins
+v_luxembourgishluxe1241,luxe1241,Moselle Franconian,3,cousins
 v_macamaca1260,maca1260,Maca,3,cousins
 v_macedonianmace1250,mace1250,Macedonian,4,cousins
 v_macushimacu1259,macu1259,Macushi,2,cousins
 v_magyarhung1274,hung1274,Hungarian,2,cousins
+v_maisinmais1250,mais1250,Maisin,6,cousins
 v_maithilimait1250,mait1250,Maithili,10,cousins
 v_makondemako1251,mako1251,Makonde,2,cousins
 v_malapandarammala1468,mala1468,Malapandaram,15,cousins
 v_malayalammala1464,mala1464,Malayalam,2,cousins
+v_mandarinchinamand1415,mand1415,Mandarin Chinese,14,cousins
 v_mangarevansmang1401,mang1401,Mangareva,5,cousins
 v_mansimans1258,mans1258,Northern Mansi,3,cousins
 v_maorimaor1246,maor1246,Maori,5,cousins
 v_mapudungunmapu1245,mapu1245,Mapudungun,2,cousins
-v_marathimara1378,mara1378,Marathi,15,cousins
+v_marathimara1378,mara1378,Marathi,12,cousins
 v_marieast2328,east2328,Eastern Mari,5,cousins
 v_martuwangkamart1256,mart1256,Martu Wangka,13,cousins
 v_marwariindiamarw1260,marw1260,Marwari (India),7,cousins
@@ -6313,15 +6443,20 @@ v_mbalambal1257,mbal1257,Mbala,2,cousins
 v_mberember1257,mber1257,Mbere-Mbamba,3,cousins
 v_mbuunmpuo1241,mpuo1241,Mbuun,2,cousins
 v_mbyaguaranimbya1239,mbya1239,Mbyá Guaraní,5,cousins
+v_meadowmarigras1239,gras1239,Grassland Mari,3,cousins
+v_melpamelp1238,melp1238,Melpa,7,cousins
+v_menyameny1245,meny1245,Menya,4,cousins
 v_merumeru1245,meru1245,Meru,13,cousins
 v_metameta1238,meta1238,Meta',1,cousins
 v_middleenglishmidd1317,midd1317,Middle English,3,cousins
 v_middlehighgermanmidd1343,midd1343,Middle High German,5,cousins
 v_midobmido1240,mido1240,Midob,10,cousins
+v_misimapaneatimisi1243,misi1243,Misima-Paneati,3,cousins
 v_mocovimoco1246,moco1246,Mocoví,2,cousins
 v_moderngreekmode1248,mode1248,Modern Greek,3,cousins
 v_modernwelshwels1247,wels1247,Welsh,3,cousins
 v_mokpwemokp1239,mokp1239,Mokpwe,6,cousins
+v_mokshamordvinmoks1248,moks1248,Moksha,3,cousins
 v_mongomong1338,mong1338,Mongo,9,cousins
 v_monomono1275,mono1275,Mono (USA),3,cousins
 v_movimamovi1243,movi1243,Movima,1,cousins
@@ -6338,13 +6473,14 @@ v_nets1241,nets1241,Natsilingmiutut,7,cousins
 v_ngaanyatjarrangaa1240,ngaa1240,Ngaanyatjarra,7,cousins
 v_ngaatjatjarrangaa1240,ngaa1240,Ngaanyatjarra,6,cousins
 v_ngadjumayangad1258,ngad1258,Ngadjunmaya,3,cousins
-v_ngarinymanngar1235,ngar1235,Ngarinman,4,cousins
+v_nganasanngan1291,ngan1291,Nganasan,4,cousins
+v_ngarinymanngar1235,ngar1235,Ngarinman,3,cousins
 v_ngarlumangar1287,ngar1287,Ngarluma,2,cousins
 v_ngarrindjerinarr1259,narr1259,Narrinyeri,1,cousins
 v_ngiyambaawang1291,wang1291,Ngiyambaa,1,cousins
 v_ngoningon1269,ngon1269,Tanzania-Mozambique Ngoni,1,cousins
 v_ngulungul1246,ngul1246,Ngulu,4,cousins
-v_nhantanhan1238,nhan1238,Nhanda,4,cousins
+v_nhantanhan1238,nhan1238,Nhanda,3,cousins
 v_ninamnina1238,nina1238,Ninam,2,cousins
 v_niueansniue1239,niue1239,Niuean,4,cousins
 v_nivacleniva1238,niva1238,Nivaclé,2,cousins
@@ -6362,6 +6498,7 @@ v_northernpomonort2966,nort2966,Northern Pomo,9,cousins
 v_northernsaminort2671,nort2671,North Saami,8,cousins
 v_northmarquesannort2845,nort2845,North Marquesan,4,cousins
 v_northnorthernpaiutenort1551,nort1551,North Northern Paiute,7,cousins
+v_northsaaminort2671,nort2671,North Saami,4,cousins
 v_northwesternmaidunort2951,nort2951,Northwest Maidu,6,cousins
 v_norwegianbokmalnorw1259,norw1259,Norwegian Bokmål,3,cousins
 v_nsongsong1299,song1299,Nsong-Mpiin,2,cousins
@@ -6371,9 +6508,10 @@ v_nyamalnyam1271,nyam1271,Nyamal,4,cousins
 v_nyangumartanyan1301,nyan1301,Nyangumarta,4,cousins
 v_nyoronyor1246,nyor1246,Nyoro,10,cousins
 v_oduoduu1239,oduu1239,O'du,2,cousins
+v_oksapminoksa1245,oksa1245,Oksapmin,10,cousins
 v_oldaramaicolda1245,olda1245,Old Aramaic-Sam'alian,2,cousins
 v_oldchurchslavonicchur1257,chur1257,Church Slavic,2,cousins
-v_oldenglishca4501100olde1238,olde1238,Old English (ca. 450-1100),4,cousins
+v_oldenglishca4501100olde1238,olde1238,Old English (ca. 450-1100),3,cousins
 v_oldhighgermanca7501050oldh1241,oldh1241,Old High German (ca. 750-1050),7,cousins
 v_oldirisholdi1245,oldi1245,Early Irish,3,cousins
 v_oldnorseoldn1244,oldn1244,Old Norse,5,cousins
@@ -6382,13 +6520,14 @@ v_oldwelsholdw1239,oldw1239,Old-Middle Welsh,1,cousins
 v_ontongjavaonto1237,onto1237,Luangiua,5,cousins
 v_opataopat1246,opat1246,Teguima,1,cousins
 v_oriyaoriy1255,oriy1255,Odia,15,cousins
+v_orokoloorok1267,orok1267,Orokolo,4,cousins
 v_ossetianosse1243,osse1243,Modern Ossetic,5,cousins
 v_ottowaojibwaotta1242,otta1242,Ottawa,9,cousins
 v_paakantyidarl1243,darl1243,Paakantyi,3,cousins
 v_paezpaez1247,paez1247,Páez,1,cousins
 v_paliyanpali1274,pali1274,Paliyan,8,cousins
 v_panareenap1235,enap1235,Panare,5,cousins
-v_panjabipanj1256,panj1256,Eastern Panjabi,12,cousins
+v_panjabipanj1256,panj1256,Eastern Panjabi,11,cousins
 v_paraguayanguaranipara1311,para1311,Paraguayan Guaraní,6,cousins
 v_parakanapara1312,para1312,Parakanã,12,cousins
 v_pashtopash1269,pash1269,Pashto,10,cousins
@@ -6404,7 +6543,7 @@ v_polcipolc1243,polc1243,Pesse,1,cousins
 v_polishpoli1260,poli1260,Polish,12,cousins
 v_portugueseport1283,port1283,Portuguese,3,cousins
 v_praiphai1238,phai1238,Prai,2,cousins
-v_prototupiguaranitupi1276,tupi1239,NA,2,cousins
+v_prototupiguaranitupi1276,tupi1276,NA,2,cousins
 v_puinavepuin1248,puin1248,Puinave,1,cousins
 v_pumepume1238,pume1238,Pumé,2,cousins
 v_punupunu1239,punu1239,Punu,2,cousins
@@ -6416,6 +6555,7 @@ v_ritharrngurita1239,rita1239,Ritarungo,4,cousins
 v_romanianroma1327,roma1327,Romanian,3,cousins
 v_rotinesetermanuterm1237,term1237,Termanu,13,cousins
 v_rotumansrotu1241,rotu1241,Rotuman,4,cousins
+v_rumurumu1243,rumu1243,Rumu,4,cousins
 v_rundirund1242,rund1242,Rundi,9,cousins
 v_russianruss1263,russ1263,Russian,5,cousins
 v_rutulshin1265,shin1265,Shina (Nakh-Daghestan),2,cousins
@@ -6432,7 +6572,8 @@ v_sateremawesate1243,sate1243,Sateré-Mawé,3,cousins
 v_saterfriesischsate1242,sate1242,Ems-Weser Frisian,4,cousins
 v_selknamonaa1245,onaa1245,Selk'nam,2,cousins
 v_selkupselk1253,selk1253,Selkup,1,cousins
-v_serbocroationsout1528,sout1528,Serbian-Croatian-Bosnian,12,cousins
+v_sepikiwamsepi1255,sepi1255,Sepik Iwam,5,cousins
+v_serbocroationsout1528,sout1528,Serbian-Croatian-Bosnian,11,cousins
 v_serbsserb1264,serb1264,Serbian Standard,4,cousins
 v_seriseri1257,seri1257,Seri,1,cousins
 v_serranoserr1255,serr1255,Serrano,7,cousins
@@ -6443,15 +6584,19 @@ v_sindhisind1272,sind1272,Sindhi,10,cousins
 v_sinhalasinh1246,sinh1246,Sinhala,8,cousins
 v_sionsion1247,sion1247,Siona-Tetete,3,cousins
 v_sirionosiri1273,siri1273,Sirionó,7,cousins
+v_skoltsaamiskol1241,skol1241,Skolt Saami,4,cousins
 v_slovakianslov1269,slov1269,Slovak,3,cousins
 v_slovenianslov1268,slov1268,Slovenian,3,cousins
 v_sogasoga1242,soga1242,Soga,3,cousins
 v_songoorasong1300,song1300,Songoora,2,cousins
-v_southeasterntepehuanosout2976,sout2976,Southeastern Tepehuan,5,cousins
+v_sosvamansinort2677,nort2677,Sosva Mansi,4,cousins
+v_southeasterntepehuanosout2976,sout2976,Southeastern Tepehuan,4,cousins
 v_southerncoastaltsimshiannucl1649,nucl1649,Southern-Coastal Tsimshian,2,cousins
 v_southernpaiutesout2969,sout2969,Southern Paiute,1,cousins
 v_southernuteutee1244,utee1244,Ute,4,cousins
 v_southmarquesansout2866,sout2866,South Marquesan,1,cousins
+v_southsaamisout2674,sout2674,South Saami,5,cousins
+v_southtairorasout2943,sout2943,South Tairora,2,cousins
 v_standardcatalanstan1289,stan1289,Catalan,3,cousins
 v_standardenglishstan1293,stan1293,English,2,cousins
 v_standardfrenchstan1290,stan1290,French,3,cousins
@@ -6460,8 +6605,9 @@ v_standardspanishstan1288,stan1288,Spanish,3,cousins
 v_sukusuku1259,suku1259,Suku,2,cousins
 v_suruisuru1262,suru1262,Suruí,1,cousins
 v_suundisuun1239,suun1239,Suundi,2,cousins
-v_swedishswed1254,swed1254,Swedish,4,cousins
+v_swedishswed1254,swed1254,Swedish,3,cousins
 v_taabwashil1264,shil1264,Shila,4,cousins
+v_tabriaktabr1243,tabr1243,Tabriak,12,cousins
 v_tahitianstahi1242,tahi1242,Tahitian,5,cousins
 v_tamiltami1289,tami1289,Tamil,21,cousins
 v_tanalatana1285,tana1285,Tañala,8,cousins
@@ -6471,12 +6617,13 @@ v_tehuelchetehu1242,tehu1242,Tehuelche,2,cousins
 v_telugutelu1262,telu1262,Telugu,7,cousins
 v_tembetemb1276,temb1276,Tenetehara,10,cousins
 v_tenharimtenh1241,tenh1241,Tenharim-Parintintin-Diahoi,8,cousins
+v_tereitere1278,tere1278,Terei,6,cousins
 v_tetelatete1250,tete1250,Tetela,1,cousins
 v_tikopiatiko1237,tiko1237,Tikopia,4,cousins
 v_tivtivv1240,tivv1240,Tiv,2,cousins
 v_tobatoba1269,toba1269,Toba,2,cousins
 v_tocantinsasurinitoca1235,toca1235,Tocantins Asurini,9,cousins
-v_todatoda1252,toda1252,Toda,7,cousins
+v_todatoda1252,toda1252,Toda,6,cousins
 v_tohonooodhamtoho1245,toho1245,Tohono O'odham,1,cousins
 v_tokelautoke1240,toke1240,Tokelau,5,cousins
 v_tolowatolo1259,tolo1259,Tolowa-Chetco,5,cousins
@@ -6490,17 +6637,20 @@ v_tsongatson1249,tson1249,Tsonga,6,cousins
 v_tswanatswa1253,tswa1253,Tswana,9,cousins
 v_tucanotuca1252,tuca1252,Tucano,13,cousins
 v_tumpishashoshonipana1305,pana1305,Panamint,4,cousins
-v_tundranenetsnene1249,nene1249,Tundra Nenets,1,cousins
+v_tundranenetsnene1249,nene1249,Tundra Nenets,3,cousins
 v_tupinambatupi1273,tupi1273,Tupinambá,5,cousins
 v_tupitupi1274,tupi1274,Lingua Geral Paulista,9,cousins
 v_tuyucatuyu1244,tuyu1244,Tuyuca,2,cousins
 v_tzeltaltzel1254,tzel1254,Tzeltal,4,cousins
-v_ukrainianukra1253,ukra1253,Ukrainian,10,cousins
-v_ulawaulaw1237,ulaw1237,Ulawa,2,cousins
+v_udmurtudmu1245,udmu1245,Udmurt,3,cousins
+v_ukrainianukra1253,ukra1253,Ukrainian,7,cousins
+v_ulawaulaw1237,ulaw1237,Ulawa,1,cousins
 v_umbunduumbu1257,umbu1257,Umbundu,2,cousins
 v_umpilaumpi1239,umpi1239,Umpila,1,cousins
-v_urduurdu1245,urdu1245,Urdu,14,cousins
+v_urduurdu1245,urdu1245,Urdu,10,cousins
 v_vendavend1245,vend1245,Venda,1,cousins
+v_vepsveps1250,veps1250,Veps,2,cousins
+v_wahginucl1620,nucl1620,Wahgi,5,cousins
 v_wailakiwail1244,wail1244,Eel River Athabaskan,7,cousins
 v_waimiriatroariwaim1253,waim1253,Waimiri-Atroari,8,cousins
 v_waiwaiwaiw1244,waiw1244,Waiwai,2,cousins
@@ -6521,6 +6671,7 @@ v_warunguwaru1264,waru1264,Warrongo,3,cousins
 v_waurawaur1244,waur1244,Waurá,2,cousins
 v_wayampiwaya1270,waya1270,Wayampi,9,cousins
 v_wayuuwayu1243,wayu1243,Wayuu,2,cousins
+v_wedauweda1241,weda1241,Wedau,4,cousins
 v_westernapachewest2615,west2615,Western Apache,6,cousins
 v_westernarmenianhoms1234,homs1234,Western Armenian,2,cousins
 v_westernfarsiwest2369,west2369,Western Farsi,11,cousins
@@ -6530,12 +6681,13 @@ v_wichiwich1264,wich1264,Wichí Lhamtés Güisnay,1,cousins
 v_wikmungkanwikm1247,wikm1247,Wik-Mungkan,6,cousins
 v_wiradjuriwira1262,wira1262,Wiradhuri,1,cousins
 v_wiranguwira1265,wira1265,Wirangu,5,cousins
+v_wiruwiru1244,wiru1244,Wiru,2,cousins
 v_wiyotwiyo1248,wiyo1248,Wiyot,2,cousins
 v_wulguruwulg1239,wulg1239,Wulguru,2,cousins
 v_wuvuluauawuvu1239,wuvu1239,Wuvulu-Aua,6,cousins
 v_yakacaryaka1272,yaka1272,Yaka (Central African Republic),4,cousins
 v_yakapelendelonzoyaka1269,yaka1269,Yaka-Pelende-Lonzo,5,cousins
-v_yalarnngayala1262,yala1262,Yalarnnga,4,cousins
+v_yalarnngayala1262,yala1262,Yalarnnga,3,cousins
 v_yamanayama1264,yama1264,Yámana,2,cousins
 v_yamdenayamd1240,yamd1240,Yamdena,4,cousins
 v_yamitaoyami1254,yami1254,Yami,2,cousins

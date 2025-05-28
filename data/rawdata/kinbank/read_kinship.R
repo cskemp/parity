@@ -1,16 +1,32 @@
 library(tidyverse)
 library(here)
+library(stringi)
 
 kintypes_path <- here("data", "rawdata", "kinbank", "parameters.csv")
 kinforms_path <- here("data", "rawdata", "kinbank", "forms.csv")
 langs_path <- here("data", "rawdata", "kinbank", "languages.csv")
 
+## function based on get_termsubsets.R, written by Sam Passmore and released as
+## part of the materials accompanying Passmore (2023), The global recurrence and
+## variability of kinship terminology structure
+
+clean_kinterms = function(kinterm){
+  kinterm = tolower(kinterm)
+  ## if terms are in brackets - assume that is an alternative term and remove it
+  kinterm = stringr::str_remove_all(kinterm, "\\(.*\\)")
+  ## if terms are seperated by semi-colons or commas, take everything before them
+  kinterm = gsub("^(.*?)(,|;).*", "\\1", kinterm)
+  ## remove whitespace
+  kinterm = stringi::stri_replace_all_charclass(kinterm, "\\p{WHITE_SPACE}", "")
+  ## normalize in case there are inconsistent diacritics, etc
+  kinterm = stri_trans_nfc(kinterm)
+  kinterm
+}
+
 ### KinBank
 
 kt <- read_csv(kintypes_path)
-#
 kf <- read_csv(kinforms_path)
-#
 kl <- read_csv(langs_path) %>%
   rename(Language_ID = ID) %>%
   select(Language_ID, Glottocode, Glottolog_Name, Project)
@@ -43,20 +59,20 @@ k_niecenephews <- c("mBS", "mBD", "mZS", "mZD", "meBS", "myBS", "meBD", "myBD", 
 k_cousins<- c("mFZD", "mFBD", "mBD", "mZD", "mFBS", "mFZS", "mMBS", "mMZS",
               "mFeBS", "mFyBS", "mFeZS", "mFyZS", "mFeBD", "mFyBD", "mFeZD", "mFyZD",
               "mMeBS", "mMyBS", "mMeZS", "mMyZS", "mMeBD", "mMyBD", "mMeZD", "mMyZD",
-              "mFBeS", "mFByS", "mFZeS", "mFZyS", "mFBeD", "mFByD", "mFZeD", "mFZyd",
-              "mMBeS", "mMByS", "mMZeS", "mMZyS", "mMBeD", "mMByD", "mMZeD", "mMZyd",
+              "mFBeS", "mFByS", "mFZeS", "mFZyS", "mFBeD", "mFByD", "mFZeD", "mFZyD",
+              "mMBeS", "mMByS", "mMZeS", "mMZyS", "mMBeD", "mMByD", "mMZeD", "mMZyD",
               "fFZD", "fFBD", "fBD", "fZD", "fFBS", "fFZS", "fMBS", "fMZS",
               "fFeBS", "fFyBS", "fFeZS", "fFyZS", "fFeBD", "fFyBD", "fFeZD", "fFyZD",
               "fMeBS", "fMyBS", "fMeZS", "fMyZS", "fMeBD", "fMyBD", "fMeZD", "fMyZD",
-              "fFBeS", "fFByS", "fFZeS", "fFZyS", "fFBeD", "fFByD", "fFZeD", "fFZyd",
-              "fMBeS", "fMByS", "fMZeS", "fMZyS", "fMBeD", "fMByD", "fMZeD", "fMZyd")
+              "fFBeS", "fFByS", "fFZeS", "fFZyS", "fFBeD", "fFByD", "fFZeD", "fFZyD",
+              "fMBeS", "fMByS", "fMZeS", "fMZyS", "fMBeD", "fMByD", "fMZeD", "fMZyD")
 
-# Counting kintypes covered by each languages doesn't seem right because terms for male speakers and female speakers are separated.
+# Counting kintypes covered by each language doesn't seem right because terms for male speakers and female speakers are separated.
 # Counting forms also not right because of dialectal variants
 # So we'll count number of extensions per language
 
 all_lists <- list(k_siblings, k_parentsiblings, k_grandparents, k_grandchildren, k_niecenephews, k_cousins)
-
+list_names <- c("siblings", "parent_siblings", "grandparents", "grandchildren", "nieces_nephews", "cousins")
 
 all_systems <- tibble()
 all_size <- tibble()
@@ -68,11 +84,15 @@ for (i in  1:length(all_lists)) {
   kb_focal <- kf %>%
     select(Language_ID, Parameter_ID, Form) %>%
     filter(Parameter_ID %in% focal_i) %>%
+    mutate(Form = clean_kinterms(Form)) %>%
     left_join(kl, by = "Language_ID")
 
   kb_counts <- kb_focal %>%
     group_by(Language_ID, Glottocode, Glottolog_Name, Form) %>%
     nest() %>%
+    # some forms are listed twice and attributed to different sources (e.g. bana:m for band1339) -- so drop duplicates
+    # also need to sort data to ensure that forms are in a canonical order
+    mutate(data = map(data, ~ .x %>% distinct() %>% arrange(Parameter_ID))) %>%
     ungroup() %>%
     select(-Form) %>%
     unique() %>%
@@ -96,10 +116,15 @@ for (i in  1:length(all_lists)) {
   all_parity <- bind_rows(all_parity, parity_stats)
 }
 
-count_plot %+%  ( all_size %>%  mutate(class = factor(class, levels = list_names)) )
-
 
 kb_kinship <- all_systems %>%
   rename(glottocode=Glottocode, glottolog_name = Glottolog_Name, language_ID =Language_ID) %>%
+  # one glottocode doesn't appear in Glottolog -- so replace tupi1239 with tupi1276
+  # Sam Passmore suggested that we should perhaps remove tupi1276 because it is a reconstructed rather than a documented language. But
+  # I've left it in because there seem to be other reconstructed languages (Proto-Oceanic, Proto-Sogeram) -- seemed simpler to keep them
+  # rather than remove them all
+  mutate(glottocode = case_when(
+    glottocode == "tupi1239" ~ "tupi1276",
+    TRUE ~ glottocode
+  )) %>%
   write_csv(here("data", "kinbank_kinship.csv"))
-

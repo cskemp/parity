@@ -3,9 +3,9 @@ title: "Analyses of the parity of category systems"
 output: html_document
 ---
 
-Plots and analyses for Kemp, Even or Odd? Symmetry and the size of category systems across languages.
+Plots and analyses for Kemp, Even or Odd? Symmetry and the size of category systems across languages. Running this entire notebook takes a couple of hours -- in particular the regression analyses for kinship are relatively slow.
 
-```{r setup, include=FALSE}
+```{r setup}
 knitr::opts_chunk$set(echo = TRUE)
 library(lingtypology)
 library(here)
@@ -18,13 +18,16 @@ library(scales)
 library(boot)
 library(brms)
 library(testthat)
+library(xtable)
+source(here("analysis", "generate_phylogenies.R"))
 
 mytheme <-  theme_classic(base_size = 10)  +
             theme(strip.background = element_blank()) 
 
 odd_even_cols <- c("#619CFF", "#F8766D")
+yes_no_cols <- c("#AAAAAA", "#444444")
 
-kinship_classes <- c("siblings", "aunts+uncles", "grandparents", "grandchildren", "nieces+nephews", "cousins")
+kinship_classes <- c("siblings", "parent's siblings", "grandparents", "grandchildren", "nieces+nephews", "cousins")
 
 # treat these cases as unique when including langfamily as random effect
 uniques <- c("", "Bookkeeping", "Mixed Language", "Pidgin", "Sign Language", "Speech register",  "Unattested", "Unclassifiable")
@@ -44,15 +47,16 @@ gl <- glottolog %>%
 parity_levels <- c("odd", "even")
 ```
 
-First set up helper functions for running regressions.
+## Regression functions
+
+Set up functions for running regression analyses. `run_phylo()` runs the phylogenetic regressions reported in the main text, and `run_glmmTMB() ` runs the frequentist regressions reported in the supplementary material. As a robustness check we also used `run_brms()` to run Bayesian mixed-effects regressions with a random effect for language family that are not reported in the paper.
 
 ```{r run_regression}
-
 # function for frequentist regression analysis (using glmmTMB)
 run_glmmTMB <- function(dstats, domainname) {
   rtype <- "langfamily"
   dstats <- dstats  %>% 
-   mutate(parity = factor(parity, levels = parity_levels))
+   mutate(parity = factor(parity, levels = parity_levels)) 
  
   if (domainname %in% paste0("m_", kinship_classes)) {
      rtype <- "--"
@@ -79,7 +83,11 @@ run_glmmTMB <- function(dstats, domainname) {
         group_by(glottocode) %>% 
         mutate(n = n())
      max_lang <- max(lang_count$n) 
-     if (max_lang == 1) {
+     if (domainname %in% c("locational (other)")) {
+       rtype <- "lang"
+       m0 <- glmmTMB(parity ~ 0 + offset(rep(0, nrow(dstats))) + (1|glottocode),  data = dstats, family = "binomial")
+       m1 <- glmmTMB(parity ~ 1 + (1|glottocode), data = dstats, family = "binomial")
+     } else if (max_lang == 1) {
       m0 <- glmmTMB(parity ~ 0 + offset(rep(0, nrow(dstats))) + (1|langfamily),  data = dstats, family = "binomial")
       m1 <- glmmTMB(parity ~ 1 + (1|langfamily), data = dstats, family = "binomial")
     } else {
@@ -96,8 +104,14 @@ run_glmmTMB <- function(dstats, domainname) {
     pval <- a$`Pr(>Chisq)`[2]
   }
   
-  nlang <- length(unique(dstats$glottocode))
-  nsys <- nrow(dstats)
+  
+  if (domainname %in% paste0("m_", kinship_classes)) {
+    nlang <- sum(dstats$count)
+    nsys <- nlang
+  } else { 
+    nlang <- length(unique(dstats$glottocode))
+    nsys <- nrow(dstats)
+  }
   
   summ <- tibble(
     domain = domainname,
@@ -111,52 +125,164 @@ run_glmmTMB <- function(dstats, domainname) {
   )  
 }
 
-# function for Bayesian regression analysis (using brms)
+quiet_brm <- quietly(brm)
+
+
+# function for Bayesian mixed-effects regression analysis (using brms)
 run_brms <- function(dstats, domainname) {
-  summ <- tibble(
-    domain = domainname,
-    coefficient =  0,
-    lb = 0,
-    ub = 0
-  )  
-  
-  lang_count <- dstats %>% 
-    group_by(glottocode) %>% 
-    mutate(n = n())
-  max_lang <- max(lang_count$n) 
-  
+  #return()
+  lang_count <- dstats %>%
+    group_by(glottocode) %>%
+    mutate(n = n()) %>%
+    ungroup() 
+
+  max_lang <- if (nrow(lang_count) > 0) max(lang_count$n) else 0
+
   nchain <- 4
-  niter <- 3000
+  niter <- 3000 
   b_con <- list(adapt_delta = 0.95)
+  if (domainname %in% c("siblings", "grandchildren", "nieces+nephews", "parent's siblings", "spatial demonstratives (distance)")) {
+    niter <- 8000
+    b_con <- list(adapt_delta = 0.98)
+  }
+  if (domainname %in% c("grandparents")) {
+    niter <- 8000
+    b_con <- list(adapt_delta = 0.99)
+  } 
+  if (domainname %in% c("cousins")) {
+    niter <- 6000
+    b_con <- list(adapt_delta = 0.95)
+  }
   
-  dstats <- dstats %>% 
+  dstats <- dstats %>%
     mutate(parity = parity == "even")
-  
+
+  # Determine model formula based on domainname and data structure
   if (domainname == "locational (cardinal)") {
     rtype <- "--"
-    m1 <- brm( parity ~ 1, data = dstats, family = bernoulli(), chains = nchain, iter = niter, control = b_con ) 
-  }  else if(max_lang == 1 ) {
+    formula <- bf(parity ~ 1)
+  } else if (domainname == "locational (other)") {
+    rtype <- "lang"
+    formula <- bf(parity ~ (1 | glottocode))
+  } else if (max_lang == 1) {
     rtype <- "langfamily"
-    m1 <- brm( parity ~ 1 + (1|langfamily), data = dstats, family = bernoulli(), chains = nchain, iter = niter, control = b_con ) 
+    formula <- bf(parity ~ 1 + (1 | langfamily))
   } else {
     rtype <- "lang/langfamily"
-    m1 <- brm( parity ~ 1 + (1|glottocode) + (1|langfamily), data = dstats, family = bernoulli(), chains = nchain, iter = niter, control = b_con ) 
+    formula <- bf(parity ~ 1 + (1 | glottocode) + (1 | langfamily))
   }
-    
-  brms_tab <- fixef(m1) %>% as_tibble(rownames="NA")
+
+  m1 <-  quiet_brm( formula = formula, data = dstats, family = bernoulli(), chains = nchain, iter = niter, control = b_con, seed = 1  )
   
-  nlang <- length(unique(dstats$glottocode))
-  nsys <- nrow(dstats)
-  
+  brms_tab <- fixef(m1$result) %>%
+    as_tibble(rownames = "term") 
+
+  # Ensure intercept term exists before extracting values
+  intercept_row <- brms_tab %>% filter(term == "Intercept")
+
+  # Create the summary tibble including warnings
   summ <- tibble(
     domain = domainname,
-    coefficient =  brms_tab$Estimate,
-    lb = brms_tab$Q2.5,
-    ub = brms_tab$Q97.5,
+    coefficient = if(nrow(intercept_row) > 0) intercept_row$Estimate else NA_real_,
+    lb = if(nrow(intercept_row) > 0) intercept_row$Q2.5 else NA_real_,
+    ub = if(nrow(intercept_row) > 0) intercept_row$Q97.5 else NA_real_,
     type = rtype,
-    nlang = nlang,
-    nsys = nsys
-  )  
+    nlang = length(unique(dstats$glottocode)),
+    nsys = nrow(dstats),
+    warnings = paste(m1$warnings, collapse = " | ")
+  )
+  return(summ)
+}
+
+# function for phylogenetic regression analysis (also uses brms)
+run_phylo <- function(dstats, domainname) {
+  #return()
+  phylogeny <- make_phylogeny(dstats, domainname) 
+  # Calculate covariance matrix 
+  A <- ape::vcv.phylo(phylogeny, corr = TRUE)
+
+  # --- Initial data setup ---
+  lang_count <- dstats %>%
+    group_by(glottocode) %>%
+    mutate(n = n()) %>%
+    ungroup() 
+
+  max_lang <- if (nrow(lang_count) > 0) max(lang_count$n) else 0
+
+  nchain <- 4
+  niter <- 3000 
+  b_con <- list(adapt_delta = 0.95)
+  
+  if (domainname %in% c("siblings", "nieces+nephews", "cousins")) {
+    niter <- 10000
+  } else if (domainname %in% c("parent's siblings", "grandparents", "grandchildren", "spatial demonstratives (orientation)")) {
+    niter <- 10000 
+    b_con <- list(adapt_delta = 0.99)
+  } else if (domainname %in% c("tense")) {
+    niter <- 10000
+  } else if (domainname %in% c("deictic day names")) {
+    niter <- 6000 
+    b_con <- list(adapt_delta = 0.98)
+  }
+
+  dstats <- dstats %>%
+    mutate(parity = parity == "even") %>% 
+    mutate(glottocode_dup = glottocode)
+
+  rtype <- "--" # Default value
+  formula <- NULL
+  data2_arg <- NULL
+  fit_model <- TRUE # Flag to control if model should be fitted
+
+  if (domainname == "locational (cardinal)") {
+    rtype <- "--"
+    formula <- bf(parity ~ 1)
+  } else if (domainname == "locational (other)") {
+    rtype <- "lang"
+    formula <- bf(parity ~ (1 | glottocode))
+  } else if (max_lang == 1) {
+    rtype <- "phylo_langfamily" 
+    # Using phylogenetic random effect for glottocode
+    formula <- bf(parity ~ 1 + (1 | gr(glottocode, cov = A)))
+    data2_arg <- list(A = A)
+  } else {
+    # Multiple rows per glottocode -- following the example here
+    # https://cran.r-project.org/web/packages/brms/vignettes/brms_phylogenetics.html
+    # that includes multiple observations per species
+    rtype <- "phylo_lang/langfamily" 
+    formula <- bf(parity ~ 1 + (1|glottocode_dup) + (1 | gr(glottocode, cov = A))) 
+    data2_arg <- list(A = A)
+  }
+  m1 <- quiet_brm( 
+          formula = formula,
+          data = dstats,
+          data2 = data2_arg, # Will be NULL if not set above
+          family = bernoulli(),
+          chains = nchain,
+          iter = niter,
+          control = b_con,
+          seed = 1
+      )
+     
+   brms_tab <- 
+       fixef(m1$result) %>%
+       as_tibble(rownames = "term") 
+   
+  # Ensure intercept term exists before extracting values
+  intercept_row <- brms_tab %>% filter(term == "Intercept")
+
+  # Create the summary tibble including warnings
+  summ <- tibble(
+    domain = domainname,
+    coefficient = if(nrow(intercept_row) > 0) intercept_row$Estimate else NA_real_,
+    lb = if(nrow(intercept_row) > 0) intercept_row$Q2.5 else NA_real_,
+    ub = if(nrow(intercept_row) > 0) intercept_row$Q97.5 else NA_real_,
+    type = rtype,
+    nlang = length(unique(dstats$glottocode)),
+    nsys = nrow(dstats),
+    warnings = paste(m1$warnings, collapse = " | ")
+  )
+  return(summ)
 }
 
 # run regression analysis for multiple subdomains
@@ -173,7 +299,7 @@ run_regression_group <- function(dstats_group, regression_function) {
 }
 ```
 
-Now run the analyses for each domain in turn
+Now run the analyses for each domain in turn.
 
 ## Deictic day naming and Tense
 
@@ -271,12 +397,15 @@ show(deictic_plot)
 
 deictic_results <- run_glmmTMB(deictic_stats_data, "deictic day names") 
 deictic_results_bayes <- run_brms(deictic_stats_data %>% filter(!is.na(glottocode)), "deictic day names") 
+deictic_results_phylo <- run_phylo(deictic_stats_data %>% filter(!is.na(glottocode)), "deictic day names") 
 
 tense_results <- run_glmmTMB(tense_stats_data, "tense") 
 tense_results_bayes <- run_brms(tense_stats_data, "tense") 
+tense_results_phylo <- run_phylo(tense_stats_data, "tense")
 
 all_results <- bind_rows(deictic_results, tense_results)
 all_results_bayes <- bind_rows(deictic_results_bayes, tense_results_bayes)
+all_results_phylo <- bind_rows(deictic_results_phylo, tense_results_phylo)
 ```         
 
 ## Seasons
@@ -318,11 +447,13 @@ show(seasons_plot)
 
 seasons_results <- run_glmmTMB(seasons_stats_data, "seasons") 
 seasons_results_bayes <- run_brms(seasons_stats_data, "seasons") 
+seasons_results_phylo <- run_phylo(seasons_stats_data, "seasons")
 
 all_counts <- bind_rows(all_counts, seasons_counts)
 all_parity_counts <- bind_rows(all_parity_counts, seasons_parity_counts)
 all_results <- bind_rows(all_results, seasons_results)
 all_results_bayes <- bind_rows(all_results_bayes, seasons_results_bayes)
+all_results_phylo <- bind_rows(all_results_phylo, seasons_results_phylo)
 ```
 
 ## Moon Phases
@@ -364,11 +495,14 @@ moonphases_stats_data <- moonphases_stats_data_orig %>%
   
 moonphases_results <- run_glmmTMB(moonphases_stats_data, "moon phases") 
 moonphases_results_bayes <- run_brms(moonphases_stats_data, "moon phases") 
+moonphases_results_phylo <- run_phylo(moonphases_stats_data, "moon phases")
 
 all_counts <- bind_rows(all_counts, moonphases_counts)
 all_parity_counts <- bind_rows(all_parity_counts, moonphases_parity_counts)
 all_results <- bind_rows(all_results, moonphases_results)
 all_results_bayes <- bind_rows(all_results_bayes, moonphases_results_bayes)
+all_results_phylo <- bind_rows(all_results_phylo, moonphases_results_phylo)
+
 ```
 
 ## Locational systems
@@ -449,21 +583,55 @@ locational_stats_group_data <- locational_stats_group_data_full %>%
 
 locational_results <- run_regression_group(locational_stats_group_data, run_glmmTMB)
 locational_results_bayes <- run_regression_group(locational_stats_group_data, run_brms)
+locational_results_phylo <- run_regression_group(locational_stats_group_data, run_phylo)
 
 all_counts <- bind_rows(all_counts, locational_counts_group)
 all_parity_counts <- bind_rows(all_parity_counts, locational_parity_counts_group)
 all_results <- bind_rows(all_results, locational_results)
 all_results_bayes <- bind_rows(all_results_bayes, locational_results_bayes)
+all_results_phylo <- bind_rows(all_results_phylo, locational_results_phylo)
 ```
 
 ## Kinship
+
+First we analyze the Murdock kinship data described in the supplementary material.
+
+```{r kinship_murdock}
+
+kinship_counts_murdock <- read_csv(here("data", "murdock_kinship.csv"))  %>% 
+    mutate(
+      class = case_match(
+      class,
+      "parent_siblings" ~ "parent's siblings",
+      "nieces_nephews" ~ "nieces+nephews",
+      .default = class 
+    )
+  ) %>% 
+  mutate(parity = factor(size %% 2, label= c("even", "odd"))) %>% 
+  mutate(domain= factor(class, levels = kinship_classes)) %>% 
+  filter(size > 1) 
+
+kinship_parity_counts_murdock <- kinship_counts_murdock %>% 
+  group_by(parity, domain, class) %>% 
+  summarize(count = sum(count), .groups = "drop")
+
+show(plot_sizes_class(kinship_counts_murdock, kinship_parity_counts_murdock))
+
+kinship_results_murdock <- run_regression_group(kinship_parity_counts_murdock %>% mutate(domain = paste0("m_", domain)), run_glmmTMB)
+
+#all_counts <- bind_rows(all_counts, kinship_counts %>% select(-class))
+#all_parity_counts <- bind_rows(all_parity_counts, kinship_parity_counts %>% select(-class))
+#all_results <- bind_rows(all_results, kinship_results)
+```
+
+Now analyze the Kinbank data reported in the main text.
 
 ```{r kinship_kinbank, cache = TRUE}
 kinship_data <- read_csv(here("data", "kinbank_kinship.csv"))  %>% 
     mutate(
       class = case_match(
       class,
-      "parent_siblings" ~ "aunts+uncles",
+      "parent_siblings" ~ "parent's siblings",
       "nieces_nephews" ~ "nieces+nephews",
       .default = class 
       )
@@ -490,12 +658,15 @@ kinship_stats_data <- kinship_data %>%
 
 kinship_results <- run_regression_group(kinship_stats_data, run_glmmTMB)
 kinship_results_bayes <- run_regression_group(kinship_stats_data, run_brms)
+kinship_results_phylo <- run_regression_group(kinship_stats_data, run_phylo)
 
 all_counts <- bind_rows(all_counts, kinship_counts %>% rename(domain=class))
 all_parity_counts <- bind_rows(all_parity_counts, kinship_parity_counts %>% rename(domain=class))
 all_results <- bind_rows(all_results, kinship_results)
 all_results_bayes <- bind_rows(all_results_bayes, kinship_results_bayes)
+all_results_phylo <- bind_rows(all_results_phylo, kinship_results_phylo)
 ```
+
 
 ## Other domains 
 
@@ -518,7 +689,6 @@ social_counts <- read_csv(here("data", "austkin_sizes.csv"))  %>%
   mutate(parity = factor(size %% 2, label= c("even"))) %>% 
   filter(size > 0)  %>% 
   mutate(domain = "social categories")
-  #bind_rows(tibble(size = 1, count = 0, parity = "odd"))
 
 social_parity_counts <- social_counts %>% 
   group_by(parity) %>% 
@@ -563,6 +733,7 @@ color_stats_data <- color_data %>%
 
 color_results <- run_glmmTMB(color_stats_data, "color") 
 color_results_bayes <- run_brms(color_stats_data, "color") 
+color_results_phylo <- run_phylo(color_stats_data, "color")
 
 color_plot <- plot_sizes(color_counts, color_parity_counts, 'color system count') 
 show(color_plot)
@@ -571,6 +742,7 @@ all_counts <- bind_rows(all_counts, color_counts)
 all_parity_counts <- bind_rows(all_parity_counts, color_parity_counts)
 all_results <- bind_rows(all_results, color_results)
 all_results_bayes <- bind_rows(all_results_bayes, color_results_bayes)
+all_results_phylo <- bind_rows(all_results_phylo, color_results_phylo)
 ```
 
 Lifeform terms
@@ -594,6 +766,7 @@ lifeform_stats_data <- lifeform_data %>%
 
 lifeform_results <- run_glmmTMB(lifeform_stats_data, "life forms") 
 lifeform_results_bayes <- run_brms(lifeform_stats_data, "life forms") 
+lifeform_results_phylo <- run_phylo(lifeform_stats_data, "life forms")
 
 lifeform_plot <- plot_sizes(lifeform_counts, lifeform_parity_counts, 'lifeform system count') 
 show(lifeform_plot)
@@ -602,14 +775,17 @@ all_counts <- bind_rows(all_counts, lifeform_counts)
 all_parity_counts <- bind_rows(all_parity_counts, lifeform_parity_counts)
 all_results <- bind_rows(all_results, lifeform_results)
 all_results_bayes <- bind_rows(all_results_bayes, lifeform_results_bayes)
+all_results_phylo <- bind_rows(all_results_phylo, lifeform_results_phylo)
 ```
 
 ## Summary figure and tables
 
-```{r overall, fig.height = 10}
+```{r overall, fig.height = 6}
+domain_order <- c("deictic day names", "tense", "seasons", "moon phases", "locational (cardinal)",  "siblings", "parent's siblings", "grandparents", "grandchildren", "nieces+nephews", "cousins", "social categories", "locational (other)", "color", "life forms")
 
-domain_order <- c("deictic day names", "tense", "seasons", "moon phases", "locational (cardinal)",  "siblings", "aunts+uncles", "grandparents", "grandchildren", "nieces+nephews", "cousins", "social categories", "locational (other)", "color", "life forms")
-
+all_counts <- all_counts %>% 
+    mutate(domain = factor(domain, levels = domain_order)) %>% 
+    mutate(parity = factor(parity, levels = parity_levels))
 all_counts <- all_counts %>%  
     mutate(parity = factor(parity, levels = parity_levels)) %>% 
     mutate(domain = factor(domain, levels = domain_order))
@@ -618,32 +794,89 @@ all_parity_counts <- all_parity_counts %>%
     mutate(parity = factor(parity, levels = parity_levels)) %>% 
     mutate(domain = factor(domain, levels = domain_order))
   
-all_size_plot <- all_counts %>% 
-    ggplot(aes(x=size, y = count, fill=parity, color=parity)) +
-    geom_bar(stat = "identity") +
-    scale_fill_manual(values = c("odd" = odd_even_cols[1], "even" = odd_even_cols[2])) +
-    scale_color_manual(values = c("odd" = odd_even_cols[1], "even" = odd_even_cols[2])) +
-    facet_wrap(~domain, ncol=5, scales = "free")  +
-    mytheme + 
-    theme(legend.position = "none") +
-    scale_x_continuous(breaks = breaks_pretty())  +
-    scale_y_continuous(breaks = pretty_breaks(4)) 
+# make combined plot
 
-all_parity_plot <- all_parity_counts %>% 
-    ggplot(aes(x=parity, y = count, fill=parity, color=parity)) +
-    geom_bar(stat = "identity") +
+create_panel <- function(df) {
+    index <- df$panel_index[1]
+    ylab = ""
+    xlab1 = ""
+    xlab2 = ""
+    labelpad = "     "
+    if (index %in% c(1,4,7,10,13)) {
+      ylab = "count"
+      labelpad = ""
+    } 
+    if (index %in% c(13,14,15)) {
+      xlab1 = "size"
+      xlab2 = "parity"
+    } 
+    
+  panel_label <- paste0(labelpad, "(", letters[index], ")", " ", df$dom_label[1]) 
+  size_dist <- ggplot(df, aes(x = size, y = count, fill=parity, color=parity)) +
+    geom_bar(stat = "identity", width = 0.8) +
     scale_fill_manual(values = c("odd" = odd_even_cols[1], "even" = odd_even_cols[2])) +
     scale_color_manual(values = c("odd" = odd_even_cols[1], "even" = odd_even_cols[2])) +
-    theme(legend.position = "none") +
-    facet_wrap(~domain, ncol = 5, scales = "free_y")  +
-    mytheme +
+    labs(x = xlab1, y = ylab) +
+    mytheme  +
     theme(legend.position = "none")  +
-    scale_y_continuous(breaks = pretty_breaks(2))
-
-all_double_plot <- all_size_plot /  all_parity_plot +
-    plot_annotation(tag_levels = c('a'), tag_suffix = ')') +
-    plot_layout(heights= c(3,2)) 
+    theme(plot.margin = margin(0, 0, 0, 0, "cm")) + 
+    labs(title = panel_label) +
+    theme(plot.title = element_text(hjust = 0, size = 10)) +
+    theme(plot.title.position = "plot",  plot.caption.position =  "plot" ) + 
+    scale_x_continuous(breaks = breaks_pretty())  +
+    scale_y_continuous(breaks = pretty_breaks(4))
   
+  
+  even_odd_counts <- df %>%
+    group_by(parity) %>%
+    summarize(n = sum(count)) %>% 
+    ggplot(aes(x = parity, y = n, fill = parity, color=parity)) +
+    geom_bar(stat = "identity") +
+    #theme(legend.position = "none") +
+    labs(x = xlab2, y = "") +
+    scale_fill_manual(values = c("odd" = odd_even_cols[1], "even" = odd_even_cols[2])) +
+    scale_color_manual(values = c("odd" = odd_even_cols[1], "even" = odd_even_cols[2])) +
+    scale_x_discrete(drop = FALSE, labels = c("O", "E"))  +
+    mytheme +
+    theme(axis.title.y=element_blank()) +
+    theme(legend.position = "none")  +
+    scale_y_continuous(breaks = pretty_breaks(2)) +
+    theme(plot.margin = margin(0, 0, 0, 0, "cm")) 
+  
+  size_dist + even_odd_counts + plot_layout(widths = c(3, 1))  
+}
+
+# Create a list of panels
+panels <- all_counts %>%
+  mutate(panel_index = as.integer(domain)) %>% 
+  mutate(dom_label = domain) %>% 
+  group_by(domain) %>%
+  group_map(~ create_panel(.x))
+
+# Arrange the panels in a 3x5 grid using patchwork
+final_plot <- wrap_plots(panels, nrow = 5, ncol = 3)
+
+ggsave(here("output", "figures", "descriptive.pdf"), plot = final_plot, width = 7,height = 6)
+
+show(final_plot)
+```
+
+```{r overall_continued, fig.height = 3}
+# make similar plot for Murdock kinship data
+panels_murdock <- kinship_counts_murdock %>%
+  mutate(parity = factor(parity, levels = parity_levels)) %>% 
+  mutate(panel_index = as.integer(domain)) %>% 
+  mutate(dom_label = domain) %>% 
+  group_by(domain) %>%
+  group_map(~ create_panel(.x))
+
+# Arrange the panels in a 3x5 grid using patchwork
+final_plot_murdock <- wrap_plots(panels_murdock, nrow = 2, ncol = 3)
+
+ggsave(here("output", "figures", "descriptive_murdock.pdf"), plot = final_plot_murdock, width = 7,height = 2.4)
+
+show(final_plot_murdock)
+
 # treat social categories as special case
 all_means <- all_parity_counts %>% 
   group_by(domain) %>% 
@@ -663,8 +896,9 @@ make_plot_results <- function(results, all_means) {
     mutate(predict_col = if_else(domain %in% c("color", "life forms"), "#808588", predict_col))
 }
 
-all_result_bayes_forplot <- make_plot_results(all_results_bayes, all_means)
 all_result_freq_forplot <- make_plot_results(all_results, all_means)
+all_result_bayes_forplot <- make_plot_results(all_results_bayes, all_means)
+all_result_phylo_forplot <- make_plot_results(all_results_phylo, all_means)
 
 plot_bayes <- all_result_bayes_forplot %>% 
   ggplot(aes(x=coefficient, fct_reorder(domain, coefficient))) + 
@@ -677,17 +911,15 @@ plot_bayes <- all_result_bayes_forplot %>%
   mytheme +
   scale_x_continuous(limits = c(0,1), labels = c("0", "0.25", "0.5", "0.75", "1")) 
 
-all_triple_plot <- free( all_double_plot) / plot_bayes +
-    plot_annotation(tag_levels = c('a'), tag_suffix = ')') +
-    plot_layout(heights= c(6,2)) 
-
-show(all_triple_plot)
-
-ggsave(here("output", "figures", "results_bayes.pdf"), plot = all_triple_plot, width = 7,height = 8)
+ggsave(here("output", "figures", "results_bayes.pdf"), plot = plot_bayes, height = 8/3)
 
 plot_freq <- plot_bayes  %+% all_result_freq_forplot
-
 ggsave(here("output", "figures", "results_freq.pdf"), plot = plot_freq, height = 8/3)
+
+plot_phylo <- plot_bayes  %+% all_result_phylo_forplot
+ggsave(here("output", "figures", "results_phylo.pdf"), plot = plot_phylo, height = 8/3)
+
+show(plot_phylo)
 
 all_results %>% 
   kable() %>%  
@@ -696,6 +928,267 @@ all_results %>%
 all_results_bayes %>% 
   kable() %>%  
   kable_styling(full_width = FALSE)
+
+all_results_phylo %>% 
+  kable() %>%  
+  kable_styling(full_width = FALSE)
 ```
 
+The table for `all_results_bayes` shows warnings for one domain (parent's siblings) but I haven't addressed this since these results aren't included in the paper.
 
+## Spatial demonstratives
+
+Some of this code uses "relation symmetry" to refer to what is called "orientation symmetry" in the paper.
+
+```{r demonstratives, cache=TRUE}
+
+d <- read_csv(here("data", "nintemann_demonstratives.csv"))
+
+canonical_representation <- function(vec) {
+  # Get the unique elements in the order they first appear
+  unique_elements <- unique(vec)
+  # Create a factor with levels ordered by their appearance
+  factor_vec <- factor(vec, levels = unique_elements)
+  # Convert the factor to its numeric representation
+  canonical_vec <- as.numeric(factor_vec)
+  return(canonical_vec)
+}
+
+# Generate unique string for a system
+system_id <- function(data) {
+  data <- data %>%
+    arrange(Type, Relation) %>% 
+    select(Type, Relation, word_string_type) 
+   data$word_string_type <- canonical_representation(data$word_string_type) 
+  return( paste(unlist(data), collapse = "|") )
+}  
+
+d_ids <- d %>%
+  group_by(Language, Region) %>%
+  mutate(s_id = system_id(pick(everything()))) %>% 
+  ungroup()
+
+d_cnts <- d_ids %>% 
+  select(Language, Region, s_id, is_distance_symmetric, is_relation_symmetric) %>%
+  unique() %>% 
+  group_by(s_id, is_distance_symmetric, is_relation_symmetric) %>% 
+  summarize(count = n(), .groups = "drop")  %>% 
+  mutate(dlab = if_else(is_distance_symmetric, "D", "")) %>%
+  mutate(rlab = if_else(is_relation_symmetric, "O", "")) %>%
+  mutate(bothlab = paste0(dlab,rlab)) %>% 
+  mutate(bothlab = if_else(bothlab == "DO", " (D,O)", bothlab)) %>%
+  mutate(bothlab = if_else(bothlab == "D", " (D)", bothlab)) %>%
+  mutate(bothlab = if_else(bothlab == "O", " (O)", bothlab)) %>%
+  mutate(label = paste0("n=", count, bothlab)) %>% 
+  select(-dlab, -rlab, -bothlab) 
+
+s_sorted <- d_cnts %>% 
+  filter(count > 2) %>% 
+  arrange(desc(count)) 
+  
+s_id_order <- s_sorted %>%   
+  pull(s_id)
+
+strip_labels <- s_sorted %>%
+  pull(label)
+
+label_map <- setNames(strip_labels, s_id_order)
+
+sys_plot_data <- d_ids %>% 
+  select(Type, Relation, word_string_type, s_id) %>% 
+  group_by(Type, Relation, s_id) %>% 
+  summarize(word_string_type = first(word_string_type), .groups = "drop") %>%
+  left_join(d_cnts, by = "s_id") %>% 
+  filter(count > 2) %>%
+  arrange(desc(count), Type, Relation) %>% 
+  mutate(s_id = factor(s_id, levels = s_id_order))
+
+sys_plot <- sys_plot_data %>% 
+  mutate(word_string_type = as.factor(word_string_type)) %>% 
+  ggplot(aes(x = Relation, y = Type, fill = word_string_type)) +
+  geom_tile() +
+  #scale_fill_brewer(palette = "Set3") +
+  scale_fill_brewer(palette = "Paired") +
+  facet_wrap(~s_id, ncol = 4, labeller = labeller(s_id= as_labeller(label_map))) +
+  mytheme +
+  #theme(strip.text = element_blank())+
+  theme( strip.background = element_blank()) +
+  theme(legend.position = "none")  +
+  ylab("Distance Level") + xlab('Orientation')
+
+d_summ <- d %>% 
+  select(Language, Region, language_glottolog, family_name, is_distance_symmetric, is_relation_symmetric) %>% 
+  unique()
+
+d_plot_distance_symm <- d_summ %>% 
+  group_by(is_distance_symmetric)  %>% 
+  summarize(count = n()) %>% 
+  mutate(symmetry="Distance symmetry") %>% 
+  rename(symmetric = is_distance_symmetric) 
+
+d_plot_relation_symm <- d_summ %>% 
+  group_by(is_relation_symmetric)  %>% 
+  summarize(count = n()) %>% 
+  mutate(symmetry="Orientation symmetry") %>% 
+  rename(symmetric = is_relation_symmetric) 
+
+summ_plot_data <- bind_rows(d_plot_distance_symm, d_plot_relation_symm) %>% 
+  mutate(symmetric = if_else(symmetric, "yes", "no")) %>% 
+  mutate(symmetric = factor(symmetric, levels = c("no", "yes"))) 
+
+summ_plot <- summ_plot_data %>% 
+  ggplot(aes(x = symmetric, y = count, fill = symmetric, color=symmetric)) +
+  geom_bar(stat = "identity") +
+  scale_fill_manual(values = c("yes" = yes_no_cols[1], "no" = yes_no_cols[2])) +
+  scale_color_manual(values = c("yes" = yes_no_cols[1], "no" = yes_no_cols[2])) +
+  ylab('system count') + 
+  mytheme +
+  theme(legend.position = "none") +
+  facet_wrap(~symmetry, ncol=1) +
+  ylab("Number of languages") +
+  xlab("Is system symmetric?")
+
+sd_plot <- sys_plot + summ_plot +
+    plot_layout(widths = c(4,1)) +
+    plot_annotation(tag_levels = c('a'), tag_suffix = ')')
+
+ggsave(here("output", "figures", "spatial_demonstratives.pdf"), plot = sd_plot, width = 7,height = 4)
+
+show(sd_plot)
+
+sd_stats_data <- d_ids %>% 
+  select(id, is_distance_symmetric, is_relation_symmetric) %>% 
+  rename(glottocode = id) %>% 
+  group_by(glottocode) %>%  
+  # two languages (Serbian, Croatian) have the same glottocode. They have isomorphic demonstrative systems, so we can drop either one for statistical analysis
+  summarize(is_distance_symmetric = first(is_distance_symmetric), 
+                         is_relation_symmetric = first(is_relation_symmetric), .groups = "drop") %>%
+  unique() %>% 
+  left_join(gl, by = "glottocode")
+
+# code is set up to expect a dependent variable called parity -- so we'll set up variables with this name based on the symmetry variables
+
+sd_stats_data_dist <- sd_stats_data %>% 
+  mutate(parity = if_else(is_distance_symmetric, "even", "odd")) 
+
+sd_stats_data_rel <- sd_stats_data %>% 
+  mutate(parity = if_else(is_relation_symmetric, "even", "odd")) 
+
+sd_dist_results <- run_glmmTMB(sd_stats_data_dist, "spatial demonstratives (distance)") 
+sd_dist_results_bayes <- run_brms(sd_stats_data_dist, "spatial demonstratives (distance)") 
+sd_dist_results_phylo <- run_phylo(sd_stats_data_dist, "spatial demonstratives (distance)") 
+
+sd_rel_results <- run_glmmTMB(sd_stats_data_rel, "spatial demonstratives (relation)") 
+sd_rel_results_bayes <- run_brms(sd_stats_data_rel, "spatial demonstratives (relation)") 
+sd_rel_results_phylo <- run_phylo(sd_stats_data_rel, "spatial demonstratives (relation)") 
+
+```
+
+The proportions of systems with distance symmetry and relation symmetry are `r round(sum(sd_stats_data$is_distance_symmetric) / nrow(sd_stats_data), 2)` and `r round(sum(sd_stats_data$is_relation_symmetric) / nrow(sd_stats_data), 2)`, respectively.
+
+
+Based on the phylogenetic regressions, the estimate for distance symmetry is `r round(logistic(sd_dist_results_phylo$coefficient),2)` (95% credible interval: `r round(logistic(sd_dist_results_phylo$lb), 2)`, `r round(logistic(sd_dist_results_phylo$ub),2)`) and for relation symmetry is `r round(logistic(sd_rel_results_phylo$coefficient),2)` (95% credible interval: `r round(logistic(sd_rel_results_phylo$lb),2)`, `r round(logistic(sd_rel_results_phylo$ub),2)`). 
+
+
+```{r summary_tables}
+all_stats_data <- bind_rows(
+  deictic_stats_data %>% mutate(domain = "deictic day names"),
+  tense_stats_data %>% mutate(domain = "tense"),
+  seasons_stats_data %>% mutate(domain = "seasons"),
+  moonphases_stats_data %>% mutate(domain = "moon phases"),
+  locational_stats_group_data, 
+  kinship_stats_data ,
+  color_stats_data %>% mutate(domain = "color"),
+  lifeform_stats_data %>% mutate(domain = "life forms"),
+  sd_stats_data %>% mutate(domain = "spatial demonstratives")
+)
+
+# I used this part to identify areas that needed to be manually specified
+# missing_area <- all_data_table %>% 
+#  select(glottocode, glottolog_langname, langfamily, area) %>% 
+#  filter(area =="") %>% 
+#  unique() %>% 
+#  write_csv(here("data", "missing_areas_starter.csv"))
+ 
+missing_area <- read_csv(here("data", "missing_areas.csv")) %>% 
+  select(glottocode, area) %>% 
+  rename(manual_area = area)
+
+all_data_table <- all_stats_data %>% 
+  select(glottocode, domain) %>% 
+  left_join(gl, by = "glottocode") %>% 
+  filter(!is.na(glottocode)) %>% 
+  unique() %>% 
+  left_join(missing_area, by = "glottocode") %>% 
+  mutate(area = if_else(area=="", manual_area, area)) 
+
+all_data_table_area <- all_data_table %>%
+  group_by(domain, area) %>% 
+  summarize(count = n(), .groups = "drop") %>% 
+  bind_rows(tibble(domain = "social categories", area = "Australia", count = sum(social_counts$count))) %>%  
+  mutate(domain = factor(domain, levels = c(domain_order, "spatial demonstratives"))) %>% 
+  arrange(domain, desc(count)) 
+  
+all_data_table_area_wide <- all_data_table_area %>%
+  pivot_wider(names_from = area, values_from= count) %>% 
+  mutate(across(everything(), ~replace_na(.,0))) %>% 
+  select(domain, Africa, Australia, Eurasia, `North America`, Papunesia, `South America`) %>%
+  mutate(Total = as.integer(rowSums(across(Africa:`South America`)))) %>% 
+  rename(Domain = domain)
+
+all_data_table_family <- all_data_table %>%
+  group_by(domain, langfamily) %>% 
+  summarize(count = n(), .groups = "drop") %>% 
+  group_by(domain) %>% 
+  mutate(rank = rank(desc(count), ties.method = "first")) %>%
+  ungroup() %>% 
+  mutate(domain = factor(domain, levels = c(domain_order, "spatial demonstratives"))) %>% 
+  arrange(domain, desc(count)) 
+
+top_families <- all_data_table_family %>% 
+  filter(rank <= 5) %>% 
+  filter(count >= 2) %>% 
+  filter(!str_detect(langfamily, "^[0-9]")) %>% 
+  pull(langfamily) %>%
+  unique() %>% 
+  sort()
+
+top_family_count <- length(top_families)
+
+all_data_table_family <- all_data_table_family %>% 
+  mutate(langfamily = if_else(langfamily %in% top_families, langfamily, "Other")) %>% 
+  group_by(domain, langfamily) %>% 
+  summarize(count = sum(count), .groups = "drop") 
+
+all_data_table_family_wide <- all_data_table_family %>%
+  pivot_wider(names_from = langfamily, values_from= count) %>% 
+  mutate(across(everything(), ~replace_na(.,0)))  
+
+all_data_table_family_wide_sort <- all_data_table_family_wide %>%
+  select(everything(), -Other, Other) %>%
+  select(
+    1,            # Keep the first column as is
+    sort(names(.)[2:top_family_count + 1]), # Sort columns 2 through 20 by name
+    everything() # Put the remaining columns (including "Other") at the end
+  ) %>% 
+  mutate(Total =  as.integer(rowSums(select(., -1)))) %>% 
+  rename(Domain = domain)
+
+all_data_table_area_wide %>% 
+  kable() %>%  
+  kable_styling(full_width = FALSE)
+
+latex_table_area <- xtable(all_data_table_area_wide)
+print(latex_table_area, file = here("output", "tables", "data_area_table.tex"), include.rownames=FALSE)
+
+all_data_table_family_wide_sort %>% 
+  kable() %>%  
+  kable_styling(full_width = FALSE)
+
+rotated_colnames <- paste0("\\rotatebox{90}{", names(all_data_table_family_wide_sort), "}")
+rotated_colnames[1] <- "Domain"
+names(all_data_table_family_wide_sort) <- rotated_colnames
+
+latex_table_family <- xtable(all_data_table_family_wide_sort)
+print(latex_table_family, file = here("output", "tables", "data_family_table.tex"), include.rownames=FALSE, sanitize.colnames.function = function(x){x})
+```

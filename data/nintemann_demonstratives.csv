@@ -1,0 +1,1456 @@
+Language,Type,Relation,Region,word_string,word_string_type,count,dlevel,cell_count,language_glottolog,id,name,latitude,longitude,family_id,family_name,is_distance_symmetric,is_relation_symmetric
+Abau,D1,Goal,oceania,erey|o|so,2,4,2,6,Abau,abau1245,Abau,-3.97222,141.324,sepi1257,Sepik,TRUE,FALSE
+Abau,D1,Place,oceania,erey|o,1,4,2,6,Abau,abau1245,Abau,-3.97222,141.324,sepi1257,Sepik,TRUE,FALSE
+Abau,D1,Source,oceania,erey|o|so,2,4,2,6,Abau,abau1245,Abau,-3.97222,141.324,sepi1257,Sepik,TRUE,FALSE
+Abau,D2,Goal,oceania,serey|so,4,4,2,6,Abau,abau1245,Abau,-3.97222,141.324,sepi1257,Sepik,TRUE,FALSE
+Abau,D2,Place,oceania,serey,3,4,2,6,Abau,abau1245,Abau,-3.97222,141.324,sepi1257,Sepik,TRUE,FALSE
+Abau,D2,Source,oceania,serey|so,4,4,2,6,Abau,abau1245,Abau,-3.97222,141.324,sepi1257,Sepik,TRUE,FALSE
+Adyghe,D1,Goal,europe,mədă,2,3,3,9,Adyghe,adyg1241,Adyghe,44,39.33,abkh1242,Abkhaz-Adyge,TRUE,TRUE
+Adyghe,D1,Place,europe,mədă,2,3,3,9,Adyghe,adyg1241,Adyghe,44,39.33,abkh1242,Abkhaz-Adyge,TRUE,TRUE
+Adyghe,D1,Source,europe,mədă,2,3,3,9,Adyghe,adyg1241,Adyghe,44,39.33,abkh1242,Abkhaz-Adyge,TRUE,TRUE
+Adyghe,D2,Goal,europe,modă,3,3,3,9,Adyghe,adyg1241,Adyghe,44,39.33,abkh1242,Abkhaz-Adyge,TRUE,TRUE
+Adyghe,D2,Place,europe,modă,3,3,3,9,Adyghe,adyg1241,Adyghe,44,39.33,abkh1242,Abkhaz-Adyge,TRUE,TRUE
+Adyghe,D2,Source,europe,modă,3,3,3,9,Adyghe,adyg1241,Adyghe,44,39.33,abkh1242,Abkhaz-Adyge,TRUE,TRUE
+Adyghe,D3,Goal,europe,ādă,1,3,3,9,Adyghe,adyg1241,Adyghe,44,39.33,abkh1242,Abkhaz-Adyge,TRUE,TRUE
+Adyghe,D3,Place,europe,ādă,1,3,3,9,Adyghe,adyg1241,Adyghe,44,39.33,abkh1242,Abkhaz-Adyge,TRUE,TRUE
+Adyghe,D3,Source,europe,ādă,1,3,3,9,Adyghe,adyg1241,Adyghe,44,39.33,abkh1242,Abkhaz-Adyge,TRUE,TRUE
+Afar,D1,Goal,africa,‘akkel,2,4,2,6,Afar,afar1241,Afar,12.2281,41.8083,afro1255,Afro-Asiatic,TRUE,FALSE
+Afar,D1,Place,africa,‘akkel,2,4,2,6,Afar,afar1241,Afar,12.2281,41.8083,afro1255,Afro-Asiatic,TRUE,FALSE
+Afar,D1,Source,africa,‘akkek,1,4,2,6,Afar,afar1241,Afar,12.2281,41.8083,afro1255,Afro-Asiatic,TRUE,FALSE
+Afar,D2,Goal,africa,‘wokkel,4,4,2,6,Afar,afar1241,Afar,12.2281,41.8083,afro1255,Afro-Asiatic,TRUE,FALSE
+Afar,D2,Place,africa,‘wokkel,4,4,2,6,Afar,afar1241,Afar,12.2281,41.8083,afro1255,Afro-Asiatic,TRUE,FALSE
+Afar,D2,Source,africa,‘wokkek,3,4,2,6,Afar,afar1241,Afar,12.2281,41.8083,afro1255,Afro-Asiatic,TRUE,FALSE
+Ainu,D1,Goal,asia,te un,5,12,4,12,Hokkaido Ainu,ainu1240,Hokkaido Ainu,43.633654,142.46167,ainu1252,Ainu,TRUE,TRUE
+Ainu,D1,Place,asia,te ta,4,12,4,12,Hokkaido Ainu,ainu1240,Hokkaido Ainu,43.633654,142.46167,ainu1252,Ainu,TRUE,TRUE
+Ainu,D1,Source,asia,te wa,6,12,4,12,Hokkaido Ainu,ainu1240,Hokkaido Ainu,43.633654,142.46167,ainu1252,Ainu,TRUE,TRUE
+Ainu,D2,Goal,asia,taaní un,2,12,4,12,Hokkaido Ainu,ainu1240,Hokkaido Ainu,43.633654,142.46167,ainu1252,Ainu,TRUE,TRUE
+Ainu,D2,Place,asia,taan ta,1,12,4,12,Hokkaido Ainu,ainu1240,Hokkaido Ainu,43.633654,142.46167,ainu1252,Ainu,TRUE,TRUE
+Ainu,D2,Source,asia,taaní wa,3,12,4,12,Hokkaido Ainu,ainu1240,Hokkaido Ainu,43.633654,142.46167,ainu1252,Ainu,TRUE,TRUE
+Ainu,D3,Goal,asia,toaní un,7,12,4,12,Hokkaido Ainu,ainu1240,Hokkaido Ainu,43.633654,142.46167,ainu1252,Ainu,TRUE,TRUE
+Ainu,D3,Place,asia,tooan ta,9,12,4,12,Hokkaido Ainu,ainu1240,Hokkaido Ainu,43.633654,142.46167,ainu1252,Ainu,TRUE,TRUE
+Ainu,D3,Source,asia,toaní wa,8,12,4,12,Hokkaido Ainu,ainu1240,Hokkaido Ainu,43.633654,142.46167,ainu1252,Ainu,TRUE,TRUE
+Ainu,D4,Goal,asia,tooní un,11,12,4,12,Hokkaido Ainu,ainu1240,Hokkaido Ainu,43.633654,142.46167,ainu1252,Ainu,TRUE,TRUE
+Ainu,D4,Place,asia,toon ta,10,12,4,12,Hokkaido Ainu,ainu1240,Hokkaido Ainu,43.633654,142.46167,ainu1252,Ainu,TRUE,TRUE
+Ainu,D4,Source,asia,tooní wa,12,12,4,12,Hokkaido Ainu,ainu1240,Hokkaido Ainu,43.633654,142.46167,ainu1252,Ainu,TRUE,TRUE
+Albanian,D1,Goal,europe,këtu,2,4,2,6,Northern Tosk Albanian,tosk1239,Northern Tosk Albanian,41,20,indo1319,Indo-European,TRUE,FALSE
+Albanian,D1,Place,europe,këtu,2,4,2,6,Northern Tosk Albanian,tosk1239,Northern Tosk Albanian,41,20,indo1319,Indo-European,TRUE,FALSE
+Albanian,D1,Source,europe,nga këtu|prej këtu,4,4,2,6,Northern Tosk Albanian,tosk1239,Northern Tosk Albanian,41,20,indo1319,Indo-European,TRUE,FALSE
+Albanian,D2,Goal,europe,atje,1,4,2,6,Northern Tosk Albanian,tosk1239,Northern Tosk Albanian,41,20,indo1319,Indo-European,TRUE,FALSE
+Albanian,D2,Place,europe,atje,1,4,2,6,Northern Tosk Albanian,tosk1239,Northern Tosk Albanian,41,20,indo1319,Indo-European,TRUE,FALSE
+Albanian,D2,Source,europe,nga atje|prej atje,3,4,2,6,Northern Tosk Albanian,tosk1239,Northern Tosk Albanian,41,20,indo1319,Indo-European,TRUE,FALSE
+Amharic,D1,Goal,africa,bästäzzih|wädih|wädäzzih|əzzih,1,6,2,6,Amharic,amha1245,Amharic,11.708182,39.543456,afro1255,Afro-Asiatic,TRUE,TRUE
+Amharic,D1,Place,africa,əzzih,3,6,2,6,Amharic,amha1245,Amharic,11.708182,39.543456,afro1255,Afro-Asiatic,TRUE,TRUE
+Amharic,D1,Source,africa,käzzih,5,6,2,6,Amharic,amha1245,Amharic,11.708182,39.543456,afro1255,Afro-Asiatic,TRUE,TRUE
+Amharic,D2,Goal,africa,bästäzziya|wädiya|wädäzziya|əzziya,2,6,2,6,Amharic,amha1245,Amharic,11.708182,39.543456,afro1255,Afro-Asiatic,TRUE,TRUE
+Amharic,D2,Place,africa,əzziya,4,6,2,6,Amharic,amha1245,Amharic,11.708182,39.543456,afro1255,Afro-Asiatic,TRUE,TRUE
+Amharic,D2,Source,africa,käzziya,6,6,2,6,Amharic,amha1245,Amharic,11.708182,39.543456,afro1255,Afro-Asiatic,TRUE,TRUE
+Angolar,D1,Goal,africa,nge,2,3,2,6,Angolar,ango1258,Angolar,0.11438,6.59486,indo1319,Indo-European,FALSE,FALSE
+Angolar,D1,Place,africa,ai|inge|ingee|nge|ngee,1,3,2,6,Angolar,ango1258,Angolar,0.11438,6.59486,indo1319,Indo-European,FALSE,FALSE
+Angolar,D1,Source,africa,nge,2,3,2,6,Angolar,ango1258,Angolar,0.11438,6.59486,indo1319,Indo-European,FALSE,FALSE
+Angolar,D2,Goal,africa,nha,3,3,2,6,Angolar,ango1258,Angolar,0.11438,6.59486,indo1319,Indo-European,FALSE,FALSE
+Angolar,D2,Place,africa,nha,3,3,2,6,Angolar,ango1258,Angolar,0.11438,6.59486,indo1319,Indo-European,FALSE,FALSE
+Angolar,D2,Source,africa,nha,3,3,2,6,Angolar,ango1258,Angolar,0.11438,6.59486,indo1319,Indo-European,FALSE,FALSE
+"Apache, San Carlos",D1,Goal,americas,dząąyú,6,9,3,9,Western Apache,west2615,Western Apache,33.8574,-110.123,atha1245,Athabaskan-Eyak-Tlingit,TRUE,TRUE
+"Apache, San Carlos",D1,Place,americas,dząą|dząągee|kū,4,9,3,9,Western Apache,west2615,Western Apache,33.8574,-110.123,atha1245,Athabaskan-Eyak-Tlingit,TRUE,TRUE
+"Apache, San Carlos",D1,Source,americas,dząądí’|kūdí’,5,9,3,9,Western Apache,west2615,Western Apache,33.8574,-110.123,atha1245,Athabaskan-Eyak-Tlingit,TRUE,TRUE
+"Apache, San Carlos",D2,Goal,americas,ayú,3,9,3,9,Western Apache,west2615,Western Apache,33.8574,-110.123,atha1245,Athabaskan-Eyak-Tlingit,TRUE,TRUE
+"Apache, San Carlos",D2,Place,americas,a|agee|ákū,1,9,3,9,Western Apache,west2615,Western Apache,33.8574,-110.123,atha1245,Athabaskan-Eyak-Tlingit,TRUE,TRUE
+"Apache, San Carlos",D2,Source,americas,adí’,2,9,3,9,Western Apache,west2615,Western Apache,33.8574,-110.123,atha1245,Athabaskan-Eyak-Tlingit,TRUE,TRUE
+"Apache, San Carlos",D3,Goal,americas,lááyú,7,9,3,9,Western Apache,west2615,Western Apache,33.8574,-110.123,atha1245,Athabaskan-Eyak-Tlingit,TRUE,TRUE
+"Apache, San Carlos",D3,Place,americas,láh|láhgee|lááyú|lāā|nláh|nlāā,8,9,3,9,Western Apache,west2615,Western Apache,33.8574,-110.123,atha1245,Athabaskan-Eyak-Tlingit,TRUE,TRUE
+"Apache, San Carlos",D3,Source,americas,láhdí’,9,9,3,9,Western Apache,west2615,Western Apache,33.8574,-110.123,atha1245,Athabaskan-Eyak-Tlingit,TRUE,TRUE
+Apatani,D1,Goal,asia,so,3,4,2,6,Apatani,apat1240,Apatani,27.1933,93.7284,sino1245,Sino-Tibetan,TRUE,FALSE
+Apatani,D1,Place,asia,so,3,4,2,6,Apatani,apat1240,Apatani,27.1933,93.7284,sino1245,Sino-Tibetan,TRUE,FALSE
+Apatani,D1,Source,asia,sokii,4,4,2,6,Apatani,apat1240,Apatani,27.1933,93.7284,sino1245,Sino-Tibetan,TRUE,FALSE
+Apatani,D2,Goal,asia,ho,1,4,2,6,Apatani,apat1240,Apatani,27.1933,93.7284,sino1245,Sino-Tibetan,TRUE,FALSE
+Apatani,D2,Place,asia,ho,1,4,2,6,Apatani,apat1240,Apatani,27.1933,93.7284,sino1245,Sino-Tibetan,TRUE,FALSE
+Apatani,D2,Source,asia,hokii,2,4,2,6,Apatani,apat1240,Apatani,27.1933,93.7284,sino1245,Sino-Tibetan,TRUE,FALSE
+"Arabic, Modern Standard",D1,Goal,asia,ʼilaa hunaa,7,9,3,9,Standard Arabic,stan1318,Standard Arabic,27.9625,43.8525,afro1255,Afro-Asiatic,TRUE,TRUE
+"Arabic, Modern Standard",D1,Place,asia,hunaa,1,9,3,9,Standard Arabic,stan1318,Standard Arabic,27.9625,43.8525,afro1255,Afro-Asiatic,TRUE,TRUE
+"Arabic, Modern Standard",D1,Source,asia,min hunaa,4,9,3,9,Standard Arabic,stan1318,Standard Arabic,27.9625,43.8525,afro1255,Afro-Asiatic,TRUE,TRUE
+"Arabic, Modern Standard",D2,Goal,asia,ʼilaa hunaaka,8,9,3,9,Standard Arabic,stan1318,Standard Arabic,27.9625,43.8525,afro1255,Afro-Asiatic,TRUE,TRUE
+"Arabic, Modern Standard",D2,Place,asia,hunaaka,2,9,3,9,Standard Arabic,stan1318,Standard Arabic,27.9625,43.8525,afro1255,Afro-Asiatic,TRUE,TRUE
+"Arabic, Modern Standard",D2,Source,asia,min hunaaka,5,9,3,9,Standard Arabic,stan1318,Standard Arabic,27.9625,43.8525,afro1255,Afro-Asiatic,TRUE,TRUE
+"Arabic, Modern Standard",D3,Goal,asia,ʼilaa hunaalika,9,9,3,9,Standard Arabic,stan1318,Standard Arabic,27.9625,43.8525,afro1255,Afro-Asiatic,TRUE,TRUE
+"Arabic, Modern Standard",D3,Place,asia,hunaalika,3,9,3,9,Standard Arabic,stan1318,Standard Arabic,27.9625,43.8525,afro1255,Afro-Asiatic,TRUE,TRUE
+"Arabic, Modern Standard",D3,Source,asia,min hunaalika,6,9,3,9,Standard Arabic,stan1318,Standard Arabic,27.9625,43.8525,afro1255,Afro-Asiatic,TRUE,TRUE
+"Arrernte, Eastern",D1,Goal,oceania,nhenhewerne,6,9,3,9,"Arrernte, Eastern",east2379,Eastern Arrernte,-23.3583,135.046,pama1250,Pama-Nyungan,TRUE,TRUE
+"Arrernte, Eastern",D1,Place,oceania,nhenhe|nhenhele,4,9,3,9,"Arrernte, Eastern",east2379,Eastern Arrernte,-23.3583,135.046,pama1250,Pama-Nyungan,TRUE,TRUE
+"Arrernte, Eastern",D1,Source,oceania,nhenhengentyele,5,9,3,9,"Arrernte, Eastern",east2379,Eastern Arrernte,-23.3583,135.046,pama1250,Pama-Nyungan,TRUE,TRUE
+"Arrernte, Eastern",D2,Goal,oceania,yanhearteke,8,9,3,9,"Arrernte, Eastern",east2379,Eastern Arrernte,-23.3583,135.046,pama1250,Pama-Nyungan,TRUE,TRUE
+"Arrernte, Eastern",D2,Place,oceania,yanhe|yanhele,7,9,3,9,"Arrernte, Eastern",east2379,Eastern Arrernte,-23.3583,135.046,pama1250,Pama-Nyungan,TRUE,TRUE
+"Arrernte, Eastern",D2,Source,oceania,yanhengentyele,9,9,3,9,"Arrernte, Eastern",east2379,Eastern Arrernte,-23.3583,135.046,pama1250,Pama-Nyungan,TRUE,TRUE
+"Arrernte, Eastern",D3,Goal,oceania,nhakwewerne,3,9,3,9,"Arrernte, Eastern",east2379,Eastern Arrernte,-23.3583,135.046,pama1250,Pama-Nyungan,TRUE,TRUE
+"Arrernte, Eastern",D3,Place,oceania,nhakwe|nhakwele,2,9,3,9,"Arrernte, Eastern",east2379,Eastern Arrernte,-23.3583,135.046,pama1250,Pama-Nyungan,TRUE,TRUE
+"Arrernte, Eastern",D3,Source,oceania,nhakwe+nge,1,9,3,9,"Arrernte, Eastern",east2379,Eastern Arrernte,-23.3583,135.046,pama1250,Pama-Nyungan,TRUE,TRUE
+Atong,D1,Goal,asia,icina|isaŋ|isaŋna,10,14,5,15,Atong,aton1242,Atong,6.03539,9.72121,atla1278,Atlantic-Congo,FALSE,FALSE
+Atong,D1,Place,asia,ici,9,14,5,15,Atong,aton1242,Atong,6.03539,9.72121,atla1278,Atlantic-Congo,FALSE,FALSE
+Atong,D1,Source,asia,imi|isaŋ|isaŋmi,11,14,5,15,Atong,aton1242,Atong,6.03539,9.72121,atla1278,Atlantic-Congo,FALSE,FALSE
+Atong,D2,Goal,asia,ucina|usaŋ|usaŋna,13,14,5,15,Atong,aton1242,Atong,6.03539,9.72121,atla1278,Atlantic-Congo,FALSE,FALSE
+Atong,D2,Place,asia,uci,12,14,5,15,Atong,aton1242,Atong,6.03539,9.72121,atla1278,Atlantic-Congo,FALSE,FALSE
+Atong,D2,Source,asia,umi|usaŋ|usaŋmi,14,14,5,15,Atong,aton1242,Atong,6.03539,9.72121,atla1278,Atlantic-Congo,FALSE,FALSE
+Atong,D3,Goal,asia,hawcina,3,14,5,15,Atong,aton1242,Atong,6.03539,9.72121,atla1278,Atlantic-Congo,FALSE,FALSE
+Atong,D3,Place,asia,hawci,2,14,5,15,Atong,aton1242,Atong,6.03539,9.72121,atla1278,Atlantic-Congo,FALSE,FALSE
+Atong,D3,Source,asia,hawsaŋ|hawsaŋmi,4,14,5,15,Atong,aton1242,Atong,6.03539,9.72121,atla1278,Atlantic-Congo,FALSE,FALSE
+Atong,D4,Goal,asia,həyawcina,7,14,5,15,Atong,aton1242,Atong,6.03539,9.72121,atla1278,Atlantic-Congo,FALSE,FALSE
+Atong,D4,Place,asia,həyawchi,6,14,5,15,Atong,aton1242,Atong,6.03539,9.72121,atla1278,Atlantic-Congo,FALSE,FALSE
+Atong,D4,Source,asia,həyawsan|həyawsaŋmi,8,14,5,15,Atong,aton1242,Atong,6.03539,9.72121,atla1278,Atlantic-Congo,FALSE,FALSE
+Atong,D5,Goal,asia,hawtəy,5,14,5,15,Atong,aton1242,Atong,6.03539,9.72121,atla1278,Atlantic-Congo,FALSE,FALSE
+Atong,D5,Place,asia,hawtəy,5,14,5,15,Atong,aton1242,Atong,6.03539,9.72121,atla1278,Atlantic-Congo,FALSE,FALSE
+Atong,D5,Source,asia,∄,1,14,5,15,Atong,aton1242,Atong,6.03539,9.72121,atla1278,Atlantic-Congo,FALSE,FALSE
+Baba Malay,D1,Goal,asia,disini|sini,5,6,3,9,Baba Malay,baba1267,Baba Malay,1.75414,103.076,aust1307,Austronesian,TRUE,FALSE
+Baba Malay,D1,Place,asia,disini|sini,5,6,3,9,Baba Malay,baba1267,Baba Malay,1.75414,103.076,aust1307,Austronesian,TRUE,FALSE
+Baba Malay,D1,Source,asia,dari sini,2,6,3,9,Baba Malay,baba1267,Baba Malay,1.75414,103.076,aust1307,Austronesian,TRUE,FALSE
+Baba Malay,D2,Goal,asia,disana|sana,4,6,3,9,Baba Malay,baba1267,Baba Malay,1.75414,103.076,aust1307,Austronesian,TRUE,FALSE
+Baba Malay,D2,Place,asia,disana|sana,4,6,3,9,Baba Malay,baba1267,Baba Malay,1.75414,103.076,aust1307,Austronesian,TRUE,FALSE
+Baba Malay,D2,Source,asia,dari sana,1,6,3,9,Baba Malay,baba1267,Baba Malay,1.75414,103.076,aust1307,Austronesian,TRUE,FALSE
+Baba Malay,D3,Goal,asia,disitu|situ,6,6,3,9,Baba Malay,baba1267,Baba Malay,1.75414,103.076,aust1307,Austronesian,TRUE,FALSE
+Baba Malay,D3,Place,asia,disitu|situ,6,6,3,9,Baba Malay,baba1267,Baba Malay,1.75414,103.076,aust1307,Austronesian,TRUE,FALSE
+Baba Malay,D3,Source,asia,dari situ,3,6,3,9,Baba Malay,baba1267,Baba Malay,1.75414,103.076,aust1307,Austronesian,TRUE,FALSE
+Balese,D1,Goal,africa,ràni,1,6,3,9,Lese,lese1243,Lese,1.3,29.3,cent2225,Central Sudanic,TRUE,FALSE
+Balese,D1,Place,africa,ràpà,2,6,3,9,Lese,lese1243,Lese,1.3,29.3,cent2225,Central Sudanic,TRUE,FALSE
+Balese,D1,Source,africa,ràni,1,6,3,9,Lese,lese1243,Lese,1.3,29.3,cent2225,Central Sudanic,TRUE,FALSE
+Balese,D2,Goal,africa,rini,5,6,3,9,Lese,lese1243,Lese,1.3,29.3,cent2225,Central Sudanic,TRUE,FALSE
+Balese,D2,Place,africa,ripà,6,6,3,9,Lese,lese1243,Lese,1.3,29.3,cent2225,Central Sudanic,TRUE,FALSE
+Balese,D2,Source,africa,rini,5,6,3,9,Lese,lese1243,Lese,1.3,29.3,cent2225,Central Sudanic,TRUE,FALSE
+Balese,D3,Goal,africa,rɛni,3,6,3,9,Lese,lese1243,Lese,1.3,29.3,cent2225,Central Sudanic,TRUE,FALSE
+Balese,D3,Place,africa,rɛpà,4,6,3,9,Lese,lese1243,Lese,1.3,29.3,cent2225,Central Sudanic,TRUE,FALSE
+Balese,D3,Source,africa,rɛni,3,6,3,9,Lese,lese1243,Lese,1.3,29.3,cent2225,Central Sudanic,TRUE,FALSE
+Bambara,D1,Goal,africa,yan,1,2,2,6,Bambara,bamb1269,Bambara,12.9,-7.65,mand1469,Mande,TRUE,TRUE
+Bambara,D1,Place,africa,yan,1,2,2,6,Bambara,bamb1269,Bambara,12.9,-7.65,mand1469,Mande,TRUE,TRUE
+Bambara,D1,Source,africa,yan,1,2,2,6,Bambara,bamb1269,Bambara,12.9,-7.65,mand1469,Mande,TRUE,TRUE
+Bambara,D2,Goal,africa,yen,2,2,2,6,Bambara,bamb1269,Bambara,12.9,-7.65,mand1469,Mande,TRUE,TRUE
+Bambara,D2,Place,africa,yen,2,2,2,6,Bambara,bamb1269,Bambara,12.9,-7.65,mand1469,Mande,TRUE,TRUE
+Bambara,D2,Source,africa,yen,2,2,2,6,Bambara,bamb1269,Bambara,12.9,-7.65,mand1469,Mande,TRUE,TRUE
+Bangime,D1,Goal,africa,ímà,1,3,3,9,Bangime,bang1363,Bangime,14.8116,-3.77092,NA,isolate,TRUE,TRUE
+Bangime,D1,Place,africa,ímà,1,3,3,9,Bangime,bang1363,Bangime,14.8116,-3.77092,NA,isolate,TRUE,TRUE
+Bangime,D1,Source,africa,ímà,1,3,3,9,Bangime,bang1363,Bangime,14.8116,-3.77092,NA,isolate,TRUE,TRUE
+Bangime,D2,Goal,africa,ŋwì,3,3,3,9,Bangime,bang1363,Bangime,14.8116,-3.77092,NA,isolate,TRUE,TRUE
+Bangime,D2,Place,africa,ŋwì,3,3,3,9,Bangime,bang1363,Bangime,14.8116,-3.77092,NA,isolate,TRUE,TRUE
+Bangime,D2,Source,africa,ŋwì,3,3,3,9,Bangime,bang1363,Bangime,14.8116,-3.77092,NA,isolate,TRUE,TRUE
+Bangime,D3,Goal,africa,kèbè,2,3,3,9,Bangime,bang1363,Bangime,14.8116,-3.77092,NA,isolate,TRUE,TRUE
+Bangime,D3,Place,africa,kèbè,2,3,3,9,Bangime,bang1363,Bangime,14.8116,-3.77092,NA,isolate,TRUE,TRUE
+Bangime,D3,Source,africa,kèbè,2,3,3,9,Bangime,bang1363,Bangime,14.8116,-3.77092,NA,isolate,TRUE,TRUE
+Bantawa,D1,Goal,asia,odhatni|otni,9,9,3,9,Bantawa,bant1281,Bantawa,27.12147,87.04738,sino1245,Sino-Tibetan,TRUE,TRUE
+Bantawa,D1,Place,asia,oda,7,9,3,9,Bantawa,bant1281,Bantawa,27.12147,87.04738,sino1245,Sino-Tibetan,TRUE,TRUE
+Bantawa,D1,Source,asia,odaŋka,8,9,3,9,Bantawa,bant1281,Bantawa,27.12147,87.04738,sino1245,Sino-Tibetan,TRUE,TRUE
+Bantawa,D2,Goal,asia,modhatni|motni,6,9,3,9,Bantawa,bant1281,Bantawa,27.12147,87.04738,sino1245,Sino-Tibetan,TRUE,TRUE
+Bantawa,D2,Place,asia,moda,4,9,3,9,Bantawa,bant1281,Bantawa,27.12147,87.04738,sino1245,Sino-Tibetan,TRUE,TRUE
+Bantawa,D2,Source,asia,modaŋka,5,9,3,9,Bantawa,bant1281,Bantawa,27.12147,87.04738,sino1245,Sino-Tibetan,TRUE,TRUE
+Bantawa,D3,Goal,asia,khodhatni|khotni,3,9,3,9,Bantawa,bant1281,Bantawa,27.12147,87.04738,sino1245,Sino-Tibetan,TRUE,TRUE
+Bantawa,D3,Place,asia,khoda,1,9,3,9,Bantawa,bant1281,Bantawa,27.12147,87.04738,sino1245,Sino-Tibetan,TRUE,TRUE
+Bantawa,D3,Source,asia,khodaŋka,2,9,3,9,Bantawa,bant1281,Bantawa,27.12147,87.04738,sino1245,Sino-Tibetan,TRUE,TRUE
+Basque,D1,Goal,europe,hona,6,9,3,9,Basque,basq1248,Basque,43.2787,-1.31622,NA,isolate,TRUE,TRUE
+Basque,D1,Place,europe,hemen|hemen,4,9,3,9,Basque,basq1248,Basque,43.2787,-1.31622,NA,isolate,TRUE,TRUE
+Basque,D1,Source,europe,hemendik,5,9,3,9,Basque,basq1248,Basque,43.2787,-1.31622,NA,isolate,TRUE,TRUE
+Basque,D2,Goal,europe,horra,8,9,3,9,Basque,basq1248,Basque,43.2787,-1.31622,NA,isolate,TRUE,TRUE
+Basque,D2,Place,europe,hor,7,9,3,9,Basque,basq1248,Basque,43.2787,-1.31622,NA,isolate,TRUE,TRUE
+Basque,D2,Source,europe,hortik,9,9,3,9,Basque,basq1248,Basque,43.2787,-1.31622,NA,isolate,TRUE,TRUE
+Basque,D3,Goal,europe,hara,3,9,3,9,Basque,basq1248,Basque,43.2787,-1.31622,NA,isolate,TRUE,TRUE
+Basque,D3,Place,europe,han,1,9,3,9,Basque,basq1248,Basque,43.2787,-1.31622,NA,isolate,TRUE,TRUE
+Basque,D3,Source,europe,handik,2,9,3,9,Basque,basq1248,Basque,43.2787,-1.31622,NA,isolate,TRUE,TRUE
+Belarusian,D1,Goal,europe,sjudy,3,6,2,6,Belarusian,bela1254,Belarusian,53.2307,25.6038,indo1319,Indo-European,TRUE,TRUE
+Belarusian,D1,Place,europe,tut,6,6,2,6,Belarusian,bela1254,Belarusian,53.2307,25.6038,indo1319,Indo-European,TRUE,TRUE
+Belarusian,D1,Source,europe,adgėtulʼ|adsjulʼ,1,6,2,6,Belarusian,bela1254,Belarusian,53.2307,25.6038,indo1319,Indo-European,TRUE,TRUE
+Belarusian,D2,Goal,europe,tudy,5,6,2,6,Belarusian,bela1254,Belarusian,53.2307,25.6038,indo1319,Indo-European,TRUE,TRUE
+Belarusian,D2,Place,europe,tam,4,6,2,6,Belarusian,bela1254,Belarusian,53.2307,25.6038,indo1319,Indo-European,TRUE,TRUE
+Belarusian,D2,Source,europe,adtjulʼ,2,6,2,6,Belarusian,bela1254,Belarusian,53.2307,25.6038,indo1319,Indo-European,TRUE,TRUE
+Bengali,D1,Goal,asia,ekhane,2,8,3,9,Bengali,beng1280,Bengali,24,90,indo1319,Indo-European,FALSE,FALSE
+Bengali,D1,Place,asia,ekhane|ɔtrô,3,8,3,9,Bengali,beng1280,Bengali,24,90,indo1319,Indo-European,FALSE,FALSE
+Bengali,D1,Source,asia,ekhan theke,1,8,3,9,Bengali,beng1280,Bengali,24,90,indo1319,Indo-European,FALSE,FALSE
+Bengali,D2,Goal,asia,sekhane,7,8,3,9,Bengali,beng1280,Bengali,24,90,indo1319,Indo-European,FALSE,FALSE
+Bengali,D2,Place,asia,sekhane|tɔtha|tɔtrô,8,8,3,9,Bengali,beng1280,Bengali,24,90,indo1319,Indo-European,FALSE,FALSE
+Bengali,D2,Source,asia,sekhan theke,6,8,3,9,Bengali,beng1280,Bengali,24,90,indo1319,Indo-European,FALSE,FALSE
+Bengali,D3,Goal,asia,okhane,5,8,3,9,Bengali,beng1280,Bengali,24,90,indo1319,Indo-European,FALSE,FALSE
+Bengali,D3,Place,asia,okhane,5,8,3,9,Bengali,beng1280,Bengali,24,90,indo1319,Indo-European,FALSE,FALSE
+Bengali,D3,Source,asia,okhan theke,4,8,3,9,Bengali,beng1280,Bengali,24,90,indo1319,Indo-European,FALSE,FALSE
+Blackfoot,D1,Goal,americas,Ipoohsap|poohsap,2,6,2,6,Siksika,siks1238,Siksika,49.0669,-113.109,algi1248,Algic,TRUE,TRUE
+Blackfoot,D1,Place,americas,annoma,1,6,2,6,Siksika,siks1238,Siksika,49.0669,-113.109,algi1248,Algic,TRUE,TRUE
+Blackfoot,D1,Source,americas,miistap _ annoma|yIIstap _ annoma,5,6,2,6,Siksika,siks1238,Siksika,49.0669,-113.109,algi1248,Algic,TRUE,TRUE
+Blackfoot,D2,Goal,americas,itap,4,6,2,6,Siksika,siks1238,Siksika,49.0669,-113.109,algi1248,Algic,TRUE,TRUE
+Blackfoot,D2,Place,americas,ist|it,3,6,2,6,Siksika,siks1238,Siksika,49.0669,-113.109,algi1248,Algic,TRUE,TRUE
+Blackfoot,D2,Source,americas,omoht,6,6,2,6,Siksika,siks1238,Siksika,49.0669,-113.109,algi1248,Algic,TRUE,TRUE
+Bulgarian,D1,Goal,europe,nasam|tuk,1,6,2,6,Bulgarian,bulg1262,Bulgarian,43.3646,25.047,indo1319,Indo-European,TRUE,TRUE
+Bulgarian,D1,Place,europe,tuk,6,6,2,6,Bulgarian,bulg1262,Bulgarian,43.3646,25.047,indo1319,Indo-European,TRUE,TRUE
+Bulgarian,D1,Source,europe,ottuk,4,6,2,6,Bulgarian,bulg1262,Bulgarian,43.3646,25.047,indo1319,Indo-European,TRUE,TRUE
+Bulgarian,D2,Goal,europe,natam|tam,2,6,2,6,Bulgarian,bulg1262,Bulgarian,43.3646,25.047,indo1319,Indo-European,TRUE,TRUE
+Bulgarian,D2,Place,europe,tam,5,6,2,6,Bulgarian,bulg1262,Bulgarian,43.3646,25.047,indo1319,Indo-European,TRUE,TRUE
+Bulgarian,D2,Source,europe,ottam,3,6,2,6,Bulgarian,bulg1262,Bulgarian,43.3646,25.047,indo1319,Indo-European,TRUE,TRUE
+Bunaq,D1,Goal,oceania,huqe|huqe gene,3,3,3,9,Bunak,buna1278,Bunak,-9.13618,125.216,timo1261,Timor-Alor-Pantar,TRUE,TRUE
+Bunaq,D1,Place,oceania,huqe|huqe gene,3,3,3,9,Bunak,buna1278,Bunak,-9.13618,125.216,timo1261,Timor-Alor-Pantar,TRUE,TRUE
+Bunaq,D1,Source,oceania,huqe|huqe gene,3,3,3,9,Bunak,buna1278,Bunak,-9.13618,125.216,timo1261,Timor-Alor-Pantar,TRUE,TRUE
+Bunaq,D2,Goal,oceania,haqe|haqe gene,1,3,3,9,Bunak,buna1278,Bunak,-9.13618,125.216,timo1261,Timor-Alor-Pantar,TRUE,TRUE
+Bunaq,D2,Place,oceania,haqe|haqe gene,1,3,3,9,Bunak,buna1278,Bunak,-9.13618,125.216,timo1261,Timor-Alor-Pantar,TRUE,TRUE
+Bunaq,D2,Source,oceania,haqe|haqe gene,1,3,3,9,Bunak,buna1278,Bunak,-9.13618,125.216,timo1261,Timor-Alor-Pantar,TRUE,TRUE
+Bunaq,D3,Goal,oceania,hoqe,2,3,3,9,Bunak,buna1278,Bunak,-9.13618,125.216,timo1261,Timor-Alor-Pantar,TRUE,TRUE
+Bunaq,D3,Place,oceania,hoqe,2,3,3,9,Bunak,buna1278,Bunak,-9.13618,125.216,timo1261,Timor-Alor-Pantar,TRUE,TRUE
+Bunaq,D3,Source,oceania,hoqe,2,3,3,9,Bunak,buna1278,Bunak,-9.13618,125.216,timo1261,Timor-Alor-Pantar,TRUE,TRUE
+Bunoge Dogon,D1,Goal,africa,má|málò,3,4,2,6,Bunoge Dogon,buno1241,Bunoge Dogon,14.43,-3.49,dogo1299,Dogon,TRUE,FALSE
+Bunoge Dogon,D1,Place,africa,mànâ|má|málò,4,4,2,6,Bunoge Dogon,buno1241,Bunoge Dogon,14.43,-3.49,dogo1299,Dogon,TRUE,FALSE
+Bunoge Dogon,D1,Source,africa,má|málò,3,4,2,6,Bunoge Dogon,buno1241,Bunoge Dogon,14.43,-3.49,dogo1299,Dogon,TRUE,FALSE
+Bunoge Dogon,D2,Goal,africa,bó|bólò,1,4,2,6,Bunoge Dogon,buno1241,Bunoge Dogon,14.43,-3.49,dogo1299,Dogon,TRUE,FALSE
+Bunoge Dogon,D2,Place,africa,bònâ|bó|bólò,2,4,2,6,Bunoge Dogon,buno1241,Bunoge Dogon,14.43,-3.49,dogo1299,Dogon,TRUE,FALSE
+Bunoge Dogon,D2,Source,africa,bó|bólò,1,4,2,6,Bunoge Dogon,buno1241,Bunoge Dogon,14.43,-3.49,dogo1299,Dogon,TRUE,FALSE
+Burmese,D1,Goal,asia,di|di kou,3,6,2,6,Burmese,nucl1310,Burmese,20.7926,93.9665,sino1245,Sino-Tibetan,TRUE,TRUE
+Burmese,D1,Place,asia,di hma,1,6,2,6,Burmese,nucl1310,Burmese,20.7926,93.9665,sino1245,Sino-Tibetan,TRUE,TRUE
+Burmese,D1,Source,asia,di ka,2,6,2,6,Burmese,nucl1310,Burmese,20.7926,93.9665,sino1245,Sino-Tibetan,TRUE,TRUE
+Burmese,D2,Goal,asia,hou|hou kou,6,6,2,6,Burmese,nucl1310,Burmese,20.7926,93.9665,sino1245,Sino-Tibetan,TRUE,TRUE
+Burmese,D2,Place,asia,hou hma,4,6,2,6,Burmese,nucl1310,Burmese,20.7926,93.9665,sino1245,Sino-Tibetan,TRUE,TRUE
+Burmese,D2,Source,asia,hou ka,5,6,2,6,Burmese,nucl1310,Burmese,20.7926,93.9665,sino1245,Sino-Tibetan,TRUE,TRUE
+"Burushaski, Yasin",D1,Goal,asia,akhíta|akhó|akhóla|kho|khíta,1,9,3,9,Burushaski,buru1296,Burushaski,36.2161,74.8236,NA,isolate,TRUE,TRUE
+"Burushaski, Yasin",D1,Place,asia,akhó|khit|kho,2,9,3,9,Burushaski,buru1296,Burushaski,36.2161,74.8236,NA,isolate,TRUE,TRUE
+"Burushaski, Yasin",D1,Source,asia,akhólum|khólum,3,9,3,9,Burushaski,buru1296,Burushaski,36.2161,74.8236,NA,isolate,TRUE,TRUE
+"Burushaski, Yasin",D2,Goal,asia,íta,5,9,3,9,Burushaski,buru1296,Burushaski,36.2161,74.8236,NA,isolate,TRUE,TRUE
+"Burushaski, Yasin",D2,Place,asia,it|íti,4,9,3,9,Burushaski,buru1296,Burushaski,36.2161,74.8236,NA,isolate,TRUE,TRUE
+"Burushaski, Yasin",D2,Source,asia,ítum,6,9,3,9,Burushaski,buru1296,Burushaski,36.2161,74.8236,NA,isolate,TRUE,TRUE
+"Burushaski, Yasin",D3,Goal,asia,tóla,8,9,3,9,Burushaski,buru1296,Burushaski,36.2161,74.8236,NA,isolate,TRUE,TRUE
+"Burushaski, Yasin",D3,Place,asia,to|tóle,7,9,3,9,Burushaski,buru1296,Burushaski,36.2161,74.8236,NA,isolate,TRUE,TRUE
+"Burushaski, Yasin",D3,Source,asia,tólum,9,9,3,9,Burushaski,buru1296,Burushaski,36.2161,74.8236,NA,isolate,TRUE,TRUE
+Cantonese,D1,Goal,asia,nīdouh,3,6,2,6,Cantonese,cant1236,Cantonese,23.0118,113.2021,sino1245,Sino-Tibetan,TRUE,TRUE
+Cantonese,D1,Place,asia,nīdouh|nīsyu,4,6,2,6,Cantonese,cant1236,Cantonese,23.0118,113.2021,sino1245,Sino-Tibetan,TRUE,TRUE
+Cantonese,D1,Source,asia,yàuh nīdouh,6,6,2,6,Cantonese,cant1236,Cantonese,23.0118,113.2021,sino1245,Sino-Tibetan,TRUE,TRUE
+Cantonese,D2,Goal,asia,gódouh,1,6,2,6,Cantonese,cant1236,Cantonese,23.0118,113.2021,sino1245,Sino-Tibetan,TRUE,TRUE
+Cantonese,D2,Place,asia,gódouh|gósyu,2,6,2,6,Cantonese,cant1236,Cantonese,23.0118,113.2021,sino1245,Sino-Tibetan,TRUE,TRUE
+Cantonese,D2,Source,asia,yàuh gódouh,5,6,2,6,Cantonese,cant1236,Cantonese,23.0118,113.2021,sino1245,Sino-Tibetan,TRUE,TRUE
+Catalan,D1,Goal,europe,aquí|cap aquí,6,9,3,9,Catalan,stan1289,Catalan,41.453,1.569,indo1319,Indo-European,TRUE,TRUE
+Catalan,D1,Place,europe,aquí,5,9,3,9,Catalan,stan1289,Catalan,41.453,1.569,indo1319,Indo-European,TRUE,TRUE
+Catalan,D1,Source,europe,d’aquí,9,9,3,9,Catalan,stan1289,Catalan,41.453,1.569,indo1319,Indo-European,TRUE,TRUE
+Catalan,D2,Goal,europe,allí|cap allí,4,9,3,9,Catalan,stan1289,Catalan,41.453,1.569,indo1319,Indo-European,TRUE,TRUE
+Catalan,D2,Place,europe,allí,3,9,3,9,Catalan,stan1289,Catalan,41.453,1.569,indo1319,Indo-European,TRUE,TRUE
+Catalan,D2,Source,europe,d'allí,8,9,3,9,Catalan,stan1289,Catalan,41.453,1.569,indo1319,Indo-European,TRUE,TRUE
+Catalan,D3,Goal,europe,allà|cap allà,2,9,3,9,Catalan,stan1289,Catalan,41.453,1.569,indo1319,Indo-European,TRUE,TRUE
+Catalan,D3,Place,europe,allà,1,9,3,9,Catalan,stan1289,Catalan,41.453,1.569,indo1319,Indo-European,TRUE,TRUE
+Catalan,D3,Source,europe,d'allà,7,9,3,9,Catalan,stan1289,Catalan,41.453,1.569,indo1319,Indo-European,TRUE,TRUE
+Chamorro,D1,Goal,oceania,guini,4,4,3,9,Chamorro,cham1312,Chamorro,13.438011,144.74474,aust1307,Austronesian,FALSE,FALSE
+Chamorro,D1,Place,oceania,guini,4,4,3,9,Chamorro,cham1312,Chamorro,13.438011,144.74474,aust1307,Austronesian,FALSE,FALSE
+Chamorro,D1,Source,oceania,guini,4,4,3,9,Chamorro,cham1312,Chamorro,13.438011,144.74474,aust1307,Austronesian,FALSE,FALSE
+Chamorro,D2,Goal,oceania,guatu,1,4,3,9,Chamorro,cham1312,Chamorro,13.438011,144.74474,aust1307,Austronesian,FALSE,FALSE
+Chamorro,D2,Place,oceania,guenao,2,4,3,9,Chamorro,cham1312,Chamorro,13.438011,144.74474,aust1307,Austronesian,FALSE,FALSE
+Chamorro,D2,Source,oceania,guihi,3,4,3,9,Chamorro,cham1312,Chamorro,13.438011,144.74474,aust1307,Austronesian,FALSE,FALSE
+Chamorro,D3,Goal,oceania,guihi,3,4,3,9,Chamorro,cham1312,Chamorro,13.438011,144.74474,aust1307,Austronesian,FALSE,FALSE
+Chamorro,D3,Place,oceania,guihi,3,4,3,9,Chamorro,cham1312,Chamorro,13.438011,144.74474,aust1307,Austronesian,FALSE,FALSE
+Chamorro,D3,Source,oceania,guihi,3,4,3,9,Chamorro,cham1312,Chamorro,13.438011,144.74474,aust1307,Austronesian,FALSE,FALSE
+Chinese,D1,Goal,asia,dào zhèlĭ|dào zhèr|zhèlĭ|zhèr,4,6,2,6,Mandarin Chinese,mand1415,Mandarin Chinese,40.0209,116.228,sino1245,Sino-Tibetan,TRUE,TRUE
+Chinese,D1,Place,asia,zhèlĭ|zhèr|zài zhèlĭ|zài zhèr,6,6,2,6,Mandarin Chinese,mand1415,Mandarin Chinese,40.0209,116.228,sino1245,Sino-Tibetan,TRUE,TRUE
+Chinese,D1,Source,asia,cóng zhèlĭ|cóng zhèr,2,6,2,6,Mandarin Chinese,mand1415,Mandarin Chinese,40.0209,116.228,sino1245,Sino-Tibetan,TRUE,TRUE
+Chinese,D2,Goal,asia,dào nàlĭ|dào nàr|nàlĭ|nàr,3,6,2,6,Mandarin Chinese,mand1415,Mandarin Chinese,40.0209,116.228,sino1245,Sino-Tibetan,TRUE,TRUE
+Chinese,D2,Place,asia,nàlĭ|nàr|zaì nàr|zài nàlĭ,5,6,2,6,Mandarin Chinese,mand1415,Mandarin Chinese,40.0209,116.228,sino1245,Sino-Tibetan,TRUE,TRUE
+Chinese,D2,Source,asia,cóng nàlĭ|cóng nàr,1,6,2,6,Mandarin Chinese,mand1415,Mandarin Chinese,40.0209,116.228,sino1245,Sino-Tibetan,TRUE,TRUE
+"Ch’ol, Tila",D1,Goal,americas,wᴧ',1,2,2,6,Chol,chol1282,Chol,17.4897,-92.4698,maya1287,Mayan,TRUE,TRUE
+"Ch’ol, Tila",D1,Place,americas,wᴧ',1,2,2,6,Chol,chol1282,Chol,17.4897,-92.4698,maya1287,Mayan,TRUE,TRUE
+"Ch’ol, Tila",D1,Source,americas,wᴧ',1,2,2,6,Chol,chol1282,Chol,17.4897,-92.4698,maya1287,Mayan,TRUE,TRUE
+"Ch’ol, Tila",D2,Goal,americas,ya',2,2,2,6,Chol,chol1282,Chol,17.4897,-92.4698,maya1287,Mayan,TRUE,TRUE
+"Ch’ol, Tila",D2,Place,americas,ya',2,2,2,6,Chol,chol1282,Chol,17.4897,-92.4698,maya1287,Mayan,TRUE,TRUE
+"Ch’ol, Tila",D2,Source,americas,ya',2,2,2,6,Chol,chol1282,Chol,17.4897,-92.4698,maya1287,Mayan,TRUE,TRUE
+Cree,D1,Goal,americas,pê|pêci,6,6,2,6,Moose Cree,moos1236,Moose Cree,51.068600000000004,-80.6912,algi1248,Algic,TRUE,TRUE
+Cree,D1,Place,americas,ôta,4,6,2,6,Moose Cree,moos1236,Moose Cree,51.068600000000004,-80.6912,algi1248,Algic,TRUE,TRUE
+Cree,D1,Source,americas,ôta ohci,5,6,2,6,Moose Cree,moos1236,Moose Cree,51.068600000000004,-80.6912,algi1248,Algic,TRUE,TRUE
+Cree,D2,Goal,americas,ohpime ohci,3,6,2,6,Moose Cree,moos1236,Moose Cree,51.068600000000004,-80.6912,algi1248,Algic,TRUE,TRUE
+Cree,D2,Place,americas,neta|nete|tasi,1,6,2,6,Moose Cree,moos1236,Moose Cree,51.068600000000004,-80.6912,algi1248,Algic,TRUE,TRUE
+Cree,D2,Source,americas,ohci|pê|pêci,2,6,2,6,Moose Cree,moos1236,Moose Cree,51.068600000000004,-80.6912,algi1248,Algic,TRUE,TRUE
+Croatian,D1,Goal,europe,ovamo|ovdje,5,6,2,6,Serbian-Croatian-Bosnian,sout1528,Serbian-Croatian-Bosnian,44.15,18.81,indo1319,Indo-European,TRUE,TRUE
+Croatian,D1,Place,europe,ovdje|tu,6,6,2,6,Serbian-Croatian-Bosnian,sout1528,Serbian-Croatian-Bosnian,44.15,18.81,indo1319,Indo-European,TRUE,TRUE
+Croatian,D1,Source,europe,odavde,2,6,2,6,Serbian-Croatian-Bosnian,sout1528,Serbian-Croatian-Bosnian,44.15,18.81,indo1319,Indo-European,TRUE,TRUE
+Croatian,D2,Goal,europe,onamo|tamo,3,6,2,6,Serbian-Croatian-Bosnian,sout1528,Serbian-Croatian-Bosnian,44.15,18.81,indo1319,Indo-European,TRUE,TRUE
+Croatian,D2,Place,europe,ondje|tamo,4,6,2,6,Serbian-Croatian-Bosnian,sout1528,Serbian-Croatian-Bosnian,44.15,18.81,indo1319,Indo-European,TRUE,TRUE
+Croatian,D2,Source,europe,odande,1,6,2,6,Serbian-Croatian-Bosnian,sout1528,Serbian-Croatian-Bosnian,44.15,18.81,indo1319,Indo-European,TRUE,TRUE
+Cubeo,D1,Goal,americas,joi,3,3,2,6,Cubeo,cube1242,Cubeo,1.32382,-70.1939,tuca1253,Tucanoan,FALSE,FALSE
+Cubeo,D1,Place,americas,'joi,1,3,2,6,Cubeo,cube1242,Cubeo,1.32382,-70.1939,tuca1253,Tucanoan,FALSE,FALSE
+Cubeo,D1,Source,americas,joi,3,3,2,6,Cubeo,cube1242,Cubeo,1.32382,-70.1939,tuca1253,Tucanoan,FALSE,FALSE
+Cubeo,D2,Goal,americas,dõi,2,3,2,6,Cubeo,cube1242,Cubeo,1.32382,-70.1939,tuca1253,Tucanoan,FALSE,FALSE
+Cubeo,D2,Place,americas,dõi,2,3,2,6,Cubeo,cube1242,Cubeo,1.32382,-70.1939,tuca1253,Tucanoan,FALSE,FALSE
+Cubeo,D2,Source,americas,dõi,2,3,2,6,Cubeo,cube1242,Cubeo,1.32382,-70.1939,tuca1253,Tucanoan,FALSE,FALSE
+Czech,D1,Goal,europe,sem,3,5,2,6,Czech,czec1258,Czech,49.873398,15.10437,indo1319,Indo-European,FALSE,FALSE
+Czech,D1,Place,europe,tady|tu|zde,4,5,2,6,Czech,czec1258,Czech,49.873398,15.10437,indo1319,Indo-European,FALSE,FALSE
+Czech,D1,Source,europe,odsud|odtud,1,5,2,6,Czech,czec1258,Czech,49.873398,15.10437,indo1319,Indo-European,FALSE,FALSE
+Czech,D2,Goal,europe,tam,5,5,2,6,Czech,czec1258,Czech,49.873398,15.10437,indo1319,Indo-European,FALSE,FALSE
+Czech,D2,Place,europe,tam,5,5,2,6,Czech,czec1258,Czech,49.873398,15.10437,indo1319,Indo-European,FALSE,FALSE
+Czech,D2,Source,europe,odtamtud|odtud,2,5,2,6,Czech,czec1258,Czech,49.873398,15.10437,indo1319,Indo-European,FALSE,FALSE
+Dakota,D1,Goal,americas,a deʼciyataŋhaŋ|deʼciya,1,6,2,6,Dakota,dako1258,Dakota,45.86,-96.58,siou1252,Siouan,TRUE,TRUE
+Dakota,D1,Place,americas,den|deʼci,2,6,2,6,Dakota,dako1258,Dakota,45.86,-96.58,siou1252,Siouan,TRUE,TRUE
+Dakota,D1,Source,americas,detaŋhaŋ|tokaŋ,3,6,2,6,Dakota,dako1258,Dakota,45.86,-96.58,siou1252,Siouan,TRUE,TRUE
+Dakota,D2,Goal,americas,heciyotaŋ|heʼciya,4,6,2,6,Dakota,dako1258,Dakota,45.86,-96.58,siou1252,Siouan,TRUE,TRUE
+Dakota,D2,Place,americas,hen|heʼci,5,6,2,6,Dakota,dako1258,Dakota,45.86,-96.58,siou1252,Siouan,TRUE,TRUE
+Dakota,D2,Source,americas,hetaŋhaŋ,6,6,2,6,Dakota,dako1258,Dakota,45.86,-96.58,siou1252,Siouan,TRUE,TRUE
+Danish,D1,Goal,europe,herhen|herhid,6,6,2,6,Danish,dani1285,Danish,54.8655,9.36284,indo1319,Indo-European,TRUE,TRUE
+Danish,D1,Place,europe,her|herhenne,4,6,2,6,Danish,dani1285,Danish,54.8655,9.36284,indo1319,Indo-European,TRUE,TRUE
+Danish,D1,Source,europe,herfra,5,6,2,6,Danish,dani1285,Danish,54.8655,9.36284,indo1319,Indo-European,TRUE,TRUE
+Danish,D2,Goal,europe,derhen,3,6,2,6,Danish,dani1285,Danish,54.8655,9.36284,indo1319,Indo-European,TRUE,TRUE
+Danish,D2,Place,europe,der|derhenne,1,6,2,6,Danish,dani1285,Danish,54.8655,9.36284,indo1319,Indo-European,TRUE,TRUE
+Danish,D2,Source,europe,derfra,2,6,2,6,Danish,dani1285,Danish,54.8655,9.36284,indo1319,Indo-European,TRUE,TRUE
+Dhimal,D1,Goal,asia,iso|ita,3,6,3,9,Dhimal,dhim1246,Dhimal,26.6283,88.3798,sino1245,Sino-Tibetan,TRUE,FALSE
+Dhimal,D1,Place,asia,iso|ita,3,6,3,9,Dhimal,dhim1246,Dhimal,26.6283,88.3798,sino1245,Sino-Tibetan,TRUE,FALSE
+Dhimal,D1,Source,asia,itaso,4,6,3,9,Dhimal,dhim1246,Dhimal,26.6283,88.3798,sino1245,Sino-Tibetan,TRUE,FALSE
+Dhimal,D2,Goal,asia,inso|inta,1,6,3,9,Dhimal,dhim1246,Dhimal,26.6283,88.3798,sino1245,Sino-Tibetan,TRUE,FALSE
+Dhimal,D2,Place,asia,inso|inta,1,6,3,9,Dhimal,dhim1246,Dhimal,26.6283,88.3798,sino1245,Sino-Tibetan,TRUE,FALSE
+Dhimal,D2,Source,asia,intaso,2,6,3,9,Dhimal,dhim1246,Dhimal,26.6283,88.3798,sino1245,Sino-Tibetan,TRUE,FALSE
+Dhimal,D3,Goal,asia,oso|ota,5,6,3,9,Dhimal,dhim1246,Dhimal,26.6283,88.3798,sino1245,Sino-Tibetan,TRUE,FALSE
+Dhimal,D3,Place,asia,oso|ota,5,6,3,9,Dhimal,dhim1246,Dhimal,26.6283,88.3798,sino1245,Sino-Tibetan,TRUE,FALSE
+Dhimal,D3,Source,asia,otaso,6,6,3,9,Dhimal,dhim1246,Dhimal,26.6283,88.3798,sino1245,Sino-Tibetan,TRUE,FALSE
+Dii,D1,Goal,africa,yɛlı̵́,2,3,3,9,Dii,diii1241,Dii,7.77412,13.9884,atla1278,Atlantic-Congo,TRUE,TRUE
+Dii,D1,Place,africa,yɛlı̵́,2,3,3,9,Dii,diii1241,Dii,7.77412,13.9884,atla1278,Atlantic-Congo,TRUE,TRUE
+Dii,D1,Source,africa,yɛlı̵́,2,3,3,9,Dii,diii1241,Dii,7.77412,13.9884,atla1278,Atlantic-Congo,TRUE,TRUE
+Dii,D2,Goal,africa,wu̵lı̵́,1,3,3,9,Dii,diii1241,Dii,7.77412,13.9884,atla1278,Atlantic-Congo,TRUE,TRUE
+Dii,D2,Place,africa,wu̵lı̵́,1,3,3,9,Dii,diii1241,Dii,7.77412,13.9884,atla1278,Atlantic-Congo,TRUE,TRUE
+Dii,D2,Source,africa,wu̵lı̵́,1,3,3,9,Dii,diii1241,Dii,7.77412,13.9884,atla1278,Atlantic-Congo,TRUE,TRUE
+Dii,D3,Goal,africa,zulí,3,3,3,9,Dii,diii1241,Dii,7.77412,13.9884,atla1278,Atlantic-Congo,TRUE,TRUE
+Dii,D3,Place,africa,zulí,3,3,3,9,Dii,diii1241,Dii,7.77412,13.9884,atla1278,Atlantic-Congo,TRUE,TRUE
+Dii,D3,Source,africa,zulí,3,3,3,9,Dii,diii1241,Dii,7.77412,13.9884,atla1278,Atlantic-Congo,TRUE,TRUE
+Dime,D1,Goal,africa,sikiyó,3,4,2,6,Dime,dime1235,Dime,6.20951,36.3329,sout2845,South Omotic,TRUE,FALSE
+Dime,D1,Place,africa,sikiyó,3,4,2,6,Dime,dime1235,Dime,6.20951,36.3329,sout2845,South Omotic,TRUE,FALSE
+Dime,D1,Source,africa,sikiyóde,4,4,2,6,Dime,dime1235,Dime,6.20951,36.3329,sout2845,South Omotic,TRUE,FALSE
+Dime,D2,Goal,africa,kiyó|sakiyó,1,4,2,6,Dime,dime1235,Dime,6.20951,36.3329,sout2845,South Omotic,TRUE,FALSE
+Dime,D2,Place,africa,kiyó|sakiyó,1,4,2,6,Dime,dime1235,Dime,6.20951,36.3329,sout2845,South Omotic,TRUE,FALSE
+Dime,D2,Source,africa,kiyóde|sakiyóde,2,4,2,6,Dime,dime1235,Dime,6.20951,36.3329,sout2845,South Omotic,TRUE,FALSE
+Djapu,D1,Goal,oceania,dhipal,1,9,3,9,Djapu,djap1238,Djapu,-12.879764,136.417978,pama1250,Pama-Nyungan,TRUE,TRUE
+Djapu,D1,Place,oceania,dhiyal|dhiyalaŋumi|dhiyalmi)|dhuwal,4,9,3,9,Djapu,djap1238,Djapu,-12.879764,136.417978,pama1250,Pama-Nyungan,TRUE,TRUE
+Djapu,D1,Source,oceania,dhipuŋur,3,9,3,9,Djapu,djap1238,Djapu,-12.879764,136.417978,pama1250,Pama-Nyungan,TRUE,TRUE
+Djapu,D2,Goal,oceania,dhipali|ŋunhiwal,2,9,3,9,Djapu,djap1238,Djapu,-12.879764,136.417978,pama1250,Pama-Nyungan,TRUE,TRUE
+Djapu,D2,Place,oceania,dhiyalimi)|dhiyaliŋumi|dhuwali|ŋunhi|ŋunhilimi)|ŋunhiliŋumi,5,9,3,9,Djapu,djap1238,Djapu,-12.879764,136.417978,pama1250,Pama-Nyungan,TRUE,TRUE
+Djapu,D2,Source,oceania,ŋuliŋur,7,9,3,9,Djapu,djap1238,Djapu,-12.879764,136.417978,pama1250,Pama-Nyungan,TRUE,TRUE
+Djapu,D3,Goal,oceania,ŋunhawal,9,9,3,9,Djapu,djap1238,Djapu,-12.879764,136.417978,pama1250,Pama-Nyungan,TRUE,TRUE
+Djapu,D3,Place,oceania,ŋunha|ŋunhal aŋumi|ŋunhal mi),8,9,3,9,Djapu,djap1238,Djapu,-12.879764,136.417978,pama1250,Pama-Nyungan,TRUE,TRUE
+Djapu,D3,Source,oceania,ŋulaŋur,6,9,3,9,Djapu,djap1238,Djapu,-12.879764,136.417978,pama1250,Pama-Nyungan,TRUE,TRUE
+Dutch,D1,Goal,europe,hierheen|hiernaartoe,5,6,2,6,Dutch,dutc1256,Dutch,52,5,indo1319,Indo-European,TRUE,TRUE
+Dutch,D1,Place,europe,hier,4,6,2,6,Dutch,dutc1256,Dutch,52,5,indo1319,Indo-European,TRUE,TRUE
+Dutch,D1,Source,europe,hiervandaan|van hier,6,6,2,6,Dutch,dutc1256,Dutch,52,5,indo1319,Indo-European,TRUE,TRUE
+Dutch,D2,Goal,europe,daarheen|daarnaartoe|ernaartoe,2,6,2,6,Dutch,dutc1256,Dutch,52,5,indo1319,Indo-European,TRUE,TRUE
+Dutch,D2,Place,europe,daar|er,1,6,2,6,Dutch,dutc1256,Dutch,52,5,indo1319,Indo-European,TRUE,TRUE
+Dutch,D2,Source,europe,daarvandaan|ervandaan|van daar,3,6,2,6,Dutch,dutc1256,Dutch,52,5,indo1319,Indo-European,TRUE,TRUE
+Dyirbal,D1,Goal,oceania,yali|yalu,5,6,2,6,Dyirbal,dyir1250,Dyirbal,-17.4516,145.544,pama1250,Pama-Nyungan,TRUE,TRUE
+Dyirbal,D1,Place,oceania,yalay,4,6,2,6,Dyirbal,dyir1250,Dyirbal,-17.4516,145.544,pama1250,Pama-Nyungan,TRUE,TRUE
+Dyirbal,D1,Source,oceania,yaŋum,6,6,2,6,Dyirbal,dyir1250,Dyirbal,-17.4516,145.544,pama1250,Pama-Nyungan,TRUE,TRUE
+Dyirbal,D2,Goal,oceania,bali|balu,2,6,2,6,Dyirbal,dyir1250,Dyirbal,-17.4516,145.544,pama1250,Pama-Nyungan,TRUE,TRUE
+Dyirbal,D2,Place,oceania,balay,1,6,2,6,Dyirbal,dyir1250,Dyirbal,-17.4516,145.544,pama1250,Pama-Nyungan,TRUE,TRUE
+Dyirbal,D2,Source,oceania,baŋum,3,6,2,6,Dyirbal,dyir1250,Dyirbal,-17.4516,145.544,pama1250,Pama-Nyungan,TRUE,TRUE
+English,D1,Goal,europe,here,3,4,2,6,English,stan1293,English,53,-1,indo1319,Indo-European,TRUE,FALSE
+English,D1,Place,europe,here,3,4,2,6,English,stan1293,English,53,-1,indo1319,Indo-European,TRUE,FALSE
+English,D1,Source,europe,from here,1,4,2,6,English,stan1293,English,53,-1,indo1319,Indo-European,TRUE,FALSE
+English,D2,Goal,europe,there,4,4,2,6,English,stan1293,English,53,-1,indo1319,Indo-European,TRUE,FALSE
+English,D2,Place,europe,there,4,4,2,6,English,stan1293,English,53,-1,indo1319,Indo-European,TRUE,FALSE
+English,D2,Source,europe,from there,2,4,2,6,English,stan1293,English,53,-1,indo1319,Indo-European,TRUE,FALSE
+Estonian,D1,Goal,europe,siia,3,6,2,6,Estonian,esto1258,Estonian,58.55,25.82,ural1272,Uralic,TRUE,TRUE
+Estonian,D1,Place,europe,siin,4,6,2,6,Estonian,esto1258,Estonian,58.55,25.82,ural1272,Uralic,TRUE,TRUE
+Estonian,D1,Source,europe,siit,5,6,2,6,Estonian,esto1258,Estonian,58.55,25.82,ural1272,Uralic,TRUE,TRUE
+Estonian,D2,Goal,europe,sinna,6,6,2,6,Estonian,esto1258,Estonian,58.55,25.82,ural1272,Uralic,TRUE,TRUE
+Estonian,D2,Place,europe,seal,1,6,2,6,Estonian,esto1258,Estonian,58.55,25.82,ural1272,Uralic,TRUE,TRUE
+Estonian,D2,Source,europe,sealt,2,6,2,6,Estonian,esto1258,Estonian,58.55,25.82,ural1272,Uralic,TRUE,TRUE
+Evenki,D1,Goal,asia,edu|ele|eli|ertyki,2,6,2,6,Evenki,even1259,Evenki,61.972,94.689,tung1282,Tungusic,TRUE,TRUE
+Evenki,D1,Place,asia,edu,1,6,2,6,Evenki,even1259,Evenki,61.972,94.689,tung1282,Tungusic,TRUE,TRUE
+Evenki,D1,Source,asia,eduk|ergit,3,6,2,6,Evenki,even1259,Evenki,61.972,94.689,tung1282,Tungusic,TRUE,TRUE
+Evenki,D2,Goal,asia,tadu|tala|tali|tartyki,5,6,2,6,Evenki,even1259,Evenki,61.972,94.689,tung1282,Tungusic,TRUE,TRUE
+Evenki,D2,Place,asia,tadu,4,6,2,6,Evenki,even1259,Evenki,61.972,94.689,tung1282,Tungusic,TRUE,TRUE
+Evenki,D2,Source,asia,taduk|target,6,6,2,6,Evenki,even1259,Evenki,61.972,94.689,tung1282,Tungusic,TRUE,TRUE
+Ewe,D1,Goal,africa,afi|afisia,1,3,2,6,Ewe,ewee1241,Ewe,6.46061,0.814975,atla1278,Atlantic-Congo,FALSE,FALSE
+Ewe,D1,Place,africa,afi|afisia,1,3,2,6,Ewe,ewee1241,Ewe,6.46061,0.814975,atla1278,Atlantic-Congo,FALSE,FALSE
+Ewe,D1,Source,africa,afi|afisia,1,3,2,6,Ewe,ewee1241,Ewe,6.46061,0.814975,atla1278,Atlantic-Congo,FALSE,FALSE
+Ewe,D2,Goal,africa,afíma,3,3,2,6,Ewe,ewee1241,Ewe,6.46061,0.814975,atla1278,Atlantic-Congo,FALSE,FALSE
+Ewe,D2,Place,africa,afima,2,3,2,6,Ewe,ewee1241,Ewe,6.46061,0.814975,atla1278,Atlantic-Congo,FALSE,FALSE
+Ewe,D2,Source,africa,afíma,3,3,2,6,Ewe,ewee1241,Ewe,6.46061,0.814975,atla1278,Atlantic-Congo,FALSE,FALSE
+Faroese,D1,Goal,europe,her|higar,5,6,2,6,Faroese,faro1244,Faroese,62.0732,-6.88497,indo1319,Indo-European,TRUE,TRUE
+Faroese,D1,Place,europe,her,4,6,2,6,Faroese,faro1244,Faroese,62.0732,-6.88497,indo1319,Indo-European,TRUE,TRUE
+Faroese,D1,Source,europe,hiðan|hiðani|hiðanífrá,6,6,2,6,Faroese,faro1244,Faroese,62.0732,-6.88497,indo1319,Indo-European,TRUE,TRUE
+Faroese,D2,Goal,europe,hagar|har,2,6,2,6,Faroese,faro1244,Faroese,62.0732,-6.88497,indo1319,Indo-European,TRUE,TRUE
+Faroese,D2,Place,europe,har,3,6,2,6,Faroese,faro1244,Faroese,62.0732,-6.88497,indo1319,Indo-European,TRUE,TRUE
+Faroese,D2,Source,europe,haðan|haðani|haðanífrá,1,6,2,6,Faroese,faro1244,Faroese,62.0732,-6.88497,indo1319,Indo-European,TRUE,TRUE
+Fijian,D1,Goal,oceania,ki kē|mai,4,9,3,9,Fijian,fiji1243,Fijian,-18,178.33,aust1307,Austronesian,TRUE,TRUE
+Fijian,D1,Place,oceania,e kē,1,9,3,9,Fijian,fiji1243,Fijian,-18,178.33,aust1307,Austronesian,TRUE,TRUE
+Fijian,D1,Source,oceania,mai kē|yani,7,9,3,9,Fijian,fiji1243,Fijian,-18,178.33,aust1307,Austronesian,TRUE,TRUE
+Fijian,D2,Goal,oceania,ki keri,6,9,3,9,Fijian,fiji1243,Fijian,-18,178.33,aust1307,Austronesian,TRUE,TRUE
+Fijian,D2,Place,oceania,e keri,3,9,3,9,Fijian,fiji1243,Fijian,-18,178.33,aust1307,Austronesian,TRUE,TRUE
+Fijian,D2,Source,oceania,mai keri,9,9,3,9,Fijian,fiji1243,Fijian,-18,178.33,aust1307,Austronesian,TRUE,TRUE
+Fijian,D3,Goal,oceania,ki keā,5,9,3,9,Fijian,fiji1243,Fijian,-18,178.33,aust1307,Austronesian,TRUE,TRUE
+Fijian,D3,Place,oceania,e keā,2,9,3,9,Fijian,fiji1243,Fijian,-18,178.33,aust1307,Austronesian,TRUE,TRUE
+Fijian,D3,Source,oceania,mai keā,8,9,3,9,Fijian,fiji1243,Fijian,-18,178.33,aust1307,Austronesian,TRUE,TRUE
+Finnish,D1,Goal,europe,tänne,6,9,3,9,Finnish,finn1318,Finnish,64.7628,25.5577,ural1272,Uralic,TRUE,TRUE
+Finnish,D1,Place,europe,täällä,4,9,3,9,Finnish,finn1318,Finnish,64.7628,25.5577,ural1272,Uralic,TRUE,TRUE
+Finnish,D1,Source,europe,täältä,5,9,3,9,Finnish,finn1318,Finnish,64.7628,25.5577,ural1272,Uralic,TRUE,TRUE
+Finnish,D2,Goal,europe,sinne,3,9,3,9,Finnish,finn1318,Finnish,64.7628,25.5577,ural1272,Uralic,TRUE,TRUE
+Finnish,D2,Place,europe,siellä,1,9,3,9,Finnish,finn1318,Finnish,64.7628,25.5577,ural1272,Uralic,TRUE,TRUE
+Finnish,D2,Source,europe,sieltä,2,9,3,9,Finnish,finn1318,Finnish,64.7628,25.5577,ural1272,Uralic,TRUE,TRUE
+Finnish,D3,Goal,europe,tuonne,9,9,3,9,Finnish,finn1318,Finnish,64.7628,25.5577,ural1272,Uralic,TRUE,TRUE
+Finnish,D3,Place,europe,tuolla,7,9,3,9,Finnish,finn1318,Finnish,64.7628,25.5577,ural1272,Uralic,TRUE,TRUE
+Finnish,D3,Source,europe,tuolta,8,9,3,9,Finnish,finn1318,Finnish,64.7628,25.5577,ural1272,Uralic,TRUE,TRUE
+Fon,D1,Goal,africa,fí,1,2,2,6,Fon,fonn1241,Fon,7.15484,1.66495,atla1278,Atlantic-Congo,TRUE,TRUE
+Fon,D1,Place,africa,fí,1,2,2,6,Fon,fonn1241,Fon,7.15484,1.66495,atla1278,Atlantic-Congo,TRUE,TRUE
+Fon,D1,Source,africa,fí,1,2,2,6,Fon,fonn1241,Fon,7.15484,1.66495,atla1278,Atlantic-Congo,TRUE,TRUE
+Fon,D2,Goal,africa,fínɛ́,2,2,2,6,Fon,fonn1241,Fon,7.15484,1.66495,atla1278,Atlantic-Congo,TRUE,TRUE
+Fon,D2,Place,africa,fínɛ́,2,2,2,6,Fon,fonn1241,Fon,7.15484,1.66495,atla1278,Atlantic-Congo,TRUE,TRUE
+Fon,D2,Source,africa,fínɛ́,2,2,2,6,Fon,fonn1241,Fon,7.15484,1.66495,atla1278,Atlantic-Congo,TRUE,TRUE
+French,D1,Goal,europe,ici,4,6,3,9,French,stan1290,French,48,2,indo1319,Indo-European,TRUE,FALSE
+French,D1,Place,europe,ici,4,6,3,9,French,stan1290,French,48,2,indo1319,Indo-European,TRUE,FALSE
+French,D1,Source,europe,d'ici,1,6,3,9,French,stan1290,French,48,2,indo1319,Indo-European,TRUE,FALSE
+French,D2,Goal,europe,là,5,6,3,9,French,stan1290,French,48,2,indo1319,Indo-European,TRUE,FALSE
+French,D2,Place,europe,là,5,6,3,9,French,stan1290,French,48,2,indo1319,Indo-European,TRUE,FALSE
+French,D2,Source,europe,de là,2,6,3,9,French,stan1290,French,48,2,indo1319,Indo-European,TRUE,FALSE
+French,D3,Goal,europe,làbas,6,6,3,9,French,stan1290,French,48,2,indo1319,Indo-European,TRUE,FALSE
+French,D3,Place,europe,làbas,6,6,3,9,French,stan1290,French,48,2,indo1319,Indo-European,TRUE,FALSE
+French,D3,Source,europe,de là[bas],3,6,3,9,French,stan1290,French,48,2,indo1319,Indo-European,TRUE,FALSE
+"Fulfulde, Adamawa",D1,Goal,africa,do’o|haa ɗo|ɗo|ɗō,3,4,2,6,Adamawa Fulfulde,adam1253,Adamawa Fulfulde,8.140326,13.077338,atla1278,Atlantic-Congo,TRUE,FALSE
+"Fulfulde, Adamawa",D1,Place,africa,do’o|haa ɗo|ɗo|ɗō,3,4,2,6,Adamawa Fulfulde,adam1253,Adamawa Fulfulde,8.140326,13.077338,atla1278,Atlantic-Congo,TRUE,FALSE
+"Fulfulde, Adamawa",D1,Source,africa,diga ɗo|haa ɗo,1,4,2,6,Adamawa Fulfulde,adam1253,Adamawa Fulfulde,8.140326,13.077338,atla1278,Atlantic-Congo,TRUE,FALSE
+"Fulfulde, Adamawa",D2,Goal,africa,haa to|to,4,4,2,6,Adamawa Fulfulde,adam1253,Adamawa Fulfulde,8.140326,13.077338,atla1278,Atlantic-Congo,TRUE,FALSE
+"Fulfulde, Adamawa",D2,Place,africa,haa to|to,4,4,2,6,Adamawa Fulfulde,adam1253,Adamawa Fulfulde,8.140326,13.077338,atla1278,Atlantic-Congo,TRUE,FALSE
+"Fulfulde, Adamawa",D2,Source,africa,diga to|haa to,2,4,2,6,Adamawa Fulfulde,adam1253,Adamawa Fulfulde,8.140326,13.077338,atla1278,Atlantic-Congo,TRUE,FALSE
+Garifuna,D1,Goal,americas,nyáhon,1,18,6,18,Garifuna,gari1256,Garifuna,15.3529,-86.9091,araw1281,Arawakan,TRUE,TRUE
+Garifuna,D1,Place,americas,yáya,15,18,6,18,Garifuna,gari1256,Garifuna,15.3529,-86.9091,araw1281,Arawakan,TRUE,TRUE
+Garifuna,D1,Source,americas,yágiyen,5,18,6,18,Garifuna,gari1256,Garifuna,15.3529,-86.9091,araw1281,Arawakan,TRUE,TRUE
+Garifuna,D2,Goal,americas,nyén|nyénhi|nyíhi,3,18,6,18,Garifuna,gari1256,Garifuna,15.3529,-86.9091,araw1281,Arawakan,TRUE,TRUE
+Garifuna,D2,Place,americas,nyé|nyén,2,18,6,18,Garifuna,gari1256,Garifuna,15.3529,-86.9091,araw1281,Arawakan,TRUE,TRUE
+Garifuna,D2,Source,americas,nyéngiyen,4,18,6,18,Garifuna,gari1256,Garifuna,15.3529,-86.9091,araw1281,Arawakan,TRUE,TRUE
+Garifuna,D3,Goal,americas,yáron,14,18,6,18,Garifuna,gari1256,Garifuna,15.3529,-86.9091,araw1281,Arawakan,TRUE,TRUE
+Garifuna,D3,Place,americas,yára,12,18,6,18,Garifuna,gari1256,Garifuna,15.3529,-86.9091,araw1281,Arawakan,TRUE,TRUE
+Garifuna,D3,Source,americas,yáragiyen,13,18,6,18,Garifuna,gari1256,Garifuna,15.3529,-86.9091,araw1281,Arawakan,TRUE,TRUE
+Garifuna,D4,Goal,americas,yagûron,8,18,6,18,Garifuna,gari1256,Garifuna,15.3529,-86.9091,araw1281,Arawakan,TRUE,TRUE
+Garifuna,D4,Place,americas,yagûra,6,18,6,18,Garifuna,gari1256,Garifuna,15.3529,-86.9091,araw1281,Arawakan,TRUE,TRUE
+Garifuna,D4,Source,americas,yagûragiyen,7,18,6,18,Garifuna,gari1256,Garifuna,15.3529,-86.9091,araw1281,Arawakan,TRUE,TRUE
+Garifuna,D5,Goal,americas,yágüton,11,18,6,18,Garifuna,gari1256,Garifuna,15.3529,-86.9091,araw1281,Arawakan,TRUE,TRUE
+Garifuna,D5,Place,americas,yágüta,9,18,6,18,Garifuna,gari1256,Garifuna,15.3529,-86.9091,araw1281,Arawakan,TRUE,TRUE
+Garifuna,D5,Source,americas,yágütagiyen,10,18,6,18,Garifuna,gari1256,Garifuna,15.3529,-86.9091,araw1281,Arawakan,TRUE,TRUE
+Garifuna,D6,Goal,americas,yéton,18,18,6,18,Garifuna,gari1256,Garifuna,15.3529,-86.9091,araw1281,Arawakan,TRUE,TRUE
+Garifuna,D6,Place,americas,yéte,16,18,6,18,Garifuna,gari1256,Garifuna,15.3529,-86.9091,araw1281,Arawakan,TRUE,TRUE
+Garifuna,D6,Source,americas,yétegiyen,17,18,6,18,Garifuna,gari1256,Garifuna,15.3529,-86.9091,araw1281,Arawakan,TRUE,TRUE
+"Garrwa, Western",D1,Goal,oceania,nanginkurri|nayinkurri|nayiwadir,6,6,2,6,Garrwa,gara1269,Garrwa,-17.4504,137.72014,garr1260,Garrwan,TRUE,TRUE
+"Garrwa, Western",D1,Place,oceania,nanginierg|nanginkanyidat|nanginyinaloc|nanyinaloc|naroot|nayinangistem|nayindaabs,5,6,2,6,Garrwa,gara1269,Garrwa,-17.4504,137.72014,garr1260,Garrwan,TRUE,TRUE
+"Garrwa, Western",D1,Source,oceania,nanginbunanyi|nayinbunanyi,4,6,2,6,Garrwa,gara1269,Garrwa,-17.4504,137.72014,garr1260,Garrwan,TRUE,TRUE
+"Garrwa, Western",D2,Goal,oceania,nanankurri|nanawadir,3,6,2,6,Garrwa,gara1269,Garrwa,-17.4504,137.72014,garr1260,Garrwan,TRUE,TRUE
+"Garrwa, Western",D2,Place,oceania,nananginierg|nanankanyidat|nananyinaloc|nanaroot|nanastem|nanawanyierg|nandaabs,2,6,2,6,Garrwa,gara1269,Garrwa,-17.4504,137.72014,garr1260,Garrwan,TRUE,TRUE
+"Garrwa, Western",D2,Source,oceania,nanamunanyi|nanankadi,1,6,2,6,Garrwa,gara1269,Garrwa,-17.4504,137.72014,garr1260,Garrwan,TRUE,TRUE
+German,D1,Goal,europe,hierher|hierhin|nach hier,8,9,3,9,German,stan1295,German,48.649,12.4676,indo1319,Indo-European,TRUE,TRUE
+German,D1,Place,europe,hier,7,9,3,9,German,stan1295,German,48.649,12.4676,indo1319,Indo-European,TRUE,TRUE
+German,D1,Source,europe,hierher|von hier,9,9,3,9,German,stan1295,German,48.649,12.4676,indo1319,Indo-European,TRUE,TRUE
+German,D2,Goal,europe,dahin|nach da,3,9,3,9,German,stan1295,German,48.649,12.4676,indo1319,Indo-European,TRUE,TRUE
+German,D2,Place,europe,da,1,9,3,9,German,stan1295,German,48.649,12.4676,indo1319,Indo-European,TRUE,TRUE
+German,D2,Source,europe,daher|von da,2,9,3,9,German,stan1295,German,48.649,12.4676,indo1319,Indo-European,TRUE,TRUE
+German,D3,Goal,europe,dorthin|nach dort,6,9,3,9,German,stan1295,German,48.649,12.4676,indo1319,Indo-European,TRUE,TRUE
+German,D3,Place,europe,dort,4,9,3,9,German,stan1295,German,48.649,12.4676,indo1319,Indo-European,TRUE,TRUE
+German,D3,Source,europe,dorther|von dort,5,9,3,9,German,stan1295,German,48.649,12.4676,indo1319,Indo-European,TRUE,TRUE
+Gidar,D1,Goal,africa,aŋka,2,4,2,6,Gidar,gida1247,Gidar,9.874715,14.07845,afro1255,Afro-Asiatic,TRUE,FALSE
+Gidar,D1,Place,africa,aŋka,2,4,2,6,Gidar,gida1247,Gidar,9.874715,14.07845,afro1255,Afro-Asiatic,TRUE,FALSE
+Gidar,D1,Source,africa,saŋka|səŋka,3,4,2,6,Gidar,gida1247,Gidar,9.874715,14.07845,afro1255,Afro-Asiatic,TRUE,FALSE
+Gidar,D2,Goal,africa,ada|adaka,1,4,2,6,Gidar,gida1247,Gidar,9.874715,14.07845,afro1255,Afro-Asiatic,TRUE,FALSE
+Gidar,D2,Place,africa,ada|adaka,1,4,2,6,Gidar,gida1247,Gidar,9.874715,14.07845,afro1255,Afro-Asiatic,TRUE,FALSE
+Gidar,D2,Source,africa,sədaka,4,4,2,6,Gidar,gida1247,Gidar,9.874715,14.07845,afro1255,Afro-Asiatic,TRUE,FALSE
+Gonja,D1,Goal,africa,m̀fé,1,2,2,6,Gonja,gonj1241,Gonja,8.48801,-0.72757,atla1278,Atlantic-Congo,TRUE,TRUE
+Gonja,D1,Place,africa,m̀fé,1,2,2,6,Gonja,gonj1241,Gonja,8.48801,-0.72757,atla1278,Atlantic-Congo,TRUE,TRUE
+Gonja,D1,Source,africa,m̀fé,1,2,2,6,Gonja,gonj1241,Gonja,8.48801,-0.72757,atla1278,Atlantic-Congo,TRUE,TRUE
+Gonja,D2,Goal,africa,ǹdúng,2,2,2,6,Gonja,gonj1241,Gonja,8.48801,-0.72757,atla1278,Atlantic-Congo,TRUE,TRUE
+Gonja,D2,Place,africa,ǹdúng,2,2,2,6,Gonja,gonj1241,Gonja,8.48801,-0.72757,atla1278,Atlantic-Congo,TRUE,TRUE
+Gonja,D2,Source,africa,ǹdúng,2,2,2,6,Gonja,gonj1241,Gonja,8.48801,-0.72757,atla1278,Atlantic-Congo,TRUE,TRUE
+"Greek, Modern",D1,Goal,europe,do|edó,3,5,2,6,Modern Greek,mode1248,Modern Greek,38.36,23.13,indo1319,Indo-European,FALSE,FALSE
+"Greek, Modern",D1,Place,europe,edó,4,5,2,6,Modern Greek,mode1248,Modern Greek,38.36,23.13,indo1319,Indo-European,FALSE,FALSE
+"Greek, Modern",D1,Source,europe,apó do|apó edó,1,5,2,6,Modern Greek,mode1248,Modern Greek,38.36,23.13,indo1319,Indo-European,FALSE,FALSE
+"Greek, Modern",D2,Goal,europe,ekeí,5,5,2,6,Modern Greek,mode1248,Modern Greek,38.36,23.13,indo1319,Indo-European,FALSE,FALSE
+"Greek, Modern",D2,Place,europe,ekeí,5,5,2,6,Modern Greek,mode1248,Modern Greek,38.36,23.13,indo1319,Indo-European,FALSE,FALSE
+"Greek, Modern",D2,Source,europe,apó ekeí,2,5,2,6,Modern Greek,mode1248,Modern Greek,38.36,23.13,indo1319,Indo-European,FALSE,FALSE
+Guaraní,D1,Goal,americas,ape,1,4,2,6,Paraguayan Guaran�,para1311,Paraguayan Guaraní,-25.60551,-57.08816,tupi1275,Tupian,TRUE,FALSE
+Guaraní,D1,Place,americas,ape,1,4,2,6,Paraguayan Guaran�,para1311,Paraguayan Guaraní,-25.60551,-57.08816,tupi1275,Tupian,TRUE,FALSE
+Guaraní,D1,Source,americas,coágui,2,4,2,6,Paraguayan Guaran�,para1311,Paraguayan Guaraní,-25.60551,-57.08816,tupi1275,Tupian,TRUE,FALSE
+Guaraní,D2,Goal,americas,upepe,4,4,2,6,Paraguayan Guaran�,para1311,Paraguayan Guaraní,-25.60551,-57.08816,tupi1275,Tupian,TRUE,FALSE
+Guaraní,D2,Place,americas,upepe,4,4,2,6,Paraguayan Guaran�,para1311,Paraguayan Guaraní,-25.60551,-57.08816,tupi1275,Tupian,TRUE,FALSE
+Guaraní,D2,Source,americas,upegui,3,4,2,6,Paraguayan Guaran�,para1311,Paraguayan Guaraní,-25.60551,-57.08816,tupi1275,Tupian,TRUE,FALSE
+Hamar,D1,Goal,africa,káshet|ɔ́ra|ɔ́rawal,2,6,2,6,Hamer-Banna,hame1242,Hamer-Banna,5.06515,36.5176,sout2845,South Omotic,TRUE,TRUE
+Hamar,D1,Place,africa,káte,3,6,2,6,Hamer-Banna,hame1242,Hamer-Banna,5.06515,36.5176,sout2845,South Omotic,TRUE,TRUE
+Hamar,D1,Source,africa,kárra,1,6,2,6,Hamer-Banna,hame1242,Hamer-Banna,5.06515,36.5176,sout2845,South Omotic,TRUE,TRUE
+Hamar,D2,Goal,africa,us[]|óo|úsuwal[],6,6,2,6,Hamer-Banna,hame1242,Hamer-Banna,5.06515,36.5176,sout2845,South Omotic,TRUE,TRUE
+Hamar,D2,Place,africa,óo,4,6,2,6,Hamer-Banna,hame1242,Hamer-Banna,5.06515,36.5176,sout2845,South Omotic,TRUE,TRUE
+Hamar,D2,Source,africa,órra,5,6,2,6,Hamer-Banna,hame1242,Hamer-Banna,5.06515,36.5176,sout2845,South Omotic,TRUE,TRUE
+Hawaiian,D1,Goal,oceania,mai|maila|ma‘ane‘i,6,6,2,6,Hawaiian,hawa1245,Hawaiian,19.6297,-155.43,aust1307,Austronesian,TRUE,TRUE
+Hawaiian,D1,Place,oceania,eia|ma‘ane‘i|ne‘i|‘ane‘i|‘one‘i,3,6,2,6,Hawaiian,hawa1245,Hawaiian,19.6297,-155.43,aust1307,Austronesian,TRUE,TRUE
+Hawaiian,D1,Source,oceania,aku,1,6,2,6,Hawaiian,hawa1245,Hawaiian,19.6297,-155.43,aust1307,Austronesian,TRUE,TRUE
+Hawaiian,D2,Goal,oceania,aku|i laila,2,6,2,6,Hawaiian,hawa1245,Hawaiian,19.6297,-155.43,aust1307,Austronesian,TRUE,TRUE
+Hawaiian,D2,Place,oceania,i laila|laila|lā|mālaila|‘ō,4,6,2,6,Hawaiian,hawa1245,Hawaiian,19.6297,-155.43,aust1307,Austronesian,TRUE,TRUE
+Hawaiian,D2,Source,oceania,mai laila,5,6,2,6,Hawaiian,hawa1245,Hawaiian,19.6297,-155.43,aust1307,Austronesian,TRUE,TRUE
+Hebrew,D1,Goal,asia,lexan,3,6,2,6,Modern Hebrew,hebr1245,Modern Hebrew,31.1056,35.0179,afro1255,Afro-Asiatic,TRUE,TRUE
+Hebrew,D1,Place,asia,kan|po,1,6,2,6,Modern Hebrew,hebr1245,Modern Hebrew,31.1056,35.0179,afro1255,Afro-Asiatic,TRUE,TRUE
+Hebrew,D1,Source,asia,mikan,4,6,2,6,Modern Hebrew,hebr1245,Modern Hebrew,31.1056,35.0179,afro1255,Afro-Asiatic,TRUE,TRUE
+Hebrew,D2,Goal,asia,lešam|šama,2,6,2,6,Modern Hebrew,hebr1245,Modern Hebrew,31.1056,35.0179,afro1255,Afro-Asiatic,TRUE,TRUE
+Hebrew,D2,Place,asia,šam,6,6,2,6,Modern Hebrew,hebr1245,Modern Hebrew,31.1056,35.0179,afro1255,Afro-Asiatic,TRUE,TRUE
+Hebrew,D2,Source,asia,mišam,5,6,2,6,Modern Hebrew,hebr1245,Modern Hebrew,31.1056,35.0179,afro1255,Afro-Asiatic,TRUE,TRUE
+Hindi,D1,Goal,asia,idhər|yəhã,1,6,2,6,Hindi,hind1269,Hindi,25,77,indo1319,Indo-European,TRUE,TRUE
+Hindi,D1,Place,asia,yəhã,5,6,2,6,Hindi,hind1269,Hindi,25,77,indo1319,Indo-European,TRUE,TRUE
+Hindi,D1,Source,asia,yəhã se,6,6,2,6,Hindi,hind1269,Hindi,25,77,indo1319,Indo-European,TRUE,TRUE
+Hindi,D2,Goal,asia,udhər|vəhã,2,6,2,6,Hindi,hind1269,Hindi,25,77,indo1319,Indo-European,TRUE,TRUE
+Hindi,D2,Place,asia,vəhã,3,6,2,6,Hindi,hind1269,Hindi,25,77,indo1319,Indo-European,TRUE,TRUE
+Hindi,D2,Source,asia,vəhã se,4,6,2,6,Hindi,hind1269,Hindi,25,77,indo1319,Indo-European,TRUE,TRUE
+Hmong Njua,D1,Goal,asia,nda᷉w nǔa|nǔa,2,2,2,6,Hmong Njua,hmon1264,Hmong Njua,22.5638,101.95,hmon1336,Hmong-Mien,TRUE,TRUE
+Hmong Njua,D1,Place,asia,nda᷉w nǔa|nǔa,2,2,2,6,Hmong Njua,hmon1264,Hmong Njua,22.5638,101.95,hmon1336,Hmong-Mien,TRUE,TRUE
+Hmong Njua,D1,Source,asia,nda᷉w nǔa|nǔa,2,2,2,6,Hmong Njua,hmon1264,Hmong Njua,22.5638,101.95,hmon1336,Hmong-Mien,TRUE,TRUE
+Hmong Njua,D2,Goal,asia,hǎo ndǎw|ndǎw,1,2,2,6,Hmong Njua,hmon1264,Hmong Njua,22.5638,101.95,hmon1336,Hmong-Mien,TRUE,TRUE
+Hmong Njua,D2,Place,asia,hǎo ndǎw|ndǎw,1,2,2,6,Hmong Njua,hmon1264,Hmong Njua,22.5638,101.95,hmon1336,Hmong-Mien,TRUE,TRUE
+Hmong Njua,D2,Source,asia,hǎo ndǎw|ndǎw,1,2,2,6,Hmong Njua,hmon1264,Hmong Njua,22.5638,101.95,hmon1336,Hmong-Mien,TRUE,TRUE
+Hungarian,D1,Goal,europe,ide,1,6,2,6,Hungarian,hung1274,Hungarian,46.9068585714,19.6555271429,ural1272,Uralic,TRUE,TRUE
+Hungarian,D1,Place,europe,itt,3,6,2,6,Hungarian,hung1274,Hungarian,46.9068585714,19.6555271429,ural1272,Uralic,TRUE,TRUE
+Hungarian,D1,Source,europe,innen,2,6,2,6,Hungarian,hung1274,Hungarian,46.9068585714,19.6555271429,ural1272,Uralic,TRUE,TRUE
+Hungarian,D2,Goal,europe,oda,4,6,2,6,Hungarian,hung1274,Hungarian,46.9068585714,19.6555271429,ural1272,Uralic,TRUE,TRUE
+Hungarian,D2,Place,europe,ott,6,6,2,6,Hungarian,hung1274,Hungarian,46.9068585714,19.6555271429,ural1272,Uralic,TRUE,TRUE
+Hungarian,D2,Source,europe,onnan,5,6,2,6,Hungarian,hung1274,Hungarian,46.9068585714,19.6555271429,ural1272,Uralic,TRUE,TRUE
+Icelandic,D1,Goal,europe,hingað|hér,3,6,2,6,Icelandic,icel1247,Icelandic,63.4837,-19.0212,indo1319,Indo-European,TRUE,TRUE
+Icelandic,D1,Place,europe,hér|hérna,2,6,2,6,Icelandic,icel1247,Icelandic,63.4837,-19.0212,indo1319,Indo-European,TRUE,TRUE
+Icelandic,D1,Source,europe,héðan,1,6,2,6,Icelandic,icel1247,Icelandic,63.4837,-19.0212,indo1319,Indo-European,TRUE,TRUE
+Icelandic,D2,Goal,europe,þangað|þar,5,6,2,6,Icelandic,icel1247,Icelandic,63.4837,-19.0212,indo1319,Indo-European,TRUE,TRUE
+Icelandic,D2,Place,europe,þar|þarna,6,6,2,6,Icelandic,icel1247,Icelandic,63.4837,-19.0212,indo1319,Indo-European,TRUE,TRUE
+Icelandic,D2,Source,europe,þaðan,4,6,2,6,Icelandic,icel1247,Icelandic,63.4837,-19.0212,indo1319,Indo-European,TRUE,TRUE
+Imonda,D1,Goal,oceania,õhiam|õsm,5,6,2,6,Imonda,imon1245,Imonda,-3.31228,141.171,bord1247,Border,TRUE,TRUE
+Imonda,D1,Place,oceania,õhia,4,6,2,6,Imonda,imon1245,Imonda,-3.31228,141.171,bord1247,Border,TRUE,TRUE
+Imonda,D1,Source,oceania,õhianéi,6,6,2,6,Imonda,imon1245,Imonda,-3.31228,141.171,bord1247,Border,TRUE,TRUE
+Imonda,D2,Goal,oceania,ediam|esm,2,6,2,6,Imonda,imon1245,Imonda,-3.31228,141.171,bord1247,Border,TRUE,TRUE
+Imonda,D2,Place,oceania,edia,1,6,2,6,Imonda,imon1245,Imonda,-3.31228,141.171,bord1247,Border,TRUE,TRUE
+Imonda,D2,Source,oceania,edianéi,3,6,2,6,Imonda,imon1245,Imonda,-3.31228,141.171,bord1247,Border,TRUE,TRUE
+"Inuktitut, Western Canadian",D1,Goal,americas,uvunga,12,12,4,12,Western Canadian Inuktitut,west2618,Western Canadian Inuktitut,64.3486,-96.148,eski1264,Eskimo-Aleut,TRUE,TRUE
+"Inuktitut, Western Canadian",D1,Place,americas,uvani,10,12,4,12,Western Canadian Inuktitut,west2618,Western Canadian Inuktitut,64.3486,-96.148,eski1264,Eskimo-Aleut,TRUE,TRUE
+"Inuktitut, Western Canadian",D1,Source,americas,uvanngat,11,12,4,12,Western Canadian Inuktitut,west2618,Western Canadian Inuktitut,64.3486,-96.148,eski1264,Eskimo-Aleut,TRUE,TRUE
+"Inuktitut, Western Canadian",D2,Goal,americas,maunga,9,12,4,12,Western Canadian Inuktitut,west2618,Western Canadian Inuktitut,64.3486,-96.148,eski1264,Eskimo-Aleut,TRUE,TRUE
+"Inuktitut, Western Canadian",D2,Place,americas,maani,7,12,4,12,Western Canadian Inuktitut,west2618,Western Canadian Inuktitut,64.3486,-96.148,eski1264,Eskimo-Aleut,TRUE,TRUE
+"Inuktitut, Western Canadian",D2,Source,americas,maanngat,8,12,4,12,Western Canadian Inuktitut,west2618,Western Canadian Inuktitut,64.3486,-96.148,eski1264,Eskimo-Aleut,TRUE,TRUE
+"Inuktitut, Western Canadian",D3,Goal,americas,ikunga,6,12,4,12,Western Canadian Inuktitut,west2618,Western Canadian Inuktitut,64.3486,-96.148,eski1264,Eskimo-Aleut,TRUE,TRUE
+"Inuktitut, Western Canadian",D3,Place,americas,ikani,4,12,4,12,Western Canadian Inuktitut,west2618,Western Canadian Inuktitut,64.3486,-96.148,eski1264,Eskimo-Aleut,TRUE,TRUE
+"Inuktitut, Western Canadian",D3,Source,americas,ikanngat,5,12,4,12,Western Canadian Inuktitut,west2618,Western Canadian Inuktitut,64.3486,-96.148,eski1264,Eskimo-Aleut,TRUE,TRUE
+"Inuktitut, Western Canadian",D4,Goal,americas,avunga,3,12,4,12,Western Canadian Inuktitut,west2618,Western Canadian Inuktitut,64.3486,-96.148,eski1264,Eskimo-Aleut,TRUE,TRUE
+"Inuktitut, Western Canadian",D4,Place,americas,avani,1,12,4,12,Western Canadian Inuktitut,west2618,Western Canadian Inuktitut,64.3486,-96.148,eski1264,Eskimo-Aleut,TRUE,TRUE
+"Inuktitut, Western Canadian",D4,Source,americas,avanngat,2,12,4,12,Western Canadian Inuktitut,west2618,Western Canadian Inuktitut,64.3486,-96.148,eski1264,Eskimo-Aleut,TRUE,TRUE
+Irish,D1,Goal,europe,anseo,2,6,3,9,Irish,iris1253,Irish,53.2186,-7.61509,indo1319,Indo-European,TRUE,FALSE
+Irish,D1,Place,europe,anseo,2,6,3,9,Irish,iris1253,Irish,53.2186,-7.61509,indo1319,Indo-European,TRUE,FALSE
+Irish,D1,Source,europe,as seo,4,6,3,9,Irish,iris1253,Irish,53.2186,-7.61509,indo1319,Indo-European,TRUE,FALSE
+Irish,D2,Goal,europe,ann|ansin,1,6,3,9,Irish,iris1253,Irish,53.2186,-7.61509,indo1319,Indo-European,TRUE,FALSE
+Irish,D2,Place,europe,ann|ansin,1,6,3,9,Irish,iris1253,Irish,53.2186,-7.61509,indo1319,Indo-European,TRUE,FALSE
+Irish,D2,Source,europe,as sin,5,6,3,9,Irish,iris1253,Irish,53.2186,-7.61509,indo1319,Indo-European,TRUE,FALSE
+Irish,D3,Goal,europe,ansiúd,3,6,3,9,Irish,iris1253,Irish,53.2186,-7.61509,indo1319,Indo-European,TRUE,FALSE
+Irish,D3,Place,europe,ansiúd,3,6,3,9,Irish,iris1253,Irish,53.2186,-7.61509,indo1319,Indo-European,TRUE,FALSE
+Irish,D3,Source,europe,as siúd,6,6,3,9,Irish,iris1253,Irish,53.2186,-7.61509,indo1319,Indo-European,TRUE,FALSE
+Italian,D1,Goal,europe,qui,4,4,2,6,Italian,ital1282,Italian,43.0464,12.6489,indo1319,Indo-European,TRUE,FALSE
+Italian,D1,Place,europe,qui,4,4,2,6,Italian,ital1282,Italian,43.0464,12.6489,indo1319,Indo-European,TRUE,FALSE
+Italian,D1,Source,europe,da qui|di qui,2,4,2,6,Italian,ital1282,Italian,43.0464,12.6489,indo1319,Indo-European,TRUE,FALSE
+Italian,D2,Goal,europe,lì,3,4,2,6,Italian,ital1282,Italian,43.0464,12.6489,indo1319,Indo-European,TRUE,FALSE
+Italian,D2,Place,europe,lì,3,4,2,6,Italian,ital1282,Italian,43.0464,12.6489,indo1319,Indo-European,TRUE,FALSE
+Italian,D2,Source,europe,da lì|di lì,1,4,2,6,Italian,ital1282,Italian,43.0464,12.6489,indo1319,Indo-European,TRUE,FALSE
+Jingulu,D1,Goal,oceania,ngarlarli|nginingka|nyiningka,8,12,4,12,Jingulu,djin1251,Jingulu,-17.165,133.659,mirn1241,Mirndi,TRUE,TRUE
+Jingulu,D1,Place,oceania,nginimbili|nyinimbili,10,12,4,12,Jingulu,djin1251,Jingulu,-17.165,133.659,mirn1241,Mirndi,TRUE,TRUE
+Jingulu,D1,Source,oceania,nginingkami|nyiningkami,11,12,4,12,Jingulu,djin1251,Jingulu,-17.165,133.659,mirn1241,Mirndi,TRUE,TRUE
+Jingulu,D2,Goal,oceania,jimingka,3,12,4,12,Jingulu,djin1251,Jingulu,-17.165,133.659,mirn1241,Mirndi,TRUE,TRUE
+Jingulu,D2,Place,oceania,jimi,2,12,4,12,Jingulu,djin1251,Jingulu,-17.165,133.659,mirn1241,Mirndi,TRUE,TRUE
+Jingulu,D2,Source,oceania,jimingkami,4,12,4,12,Jingulu,djin1251,Jingulu,-17.165,133.659,mirn1241,Mirndi,TRUE,TRUE
+Jingulu,D3,Goal,oceania,inangka|ngunangka,1,12,4,12,Jingulu,djin1251,Jingulu,-17.165,133.659,mirn1241,Mirndi,TRUE,TRUE
+Jingulu,D3,Place,oceania,ngunumbili,12,12,4,12,Jingulu,djin1251,Jingulu,-17.165,133.659,mirn1241,Mirndi,TRUE,TRUE
+Jingulu,D3,Source,oceania,nginduwungkami|nginuwangkami|ngunungkami,9,12,4,12,Jingulu,djin1251,Jingulu,-17.165,133.659,mirn1241,Mirndi,TRUE,TRUE
+Jingulu,D4,Goal,oceania,kuyungka,6,12,4,12,Jingulu,djin1251,Jingulu,-17.165,133.659,mirn1241,Mirndi,TRUE,TRUE
+Jingulu,D4,Place,oceania,kuyumbili,5,12,4,12,Jingulu,djin1251,Jingulu,-17.165,133.659,mirn1241,Mirndi,TRUE,TRUE
+Jingulu,D4,Source,oceania,kuyungkami,7,12,4,12,Jingulu,djin1251,Jingulu,-17.165,133.659,mirn1241,Mirndi,TRUE,TRUE
+Kaba,D1,Goal,africa,nènn,1,4,4,12,Kaba,kaba1281,Kaba,7.64972,16.7344,cent2225,Central Sudanic,TRUE,TRUE
+Kaba,D1,Place,africa,nènn,1,4,4,12,Kaba,kaba1281,Kaba,7.64972,16.7344,cent2225,Central Sudanic,TRUE,TRUE
+Kaba,D1,Source,africa,nènn,1,4,4,12,Kaba,kaba1281,Kaba,7.64972,16.7344,cent2225,Central Sudanic,TRUE,TRUE
+Kaba,D2,Goal,africa,tònn,3,4,4,12,Kaba,kaba1281,Kaba,7.64972,16.7344,cent2225,Central Sudanic,TRUE,TRUE
+Kaba,D2,Place,africa,tònn,3,4,4,12,Kaba,kaba1281,Kaba,7.64972,16.7344,cent2225,Central Sudanic,TRUE,TRUE
+Kaba,D2,Source,africa,tònn,3,4,4,12,Kaba,kaba1281,Kaba,7.64972,16.7344,cent2225,Central Sudanic,TRUE,TRUE
+Kaba,D3,Goal,africa,yónn,4,4,4,12,Kaba,kaba1281,Kaba,7.64972,16.7344,cent2225,Central Sudanic,TRUE,TRUE
+Kaba,D3,Place,africa,yónn,4,4,4,12,Kaba,kaba1281,Kaba,7.64972,16.7344,cent2225,Central Sudanic,TRUE,TRUE
+Kaba,D3,Source,africa,yónn,4,4,4,12,Kaba,kaba1281,Kaba,7.64972,16.7344,cent2225,Central Sudanic,TRUE,TRUE
+Kaba,D4,Goal,africa,núnn,2,4,4,12,Kaba,kaba1281,Kaba,7.64972,16.7344,cent2225,Central Sudanic,TRUE,TRUE
+Kaba,D4,Place,africa,núnn,2,4,4,12,Kaba,kaba1281,Kaba,7.64972,16.7344,cent2225,Central Sudanic,TRUE,TRUE
+Kaba,D4,Source,africa,núnn,2,4,4,12,Kaba,kaba1281,Kaba,7.64972,16.7344,cent2225,Central Sudanic,TRUE,TRUE
+Kabiyé,D1,Goal,africa,cɩnɛ,1,2,2,6,Kabiy�,kabi1261,Kabiyé,8.96816,0.495023,atla1278,Atlantic-Congo,TRUE,TRUE
+Kabiyé,D1,Place,africa,cɩnɛ,1,2,2,6,Kabiy�,kabi1261,Kabiyé,8.96816,0.495023,atla1278,Atlantic-Congo,TRUE,TRUE
+Kabiyé,D1,Source,africa,cɩnɛ,1,2,2,6,Kabiy�,kabi1261,Kabiyé,8.96816,0.495023,atla1278,Atlantic-Congo,TRUE,TRUE
+Kabiyé,D2,Goal,africa,peeɖe,2,2,2,6,Kabiy�,kabi1261,Kabiyé,8.96816,0.495023,atla1278,Atlantic-Congo,TRUE,TRUE
+Kabiyé,D2,Place,africa,peeɖe,2,2,2,6,Kabiy�,kabi1261,Kabiyé,8.96816,0.495023,atla1278,Atlantic-Congo,TRUE,TRUE
+Kabiyé,D2,Source,africa,peeɖe,2,2,2,6,Kabiy�,kabi1261,Kabiyé,8.96816,0.495023,atla1278,Atlantic-Congo,TRUE,TRUE
+Kamaiura,D1,Goal,americas,'am|'ame|akati,2,6,2,6,Kamayur�,kama1373,Kamayurá,-12.2661,-53.4651,tupi1275,Tupian,TRUE,TRUE
+Kamaiura,D1,Place,americas,'am|'ame|'aŋ|'aŋuwe,1,6,2,6,Kamayur�,kama1373,Kamayurá,-12.2661,-53.4651,tupi1275,Tupian,TRUE,TRUE
+Kamaiura,D1,Source,americas,'aŋ wi|'aŋa wi,3,6,2,6,Kamayur�,kama1373,Kamayurá,-12.2661,-53.4651,tupi1275,Tupian,TRUE,TRUE
+Kamaiura,D2,Goal,americas,a'e katy,4,6,2,6,Kamayur�,kama1373,Kamayurá,-12.2661,-53.4651,tupi1275,Tupian,TRUE,TRUE
+Kamaiura,D2,Place,americas,a'ep {a'e+ip}|a'epe {a'e+ip},6,6,2,6,Kamayur�,kama1373,Kamayurá,-12.2661,-53.4651,tupi1275,Tupian,TRUE,TRUE
+Kamaiura,D2,Source,americas,a'ea wi,5,6,2,6,Kamayur�,kama1373,Kamayurá,-12.2661,-53.4651,tupi1275,Tupian,TRUE,TRUE
+Khasi,D1,Goal,asia,hangne|shane,2,12,4,12,Khasi,khas1269,Khasi,24.977,91.9998,aust1305,Austroasiatic,TRUE,TRUE
+Khasi,D1,Place,asia,hangne,1,12,4,12,Khasi,khas1269,Khasi,24.977,91.9998,aust1305,Austroasiatic,TRUE,TRUE
+Khasi,D1,Source,asia,nangne,9,12,4,12,Khasi,khas1269,Khasi,24.977,91.9998,aust1305,Austroasiatic,TRUE,TRUE
+Khasi,D2,Goal,asia,hangto|shato,8,12,4,12,Khasi,khas1269,Khasi,24.977,91.9998,aust1305,Austroasiatic,TRUE,TRUE
+Khasi,D2,Place,asia,hangto,7,12,4,12,Khasi,khas1269,Khasi,24.977,91.9998,aust1305,Austroasiatic,TRUE,TRUE
+Khasi,D2,Source,asia,nangto,12,12,4,12,Khasi,khas1269,Khasi,24.977,91.9998,aust1305,Austroasiatic,TRUE,TRUE
+Khasi,D3,Goal,asia,hangtai|shatai,6,12,4,12,Khasi,khas1269,Khasi,24.977,91.9998,aust1305,Austroasiatic,TRUE,TRUE
+Khasi,D3,Place,asia,hangtai,5,12,4,12,Khasi,khas1269,Khasi,24.977,91.9998,aust1305,Austroasiatic,TRUE,TRUE
+Khasi,D3,Source,asia,nangtai,11,12,4,12,Khasi,khas1269,Khasi,24.977,91.9998,aust1305,Austroasiatic,TRUE,TRUE
+Khasi,D4,Goal,asia,hangta|shata,4,12,4,12,Khasi,khas1269,Khasi,24.977,91.9998,aust1305,Austroasiatic,TRUE,TRUE
+Khasi,D4,Place,asia,hangta,3,12,4,12,Khasi,khas1269,Khasi,24.977,91.9998,aust1305,Austroasiatic,TRUE,TRUE
+Khasi,D4,Source,asia,nangta,10,12,4,12,Khasi,khas1269,Khasi,24.977,91.9998,aust1305,Austroasiatic,TRUE,TRUE
+Khmer,D1,Goal,asia,ae nih|nih|ti nih,1,4,2,6,Central Khmer,cent1989,Central Khmer,12.0515,105.015,aust1305,Austroasiatic,TRUE,FALSE
+Khmer,D1,Place,asia,ae nih|nih|ti nih,1,4,2,6,Central Khmer,cent1989,Central Khmer,12.0515,105.015,aust1305,Austroasiatic,TRUE,FALSE
+Khmer,D1,Source,asia,pi ae nih|pi nih|pi ti nih,3,4,2,6,Central Khmer,cent1989,Central Khmer,12.0515,105.015,aust1305,Austroasiatic,TRUE,FALSE
+Khmer,D2,Goal,asia,ae nuh|nuh|ti nuh,2,4,2,6,Central Khmer,cent1989,Central Khmer,12.0515,105.015,aust1305,Austroasiatic,TRUE,FALSE
+Khmer,D2,Place,asia,ae nuh|nuh|ti nuh,2,4,2,6,Central Khmer,cent1989,Central Khmer,12.0515,105.015,aust1305,Austroasiatic,TRUE,FALSE
+Khmer,D2,Source,asia,pi ae nuh|pi nuh|pi ti nuh,4,4,2,6,Central Khmer,cent1989,Central Khmer,12.0515,105.015,aust1305,Austroasiatic,TRUE,FALSE
+"Khoekhoe, Nama",D1,Goal,africa,nepa|nēǀî,6,9,3,9,Nama (Namibia),nama1264,Nama (Namibia),-25.0747,17.9767,khoe1240,Khoe-Kwadi,TRUE,TRUE
+"Khoekhoe, Nama",D1,Place,africa,nepa,4,9,3,9,Nama (Namibia),nama1264,Nama (Namibia),-25.0747,17.9767,khoe1240,Khoe-Kwadi,TRUE,TRUE
+"Khoekhoe, Nama",D1,Source,africa,nepa xu,5,9,3,9,Nama (Namibia),nama1264,Nama (Namibia),-25.0747,17.9767,khoe1240,Khoe-Kwadi,TRUE,TRUE
+"Khoekhoe, Nama",D2,Goal,africa,ǁnapa|ǁnāǀî,9,9,3,9,Nama (Namibia),nama1264,Nama (Namibia),-25.0747,17.9767,khoe1240,Khoe-Kwadi,TRUE,TRUE
+"Khoekhoe, Nama",D2,Place,africa,ǁnapa,7,9,3,9,Nama (Namibia),nama1264,Nama (Namibia),-25.0747,17.9767,khoe1240,Khoe-Kwadi,TRUE,TRUE
+"Khoekhoe, Nama",D2,Source,africa,ǁnapa xu,8,9,3,9,Nama (Namibia),nama1264,Nama (Namibia),-25.0747,17.9767,khoe1240,Khoe-Kwadi,TRUE,TRUE
+"Khoekhoe, Nama",D3,Goal,africa,naupa|nauǀî,3,9,3,9,Nama (Namibia),nama1264,Nama (Namibia),-25.0747,17.9767,khoe1240,Khoe-Kwadi,TRUE,TRUE
+"Khoekhoe, Nama",D3,Place,africa,naupa,1,9,3,9,Nama (Namibia),nama1264,Nama (Namibia),-25.0747,17.9767,khoe1240,Khoe-Kwadi,TRUE,TRUE
+"Khoekhoe, Nama",D3,Source,africa,naupa xu,2,9,3,9,Nama (Namibia),nama1264,Nama (Namibia),-25.0747,17.9767,khoe1240,Khoe-Kwadi,TRUE,TRUE
+Kikuyu,D1,Goal,africa,haha,3,8,4,12,Kikuyu,kiku1240,Kikuyu,-0.29005,36.719,atla1278,Atlantic-Congo,TRUE,FALSE
+Kikuyu,D1,Place,africa,haha,3,8,4,12,Kikuyu,kiku1240,Kikuyu,-0.29005,36.719,atla1278,Atlantic-Congo,TRUE,FALSE
+Kikuyu,D1,Source,africa,haha|kuuma haha,4,8,4,12,Kikuyu,kiku1240,Kikuyu,-0.29005,36.719,atla1278,Atlantic-Congo,TRUE,FALSE
+Kikuyu,D2,Goal,africa,haarĩa,1,8,4,12,Kikuyu,kiku1240,Kikuyu,-0.29005,36.719,atla1278,Atlantic-Congo,TRUE,FALSE
+Kikuyu,D2,Place,africa,haarĩa,1,8,4,12,Kikuyu,kiku1240,Kikuyu,-0.29005,36.719,atla1278,Atlantic-Congo,TRUE,FALSE
+Kikuyu,D2,Source,africa,haarĩa|kuuma haarĩa,2,8,4,12,Kikuyu,kiku1240,Kikuyu,-0.29005,36.719,atla1278,Atlantic-Congo,TRUE,FALSE
+Kikuyu,D3,Goal,africa,harĩa,5,8,4,12,Kikuyu,kiku1240,Kikuyu,-0.29005,36.719,atla1278,Atlantic-Congo,TRUE,FALSE
+Kikuyu,D3,Place,africa,harĩa,5,8,4,12,Kikuyu,kiku1240,Kikuyu,-0.29005,36.719,atla1278,Atlantic-Congo,TRUE,FALSE
+Kikuyu,D3,Source,africa,harĩa|kuuma harĩa,6,8,4,12,Kikuyu,kiku1240,Kikuyu,-0.29005,36.719,atla1278,Atlantic-Congo,TRUE,FALSE
+Kikuyu,D4,Goal,africa,hau,7,8,4,12,Kikuyu,kiku1240,Kikuyu,-0.29005,36.719,atla1278,Atlantic-Congo,TRUE,FALSE
+Kikuyu,D4,Place,africa,hau,7,8,4,12,Kikuyu,kiku1240,Kikuyu,-0.29005,36.719,atla1278,Atlantic-Congo,TRUE,FALSE
+Kikuyu,D4,Source,africa,hau|kuuma hau,8,8,4,12,Kikuyu,kiku1240,Kikuyu,-0.29005,36.719,atla1278,Atlantic-Congo,TRUE,FALSE
+Kodiak Alutiiq,D1,Goal,americas,gwaa’ut,2,12,4,12,Pacific Gulf Yupik,paci1278,Pacific Gulf Yupik,60.4238,-148.043,eski1264,Eskimo-Aleut,TRUE,TRUE
+Kodiak Alutiiq,D1,Place,americas,gwaa'i,1,12,4,12,Pacific Gulf Yupik,paci1278,Pacific Gulf Yupik,60.4238,-148.043,eski1264,Eskimo-Aleut,TRUE,TRUE
+Kodiak Alutiiq,D1,Source,americas,gwaken,3,12,4,12,Pacific Gulf Yupik,paci1278,Pacific Gulf Yupik,60.4238,-148.043,eski1264,Eskimo-Aleut,TRUE,TRUE
+Kodiak Alutiiq,D2,Goal,americas,maa'ut,5,12,4,12,Pacific Gulf Yupik,paci1278,Pacific Gulf Yupik,60.4238,-148.043,eski1264,Eskimo-Aleut,TRUE,TRUE
+Kodiak Alutiiq,D2,Place,americas,maa'i,4,12,4,12,Pacific Gulf Yupik,paci1278,Pacific Gulf Yupik,60.4238,-148.043,eski1264,Eskimo-Aleut,TRUE,TRUE
+Kodiak Alutiiq,D2,Source,americas,maaken,6,12,4,12,Pacific Gulf Yupik,paci1278,Pacific Gulf Yupik,60.4238,-148.043,eski1264,Eskimo-Aleut,TRUE,TRUE
+Kodiak Alutiiq,D3,Goal,americas,tawa'ut,11,12,4,12,Pacific Gulf Yupik,paci1278,Pacific Gulf Yupik,60.4238,-148.043,eski1264,Eskimo-Aleut,TRUE,TRUE
+Kodiak Alutiiq,D3,Place,americas,tawa'i,10,12,4,12,Pacific Gulf Yupik,paci1278,Pacific Gulf Yupik,60.4238,-148.043,eski1264,Eskimo-Aleut,TRUE,TRUE
+Kodiak Alutiiq,D3,Source,americas,tawaken,12,12,4,12,Pacific Gulf Yupik,paci1278,Pacific Gulf Yupik,60.4238,-148.043,eski1264,Eskimo-Aleut,TRUE,TRUE
+Kodiak Alutiiq,D4,Goal,americas,tamaa'ut,8,12,4,12,Pacific Gulf Yupik,paci1278,Pacific Gulf Yupik,60.4238,-148.043,eski1264,Eskimo-Aleut,TRUE,TRUE
+Kodiak Alutiiq,D4,Place,americas,tamaa'i,7,12,4,12,Pacific Gulf Yupik,paci1278,Pacific Gulf Yupik,60.4238,-148.043,eski1264,Eskimo-Aleut,TRUE,TRUE
+Kodiak Alutiiq,D4,Source,americas,tamaaken,9,12,4,12,Pacific Gulf Yupik,paci1278,Pacific Gulf Yupik,60.4238,-148.043,eski1264,Eskimo-Aleut,TRUE,TRUE
+Komnzo,D1,Goal,oceania,zbo,9,9,3,9,Anta-Komnzo-W�ra-W�r�-K�m�,wara1294,Anta-Komnzo-Wára-Wérè-Kémä,-8.64917,141.52,more1255,Yam,TRUE,TRUE
+Komnzo,D1,Place,oceania,zä,7,9,3,9,Anta-Komnzo-W�ra-W�r�-K�m�,wara1294,Anta-Komnzo-Wára-Wérè-Kémä,-8.64917,141.52,more1255,Yam,TRUE,TRUE
+Komnzo,D1,Source,oceania,zba,8,9,3,9,Anta-Komnzo-W�ra-W�r�-K�m�,wara1294,Anta-Komnzo-Wára-Wérè-Kémä,-8.64917,141.52,more1255,Yam,TRUE,TRUE
+Komnzo,D2,Goal,oceania,bobo,3,9,3,9,Anta-Komnzo-W�ra-W�r�-K�m�,wara1294,Anta-Komnzo-Wára-Wérè-Kémä,-8.64917,141.52,more1255,Yam,TRUE,TRUE
+Komnzo,D2,Place,oceania,bä,1,9,3,9,Anta-Komnzo-W�ra-W�r�-K�m�,wara1294,Anta-Komnzo-Wára-Wérè-Kémä,-8.64917,141.52,more1255,Yam,TRUE,TRUE
+Komnzo,D2,Source,oceania,boba,2,9,3,9,Anta-Komnzo-W�ra-W�r�-K�m�,wara1294,Anta-Komnzo-Wára-Wérè-Kémä,-8.64917,141.52,more1255,Yam,TRUE,TRUE
+Komnzo,D3,Goal,oceania,fobo,6,9,3,9,Anta-Komnzo-W�ra-W�r�-K�m�,wara1294,Anta-Komnzo-Wára-Wérè-Kémä,-8.64917,141.52,more1255,Yam,TRUE,TRUE
+Komnzo,D3,Place,oceania,fä,4,9,3,9,Anta-Komnzo-W�ra-W�r�-K�m�,wara1294,Anta-Komnzo-Wára-Wérè-Kémä,-8.64917,141.52,more1255,Yam,TRUE,TRUE
+Komnzo,D3,Source,oceania,foba,5,9,3,9,Anta-Komnzo-W�ra-W�r�-K�m�,wara1294,Anta-Komnzo-Wára-Wérè-Kémä,-8.64917,141.52,more1255,Yam,TRUE,TRUE
+Korean,D1,Goal,asia,yǒgie|yǒgiro,8,9,3,9,Korean,kore1280,Korean,37.54,126.98,kore1284,Koreanic,TRUE,TRUE
+Korean,D1,Place,asia,yǒgi|yǒgie,7,9,3,9,Korean,kore1280,Korean,37.54,126.98,kore1284,Koreanic,TRUE,TRUE
+Korean,D1,Source,asia,yǒgiesǒ,9,9,3,9,Korean,kore1280,Korean,37.54,126.98,kore1284,Koreanic,TRUE,TRUE
+Korean,D2,Goal,asia,kǒgie|kǒgiro,5,9,3,9,Korean,kore1280,Korean,37.54,126.98,kore1284,Koreanic,TRUE,TRUE
+Korean,D2,Place,asia,kǒgi|kǒgie,4,9,3,9,Korean,kore1280,Korean,37.54,126.98,kore1284,Koreanic,TRUE,TRUE
+Korean,D2,Source,asia,kǒgiesǒ,6,9,3,9,Korean,kore1280,Korean,37.54,126.98,kore1284,Koreanic,TRUE,TRUE
+Korean,D3,Goal,asia,chǒgie|chǒgiro,2,9,3,9,Korean,kore1280,Korean,37.54,126.98,kore1284,Koreanic,TRUE,TRUE
+Korean,D3,Place,asia,chǒgi|chǒgie,1,9,3,9,Korean,kore1280,Korean,37.54,126.98,kore1284,Koreanic,TRUE,TRUE
+Korean,D3,Source,asia,chǒgiesǒ,3,9,3,9,Korean,kore1280,Korean,37.54,126.98,kore1284,Koreanic,TRUE,TRUE
+Koyra Chiini,D1,Goal,africa,nee,3,3,3,9,Koyra Chiini Songhay,koyr1240,Koyra Chiini Songhay,16.192,-3.73962,song1307,Songhay,TRUE,TRUE
+Koyra Chiini,D1,Place,africa,nee,3,3,3,9,Koyra Chiini Songhay,koyr1240,Koyra Chiini Songhay,16.192,-3.73962,song1307,Songhay,TRUE,TRUE
+Koyra Chiini,D1,Source,africa,nee,3,3,3,9,Koyra Chiini Songhay,koyr1240,Koyra Chiini Songhay,16.192,-3.73962,song1307,Songhay,TRUE,TRUE
+Koyra Chiini,D2,Goal,africa,doodi|dooti,1,3,3,9,Koyra Chiini Songhay,koyr1240,Koyra Chiini Songhay,16.192,-3.73962,song1307,Songhay,TRUE,TRUE
+Koyra Chiini,D2,Place,africa,doodi|dooti,1,3,3,9,Koyra Chiini Songhay,koyr1240,Koyra Chiini Songhay,16.192,-3.73962,song1307,Songhay,TRUE,TRUE
+Koyra Chiini,D2,Source,africa,doodi|dooti,1,3,3,9,Koyra Chiini Songhay,koyr1240,Koyra Chiini Songhay,16.192,-3.73962,song1307,Songhay,TRUE,TRUE
+Koyra Chiini,D3,Goal,africa,hentu,2,3,3,9,Koyra Chiini Songhay,koyr1240,Koyra Chiini Songhay,16.192,-3.73962,song1307,Songhay,TRUE,TRUE
+Koyra Chiini,D3,Place,africa,hentu,2,3,3,9,Koyra Chiini Songhay,koyr1240,Koyra Chiini Songhay,16.192,-3.73962,song1307,Songhay,TRUE,TRUE
+Koyra Chiini,D3,Source,africa,hentu,2,3,3,9,Koyra Chiini Songhay,koyr1240,Koyra Chiini Songhay,16.192,-3.73962,song1307,Songhay,TRUE,TRUE
+Koyraboro Senni,D1,Goal,africa,nee|nee ra,2,4,4,12,Koyraboro Senni Songhai,koyr1242,Koyraboro Senni Songhai,16.9634,-0.55187,song1307,Songhay,TRUE,TRUE
+Koyraboro Senni,D1,Place,africa,nee|nee ra,2,4,4,12,Koyraboro Senni Songhai,koyr1242,Koyraboro Senni Songhai,16.9634,-0.55187,song1307,Songhay,TRUE,TRUE
+Koyraboro Senni,D1,Source,africa,nee|nee ra,2,4,4,12,Koyraboro Senni Songhai,koyr1242,Koyraboro Senni Songhai,16.9634,-0.55187,song1307,Songhay,TRUE,TRUE
+Koyraboro Senni,D2,Goal,africa,noŋgoo woo|noŋgoo woo ra|noŋguroo woo|noŋguroo woo ra,3,4,4,12,Koyraboro Senni Songhai,koyr1242,Koyraboro Senni Songhai,16.9634,-0.55187,song1307,Songhay,TRUE,TRUE
+Koyraboro Senni,D2,Place,africa,noŋgoo woo|noŋgoo woo ra|noŋguroo woo|noŋguroo woo ra,3,4,4,12,Koyraboro Senni Songhai,koyr1242,Koyraboro Senni Songhai,16.9634,-0.55187,song1307,Songhay,TRUE,TRUE
+Koyraboro Senni,D2,Source,africa,noŋgoo woo|noŋgoo woo ra|noŋguroo woo|noŋguroo woo ra,3,4,4,12,Koyraboro Senni Songhai,koyr1242,Koyraboro Senni Songhai,16.9634,-0.55187,song1307,Songhay,TRUE,TRUE
+Koyraboro Senni,D3,Goal,africa,noo din|noo din la|noŋgoo din|noŋgoo din la|noŋguroo din|noŋguroo din la,4,4,4,12,Koyraboro Senni Songhai,koyr1242,Koyraboro Senni Songhai,16.9634,-0.55187,song1307,Songhay,TRUE,TRUE
+Koyraboro Senni,D3,Place,africa,noo din|noo din la|noŋgoo din|noŋgoo din la|noŋguroo din|noŋguroo din la,4,4,4,12,Koyraboro Senni Songhai,koyr1242,Koyraboro Senni Songhai,16.9634,-0.55187,song1307,Songhay,TRUE,TRUE
+Koyraboro Senni,D3,Source,africa,noo din|noo din la|noŋgoo din|noŋgoo din la|noŋguroo din|noŋguroo din la,4,4,4,12,Koyraboro Senni Songhai,koyr1242,Koyraboro Senni Songhai,16.9634,-0.55187,song1307,Songhay,TRUE,TRUE
+Koyraboro Senni,D4,Goal,africa,hendi|henti|hetti,1,4,4,12,Koyraboro Senni Songhai,koyr1242,Koyraboro Senni Songhai,16.9634,-0.55187,song1307,Songhay,TRUE,TRUE
+Koyraboro Senni,D4,Place,africa,hendi|henti|hetti,1,4,4,12,Koyraboro Senni Songhai,koyr1242,Koyraboro Senni Songhai,16.9634,-0.55187,song1307,Songhay,TRUE,TRUE
+Koyraboro Senni,D4,Source,africa,hendi|henti|hetti,1,4,4,12,Koyraboro Senni Songhai,koyr1242,Koyraboro Senni Songhai,16.9634,-0.55187,song1307,Songhay,TRUE,TRUE
+Koḍava,D1,Goal,asia,ittati|ittï,6,6,2,6,Kodava,koda1255,Kodava,12.2443,75.9161,drav1251,Dravidian,TRUE,TRUE
+Koḍava,D1,Place,asia,illi,4,6,2,6,Kodava,koda1255,Kodava,12.2443,75.9161,drav1251,Dravidian,TRUE,TRUE
+Koḍava,D1,Source,asia,illinji,5,6,2,6,Kodava,koda1255,Kodava,12.2443,75.9161,drav1251,Dravidian,TRUE,TRUE
+Koḍava,D2,Goal,asia,attati|attï,3,6,2,6,Kodava,koda1255,Kodava,12.2443,75.9161,drav1251,Dravidian,TRUE,TRUE
+Koḍava,D2,Place,asia,alli,1,6,2,6,Kodava,koda1255,Kodava,12.2443,75.9161,drav1251,Dravidian,TRUE,TRUE
+Koḍava,D2,Source,asia,allinji,2,6,2,6,Kodava,koda1255,Kodava,12.2443,75.9161,drav1251,Dravidian,TRUE,TRUE
+Kumeyaay,D1,Goal,americas,k|vək,2,6,2,6,Ipai,ipai1240,Ipai,33.005,-116.993,coch1271,Cochimi-Yuman,TRUE,TRUE
+Kumeyaay,D1,Place,americas,puy,6,6,2,6,Ipai,ipai1240,Ipai,33.005,-116.993,coch1271,Cochimi-Yuman,TRUE,TRUE
+Kumeyaay,D1,Source,americas,m|vəm,3,6,2,6,Ipai,ipai1240,Ipai,33.005,-116.993,coch1271,Cochimi-Yuman,TRUE,TRUE
+Kumeyaay,D2,Goal,americas,pamv|pum,4,6,2,6,Ipai,ipai1240,Ipai,33.005,-116.993,coch1271,Cochimi-Yuman,TRUE,TRUE
+Kumeyaay,D2,Place,americas,pav|puyi,5,6,2,6,Ipai,ipai1240,Ipai,33.005,-116.993,coch1271,Cochimi-Yuman,TRUE,TRUE
+Kumeyaay,D2,Source,americas,k|m|puk|vək|vəm,1,6,2,6,Ipai,ipai1240,Ipai,33.005,-116.993,coch1271,Cochimi-Yuman,TRUE,TRUE
+"Kuna, Border",D1,Goal,americas,itibal|itigin,4,8,4,12,Border Kuna,bord1248,Border Kuna,7.92993,-77.1664,chib1249,Chibchan,TRUE,FALSE
+"Kuna, Border",D1,Place,americas,itibal|itigin,4,8,4,12,Border Kuna,bord1248,Border Kuna,7.92993,-77.1664,chib1249,Chibchan,TRUE,FALSE
+"Kuna, Border",D1,Source,americas,itiakar,3,8,4,12,Border Kuna,bord1248,Border Kuna,7.92993,-77.1664,chib1249,Chibchan,TRUE,FALSE
+"Kuna, Border",D2,Goal,americas,webal|wegin,8,8,4,12,Border Kuna,bord1248,Border Kuna,7.92993,-77.1664,chib1249,Chibchan,TRUE,FALSE
+"Kuna, Border",D2,Place,americas,webal|wegin,8,8,4,12,Border Kuna,bord1248,Border Kuna,7.92993,-77.1664,chib1249,Chibchan,TRUE,FALSE
+"Kuna, Border",D2,Source,americas,weakar,7,8,4,12,Border Kuna,bord1248,Border Kuna,7.92993,-77.1664,chib1249,Chibchan,TRUE,FALSE
+"Kuna, Border",D3,Goal,americas,agal|agin,2,8,4,12,Border Kuna,bord1248,Border Kuna,7.92993,-77.1664,chib1249,Chibchan,TRUE,FALSE
+"Kuna, Border",D3,Place,americas,agal|agin,2,8,4,12,Border Kuna,bord1248,Border Kuna,7.92993,-77.1664,chib1249,Chibchan,TRUE,FALSE
+"Kuna, Border",D3,Source,americas,aakar,1,8,4,12,Border Kuna,bord1248,Border Kuna,7.92993,-77.1664,chib1249,Chibchan,TRUE,FALSE
+"Kuna, Border",D4,Goal,americas,tegin|tenal,6,8,4,12,Border Kuna,bord1248,Border Kuna,7.92993,-77.1664,chib1249,Chibchan,TRUE,FALSE
+"Kuna, Border",D4,Place,americas,tegin|tenal,6,8,4,12,Border Kuna,bord1248,Border Kuna,7.92993,-77.1664,chib1249,Chibchan,TRUE,FALSE
+"Kuna, Border",D4,Source,americas,teakar,5,8,4,12,Border Kuna,bord1248,Border Kuna,7.92993,-77.1664,chib1249,Chibchan,TRUE,FALSE
+Lamut,D1,Goal,asia,ərtəki|əwəski,3,6,2,6,Even,even1260,Even,70.6687,130.914,tung1282,Tungusic,TRUE,TRUE
+Lamut,D1,Place,asia,ələ̅,1,6,2,6,Even,even1260,Even,70.6687,130.914,tung1282,Tungusic,TRUE,TRUE
+Lamut,D1,Source,asia,ərgic,2,6,2,6,Even,even1260,Even,70.6687,130.914,tung1282,Tungusic,TRUE,TRUE
+Lamut,D2,Goal,asia,tartaki|tawaski,6,6,2,6,Even,even1260,Even,70.6687,130.914,tung1282,Tungusic,TRUE,TRUE
+Lamut,D2,Place,asia,tala,4,6,2,6,Even,even1260,Even,70.6687,130.914,tung1282,Tungusic,TRUE,TRUE
+Lamut,D2,Source,asia,targic,5,6,2,6,Even,even1260,Even,70.6687,130.914,tung1282,Tungusic,TRUE,TRUE
+Lango,D1,Goal,africa,kan,5,6,3,9,Lango (Uganda),lang1324,Lango (Uganda),2.13867,33.0553,nilo1247,Nilotic,TRUE,FALSE
+Lango,D1,Place,africa,kan,5,6,3,9,Lango (Uganda),lang1324,Lango (Uganda),2.13867,33.0553,nilo1247,Nilotic,TRUE,FALSE
+Lango,D1,Source,africa,i kan,2,6,3,9,Lango (Uganda),lang1324,Lango (Uganda),2.13867,33.0553,nilo1247,Nilotic,TRUE,FALSE
+Lango,D2,Goal,africa,kuno,6,6,3,9,Lango (Uganda),lang1324,Lango (Uganda),2.13867,33.0553,nilo1247,Nilotic,TRUE,FALSE
+Lango,D2,Place,africa,kuno,6,6,3,9,Lango (Uganda),lang1324,Lango (Uganda),2.13867,33.0553,nilo1247,Nilotic,TRUE,FALSE
+Lango,D2,Source,africa,i kuno,3,6,3,9,Lango (Uganda),lang1324,Lango (Uganda),2.13867,33.0553,nilo1247,Nilotic,TRUE,FALSE
+Lango,D3,Goal,africa,kaca|kuca,4,6,3,9,Lango (Uganda),lang1324,Lango (Uganda),2.13867,33.0553,nilo1247,Nilotic,TRUE,FALSE
+Lango,D3,Place,africa,kaca|kuca,4,6,3,9,Lango (Uganda),lang1324,Lango (Uganda),2.13867,33.0553,nilo1247,Nilotic,TRUE,FALSE
+Lango,D3,Source,africa,i kaca|i kuca,1,6,3,9,Lango (Uganda),lang1324,Lango (Uganda),2.13867,33.0553,nilo1247,Nilotic,TRUE,FALSE
+Latvian,D1,Goal,europe,uz šejieni|šurp,6,6,2,6,Latvian,latv1249,Latvian,56.826108,24.309118,indo1319,Indo-European,TRUE,TRUE
+Latvian,D1,Place,europe,šeit,3,6,2,6,Latvian,latv1249,Latvian,56.826108,24.309118,indo1319,Indo-European,TRUE,TRUE
+Latvian,D1,Source,europe,no šejienes,1,6,2,6,Latvian,latv1249,Latvian,56.826108,24.309118,indo1319,Indo-European,TRUE,TRUE
+Latvian,D2,Goal,europe,tur|turp|uz turieni,5,6,2,6,Latvian,latv1249,Latvian,56.826108,24.309118,indo1319,Indo-European,TRUE,TRUE
+Latvian,D2,Place,europe,tur,4,6,2,6,Latvian,latv1249,Latvian,56.826108,24.309118,indo1319,Indo-European,TRUE,TRUE
+Latvian,D2,Source,europe,no turienes,2,6,2,6,Latvian,latv1249,Latvian,56.826108,24.309118,indo1319,Indo-European,TRUE,TRUE
+"Lenca, Honduran",D1,Goal,americas,nap,5,6,3,9,Lenca-Honduras,lenc1242,Lenca-Honduras,13.667338,-87.49878,lenc1239,Lencan,TRUE,FALSE
+"Lenca, Honduran",D1,Place,americas,nap,5,6,3,9,Lenca-Honduras,lenc1242,Lenca-Honduras,13.667338,-87.49878,lenc1239,Lencan,TRUE,FALSE
+"Lenca, Honduran",D1,Source,americas,nap nam,6,6,3,9,Lenca-Honduras,lenc1242,Lenca-Honduras,13.667338,-87.49878,lenc1239,Lencan,TRUE,FALSE
+"Lenca, Honduran",D2,Goal,americas,inap,3,6,3,9,Lenca-Honduras,lenc1242,Lenca-Honduras,13.667338,-87.49878,lenc1239,Lencan,TRUE,FALSE
+"Lenca, Honduran",D2,Place,americas,inap,3,6,3,9,Lenca-Honduras,lenc1242,Lenca-Honduras,13.667338,-87.49878,lenc1239,Lencan,TRUE,FALSE
+"Lenca, Honduran",D2,Source,americas,inap nam,4,6,3,9,Lenca-Honduras,lenc1242,Lenca-Honduras,13.667338,-87.49878,lenc1239,Lencan,TRUE,FALSE
+"Lenca, Honduran",D3,Goal,americas,anap,1,6,3,9,Lenca-Honduras,lenc1242,Lenca-Honduras,13.667338,-87.49878,lenc1239,Lencan,TRUE,FALSE
+"Lenca, Honduran",D3,Place,americas,anap,1,6,3,9,Lenca-Honduras,lenc1242,Lenca-Honduras,13.667338,-87.49878,lenc1239,Lencan,TRUE,FALSE
+"Lenca, Honduran",D3,Source,americas,anap nam,2,6,3,9,Lenca-Honduras,lenc1242,Lenca-Honduras,13.667338,-87.49878,lenc1239,Lencan,TRUE,FALSE
+Lezgian,D1,Goal,europe,iniz|íniqh,6,6,2,6,Lezgian,lezg1247,Lezgian,41.5157,47.8951,nakh1245,Nakh-Daghestanian,TRUE,TRUE
+Lezgian,D1,Place,europe,ina|inal,4,6,2,6,Lezgian,lezg1247,Lezgian,41.5157,47.8951,nakh1245,Nakh-Daghestanian,TRUE,TRUE
+Lezgian,D1,Source,europe,inaj|inlaj,5,6,2,6,Lezgian,lezg1247,Lezgian,41.5157,47.8951,nakh1245,Nakh-Daghestanian,TRUE,TRUE
+Lezgian,D2,Goal,europe,aniqh|aniz|haniz,3,6,2,6,Lezgian,lezg1247,Lezgian,41.5157,47.8951,nakh1245,Nakh-Daghestanian,TRUE,TRUE
+Lezgian,D2,Place,europe,ana|anal|hana|hanal,1,6,2,6,Lezgian,lezg1247,Lezgian,41.5157,47.8951,nakh1245,Nakh-Daghestanian,TRUE,TRUE
+Lezgian,D2,Source,europe,anaj|anlaj|hanlaj,2,6,2,6,Lezgian,lezg1247,Lezgian,41.5157,47.8951,nakh1245,Nakh-Daghestanian,TRUE,TRUE
+Limbu,D1,Goal,asia,kɔtna|kɔɁo,4,8,3,9,Limbu,limb1266,Limbu,27.2703,87.8859,sino1245,Sino-Tibetan,FALSE,FALSE
+Limbu,D1,Place,asia,kɔɁo,5,8,3,9,Limbu,limb1266,Limbu,27.2703,87.8859,sino1245,Sino-Tibetan,FALSE,FALSE
+Limbu,D1,Source,asia,kɔɁolam|kɔɁonu,6,8,3,9,Limbu,limb1266,Limbu,27.2703,87.8859,sino1245,Sino-Tibetan,FALSE,FALSE
+Limbu,D2,Goal,asia,khɛtna|khɛɁo,1,8,3,9,Limbu,limb1266,Limbu,27.2703,87.8859,sino1245,Sino-Tibetan,FALSE,FALSE
+Limbu,D2,Place,asia,khɛɁo,2,8,3,9,Limbu,limb1266,Limbu,27.2703,87.8859,sino1245,Sino-Tibetan,FALSE,FALSE
+Limbu,D2,Source,asia,khɛɁolam|khɛɁonu,3,8,3,9,Limbu,limb1266,Limbu,27.2703,87.8859,sino1245,Sino-Tibetan,FALSE,FALSE
+Limbu,D3,Goal,asia,na,7,8,3,9,Limbu,limb1266,Limbu,27.2703,87.8859,sino1245,Sino-Tibetan,FALSE,FALSE
+Limbu,D3,Place,asia,na,7,8,3,9,Limbu,limb1266,Limbu,27.2703,87.8859,sino1245,Sino-Tibetan,FALSE,FALSE
+Limbu,D3,Source,asia,nanu,8,8,3,9,Limbu,limb1266,Limbu,27.2703,87.8859,sino1245,Sino-Tibetan,FALSE,FALSE
+Lithuanian,D1,Goal,europe,i̜ čià|čià,2,6,2,6,Lithuanian,lith1251,Lithuanian,55.1429,23.9601,indo1319,Indo-European,TRUE,TRUE
+Lithuanian,D1,Place,europe,čià,1,6,2,6,Lithuanian,lith1251,Lithuanian,55.1429,23.9601,indo1319,Indo-European,TRUE,TRUE
+Lithuanian,D1,Source,europe,iš čià|nuo čià,4,6,2,6,Lithuanian,lith1251,Lithuanian,55.1429,23.9601,indo1319,Indo-European,TRUE,TRUE
+Lithuanian,D2,Goal,europe,i̜ teñ|teñ,3,6,2,6,Lithuanian,lith1251,Lithuanian,55.1429,23.9601,indo1319,Indo-European,TRUE,TRUE
+Lithuanian,D2,Place,europe,teñ,6,6,2,6,Lithuanian,lith1251,Lithuanian,55.1429,23.9601,indo1319,Indo-European,TRUE,TRUE
+Lithuanian,D2,Source,europe,iš teñ|nuo teñ,5,6,2,6,Lithuanian,lith1251,Lithuanian,55.1429,23.9601,indo1319,Indo-European,TRUE,TRUE
+Loma,D1,Goal,africa,vɛ,2,2,2,6,Loma (Liberia),loma1260,Loma (Liberia),7.91585,-9.69906,mand1469,Mande,TRUE,TRUE
+Loma,D1,Place,africa,vɛ,2,2,2,6,Loma (Liberia),loma1260,Loma (Liberia),7.91585,-9.69906,mand1469,Mande,TRUE,TRUE
+Loma,D1,Source,africa,vɛ,2,2,2,6,Loma (Liberia),loma1260,Loma (Liberia),7.91585,-9.69906,mand1469,Mande,TRUE,TRUE
+Loma,D2,Goal,africa,munu|na,1,2,2,6,Loma (Liberia),loma1260,Loma (Liberia),7.91585,-9.69906,mand1469,Mande,TRUE,TRUE
+Loma,D2,Place,africa,munu|na,1,2,2,6,Loma (Liberia),loma1260,Loma (Liberia),7.91585,-9.69906,mand1469,Mande,TRUE,TRUE
+Loma,D2,Source,africa,munu|na,1,2,2,6,Loma (Liberia),loma1260,Loma (Liberia),7.91585,-9.69906,mand1469,Mande,TRUE,TRUE
+Low German,D1,Goal,europe,hier na to|hier up to|hierhen|hierher|na hier|na hier to|na hier up to|na hierhen|up hier to,5,6,2,6,Eastern Low German,nort2627,Eastern Low German,53.115373,12.391439,indo1319,Indo-European,TRUE,TRUE
+Low German,D1,Place,europe,hier,4,6,2,6,Eastern Low German,nort2627,Eastern Low German,53.115373,12.391439,indo1319,Indo-European,TRUE,TRUE
+Low German,D1,Source,europe,hier weg|hierher|hiervun|hiervun af|vun hier|vun hier weg,6,6,2,6,Eastern Low German,nort2627,Eastern Low German,53.115373,12.391439,indo1319,Indo-European,TRUE,TRUE
+Low German,D2,Goal,europe,daar na to|daar up to|daarhen|na daar|na daar to|na daar up to|up daar to,2,6,2,6,Eastern Low German,nort2627,Eastern Low German,53.115373,12.391439,indo1319,Indo-European,TRUE,TRUE
+Low German,D2,Place,europe,daar,1,6,2,6,Eastern Low German,nort2627,Eastern Low German,53.115373,12.391439,indo1319,Indo-European,TRUE,TRUE
+Low German,D2,Source,europe,daar weg|daarher|daarvun|daarvun af|vun daar|vun dar af,3,6,2,6,Eastern Low German,nort2627,Eastern Low German,53.115373,12.391439,indo1319,Indo-European,TRUE,TRUE
+Maale,D1,Goal,africa,haka|hangé|haní|hayika,2,5,2,6,Male (Ethiopia),male1284,Male (Ethiopia),5.91975,36.9892,gong1255,Ta-Ne-Omotic,FALSE,FALSE
+Maale,D1,Place,africa,haika|haka|hayika,1,5,2,6,Male (Ethiopia),male1284,Male (Ethiopia),5.91975,36.9892,gong1255,Ta-Ne-Omotic,FALSE,FALSE
+Maale,D1,Source,africa,hakáppa|hayikáppa,3,5,2,6,Male (Ethiopia),male1284,Male (Ethiopia),5.91975,36.9892,gong1255,Ta-Ne-Omotic,FALSE,FALSE
+Maale,D2,Goal,africa,yeka|Ɂiika,4,5,2,6,Male (Ethiopia),male1284,Male (Ethiopia),5.91975,36.9892,gong1255,Ta-Ne-Omotic,FALSE,FALSE
+Maale,D2,Place,africa,yeka|Ɂiika,4,5,2,6,Male (Ethiopia),male1284,Male (Ethiopia),5.91975,36.9892,gong1255,Ta-Ne-Omotic,FALSE,FALSE
+Maale,D2,Source,africa,yekáppa|Ɂiikáppa,5,5,2,6,Male (Ethiopia),male1284,Male (Ethiopia),5.91975,36.9892,gong1255,Ta-Ne-Omotic,FALSE,FALSE
+Macedonian,D1,Goal,europe,na vamu|ovde|ovdeka|tuka|vamu,2,9,3,9,Macedonian,mace1250,Macedonian,41.5957,21.7932,indo1319,Indo-European,TRUE,TRUE
+Macedonian,D1,Place,europe,ovde|ovdeka|tuka,8,9,3,9,Macedonian,mace1250,Macedonian,41.5957,21.7932,indo1319,Indo-European,TRUE,TRUE
+Macedonian,D1,Source,europe,od tuka|odovde,5,9,3,9,Macedonian,mace1250,Macedonian,41.5957,21.7932,indo1319,Indo-European,TRUE,TRUE
+Macedonian,D2,Goal,europe,na tamu|tamu,1,9,3,9,Macedonian,mace1250,Macedonian,41.5957,21.7932,indo1319,Indo-European,TRUE,TRUE
+Macedonian,D2,Place,europe,tamu,9,9,3,9,Macedonian,mace1250,Macedonian,41.5957,21.7932,indo1319,Indo-European,TRUE,TRUE
+Macedonian,D2,Source,europe,otade|ottamu,7,9,3,9,Macedonian,mace1250,Macedonian,41.5957,21.7932,indo1319,Indo-European,TRUE,TRUE
+Macedonian,D3,Goal,europe,natamu,3,9,3,9,Macedonian,mace1250,Macedonian,41.5957,21.7932,indo1319,Indo-European,TRUE,TRUE
+Macedonian,D3,Place,europe,onamu,6,9,3,9,Macedonian,mace1250,Macedonian,41.5957,21.7932,indo1319,Indo-European,TRUE,TRUE
+Macedonian,D3,Source,europe,od onamu|ottamu,4,9,3,9,Macedonian,mace1250,Macedonian,41.5957,21.7932,indo1319,Indo-European,TRUE,TRUE
+Malagasy,D1,Goal,africa,etỳ|etỳ|èto|èto,6,6,3,9,Plateau Malagasy,plat1254,Plateau Malagasy,-19.5907,47.1211,aust1307,Austronesian,FALSE,FALSE
+Malagasy,D1,Place,africa,etỳ|etỳ|èto|èto,6,6,3,9,Plateau Malagasy,plat1254,Plateau Malagasy,-19.5907,47.1211,aust1307,Austronesian,FALSE,FALSE
+Malagasy,D1,Source,africa,etỳ|etỳ|èto|èto,6,6,3,9,Plateau Malagasy,plat1254,Plateau Malagasy,-19.5907,47.1211,aust1307,Austronesian,FALSE,FALSE
+Malagasy,D2,Goal,africa,eo|eo,2,6,3,9,Plateau Malagasy,plat1254,Plateau Malagasy,-19.5907,47.1211,aust1307,Austronesian,FALSE,FALSE
+Malagasy,D2,Place,africa,eo|eo|etsy|etsy,3,6,3,9,Plateau Malagasy,plat1254,Plateau Malagasy,-19.5907,47.1211,aust1307,Austronesian,FALSE,FALSE
+Malagasy,D2,Source,africa,eo|eo,2,6,3,9,Plateau Malagasy,plat1254,Plateau Malagasy,-19.5907,47.1211,aust1307,Austronesian,FALSE,FALSE
+Malagasy,D3,Goal,africa,erỳ|erỳ|èny|èny,5,6,3,9,Plateau Malagasy,plat1254,Plateau Malagasy,-19.5907,47.1211,aust1307,Austronesian,FALSE,FALSE
+Malagasy,D3,Place,africa,eroa|eroa|erỳ|erỳ|èny|èny,4,6,3,9,Plateau Malagasy,plat1254,Plateau Malagasy,-19.5907,47.1211,aust1307,Austronesian,FALSE,FALSE
+Malagasy,D3,Source,africa,eny|eny|erỳ|erỳ,1,6,3,9,Plateau Malagasy,plat1254,Plateau Malagasy,-19.5907,47.1211,aust1307,Austronesian,FALSE,FALSE
+Malayalam,D1,Goal,asia,iviTe,3,4,2,6,Malayalam,mala1464,Malayalam,9.59208,76.7651,drav1251,Dravidian,TRUE,FALSE
+Malayalam,D1,Place,asia,iviTe,3,4,2,6,Malayalam,mala1464,Malayalam,9.59208,76.7651,drav1251,Dravidian,TRUE,FALSE
+Malayalam,D1,Source,asia,iviTe ninnE,4,4,2,6,Malayalam,mala1464,Malayalam,9.59208,76.7651,drav1251,Dravidian,TRUE,FALSE
+Malayalam,D2,Goal,asia,aviTe,1,4,2,6,Malayalam,mala1464,Malayalam,9.59208,76.7651,drav1251,Dravidian,TRUE,FALSE
+Malayalam,D2,Place,asia,aviTe,1,4,2,6,Malayalam,mala1464,Malayalam,9.59208,76.7651,drav1251,Dravidian,TRUE,FALSE
+Malayalam,D2,Source,asia,aviTe ninnE,2,4,2,6,Malayalam,mala1464,Malayalam,9.59208,76.7651,drav1251,Dravidian,TRUE,FALSE
+Maltese,D1,Goal,europe,hawn,1,4,2,6,Maltese,malt1254,Maltese,35.8884,14.4508,afro1255,Afro-Asiatic,TRUE,FALSE
+Maltese,D1,Place,europe,hawn,1,4,2,6,Maltese,malt1254,Maltese,35.8884,14.4508,afro1255,Afro-Asiatic,TRUE,FALSE
+Maltese,D1,Source,europe,minn hawn,3,4,2,6,Maltese,malt1254,Maltese,35.8884,14.4508,afro1255,Afro-Asiatic,TRUE,FALSE
+Maltese,D2,Goal,europe,hemm,2,4,2,6,Maltese,malt1254,Maltese,35.8884,14.4508,afro1255,Afro-Asiatic,TRUE,FALSE
+Maltese,D2,Place,europe,hemm,2,4,2,6,Maltese,malt1254,Maltese,35.8884,14.4508,afro1255,Afro-Asiatic,TRUE,FALSE
+Maltese,D2,Source,europe,minn hemm,4,4,2,6,Maltese,malt1254,Maltese,35.8884,14.4508,afro1255,Afro-Asiatic,TRUE,FALSE
+Mambay,D1,Goal,africa,[]ǹ|[]ìn|hîn|hîn kǎʾ,1,4,2,6,Mambai,mamb1294,Mambai,9.6121,14.0013,atla1278,Atlantic-Congo,TRUE,FALSE
+Mambay,D1,Place,africa,kǎʾ,2,4,2,6,Mambai,mamb1294,Mambai,9.6121,14.0013,atla1278,Atlantic-Congo,TRUE,FALSE
+Mambay,D1,Source,africa,kǎʾ,2,4,2,6,Mambai,mamb1294,Mambai,9.6121,14.0013,atla1278,Atlantic-Congo,TRUE,FALSE
+Mambay,D2,Goal,africa,vè|vòró|vòró kǔ̹ʾ|vòró kôʾ,4,4,2,6,Mambai,mamb1294,Mambai,9.6121,14.0013,atla1278,Atlantic-Congo,TRUE,FALSE
+Mambay,D2,Place,africa,kǔ̹ʾ|kôʾ,3,4,2,6,Mambai,mamb1294,Mambai,9.6121,14.0013,atla1278,Atlantic-Congo,TRUE,FALSE
+Mambay,D2,Source,africa,kǔ̹ʾ|kôʾ,3,4,2,6,Mambai,mamb1294,Mambai,9.6121,14.0013,atla1278,Atlantic-Congo,TRUE,FALSE
+Manchu,D1,Goal,asia,ebsi|ubade,2,6,2,6,Manchu,manc1252,Manchu,47.31225,126.55713,tung1282,Tungusic,TRUE,TRUE
+Manchu,D1,Place,asia,ubade,6,6,2,6,Manchu,manc1252,Manchu,47.31225,126.55713,tung1282,Tungusic,TRUE,TRUE
+Manchu,D1,Source,asia,ubaci,5,6,2,6,Manchu,manc1252,Manchu,47.31225,126.55713,tung1282,Tungusic,TRUE,TRUE
+Manchu,D2,Goal,asia,casi|tubade,1,6,2,6,Manchu,manc1252,Manchu,47.31225,126.55713,tung1282,Tungusic,TRUE,TRUE
+Manchu,D2,Place,asia,tubade,4,6,2,6,Manchu,manc1252,Manchu,47.31225,126.55713,tung1282,Tungusic,TRUE,TRUE
+Manchu,D2,Source,asia,tubaci,3,6,2,6,Manchu,manc1252,Manchu,47.31225,126.55713,tung1282,Tungusic,TRUE,TRUE
+Maori,D1,Goal,oceania,ki konei|mai,5,9,3,9,Maori,maor1246,Maori,-38.2881,176.541,aust1307,Austronesian,TRUE,TRUE
+Maori,D1,Place,oceania,i konei,2,9,3,9,Maori,maor1246,Maori,-38.2881,176.541,aust1307,Austronesian,TRUE,TRUE
+Maori,D1,Source,oceania,mei konei,8,9,3,9,Maori,maor1246,Maori,-38.2881,176.541,aust1307,Austronesian,TRUE,TRUE
+Maori,D2,Goal,oceania,ki kō,4,9,3,9,Maori,maor1246,Maori,-38.2881,176.541,aust1307,Austronesian,TRUE,TRUE
+Maori,D2,Place,oceania,i kō,1,9,3,9,Maori,maor1246,Maori,-38.2881,176.541,aust1307,Austronesian,TRUE,TRUE
+Maori,D2,Source,oceania,mei kō,7,9,3,9,Maori,maor1246,Maori,-38.2881,176.541,aust1307,Austronesian,TRUE,TRUE
+Maori,D3,Goal,oceania,ki reira,6,9,3,9,Maori,maor1246,Maori,-38.2881,176.541,aust1307,Austronesian,TRUE,TRUE
+Maori,D3,Place,oceania,i reira,3,9,3,9,Maori,maor1246,Maori,-38.2881,176.541,aust1307,Austronesian,TRUE,TRUE
+Maori,D3,Source,oceania,mei reira,9,9,3,9,Maori,maor1246,Maori,-38.2881,176.541,aust1307,Austronesian,TRUE,TRUE
+Mapudungun,D1,Goal,americas,tüfa mew|tüfá pülé,3,9,3,9,Mapudungun,mapu1245,Mapudungun,-38.7392,-71.277,arau1255,Araucanian,TRUE,TRUE
+Mapudungun,D1,Place,americas,tüfa|tüfa mew,4,9,3,9,Mapudungun,mapu1245,Mapudungun,-38.7392,-71.277,arau1255,Araucanian,TRUE,TRUE
+Mapudungun,D1,Source,americas,tüfa mew,2,9,3,9,Mapudungun,mapu1245,Mapudungun,-38.7392,-71.277,arau1255,Araucanian,TRUE,TRUE
+Mapudungun,D2,Goal,americas,üyew,8,9,3,9,Mapudungun,mapu1245,Mapudungun,-38.7392,-71.277,arau1255,Araucanian,TRUE,TRUE
+Mapudungun,D2,Place,americas,feymew|üyew,1,9,3,9,Mapudungun,mapu1245,Mapudungun,-38.7392,-71.277,arau1255,Araucanian,TRUE,TRUE
+Mapudungun,D2,Source,americas,üyew püle,9,9,3,9,Mapudungun,mapu1245,Mapudungun,-38.7392,-71.277,arau1255,Araucanian,TRUE,TRUE
+Mapudungun,D3,Goal,americas,tüfey mew,5,9,3,9,Mapudungun,mapu1245,Mapudungun,-38.7392,-71.277,arau1255,Araucanian,TRUE,TRUE
+Mapudungun,D3,Place,americas,tüfey mew|tüyemew|tüyew,6,9,3,9,Mapudungun,mapu1245,Mapudungun,-38.7392,-71.277,arau1255,Araucanian,TRUE,TRUE
+Mapudungun,D3,Source,americas,tüfey mew|tüyew püle,7,9,3,9,Mapudungun,mapu1245,Mapudungun,-38.7392,-71.277,arau1255,Araucanian,TRUE,TRUE
+Martuthunira,D1,Goal,oceania,yilangu,4,6,2,6,Martuthunira,mart1255,Martuthunira,-20.9294,116.607,pama1250,Pama-Nyungan,TRUE,TRUE
+Martuthunira,D1,Place,oceania,yilangu|yilarla|yilarni,5,6,2,6,Martuthunira,mart1255,Martuthunira,-20.9294,116.607,pama1250,Pama-Nyungan,TRUE,TRUE
+Martuthunira,D1,Source,oceania,yilangunguru,6,6,2,6,Martuthunira,mart1255,Martuthunira,-20.9294,116.607,pama1250,Pama-Nyungan,TRUE,TRUE
+Martuthunira,D2,Goal,oceania,ngulangu|ngulangumulyarra,1,6,2,6,Martuthunira,mart1255,Martuthunira,-20.9294,116.607,pama1250,Pama-Nyungan,TRUE,TRUE
+Martuthunira,D2,Place,oceania,ngulangu|ngularla|ngularni,2,6,2,6,Martuthunira,mart1255,Martuthunira,-20.9294,116.607,pama1250,Pama-Nyungan,TRUE,TRUE
+Martuthunira,D2,Source,oceania,ngulangunguru|ngulanguru|ngularni,3,6,2,6,Martuthunira,mart1255,Martuthunira,-20.9294,116.607,pama1250,Pama-Nyungan,TRUE,TRUE
+Menya,D1,Goal,oceania,täqiŋqä,5,6,2,6,Menya,meny1245,Menya,-7.17425,146.071,anga1289,Angan,TRUE,TRUE
+Menya,D1,Place,oceania,täqi|täuun,4,6,2,6,Menya,meny1245,Menya,-7.17425,146.071,anga1289,Angan,TRUE,TRUE
+Menya,D1,Source,oceania,täqita,6,6,2,6,Menya,meny1245,Menya,-7.17425,146.071,anga1289,Angan,TRUE,TRUE
+Menya,D2,Goal,oceania,iqiŋqä,2,6,2,6,Menya,meny1245,Menya,-7.17425,146.071,anga1289,Angan,TRUE,TRUE
+Menya,D2,Place,oceania,iqi,1,6,2,6,Menya,meny1245,Menya,-7.17425,146.071,anga1289,Angan,TRUE,TRUE
+Menya,D2,Source,oceania,iqita|itaŋi,3,6,2,6,Menya,meny1245,Menya,-7.17425,146.071,anga1289,Angan,TRUE,TRUE
+Miya,D1,Goal,africa,ʾíykən,4,4,2,6,Miya,miya1266,Miya,10.923400000000001,9.71505,afro1255,Afro-Asiatic,TRUE,FALSE
+Miya,D1,Place,africa,ʾíykən,4,4,2,6,Miya,miya1266,Miya,10.923400000000001,9.71505,afro1255,Afro-Asiatic,TRUE,FALSE
+Miya,D1,Source,africa,áa ʾíykən,2,4,2,6,Miya,miya1266,Miya,10.923400000000001,9.71505,afro1255,Afro-Asiatic,TRUE,FALSE
+Miya,D2,Goal,africa,ʾíyka,3,4,2,6,Miya,miya1266,Miya,10.923400000000001,9.71505,afro1255,Afro-Asiatic,TRUE,FALSE
+Miya,D2,Place,africa,ʾíyka,3,4,2,6,Miya,miya1266,Miya,10.923400000000001,9.71505,afro1255,Afro-Asiatic,TRUE,FALSE
+Miya,D2,Source,africa,áa ʾíyka,1,4,2,6,Miya,miya1266,Miya,10.923400000000001,9.71505,afro1255,Afro-Asiatic,TRUE,FALSE
+Movima,D1,Goal,americas,ney|neyru,3,4,3,9,Movima,movi1243,Movima,-13.8115,-65.6348,NA,isolate,FALSE,FALSE
+Movima,D1,Place,americas,ney|neyru,3,4,3,9,Movima,movi1243,Movima,-13.8115,-65.6348,NA,isolate,FALSE,FALSE
+Movima,D1,Source,americas,ney|neyru,3,4,3,9,Movima,movi1243,Movima,-13.8115,-65.6348,NA,isolate,FALSE,FALSE
+Movima,D2,Goal,americas,nosde,4,4,3,9,Movima,movi1243,Movima,-13.8115,-65.6348,NA,isolate,FALSE,FALSE
+Movima,D2,Place,americas,nosde,4,4,3,9,Movima,movi1243,Movima,-13.8115,-65.6348,NA,isolate,FALSE,FALSE
+Movima,D2,Source,americas,nosde,4,4,3,9,Movima,movi1243,Movima,-13.8115,-65.6348,NA,isolate,FALSE,FALSE
+Movima,D3,Goal,americas,nakal,1,4,3,9,Movima,movi1243,Movima,-13.8115,-65.6348,NA,isolate,FALSE,FALSE
+Movima,D3,Place,americas,nakal|nokode|nokolde,2,4,3,9,Movima,movi1243,Movima,-13.8115,-65.6348,NA,isolate,FALSE,FALSE
+Movima,D3,Source,americas,nakal,1,4,3,9,Movima,movi1243,Movima,-13.8115,-65.6348,NA,isolate,FALSE,FALSE
+Mualang,D1,Goal,asia,kitu’,9,9,3,9,Mualang,mual1241,Mualang,0.31083,111.077,aust1307,Austronesian,TRUE,TRUE
+Mualang,D1,Place,asia,ditu’,6,9,3,9,Mualang,mual1241,Mualang,0.31083,111.077,aust1307,Austronesian,TRUE,TRUE
+Mualang,D1,Source,asia,ari tu’,3,9,3,9,Mualang,mual1241,Mualang,0.31083,111.077,aust1307,Austronesian,TRUE,TRUE
+Mualang,D2,Goal,asia,kia’,7,9,3,9,Mualang,mual1241,Mualang,0.31083,111.077,aust1307,Austronesian,TRUE,TRUE
+Mualang,D2,Place,asia,dia’,4,9,3,9,Mualang,mual1241,Mualang,0.31083,111.077,aust1307,Austronesian,TRUE,TRUE
+Mualang,D2,Source,asia,ari dia’|ari ia’|ari nya’,1,9,3,9,Mualang,mual1241,Mualang,0.31083,111.077,aust1307,Austronesian,TRUE,TRUE
+Mualang,D3,Goal,asia,kin,8,9,3,9,Mualang,mual1241,Mualang,0.31083,111.077,aust1307,Austronesian,TRUE,TRUE
+Mualang,D3,Place,asia,din,5,9,3,9,Mualang,mual1241,Mualang,0.31083,111.077,aust1307,Austronesian,TRUE,TRUE
+Mualang,D3,Source,asia,ari nyin,2,9,3,9,Mualang,mual1241,Mualang,0.31083,111.077,aust1307,Austronesian,TRUE,TRUE
+Mundari,D1,Goal,asia,nete,9,9,3,9,Mundari,mund1320,Mundari,23.03,85.85,aust1305,Austroasiatic,TRUE,TRUE
+Mundari,D1,Place,asia,nere,8,9,3,9,Mundari,mund1320,Mundari,23.03,85.85,aust1305,Austroasiatic,TRUE,TRUE
+Mundari,D1,Source,asia,neate,7,9,3,9,Mundari,mund1320,Mundari,23.03,85.85,aust1305,Austroasiatic,TRUE,TRUE
+Mundari,D2,Goal,asia,ente,3,9,3,9,Mundari,mund1320,Mundari,23.03,85.85,aust1305,Austroasiatic,TRUE,TRUE
+Mundari,D2,Place,asia,enre,2,9,3,9,Mundari,mund1320,Mundari,23.03,85.85,aust1305,Austroasiatic,TRUE,TRUE
+Mundari,D2,Source,asia,enate,1,9,3,9,Mundari,mund1320,Mundari,23.03,85.85,aust1305,Austroasiatic,TRUE,TRUE
+Mundari,D3,Goal,asia,hante,6,9,3,9,Mundari,mund1320,Mundari,23.03,85.85,aust1305,Austroasiatic,TRUE,TRUE
+Mundari,D3,Place,asia,hanre,5,9,3,9,Mundari,mund1320,Mundari,23.03,85.85,aust1305,Austroasiatic,TRUE,TRUE
+Mundari,D3,Source,asia,hanete,4,9,3,9,Mundari,mund1320,Mundari,23.03,85.85,aust1305,Austroasiatic,TRUE,TRUE
+Munukutuba,D1,Goal,africa,awa,1,4,2,6,Kituba,kitu1246,Kituba (Democratic Republic of Congo),-2.29601,17.1548,atla1278,Atlantic-Congo,TRUE,FALSE
+Munukutuba,D1,Place,africa,awa,1,4,2,6,Kituba,kitu1246,Kituba (Democratic Republic of Congo),-2.29601,17.1548,atla1278,Atlantic-Congo,TRUE,FALSE
+Munukutuba,D1,Source,africa,awa|tuka awa,2,4,2,6,Kituba,kitu1246,Kituba (Democratic Republic of Congo),-2.29601,17.1548,atla1278,Atlantic-Congo,TRUE,FALSE
+Munukutuba,D2,Goal,africa,kuna,3,4,2,6,Kituba,kitu1246,Kituba (Democratic Republic of Congo),-2.29601,17.1548,atla1278,Atlantic-Congo,TRUE,FALSE
+Munukutuba,D2,Place,africa,kuna,3,4,2,6,Kituba,kitu1246,Kituba (Democratic Republic of Congo),-2.29601,17.1548,atla1278,Atlantic-Congo,TRUE,FALSE
+Munukutuba,D2,Source,africa,kuna|tuka kuna,4,4,2,6,Kituba,kitu1246,Kituba (Democratic Republic of Congo),-2.29601,17.1548,atla1278,Atlantic-Congo,TRUE,FALSE
+Mutsun,D1,Goal,americas,ni,4,9,4,12,Mutsun,muts1243,Mutsun,36.84721,-121.44911,miwo1274,Miwok-Costanoan,FALSE,FALSE
+Mutsun,D1,Place,americas,ni,4,9,4,12,Mutsun,muts1243,Mutsun,36.84721,-121.44911,miwo1274,Miwok-Costanoan,FALSE,FALSE
+Mutsun,D1,Source,americas,niitum|niyaatum,5,9,4,12,Mutsun,muts1243,Mutsun,36.84721,-121.44911,miwo1274,Miwok-Costanoan,FALSE,FALSE
+Mutsun,D2,Goal,americas,pina,6,9,4,12,Mutsun,muts1243,Mutsun,36.84721,-121.44911,miwo1274,Miwok-Costanoan,FALSE,FALSE
+Mutsun,D2,Place,americas,pina,6,9,4,12,Mutsun,muts1243,Mutsun,36.84721,-121.44911,miwo1274,Miwok-Costanoan,FALSE,FALSE
+Mutsun,D2,Source,americas,pinaatum,7,9,4,12,Mutsun,muts1243,Mutsun,36.84721,-121.44911,miwo1274,Miwok-Costanoan,FALSE,FALSE
+Mutsun,D3,Goal,americas,tina,8,9,4,12,Mutsun,muts1243,Mutsun,36.84721,-121.44911,miwo1274,Miwok-Costanoan,FALSE,FALSE
+Mutsun,D3,Place,americas,tina,8,9,4,12,Mutsun,muts1243,Mutsun,36.84721,-121.44911,miwo1274,Miwok-Costanoan,FALSE,FALSE
+Mutsun,D3,Source,americas,tinatum,9,9,4,12,Mutsun,muts1243,Mutsun,36.84721,-121.44911,miwo1274,Miwok-Costanoan,FALSE,FALSE
+Mutsun,D4,Goal,americas,nahan|nuhu,2,9,4,12,Mutsun,muts1243,Mutsun,36.84721,-121.44911,miwo1274,Miwok-Costanoan,FALSE,FALSE
+Mutsun,D4,Place,americas,iti|nahan|nuhu,1,9,4,12,Mutsun,muts1243,Mutsun,36.84721,-121.44911,miwo1274,Miwok-Costanoan,FALSE,FALSE
+Mutsun,D4,Source,americas,nahantum|nuhuutum,3,9,4,12,Mutsun,muts1243,Mutsun,36.84721,-121.44911,miwo1274,Miwok-Costanoan,FALSE,FALSE
+"Nahuatl, Guerrero",D1,Goal,americas,nican,1,2,2,6,Central Guerrero Nahuatl,guer1241,Central Guerrero Nahuatl,17.8583,-99.0023,utoa1244,Uto-Aztecan,TRUE,TRUE
+"Nahuatl, Guerrero",D1,Place,americas,nican,1,2,2,6,Central Guerrero Nahuatl,guer1241,Central Guerrero Nahuatl,17.8583,-99.0023,utoa1244,Uto-Aztecan,TRUE,TRUE
+"Nahuatl, Guerrero",D1,Source,americas,nican,1,2,2,6,Central Guerrero Nahuatl,guer1241,Central Guerrero Nahuatl,17.8583,-99.0023,utoa1244,Uto-Aztecan,TRUE,TRUE
+"Nahuatl, Guerrero",D2,Goal,americas,ompa,2,2,2,6,Central Guerrero Nahuatl,guer1241,Central Guerrero Nahuatl,17.8583,-99.0023,utoa1244,Uto-Aztecan,TRUE,TRUE
+"Nahuatl, Guerrero",D2,Place,americas,ompa,2,2,2,6,Central Guerrero Nahuatl,guer1241,Central Guerrero Nahuatl,17.8583,-99.0023,utoa1244,Uto-Aztecan,TRUE,TRUE
+"Nahuatl, Guerrero",D2,Source,americas,ompa,2,2,2,6,Central Guerrero Nahuatl,guer1241,Central Guerrero Nahuatl,17.8583,-99.0023,utoa1244,Uto-Aztecan,TRUE,TRUE
+Nez Perce,D1,Goal,americas,kinímpx|kínepx,3,6,2,6,Nez Perce,nezp1238,Nez Perce,46.3073,-116.408,saha1239,Sahaptian,TRUE,TRUE
+Nez Perce,D1,Place,americas,kinímpe|kíne,2,6,2,6,Nez Perce,nezp1238,Nez Perce,46.3073,-116.408,saha1239,Sahaptian,TRUE,TRUE
+Nez Perce,D1,Source,americas,kíneme|kínix,1,6,2,6,Nez Perce,nezp1238,Nez Perce,46.3073,-116.408,saha1239,Sahaptian,TRUE,TRUE
+Nez Perce,D2,Goal,americas,konápx|konímpx,6,6,2,6,Nez Perce,nezp1238,Nez Perce,46.3073,-116.408,saha1239,Sahaptian,TRUE,TRUE
+Nez Perce,D2,Place,americas,konapkí|koná|konímpa,5,6,2,6,Nez Perce,nezp1238,Nez Perce,46.3073,-116.408,saha1239,Sahaptian,TRUE,TRUE
+Nez Perce,D2,Source,americas,konamá|koníx,4,6,2,6,Nez Perce,nezp1238,Nez Perce,46.3073,-116.408,saha1239,Sahaptian,TRUE,TRUE
+Ngizim,D1,Goal,africa,ii rii tku,8,9,3,9,Ngizim,ngiz1242,Ngizim,12.1051,11.0178,afro1255,Afro-Asiatic,TRUE,TRUE
+Ngizim,D1,Place,africa,aa rii tku,2,9,3,9,Ngizim,ngiz1242,Ngizim,12.1051,11.0178,afro1255,Afro-Asiatic,TRUE,TRUE
+Ngizim,D1,Source,africa,da rii tku,5,9,3,9,Ngizim,ngiz1242,Ngizim,12.1051,11.0178,afro1255,Afro-Asiatic,TRUE,TRUE
+Ngizim,D2,Goal,africa,ii rii tiyu,7,9,3,9,Ngizim,ngiz1242,Ngizim,12.1051,11.0178,afro1255,Afro-Asiatic,TRUE,TRUE
+Ngizim,D2,Place,africa,aa rii tiyu,1,9,3,9,Ngizim,ngiz1242,Ngizim,12.1051,11.0178,afro1255,Afro-Asiatic,TRUE,TRUE
+Ngizim,D2,Source,africa,da rii tiyu,4,9,3,9,Ngizim,ngiz1242,Ngizim,12.1051,11.0178,afro1255,Afro-Asiatic,TRUE,TRUE
+Ngizim,D3,Goal,africa,ii riyu,9,9,3,9,Ngizim,ngiz1242,Ngizim,12.1051,11.0178,afro1255,Afro-Asiatic,TRUE,TRUE
+Ngizim,D3,Place,africa,aa riyu,3,9,3,9,Ngizim,ngiz1242,Ngizim,12.1051,11.0178,afro1255,Afro-Asiatic,TRUE,TRUE
+Ngizim,D3,Source,africa,da riyu,6,9,3,9,Ngizim,ngiz1242,Ngizim,12.1051,11.0178,afro1255,Afro-Asiatic,TRUE,TRUE
+"Nicobarese, Car",D1,Goal,asia,hih|ihih,1,4,2,6,Car Nicobarese,carn1240,Car Nicobarese,9.18853,92.7671,aust1305,Austroasiatic,TRUE,FALSE
+"Nicobarese, Car",D1,Place,asia,hih|ihih,1,4,2,6,Car Nicobarese,carn1240,Car Nicobarese,9.18853,92.7671,aust1305,Austroasiatic,TRUE,FALSE
+"Nicobarese, Car",D1,Source,asia,hih|ihih|ṙamaang hih|ṙamaang ihih|ṙeūeung hih|ṙeūeung ihih|ṙāang hih|ṙāang ihih,2,4,2,6,Car Nicobarese,carn1240,Car Nicobarese,9.18853,92.7671,aust1305,Austroasiatic,TRUE,FALSE
+"Nicobarese, Car",D2,Goal,asia,muh|umuh,3,4,2,6,Car Nicobarese,carn1240,Car Nicobarese,9.18853,92.7671,aust1305,Austroasiatic,TRUE,FALSE
+"Nicobarese, Car",D2,Place,asia,muh|umuh,3,4,2,6,Car Nicobarese,carn1240,Car Nicobarese,9.18853,92.7671,aust1305,Austroasiatic,TRUE,FALSE
+"Nicobarese, Car",D2,Source,asia,muh|umuh|ṙamaang muh|ṙamaang umuh|ṙeūeung muh|ṙeūeung umuh|ṙāang muh|ṙāang umuh,4,4,2,6,Car Nicobarese,carn1240,Car Nicobarese,9.18853,92.7671,aust1305,Austroasiatic,TRUE,FALSE
+Nii,D1,Goal,oceania,ya|ya konu,6,6,2,6,Nii,niii1240,Nii,-5.763,144.518,nucl1709,Nuclear Trans New Guinea,TRUE,TRUE
+Nii,D1,Place,oceania,konu ei|ya|ya ełe|ya konu ełe,3,6,2,6,Nii,niii1240,Nii,-5.763,144.518,nucl1709,Nuclear Trans New Guinea,TRUE,TRUE
+Nii,D1,Source,oceania,konu ełe|orung ełe,5,6,2,6,Nii,niii1240,Nii,-5.763,144.518,nucl1709,Nuclear Trans New Guinea,TRUE,TRUE
+Nii,D2,Goal,oceania,konu ełe,4,6,2,6,Nii,niii1240,Nii,-5.763,144.518,nucl1709,Nuclear Trans New Guinea,TRUE,TRUE
+Nii,D2,Place,oceania,eł|konu|∅,1,6,2,6,Nii,niii1240,Nii,-5.763,144.518,nucl1709,Nuclear Trans New Guinea,TRUE,TRUE
+Nii,D2,Source,oceania,ełe|konu ełe,2,6,2,6,Nii,niii1240,Nii,-5.763,144.518,nucl1709,Nuclear Trans New Guinea,TRUE,TRUE
+Nobiin,D1,Goal,africa,ìndò|ínná,1,4,2,6,Nobiin,nobi1240,Nobiin,22.8142,31.8376,nubi1251,Nubian,TRUE,FALSE
+Nobiin,D1,Place,africa,ìndò|ínná,1,4,2,6,Nobiin,nobi1240,Nobiin,22.8142,31.8376,nubi1251,Nubian,TRUE,FALSE
+Nobiin,D1,Source,africa,ìndòtóon|ínnátóon,2,4,2,6,Nobiin,nobi1240,Nobiin,22.8142,31.8376,nubi1251,Nubian,TRUE,FALSE
+Nobiin,D2,Goal,africa,mándó,3,4,2,6,Nobiin,nobi1240,Nobiin,22.8142,31.8376,nubi1251,Nubian,TRUE,FALSE
+Nobiin,D2,Place,africa,mándó,3,4,2,6,Nobiin,nobi1240,Nobiin,22.8142,31.8376,nubi1251,Nubian,TRUE,FALSE
+Nobiin,D2,Source,africa,mándótóon,4,4,2,6,Nobiin,nobi1240,Nobiin,22.8142,31.8376,nubi1251,Nubian,TRUE,FALSE
+Norwegian,D1,Goal,europe,hit,6,6,2,6,Norwegian,norw1258,Norwegian,59.92,10.71,indo1319,Indo-European,TRUE,TRUE
+Norwegian,D1,Place,europe,her,4,6,2,6,Norwegian,norw1258,Norwegian,59.92,10.71,indo1319,Indo-European,TRUE,TRUE
+Norwegian,D1,Source,europe,herfra,5,6,2,6,Norwegian,norw1258,Norwegian,59.92,10.71,indo1319,Indo-European,TRUE,TRUE
+Norwegian,D2,Goal,europe,dit,3,6,2,6,Norwegian,norw1258,Norwegian,59.92,10.71,indo1319,Indo-European,TRUE,TRUE
+Norwegian,D2,Place,europe,der,1,6,2,6,Norwegian,norw1258,Norwegian,59.92,10.71,indo1319,Indo-European,TRUE,TRUE
+Norwegian,D2,Source,europe,derfra,2,6,2,6,Norwegian,norw1258,Norwegian,59.92,10.71,indo1319,Indo-European,TRUE,TRUE
+Old Church Slavonic,D1,Goal,europe,sêmo,8,12,4,12,Church Slavic,chur1257,Church Slavic,43.7171,22.8442,indo1319,Indo-European,TRUE,TRUE
+Old Church Slavonic,D1,Place,europe,sъde,10,12,4,12,Church Slavic,chur1257,Church Slavic,43.7171,22.8442,indo1319,Indo-European,TRUE,TRUE
+Old Church Slavonic,D1,Source,europe,sotъ kǫdu|sǫdê|sǫdu,9,12,4,12,Church Slavic,chur1257,Church Slavic,43.7171,22.8442,indo1319,Indo-European,TRUE,TRUE
+Old Church Slavonic,D2,Goal,europe,tamo,11,12,4,12,Church Slavic,chur1257,Church Slavic,43.7171,22.8442,indo1319,Indo-European,TRUE,TRUE
+Old Church Slavonic,D2,Place,europe,tu,12,12,4,12,Church Slavic,chur1257,Church Slavic,43.7171,22.8442,indo1319,Indo-European,TRUE,TRUE
+Old Church Slavonic,D2,Source,europe,otъ kǫdu|tǫdê|tǫdu,4,12,4,12,Church Slavic,chur1257,Church Slavic,43.7171,22.8442,indo1319,Indo-European,TRUE,TRUE
+Old Church Slavonic,D3,Goal,europe,ovamo,5,12,4,12,Church Slavic,chur1257,Church Slavic,43.7171,22.8442,indo1319,Indo-European,TRUE,TRUE
+Old Church Slavonic,D3,Place,europe,ovъde,7,12,4,12,Church Slavic,chur1257,Church Slavic,43.7171,22.8442,indo1319,Indo-European,TRUE,TRUE
+Old Church Slavonic,D3,Source,europe,ovǫdu,6,12,4,12,Church Slavic,chur1257,Church Slavic,43.7171,22.8442,indo1319,Indo-European,TRUE,TRUE
+Old Church Slavonic,D4,Goal,europe,onamo,1,12,4,12,Church Slavic,chur1257,Church Slavic,43.7171,22.8442,indo1319,Indo-European,TRUE,TRUE
+Old Church Slavonic,D4,Place,europe,onъde,3,12,4,12,Church Slavic,chur1257,Church Slavic,43.7171,22.8442,indo1319,Indo-European,TRUE,TRUE
+Old Church Slavonic,D4,Source,europe,onǫdu,2,12,4,12,Church Slavic,chur1257,Church Slavic,43.7171,22.8442,indo1319,Indo-European,TRUE,TRUE
+Osage,D1,Goal,americas,thega,4,5,2,6,Osage,osag1243,Osage,36.7828,-96.2949,siou1252,Siouan,FALSE,FALSE
+Osage,D1,Place,americas,thega,4,5,2,6,Osage,osag1243,Osage,36.7828,-96.2949,siou1252,Siouan,FALSE,FALSE
+Osage,D1,Source,americas,thégaṭon,5,5,2,6,Osage,osag1243,Osage,36.7828,-96.2949,siou1252,Siouan,FALSE,FALSE
+Osage,D2,Goal,americas,dsi|et̥a´,1,5,2,6,Osage,osag1243,Osage,36.7828,-96.2949,siou1252,Siouan,FALSE,FALSE
+Osage,D2,Place,americas,dsi|kshedsi,2,5,2,6,Osage,osag1243,Osage,36.7828,-96.2949,siou1252,Siouan,FALSE,FALSE
+Osage,D2,Source,americas,edsi´ṭon,3,5,2,6,Osage,osag1243,Osage,36.7828,-96.2949,siou1252,Siouan,FALSE,FALSE
+Ostyak,D1,Goal,asia,tək|təɣ|təɣəpä,4,6,2,6,Kazym-Berezover-Suryskarer Khanty,khan1273,Kazym-Berezover-Suryskarer Khanty,62.4308,66.1218,ural1272,Uralic,TRUE,TRUE
+Ostyak,D1,Place,asia,tim tăɣi͜nə̑|tət,6,6,2,6,Kazym-Berezover-Suryskarer Khanty,khan1273,Kazym-Berezover-Suryskarer Khanty,62.4308,66.1218,ural1272,Uralic,TRUE,TRUE
+Ostyak,D1,Source,asia,təltöɣ|xtəlpilt,5,6,2,6,Kazym-Berezover-Suryskarer Khanty,khan1273,Kazym-Berezover-Suryskarer Khanty,62.4308,66.1218,ural1272,Uralic,TRUE,TRUE
+Ostyak,D2,Goal,asia,taɣə̑pa|tŏɣ|tŏɣə̑pa,2,6,2,6,Kazym-Berezover-Suryskarer Khanty,khan1273,Kazym-Berezover-Suryskarer Khanty,62.4308,66.1218,ural1272,Uralic,TRUE,TRUE
+Ostyak,D2,Place,asia,ta|tat,1,6,2,6,Kazym-Berezover-Suryskarer Khanty,khan1273,Kazym-Berezover-Suryskarer Khanty,62.4308,66.1218,ural1272,Uralic,TRUE,TRUE
+Ostyak,D2,Source,asia,taltoɣ|taltə̑ɣ|tŏltə̑ɣ,3,6,2,6,Kazym-Berezover-Suryskarer Khanty,khan1273,Kazym-Berezover-Suryskarer Khanty,62.4308,66.1218,ural1272,Uralic,TRUE,TRUE
+"Otomí, Sierra",D1,Goal,americas,cua|gua|ua|ua ja,2,3,3,9,East Highland Otomi,east2556,Eastern Highland Otomi,20.5991,-98.0978,otom1299,Otomanguean,TRUE,TRUE
+"Otomí, Sierra",D1,Place,americas,cua|gua|ua|ua ja,2,3,3,9,East Highland Otomi,east2556,Eastern Highland Otomi,20.5991,-98.0978,otom1299,Otomanguean,TRUE,TRUE
+"Otomí, Sierra",D1,Source,americas,cua|gua|ua|ua ja,2,3,3,9,East Highland Otomi,east2556,Eastern Highland Otomi,20.5991,-98.0978,otom1299,Otomanguean,TRUE,TRUE
+"Otomí, Sierra",D2,Goal,americas,nu|nu ja|yu,3,3,3,9,East Highland Otomi,east2556,Eastern Highland Otomi,20.5991,-98.0978,otom1299,Otomanguean,TRUE,TRUE
+"Otomí, Sierra",D2,Place,americas,nu|nu ja|yu,3,3,3,9,East Highland Otomi,east2556,Eastern Highland Otomi,20.5991,-98.0978,otom1299,Otomanguean,TRUE,TRUE
+"Otomí, Sierra",D2,Source,americas,nu|nu ja|yu,3,3,3,9,East Highland Otomi,east2556,Eastern Highland Otomi,20.5991,-98.0978,otom1299,Otomanguean,TRUE,TRUE
+"Otomí, Sierra",D3,Goal,americas,bu|bu ja|pu,1,3,3,9,East Highland Otomi,east2556,Eastern Highland Otomi,20.5991,-98.0978,otom1299,Otomanguean,TRUE,TRUE
+"Otomí, Sierra",D3,Place,americas,bu|bu ja|pu,1,3,3,9,East Highland Otomi,east2556,Eastern Highland Otomi,20.5991,-98.0978,otom1299,Otomanguean,TRUE,TRUE
+"Otomí, Sierra",D3,Source,americas,bu|bu ja|pu,1,3,3,9,East Highland Otomi,east2556,Eastern Highland Otomi,20.5991,-98.0978,otom1299,Otomanguean,TRUE,TRUE
+Panjabi,D1,Goal,asia,aidhara|aithē|ēdhara|ēthē,1,6,2,6,Eastern Panjabi,panj1256,Eastern Panjabi,30.0368,75.6702,indo1319,Indo-European,TRUE,TRUE
+Panjabi,D1,Place,asia,aithē|ēthē,2,6,2,6,Eastern Panjabi,panj1256,Eastern Panjabi,30.0368,75.6702,indo1319,Indo-European,TRUE,TRUE
+Panjabi,D1,Source,asia,aithōṁ|ēthōṁ,3,6,2,6,Eastern Panjabi,panj1256,Eastern Panjabi,30.0368,75.6702,indo1319,Indo-European,TRUE,TRUE
+Panjabi,D2,Goal,asia,uthē|ōdhara,5,6,2,6,Eastern Panjabi,panj1256,Eastern Panjabi,30.0368,75.6702,indo1319,Indo-European,TRUE,TRUE
+Panjabi,D2,Place,asia,uthē,4,6,2,6,Eastern Panjabi,panj1256,Eastern Panjabi,30.0368,75.6702,indo1319,Indo-European,TRUE,TRUE
+Panjabi,D2,Source,asia,uthōṁ,6,6,2,6,Eastern Panjabi,panj1256,Eastern Panjabi,30.0368,75.6702,indo1319,Indo-European,TRUE,TRUE
+Parecís,D1,Goal,americas,ali,1,4,2,6,Parecís,pare1272,Parecís,-14.5929,-57.4059,araw1281,Arawakan,TRUE,FALSE
+Parecís,D1,Place,americas,ali,1,4,2,6,Parecís,pare1272,Parecís,-14.5929,-57.4059,araw1281,Arawakan,TRUE,FALSE
+Parecís,D1,Source,americas,alita,2,4,2,6,Parecís,pare1272,Parecís,-14.5929,-57.4059,araw1281,Arawakan,TRUE,FALSE
+Parecís,D2,Goal,americas,nali,3,4,2,6,Parecís,pare1272,Parecís,-14.5929,-57.4059,araw1281,Arawakan,TRUE,FALSE
+Parecís,D2,Place,americas,nali,3,4,2,6,Parecís,pare1272,Parecís,-14.5929,-57.4059,araw1281,Arawakan,TRUE,FALSE
+Parecís,D2,Source,americas,nalita,4,4,2,6,Parecís,pare1272,Parecís,-14.5929,-57.4059,araw1281,Arawakan,TRUE,FALSE
+Penange,D1,Goal,africa,nùwn,2,2,2,6,Penange,pena1270,Penange,14.38,-4.03,dogo1299,Dogon,TRUE,TRUE
+Penange,D1,Place,africa,nùwn,2,2,2,6,Penange,pena1270,Penange,14.38,-4.03,dogo1299,Dogon,TRUE,TRUE
+Penange,D1,Source,africa,nùwn,2,2,2,6,Penange,pena1270,Penange,14.38,-4.03,dogo1299,Dogon,TRUE,TRUE
+Penange,D2,Goal,africa,èmbà,1,2,2,6,Penange,pena1270,Penange,14.38,-4.03,dogo1299,Dogon,TRUE,TRUE
+Penange,D2,Place,africa,èmbà,1,2,2,6,Penange,pena1270,Penange,14.38,-4.03,dogo1299,Dogon,TRUE,TRUE
+Penange,D2,Source,africa,èmbà,1,2,2,6,Penange,pena1270,Penange,14.38,-4.03,dogo1299,Dogon,TRUE,TRUE
+Persian,D1,Goal,asia,be inja|inja,3,6,2,6,Western Farsi,west2369,Western Farsi,32.9,53.3,indo1319,Indo-European,TRUE,TRUE
+Persian,D1,Place,asia,inja,5,6,2,6,Western Farsi,west2369,Western Farsi,32.9,53.3,indo1319,Indo-European,TRUE,TRUE
+Persian,D1,Source,asia,æz inja,1,6,2,6,Western Farsi,west2369,Western Farsi,32.9,53.3,indo1319,Indo-European,TRUE,TRUE
+Persian,D2,Goal,asia,be unja|unja,4,6,2,6,Western Farsi,west2369,Western Farsi,32.9,53.3,indo1319,Indo-European,TRUE,TRUE
+Persian,D2,Place,asia,unja,6,6,2,6,Western Farsi,west2369,Western Farsi,32.9,53.3,indo1319,Indo-European,TRUE,TRUE
+Persian,D2,Source,asia,æz unja,2,6,2,6,Western Farsi,west2369,Western Farsi,32.9,53.3,indo1319,Indo-European,TRUE,TRUE
+Pipil,D1,Goal,americas,al|ka nikan|nikan|wal,1,4,3,9,Pipil,pipi1250,Pipil,13.8931,-89.443,utoa1244,Uto-Aztecan,FALSE,FALSE
+Pipil,D1,Place,americas,ka nikan|nikan,4,4,3,9,Pipil,pipi1250,Pipil,13.8931,-89.443,utoa1244,Uto-Aztecan,FALSE,FALSE
+Pipil,D1,Source,americas,ka nikan|nikan,4,4,3,9,Pipil,pipi1250,Pipil,13.8931,-89.443,utoa1244,Uto-Aztecan,FALSE,FALSE
+Pipil,D2,Goal,americas,ka né|né,3,4,3,9,Pipil,pipi1250,Pipil,13.8931,-89.443,utoa1244,Uto-Aztecan,FALSE,FALSE
+Pipil,D2,Place,americas,ka né|né,3,4,3,9,Pipil,pipi1250,Pipil,13.8931,-89.443,utoa1244,Uto-Aztecan,FALSE,FALSE
+Pipil,D2,Source,americas,ka né|né,3,4,3,9,Pipil,pipi1250,Pipil,13.8931,-89.443,utoa1244,Uto-Aztecan,FALSE,FALSE
+Pipil,D3,Goal,americas,ikuni|ka ikuni,2,4,3,9,Pipil,pipi1250,Pipil,13.8931,-89.443,utoa1244,Uto-Aztecan,FALSE,FALSE
+Pipil,D3,Place,americas,ikuni|ka ikuni,2,4,3,9,Pipil,pipi1250,Pipil,13.8931,-89.443,utoa1244,Uto-Aztecan,FALSE,FALSE
+Pipil,D3,Source,americas,ikuni|ka ikuni,2,4,3,9,Pipil,pipi1250,Pipil,13.8931,-89.443,utoa1244,Uto-Aztecan,FALSE,FALSE
+Pitjantjatjara,D1,Goal,oceania,nyangakutu,1,6,2,6,Pitjantjatjara,pitj1243,Pitjantjatjara,-26.9704,131.357,pama1250,Pama-Nyungan,TRUE,TRUE
+Pitjantjatjara,D1,Place,oceania,nyangangka|nyangatja,2,6,2,6,Pitjantjatjara,pitj1243,Pitjantjatjara,-26.9704,131.357,pama1250,Pama-Nyungan,TRUE,TRUE
+Pitjantjatjara,D1,Source,oceania,nyanganguru,3,6,2,6,Pitjantjatjara,pitj1243,Pitjantjatjara,-26.9704,131.357,pama1250,Pama-Nyungan,TRUE,TRUE
+Pitjantjatjara,D2,Goal,oceania,nyarakutu,4,6,2,6,Pitjantjatjara,pitj1243,Pitjantjatjara,-26.9704,131.357,pama1250,Pama-Nyungan,TRUE,TRUE
+Pitjantjatjara,D2,Place,oceania,nyarangka|nyaratja,5,6,2,6,Pitjantjatjara,pitj1243,Pitjantjatjara,-26.9704,131.357,pama1250,Pama-Nyungan,TRUE,TRUE
+Pitjantjatjara,D2,Source,oceania,palulanguru,6,6,2,6,Pitjantjatjara,pitj1243,Pitjantjatjara,-26.9704,131.357,pama1250,Pama-Nyungan,TRUE,TRUE
+Polish,D1,Goal,europe,tu|tutaj,4,4,2,6,Polish,poli1260,Polish,51.8439,18.6255,indo1319,Indo-European,TRUE,FALSE
+Polish,D1,Place,europe,tu|tutaj,4,4,2,6,Polish,poli1260,Polish,51.8439,18.6255,indo1319,Indo-European,TRUE,FALSE
+Polish,D1,Source,europe,stąd,1,4,2,6,Polish,poli1260,Polish,51.8439,18.6255,indo1319,Indo-European,TRUE,FALSE
+Polish,D2,Goal,europe,tam,3,4,2,6,Polish,poli1260,Polish,51.8439,18.6255,indo1319,Indo-European,TRUE,FALSE
+Polish,D2,Place,europe,tam,3,4,2,6,Polish,poli1260,Polish,51.8439,18.6255,indo1319,Indo-European,TRUE,FALSE
+Polish,D2,Source,europe,stamtąd,2,4,2,6,Polish,poli1260,Polish,51.8439,18.6255,indo1319,Indo-European,TRUE,FALSE
+"Quechua, Yauyos",D1,Goal,americas,asta kaykama|kaykama|kayman,1,9,3,9,Huangascar-Topara-Yauyos Quechua,yauy1235,Huangascar-Topara-Yauyos Quechua,-13.1144,-75.7659,quec1387,Quechuan,TRUE,TRUE
+"Quechua, Yauyos",D1,Place,americas,kaypa|kaypi,5,9,3,9,Huangascar-Topara-Yauyos Quechua,yauy1235,Huangascar-Topara-Yauyos Quechua,-13.1144,-75.7659,quec1387,Quechuan,TRUE,TRUE
+"Quechua, Yauyos",D1,Source,americas,kaypaq,6,9,3,9,Huangascar-Topara-Yauyos Quechua,yauy1235,Huangascar-Topara-Yauyos Quechua,-13.1144,-75.7659,quec1387,Quechuan,TRUE,TRUE
+"Quechua, Yauyos",D2,Goal,americas,chayman,2,9,3,9,Huangascar-Topara-Yauyos Quechua,yauy1235,Huangascar-Topara-Yauyos Quechua,-13.1144,-75.7659,quec1387,Quechuan,TRUE,TRUE
+"Quechua, Yauyos",D2,Place,americas,chaypa|chaypi,3,9,3,9,Huangascar-Topara-Yauyos Quechua,yauy1235,Huangascar-Topara-Yauyos Quechua,-13.1144,-75.7659,quec1387,Quechuan,TRUE,TRUE
+"Quechua, Yauyos",D2,Source,americas,chaypaq,4,9,3,9,Huangascar-Topara-Yauyos Quechua,yauy1235,Huangascar-Topara-Yauyos Quechua,-13.1144,-75.7659,quec1387,Quechuan,TRUE,TRUE
+"Quechua, Yauyos",D3,Goal,americas,wakman,7,9,3,9,Huangascar-Topara-Yauyos Quechua,yauy1235,Huangascar-Topara-Yauyos Quechua,-13.1144,-75.7659,quec1387,Quechuan,TRUE,TRUE
+"Quechua, Yauyos",D3,Place,americas,wakpa|wakpi,8,9,3,9,Huangascar-Topara-Yauyos Quechua,yauy1235,Huangascar-Topara-Yauyos Quechua,-13.1144,-75.7659,quec1387,Quechuan,TRUE,TRUE
+"Quechua, Yauyos",D3,Source,americas,wakpaq,9,9,3,9,Huangascar-Topara-Yauyos Quechua,yauy1235,Huangascar-Topara-Yauyos Quechua,-13.1144,-75.7659,quec1387,Quechuan,TRUE,TRUE
+Rawa,D1,Goal,oceania,ngano|ngasina,2,6,2,6,Rawa,rawa1267,Rawa,-5.83155,145.937,nucl1709,Nuclear Trans New Guinea,TRUE,TRUE
+Rawa,D1,Place,oceania,nga|ngano,1,6,2,6,Rawa,rawa1267,Rawa,-5.83155,145.937,nucl1709,Nuclear Trans New Guinea,TRUE,TRUE
+Rawa,D1,Source,oceania,nganonggo,3,6,2,6,Rawa,rawa1267,Rawa,-5.83155,145.937,nucl1709,Nuclear Trans New Guinea,TRUE,TRUE
+Rawa,D2,Goal,oceania,nguno|ngusina,5,6,2,6,Rawa,rawa1267,Rawa,-5.83155,145.937,nucl1709,Nuclear Trans New Guinea,TRUE,TRUE
+Rawa,D2,Place,oceania,ngu|nguno,4,6,2,6,Rawa,rawa1267,Rawa,-5.83155,145.937,nucl1709,Nuclear Trans New Guinea,TRUE,TRUE
+Rawa,D2,Source,oceania,ngunonggo|ngusinanggo,6,6,2,6,Rawa,rawa1267,Rawa,-5.83155,145.937,nucl1709,Nuclear Trans New Guinea,TRUE,TRUE
+"Romani, Moldovan",D1,Goal,europe,ordè,6,6,2,6,Balkan Romani,balk1252,Balkan Romani,42.67,21.17,indo1319,Indo-European,TRUE,TRUE
+"Romani, Moldovan",D1,Place,europe,katkà|kaćè,4,6,2,6,Balkan Romani,balk1252,Balkan Romani,42.67,21.17,indo1319,Indo-European,TRUE,TRUE
+"Romani, Moldovan",D1,Source,europe,kacàr|kathàr|katkàl|katkàr,3,6,2,6,Balkan Romani,balk1252,Balkan Romani,42.67,21.17,indo1319,Indo-European,TRUE,TRUE
+"Romani, Moldovan",D2,Goal,europe,int’à,1,6,2,6,Balkan Romani,balk1252,Balkan Romani,42.67,21.17,indo1319,Indo-European,TRUE,TRUE
+"Romani, Moldovan",D2,Place,europe,koćè|oćè,5,6,2,6,Balkan Romani,balk1252,Balkan Romani,42.67,21.17,indo1319,Indo-European,TRUE,TRUE
+"Romani, Moldovan",D2,Source,europe,int’à|kocàr|kothàr|ocàr|othàr,2,6,2,6,Balkan Romani,balk1252,Balkan Romani,42.67,21.17,indo1319,Indo-European,TRUE,TRUE
+Romanian,D1,Goal,europe,aici|încoace,4,6,2,6,Romanian,roma1327,Romanian,46.3913,24.2256,indo1319,Indo-European,TRUE,TRUE
+Romanian,D1,Place,europe,aici,3,6,2,6,Romanian,roma1327,Romanian,46.3913,24.2256,indo1319,Indo-European,TRUE,TRUE
+Romanian,D1,Source,europe,de aici,6,6,2,6,Romanian,roma1327,Romanian,46.3913,24.2256,indo1319,Indo-European,TRUE,TRUE
+Romanian,D2,Goal,europe,acolo|întracolo,2,6,2,6,Romanian,roma1327,Romanian,46.3913,24.2256,indo1319,Indo-European,TRUE,TRUE
+Romanian,D2,Place,europe,acolo,1,6,2,6,Romanian,roma1327,Romanian,46.3913,24.2256,indo1319,Indo-European,TRUE,TRUE
+Romanian,D2,Source,europe,de acolo,5,6,2,6,Romanian,roma1327,Romanian,46.3913,24.2256,indo1319,Indo-European,TRUE,TRUE
+Rotokas,D1,Goal,oceania,voo|voore|vore,6,6,2,6,Rotokas,roto1249,Rotokas,-5.94339,155.154,nort2933,North Bougainville,TRUE,TRUE
+Rotokas,D1,Place,oceania,vo|vo|voa|voo|vooia,4,6,2,6,Rotokas,roto1249,Rotokas,-5.94339,155.154,nort2933,North Bougainville,TRUE,TRUE
+Rotokas,D1,Source,oceania,voava|voova,5,6,2,6,Rotokas,roto1249,Rotokas,-5.94339,155.154,nort2933,North Bougainville,TRUE,TRUE
+Rotokas,D2,Goal,oceania,vavore,2,6,2,6,Rotokas,roto1249,Rotokas,-5.94339,155.154,nort2933,North Bougainville,TRUE,TRUE
+Rotokas,D2,Place,oceania,evoa|vavao|vavo|vavo|vavoisio|vavoiso,1,6,2,6,Rotokas,roto1249,Rotokas,-5.94339,155.154,nort2933,North Bougainville,TRUE,TRUE
+Rotokas,D2,Source,oceania,vavova,3,6,2,6,Rotokas,roto1249,Rotokas,-5.94339,155.154,nort2933,North Bougainville,TRUE,TRUE
+Rumantsch,D1,Goal,europe,fin qua|nà qua|qua,4,6,2,6,Romansh,roma1326,Romansh,46.5538,9.92812,indo1319,Indo-European,TRUE,TRUE
+Rumantsch,D1,Place,europe,qua,6,6,2,6,Romansh,roma1326,Romansh,46.5538,9.92812,indo1319,Indo-European,TRUE,TRUE
+Rumantsch,D1,Source,europe,da qua|da qua nà,3,6,2,6,Romansh,roma1326,Romansh,46.5538,9.92812,indo1319,Indo-European,TRUE,TRUE
+Rumantsch,D2,Goal,europe,da là vi|là|vi là,1,6,2,6,Romansh,roma1326,Romansh,46.5538,9.92812,indo1319,Indo-European,TRUE,TRUE
+Rumantsch,D2,Place,europe,là,5,6,2,6,Romansh,roma1326,Romansh,46.5538,9.92812,indo1319,Indo-European,TRUE,TRUE
+Rumantsch,D2,Source,europe,da là|da là nà,2,6,2,6,Romansh,roma1326,Romansh,46.5538,9.92812,indo1319,Indo-European,TRUE,TRUE
+Russian,D1,Goal,europe,sjuda,3,6,2,6,Russian,russ1263,Russian,59,50,indo1319,Indo-European,TRUE,TRUE
+Russian,D1,Place,europe,zdesʼ,6,6,2,6,Russian,russ1263,Russian,59,50,indo1319,Indo-European,TRUE,TRUE
+Russian,D1,Source,europe,otsjuda,1,6,2,6,Russian,russ1263,Russian,59,50,indo1319,Indo-European,TRUE,TRUE
+Russian,D2,Goal,europe,tuda,5,6,2,6,Russian,russ1263,Russian,59,50,indo1319,Indo-European,TRUE,TRUE
+Russian,D2,Place,europe,tam,4,6,2,6,Russian,russ1263,Russian,59,50,indo1319,Indo-European,TRUE,TRUE
+Russian,D2,Source,europe,ottuda,2,6,2,6,Russian,russ1263,Russian,59,50,indo1319,Indo-European,TRUE,TRUE
+Sa'a,D1,Goal,oceania,mäi,6,6,2,6,Sa'a,saaa1240,Sa'a,-9.60258,161.467,aust1307,Austronesian,TRUE,TRUE
+Sa'a,D1,Place,oceania,'ie|ile'u|ilehu|inihou,1,6,2,6,Sa'a,saaa1240,Sa'a,-9.60258,161.467,aust1307,Austronesian,TRUE,TRUE
+Sa'a,D1,Source,oceania,'ure ile'u|keikei ilehu|mwaani ilehu,2,6,2,6,Sa'a,saaa1240,Sa'a,-9.60258,161.467,aust1307,Austronesian,TRUE,TRUE
+Sa'a,D2,Goal,oceania,ileune|ileune h̹ao|ileune ta'e,5,6,2,6,Sa'a,saaa1240,Sa'a,-9.60258,161.467,aust1307,Austronesian,TRUE,TRUE
+Sa'a,D2,Place,oceania,ile'une|ilehuna|ileune|wäu,4,6,2,6,Sa'a,saaa1240,Sa'a,-9.60258,161.467,aust1307,Austronesian,TRUE,TRUE
+Sa'a,D2,Source,oceania,'urei ile'une|mwaanie ile'une,3,6,2,6,Sa'a,saaa1240,Sa'a,-9.60258,161.467,aust1307,Austronesian,TRUE,TRUE
+"Saami, Skolt",D1,Goal,europe,tiiʹǩ,4,6,3,9,Skolt Saami,skol1241,Skolt Saami,68.8326,29.7204,ural1272,Uralic,TRUE,FALSE
+"Saami, Skolt",D1,Place,europe,tääiʹb|tääiʹben,3,6,3,9,Skolt Saami,skol1241,Skolt Saami,68.8326,29.7204,ural1272,Uralic,TRUE,FALSE
+"Saami, Skolt",D1,Source,europe,tääiʹb|tääiʹben,3,6,3,9,Skolt Saami,skol1241,Skolt Saami,68.8326,29.7204,ural1272,Uralic,TRUE,FALSE
+"Saami, Skolt",D2,Goal,europe,tok,6,6,3,9,Skolt Saami,skol1241,Skolt Saami,68.8326,29.7204,ural1272,Uralic,TRUE,FALSE
+"Saami, Skolt",D2,Place,europe,toʹb|toʹben,5,6,3,9,Skolt Saami,skol1241,Skolt Saami,68.8326,29.7204,ural1272,Uralic,TRUE,FALSE
+"Saami, Skolt",D2,Source,europe,toʹb|toʹben,5,6,3,9,Skolt Saami,skol1241,Skolt Saami,68.8326,29.7204,ural1272,Uralic,TRUE,FALSE
+"Saami, Skolt",D3,Goal,europe,kookkas,1,6,3,9,Skolt Saami,skol1241,Skolt Saami,68.8326,29.7204,ural1272,Uralic,TRUE,FALSE
+"Saami, Skolt",D3,Place,europe,kuʹǩǩen,2,6,3,9,Skolt Saami,skol1241,Skolt Saami,68.8326,29.7204,ural1272,Uralic,TRUE,FALSE
+"Saami, Skolt",D3,Source,europe,kuʹǩǩen,2,6,3,9,Skolt Saami,skol1241,Skolt Saami,68.8326,29.7204,ural1272,Uralic,TRUE,FALSE
+Sahaptin,D1,Goal,americas,íchiini|íchin,2,6,2,6,Northwest Sahaptin,yaki1237,Northwest Sahaptin,46.2655,-120.756,saha1239,Sahaptian,TRUE,TRUE
+Sahaptin,D1,Place,americas,íchna|íchnak,3,6,2,6,Northwest Sahaptin,yaki1237,Northwest Sahaptin,46.2655,-120.756,saha1239,Sahaptian,TRUE,TRUE
+Sahaptin,D1,Source,americas,chínik,1,6,2,6,Northwest Sahaptin,yaki1237,Northwest Sahaptin,46.2655,-120.756,saha1239,Sahaptian,TRUE,TRUE
+Sahaptin,D2,Goal,americas,íkuuni|íkuunik|íkwin,4,6,2,6,Northwest Sahaptin,yaki1237,Northwest Sahaptin,46.2655,-120.756,saha1239,Sahaptian,TRUE,TRUE
+Sahaptin,D2,Place,americas,kwnak|íkwna|íkwnak,6,6,2,6,Northwest Sahaptin,yaki1237,Northwest Sahaptin,46.2655,-120.756,saha1239,Sahaptian,TRUE,TRUE
+Sahaptin,D2,Source,americas,kwínik,5,6,2,6,Northwest Sahaptin,yaki1237,Northwest Sahaptin,46.2655,-120.756,saha1239,Sahaptian,TRUE,TRUE
+Sango,D1,Goal,africa,ge|na ndo só,1,2,2,6,Sango,sang1328,Sango,6.78584,20.1702,atla1278,Atlantic-Congo,TRUE,TRUE
+Sango,D1,Place,africa,ge|na ndo só,1,2,2,6,Sango,sang1328,Sango,6.78584,20.1702,atla1278,Atlantic-Congo,TRUE,TRUE
+Sango,D1,Source,africa,ge|na ndo só,1,2,2,6,Sango,sang1328,Sango,6.78584,20.1702,atla1278,Atlantic-Congo,TRUE,TRUE
+Sango,D2,Goal,africa,ká,2,2,2,6,Sango,sang1328,Sango,6.78584,20.1702,atla1278,Atlantic-Congo,TRUE,TRUE
+Sango,D2,Place,africa,ká,2,2,2,6,Sango,sang1328,Sango,6.78584,20.1702,atla1278,Atlantic-Congo,TRUE,TRUE
+Sango,D2,Source,africa,ká,2,2,2,6,Sango,sang1328,Sango,6.78584,20.1702,atla1278,Atlantic-Congo,TRUE,TRUE
+Santali,D1,Goal,asia,nonḍe|nonḍe,4,6,3,9,Santali,sant1410,Santali,25.0317,87.8185,aust1305,Austroasiatic,TRUE,FALSE
+Santali,D1,Place,asia,nonḍe|nonḍe,4,6,3,9,Santali,sant1410,Santali,25.0317,87.8185,aust1305,Austroasiatic,TRUE,FALSE
+Santali,D1,Source,asia,nonḍe khon|nonḍe khon,3,6,3,9,Santali,sant1410,Santali,25.0317,87.8185,aust1305,Austroasiatic,TRUE,FALSE
+Santali,D2,Goal,asia,onḍe|onḍe,6,6,3,9,Santali,sant1410,Santali,25.0317,87.8185,aust1305,Austroasiatic,TRUE,FALSE
+Santali,D2,Place,asia,onḍe|onḍe,6,6,3,9,Santali,sant1410,Santali,25.0317,87.8185,aust1305,Austroasiatic,TRUE,FALSE
+Santali,D2,Source,asia,onḍe khon|onḍe khon,5,6,3,9,Santali,sant1410,Santali,25.0317,87.8185,aust1305,Austroasiatic,TRUE,FALSE
+Santali,D3,Goal,asia,hanḍe|hanḍe,2,6,3,9,Santali,sant1410,Santali,25.0317,87.8185,aust1305,Austroasiatic,TRUE,FALSE
+Santali,D3,Place,asia,hanḍe|hanḍe,2,6,3,9,Santali,sant1410,Santali,25.0317,87.8185,aust1305,Austroasiatic,TRUE,FALSE
+Santali,D3,Source,asia,hanḍe khon|hanḍe khon,1,6,3,9,Santali,sant1410,Santali,25.0317,87.8185,aust1305,Austroasiatic,TRUE,FALSE
+Savosavo,D1,Goal,oceania,ata,1,6,2,6,Savosavo,savo1255,Savosavo,-9.12853,159.814,NA,isolate,TRUE,TRUE
+Savosavo,D1,Place,oceania,ata|atati,2,6,2,6,Savosavo,savo1255,Savosavo,-9.12853,159.814,NA,isolate,TRUE,TRUE
+Savosavo,D1,Source,oceania,atatu,3,6,2,6,Savosavo,savo1255,Savosavo,-9.12853,159.814,NA,isolate,TRUE,TRUE
+Savosavo,D2,Goal,oceania,ota,4,6,2,6,Savosavo,savo1255,Savosavo,-9.12853,159.814,NA,isolate,TRUE,TRUE
+Savosavo,D2,Place,oceania,ota|otati,5,6,2,6,Savosavo,savo1255,Savosavo,-9.12853,159.814,NA,isolate,TRUE,TRUE
+Savosavo,D2,Source,oceania,otatu,6,6,2,6,Savosavo,savo1255,Savosavo,-9.12853,159.814,NA,isolate,TRUE,TRUE
+Scots-Gaelic,D1,Goal,europe,an seo,1,6,3,9,Scottish Gaelic,scot1245,Scottish Gaelic,56.7574,-5.24366,indo1319,Indo-European,TRUE,FALSE
+Scots-Gaelic,D1,Place,europe,an seo,1,6,3,9,Scottish Gaelic,scot1245,Scottish Gaelic,56.7574,-5.24366,indo1319,Indo-European,TRUE,FALSE
+Scots-Gaelic,D1,Source,europe,as a seo|à seo,4,6,3,9,Scottish Gaelic,scot1245,Scottish Gaelic,56.7574,-5.24366,indo1319,Indo-European,TRUE,FALSE
+Scots-Gaelic,D2,Goal,europe,an sin|ann,2,6,3,9,Scottish Gaelic,scot1245,Scottish Gaelic,56.7574,-5.24366,indo1319,Indo-European,TRUE,FALSE
+Scots-Gaelic,D2,Place,europe,an sin|ann,2,6,3,9,Scottish Gaelic,scot1245,Scottish Gaelic,56.7574,-5.24366,indo1319,Indo-European,TRUE,FALSE
+Scots-Gaelic,D2,Source,europe,as a sin|à sin,5,6,3,9,Scottish Gaelic,scot1245,Scottish Gaelic,56.7574,-5.24366,indo1319,Indo-European,TRUE,FALSE
+Scots-Gaelic,D3,Goal,europe,an siud,3,6,3,9,Scottish Gaelic,scot1245,Scottish Gaelic,56.7574,-5.24366,indo1319,Indo-European,TRUE,FALSE
+Scots-Gaelic,D3,Place,europe,an siud,3,6,3,9,Scottish Gaelic,scot1245,Scottish Gaelic,56.7574,-5.24366,indo1319,Indo-European,TRUE,FALSE
+Scots-Gaelic,D3,Source,europe,as a siud|à siud,6,6,3,9,Scottish Gaelic,scot1245,Scottish Gaelic,56.7574,-5.24366,indo1319,Indo-European,TRUE,FALSE
+Serbian,D1,Goal,europe,ovamo,5,6,2,6,Serbian-Croatian-Bosnian,sout1528,Serbian-Croatian-Bosnian,44.15,18.81,indo1319,Indo-European,TRUE,TRUE
+Serbian,D1,Place,europe,ovde|tu,6,6,2,6,Serbian-Croatian-Bosnian,sout1528,Serbian-Croatian-Bosnian,44.15,18.81,indo1319,Indo-European,TRUE,TRUE
+Serbian,D1,Source,europe,odavde,2,6,2,6,Serbian-Croatian-Bosnian,sout1528,Serbian-Croatian-Bosnian,44.15,18.81,indo1319,Indo-European,TRUE,TRUE
+Serbian,D2,Goal,europe,onamo|tamo,3,6,2,6,Serbian-Croatian-Bosnian,sout1528,Serbian-Croatian-Bosnian,44.15,18.81,indo1319,Indo-European,TRUE,TRUE
+Serbian,D2,Place,europe,onde|tamo,4,6,2,6,Serbian-Croatian-Bosnian,sout1528,Serbian-Croatian-Bosnian,44.15,18.81,indo1319,Indo-European,TRUE,TRUE
+Serbian,D2,Source,europe,odande,1,6,2,6,Serbian-Croatian-Bosnian,sout1528,Serbian-Croatian-Bosnian,44.15,18.81,indo1319,Indo-European,TRUE,TRUE
+Shipibo-Konibo,D1,Goal,americas,neno,3,6,3,9,Shipibo-Conibo,ship1254,Shipibo-Conibo,-7.17105,-74.8219,pano1259,Pano-Tacanan,TRUE,FALSE
+Shipibo-Konibo,D1,Place,americas,neno,3,6,3,9,Shipibo-Conibo,ship1254,Shipibo-Conibo,-7.17105,-74.8219,pano1259,Pano-Tacanan,TRUE,FALSE
+Shipibo-Konibo,D1,Source,americas,nenoa|ninoa,4,6,3,9,Shipibo-Conibo,ship1254,Shipibo-Conibo,-7.17105,-74.8219,pano1259,Pano-Tacanan,TRUE,FALSE
+Shipibo-Konibo,D2,Goal,americas,jain|jaino,1,6,3,9,Shipibo-Conibo,ship1254,Shipibo-Conibo,-7.17105,-74.8219,pano1259,Pano-Tacanan,TRUE,FALSE
+Shipibo-Konibo,D2,Place,americas,jain|jaino,1,6,3,9,Shipibo-Conibo,ship1254,Shipibo-Conibo,-7.17105,-74.8219,pano1259,Pano-Tacanan,TRUE,FALSE
+Shipibo-Konibo,D2,Source,americas,jainoa,2,6,3,9,Shipibo-Conibo,ship1254,Shipibo-Conibo,-7.17105,-74.8219,pano1259,Pano-Tacanan,TRUE,FALSE
+Shipibo-Konibo,D3,Goal,americas,ono,5,6,3,9,Shipibo-Conibo,ship1254,Shipibo-Conibo,-7.17105,-74.8219,pano1259,Pano-Tacanan,TRUE,FALSE
+Shipibo-Konibo,D3,Place,americas,ono,5,6,3,9,Shipibo-Conibo,ship1254,Shipibo-Conibo,-7.17105,-74.8219,pano1259,Pano-Tacanan,TRUE,FALSE
+Shipibo-Konibo,D3,Source,americas,onoa,6,6,3,9,Shipibo-Conibo,ship1254,Shipibo-Conibo,-7.17105,-74.8219,pano1259,Pano-Tacanan,TRUE,FALSE
+Slavomolisano,D1,Goal,europe,vuda,4,6,2,6,Slavomolisano,slav1254,Slavomolisano,41.89,14.7,indo1319,Indo-European,TRUE,TRUE
+Slavomolisano,D1,Place,europe,oda,2,6,2,6,Slavomolisano,slav1254,Slavomolisano,41.89,14.7,indo1319,Indo-European,TRUE,TRUE
+Slavomolisano,D1,Source,europe,zoda|zoma,6,6,2,6,Slavomolisano,slav1254,Slavomolisano,41.89,14.7,indo1319,Indo-European,TRUE,TRUE
+Slavomolisano,D2,Goal,europe,nakonama|onama,1,6,2,6,Slavomolisano,slav1254,Slavomolisano,41.89,14.7,indo1319,Indo-European,TRUE,TRUE
+Slavomolisano,D2,Place,europe,tama|tota,3,6,2,6,Slavomolisano,slav1254,Slavomolisano,41.89,14.7,indo1319,Indo-European,TRUE,TRUE
+Slavomolisano,D2,Source,europe,znonda,5,6,2,6,Slavomolisano,slav1254,Slavomolisano,41.89,14.7,indo1319,Indo-European,TRUE,TRUE
+Slovak,D1,Goal,europe,sem,3,6,2,6,Slovak,slov1269,Slovak,48.545705,18.78479,indo1319,Indo-European,TRUE,TRUE
+Slovak,D1,Place,europe,tu|tuna,6,6,2,6,Slovak,slov1269,Slovak,48.545705,18.78479,indo1319,Indo-European,TRUE,TRUE
+Slovak,D1,Source,europe,odsud|odtiaľto,1,6,2,6,Slovak,slov1269,Slovak,48.545705,18.78479,indo1319,Indo-European,TRUE,TRUE
+Slovak,D2,Goal,europe,ta|tadialʼ|tam,4,6,2,6,Slovak,slov1269,Slovak,48.545705,18.78479,indo1319,Indo-European,TRUE,TRUE
+Slovak,D2,Place,europe,tam|tamto,5,6,2,6,Slovak,slov1269,Slovak,48.545705,18.78479,indo1319,Indo-European,TRUE,TRUE
+Slovak,D2,Source,europe,odtialʼ,2,6,2,6,Slovak,slov1269,Slovak,48.545705,18.78479,indo1319,Indo-European,TRUE,TRUE
+Slovenian,D1,Goal,europe,sem|tu,3,6,2,6,Slovenian,slov1268,Slovenian,46.2543,14.7766,indo1319,Indo-European,TRUE,TRUE
+Slovenian,D1,Place,europe,tod|tu|tukaj,6,6,2,6,Slovenian,slov1268,Slovenian,46.2543,14.7766,indo1319,Indo-European,TRUE,TRUE
+Slovenian,D1,Source,europe,od tukaj|odtod,2,6,2,6,Slovenian,slov1268,Slovenian,46.2543,14.7766,indo1319,Indo-European,TRUE,TRUE
+Slovenian,D2,Goal,europe,tja,5,6,2,6,Slovenian,slov1268,Slovenian,46.2543,14.7766,indo1319,Indo-European,TRUE,TRUE
+Slovenian,D2,Place,europe,tam,4,6,2,6,Slovenian,slov1268,Slovenian,46.2543,14.7766,indo1319,Indo-European,TRUE,TRUE
+Slovenian,D2,Source,europe,od tam|odondod,1,6,2,6,Slovenian,slov1268,Slovenian,46.2543,14.7766,indo1319,Indo-European,TRUE,TRUE
+Somali,D1,Goal,africa,halkan|meeshan,4,4,2,6,Somali,soma1255,Somali,4.778704,45.152856,afro1255,Afro-Asiatic,TRUE,FALSE
+Somali,D1,Place,africa,halkan|meeshan,4,4,2,6,Somali,soma1255,Somali,4.778704,45.152856,afro1255,Afro-Asiatic,TRUE,FALSE
+Somali,D1,Source,africa,halkan ka|meeshan ka,3,4,2,6,Somali,soma1255,Somali,4.778704,45.152856,afro1255,Afro-Asiatic,TRUE,FALSE
+Somali,D2,Goal,africa,halkaa|halkaas|meeshaas,2,4,2,6,Somali,soma1255,Somali,4.778704,45.152856,afro1255,Afro-Asiatic,TRUE,FALSE
+Somali,D2,Place,africa,halkaa|halkaas|meeshaas,2,4,2,6,Somali,soma1255,Somali,4.778704,45.152856,afro1255,Afro-Asiatic,TRUE,FALSE
+Somali,D2,Source,africa,halkaa ka|halkaas ka|meeshaas ka,1,4,2,6,Somali,soma1255,Somali,4.778704,45.152856,afro1255,Afro-Asiatic,TRUE,FALSE
+"Sorbian, Lower",D1,Goal,europe,how|sem,2,6,2,6,Lower Sorbian,lowe1385,Lower Sorbian,51.6621,13.9407,indo1319,Indo-European,TRUE,TRUE
+"Sorbian, Lower",D1,Place,europe,how|tudy,3,6,2,6,Lower Sorbian,lowe1385,Lower Sorbian,51.6621,13.9407,indo1319,Indo-European,TRUE,TRUE
+"Sorbian, Lower",D1,Source,europe,wotsal,5,6,2,6,Lower Sorbian,lowe1385,Lower Sorbian,51.6621,13.9407,indo1319,Indo-European,TRUE,TRUE
+"Sorbian, Lower",D2,Goal,europe,dotam,1,6,2,6,Lower Sorbian,lowe1385,Lower Sorbian,51.6621,13.9407,indo1319,Indo-European,TRUE,TRUE
+"Sorbian, Lower",D2,Place,europe,tam,4,6,2,6,Lower Sorbian,lowe1385,Lower Sorbian,51.6621,13.9407,indo1319,Indo-European,TRUE,TRUE
+"Sorbian, Lower",D2,Source,europe,wottudy|z tudy,6,6,2,6,Lower Sorbian,lowe1385,Lower Sorbian,51.6621,13.9407,indo1319,Indo-European,TRUE,TRUE
+"Sorbian,Upper",D1,Goal,europe,jow|sem,2,6,2,6,Upper Sorbian,uppe1395,Upper Sorbian,51.2403,14.4098,indo1319,Indo-European,TRUE,TRUE
+"Sorbian,Upper",D1,Place,europe,jow|tu,3,6,2,6,Upper Sorbian,uppe1395,Upper Sorbian,51.2403,14.4098,indo1319,Indo-European,TRUE,TRUE
+"Sorbian,Upper",D1,Source,europe,wotsal,5,6,2,6,Upper Sorbian,uppe1395,Upper Sorbian,51.2403,14.4098,indo1319,Indo-European,TRUE,TRUE
+"Sorbian,Upper",D2,Goal,europe,dotam,1,6,2,6,Upper Sorbian,uppe1395,Upper Sorbian,51.2403,14.4098,indo1319,Indo-European,TRUE,TRUE
+"Sorbian,Upper",D2,Place,europe,tam,4,6,2,6,Upper Sorbian,uppe1395,Upper Sorbian,51.2403,14.4098,indo1319,Indo-European,TRUE,TRUE
+"Sorbian,Upper",D2,Source,europe,wottudy|z tudy,6,6,2,6,Upper Sorbian,uppe1395,Upper Sorbian,51.2403,14.4098,indo1319,Indo-European,TRUE,TRUE
+South Efate,D1,Goal,oceania,esa]|mai|mai pak esan],2,6,2,6,South Efate,sout2856,South Efate,-17.7006,168.377,aust1307,Austronesian,TRUE,TRUE
+South Efate,D1,Place,oceania,esa|kia|sa,4,6,2,6,South Efate,sout2856,South Efate,-17.7006,168.377,aust1307,Austronesian,TRUE,TRUE
+South Efate,D1,Source,oceania,esa|esa pan|pa,3,6,2,6,South Efate,sout2856,South Efate,-17.7006,168.377,aust1307,Austronesian,TRUE,TRUE
+South Efate,D3,Goal,oceania,pa|pak sanpe|pan|pan|sanpen,6,6,2,6,South Efate,sout2856,South Efate,-17.7006,168.377,aust1307,Austronesian,TRUE,TRUE
+South Efate,D3,Place,oceania,esago|esan|pen|sa|sago|sanien|sanpe,5,6,2,6,South Efate,sout2856,South Efate,-17.7006,168.377,aust1307,Austronesian,TRUE,TRUE
+South Efate,D3,Source,oceania,[sanpen mai]|kai pan,1,6,2,6,South Efate,sout2856,South Efate,-17.7006,168.377,aust1307,Austronesian,TRUE,TRUE
+Supyire Senoufo,D1,Goal,africa,náhá,2,2,2,6,Supyire Senoufo,supy1237,Supyire Senoufo,11.632,-5.87709,atla1278,Atlantic-Congo,TRUE,TRUE
+Supyire Senoufo,D1,Place,africa,náhá,2,2,2,6,Supyire Senoufo,supy1237,Supyire Senoufo,11.632,-5.87709,atla1278,Atlantic-Congo,TRUE,TRUE
+Supyire Senoufo,D1,Source,africa,náhá,2,2,2,6,Supyire Senoufo,supy1237,Supyire Senoufo,11.632,-5.87709,atla1278,Atlantic-Congo,TRUE,TRUE
+Supyire Senoufo,D2,Goal,africa,aní|waní,1,2,2,6,Supyire Senoufo,supy1237,Supyire Senoufo,11.632,-5.87709,atla1278,Atlantic-Congo,TRUE,TRUE
+Supyire Senoufo,D2,Place,africa,aní|waní,1,2,2,6,Supyire Senoufo,supy1237,Supyire Senoufo,11.632,-5.87709,atla1278,Atlantic-Congo,TRUE,TRUE
+Supyire Senoufo,D2,Source,africa,aní|waní,1,2,2,6,Supyire Senoufo,supy1237,Supyire Senoufo,11.632,-5.87709,atla1278,Atlantic-Congo,TRUE,TRUE
+Susu,D1,Goal,africa,be,1,2,2,6,Susu,susu1250,Susu,10.4046,-13.3628,mand1469,Mande,TRUE,TRUE
+Susu,D1,Place,africa,be,1,2,2,6,Susu,susu1250,Susu,10.4046,-13.3628,mand1469,Mande,TRUE,TRUE
+Susu,D1,Source,africa,be,1,2,2,6,Susu,susu1250,Susu,10.4046,-13.3628,mand1469,Mande,TRUE,TRUE
+Susu,D2,Goal,africa,mènni|na,2,2,2,6,Susu,susu1250,Susu,10.4046,-13.3628,mand1469,Mande,TRUE,TRUE
+Susu,D2,Place,africa,mènni|na,2,2,2,6,Susu,susu1250,Susu,10.4046,-13.3628,mand1469,Mande,TRUE,TRUE
+Susu,D2,Source,africa,mènni|na,2,2,2,6,Susu,susu1250,Susu,10.4046,-13.3628,mand1469,Mande,TRUE,TRUE
+Swahili,D1,Goal,africa,hapa,1,6,3,9,Swahili,swah1253,Swahili,-8.25605,37.624,atla1278,Atlantic-Congo,TRUE,FALSE
+Swahili,D1,Place,africa,hapa,1,6,3,9,Swahili,swah1253,Swahili,-8.25605,37.624,atla1278,Atlantic-Congo,TRUE,FALSE
+Swahili,D1,Source,africa,hapa|kutoka hapa,2,6,3,9,Swahili,swah1253,Swahili,-8.25605,37.624,atla1278,Atlantic-Congo,TRUE,FALSE
+Swahili,D2,Goal,africa,hapo,3,6,3,9,Swahili,swah1253,Swahili,-8.25605,37.624,atla1278,Atlantic-Congo,TRUE,FALSE
+Swahili,D2,Place,africa,hapo,3,6,3,9,Swahili,swah1253,Swahili,-8.25605,37.624,atla1278,Atlantic-Congo,TRUE,FALSE
+Swahili,D2,Source,africa,hapo|kutoka hapo,4,6,3,9,Swahili,swah1253,Swahili,-8.25605,37.624,atla1278,Atlantic-Congo,TRUE,FALSE
+Swahili,D3,Goal,africa,pale,6,6,3,9,Swahili,swah1253,Swahili,-8.25605,37.624,atla1278,Atlantic-Congo,TRUE,FALSE
+Swahili,D3,Place,africa,pale,6,6,3,9,Swahili,swah1253,Swahili,-8.25605,37.624,atla1278,Atlantic-Congo,TRUE,FALSE
+Swahili,D3,Source,africa,kutoka pale|pale,5,6,3,9,Swahili,swah1253,Swahili,-8.25605,37.624,atla1278,Atlantic-Congo,TRUE,FALSE
+Swedish,D1,Goal,europe,hit,6,6,2,6,Swedish,swed1254,Swedish,59.800634,17.389526,indo1319,Indo-European,TRUE,TRUE
+Swedish,D1,Place,europe,här,4,6,2,6,Swedish,swed1254,Swedish,59.800634,17.389526,indo1319,Indo-European,TRUE,TRUE
+Swedish,D1,Source,europe,härifrån,5,6,2,6,Swedish,swed1254,Swedish,59.800634,17.389526,indo1319,Indo-European,TRUE,TRUE
+Swedish,D2,Goal,europe,dit,3,6,2,6,Swedish,swed1254,Swedish,59.800634,17.389526,indo1319,Indo-European,TRUE,TRUE
+Swedish,D2,Place,europe,där,1,6,2,6,Swedish,swed1254,Swedish,59.800634,17.389526,indo1319,Indo-European,TRUE,TRUE
+Swedish,D2,Source,europe,därifrån,2,6,2,6,Swedish,swed1254,Swedish,59.800634,17.389526,indo1319,Indo-European,TRUE,TRUE
+"Tamasheq, Tadraq",D1,Goal,africa,[]dd|[]id|diha,1,9,3,9,Tamasheq,tama1365,Tamasheq,14.2038,-2.41269,afro1255,Afro-Asiatic,TRUE,TRUE
+"Tamasheq, Tadraq",D1,Place,africa,diha,7,9,3,9,Tamasheq,tama1365,Tamasheq,14.2038,-2.41269,afro1255,Afro-Asiatic,TRUE,TRUE
+"Tamasheq, Tadraq",D1,Source,africa,[]in,4,9,3,9,Tamasheq,tama1365,Tamasheq,14.2038,-2.41269,afro1255,Afro-Asiatic,TRUE,TRUE
+"Tamasheq, Tadraq",D2,Goal,africa,[]in|dihen,5,9,3,9,Tamasheq,tama1365,Tamasheq,14.2038,-2.41269,afro1255,Afro-Asiatic,TRUE,TRUE
+"Tamasheq, Tadraq",D2,Place,africa,dihen,8,9,3,9,Tamasheq,tama1365,Tamasheq,14.2038,-2.41269,afro1255,Afro-Asiatic,TRUE,TRUE
+"Tamasheq, Tadraq",D2,Source,africa,[]id dihen,2,9,3,9,Tamasheq,tama1365,Tamasheq,14.2038,-2.41269,afro1255,Afro-Asiatic,TRUE,TRUE
+"Tamasheq, Tadraq",D3,Goal,africa,[]in|siha,6,9,3,9,Tamasheq,tama1365,Tamasheq,14.2038,-2.41269,afro1255,Afro-Asiatic,TRUE,TRUE
+"Tamasheq, Tadraq",D3,Place,africa,siha,9,9,3,9,Tamasheq,tama1365,Tamasheq,14.2038,-2.41269,afro1255,Afro-Asiatic,TRUE,TRUE
+"Tamasheq, Tadraq",D3,Source,africa,[]id siha,3,9,3,9,Tamasheq,tama1365,Tamasheq,14.2038,-2.41269,afro1255,Afro-Asiatic,TRUE,TRUE
+Tamil,D1,Goal,asia,ingee,3,4,2,6,Tamil,tami1289,Tamil,10.520219,78.825989,drav1251,Dravidian,TRUE,FALSE
+Tamil,D1,Place,asia,ingee,3,4,2,6,Tamil,tami1289,Tamil,10.520219,78.825989,drav1251,Dravidian,TRUE,FALSE
+Tamil,D1,Source,asia,ingeyrundu,4,4,2,6,Tamil,tami1289,Tamil,10.520219,78.825989,drav1251,Dravidian,TRUE,FALSE
+Tamil,D2,Goal,asia,angee,1,4,2,6,Tamil,tami1289,Tamil,10.520219,78.825989,drav1251,Dravidian,TRUE,FALSE
+Tamil,D2,Place,asia,angee,1,4,2,6,Tamil,tami1289,Tamil,10.520219,78.825989,drav1251,Dravidian,TRUE,FALSE
+Tamil,D2,Source,asia,angeyrundu,2,4,2,6,Tamil,tami1289,Tamil,10.520219,78.825989,drav1251,Dravidian,TRUE,FALSE
+Telugu,D1,Goal,asia,ikkaDiki,6,6,2,6,Telugu,telu1262,Telugu,16.4529,78.7024,drav1251,Dravidian,TRUE,TRUE
+Telugu,D1,Place,asia,ikkaDa,4,6,2,6,Telugu,telu1262,Telugu,16.4529,78.7024,drav1251,Dravidian,TRUE,TRUE
+Telugu,D1,Source,asia,ikkaDanunDi|ikkaDinunci,5,6,2,6,Telugu,telu1262,Telugu,16.4529,78.7024,drav1251,Dravidian,TRUE,TRUE
+Telugu,D2,Goal,asia,akkaDiki,3,6,2,6,Telugu,telu1262,Telugu,16.4529,78.7024,drav1251,Dravidian,TRUE,TRUE
+Telugu,D2,Place,asia,akkaDa,1,6,2,6,Telugu,telu1262,Telugu,16.4529,78.7024,drav1251,Dravidian,TRUE,TRUE
+Telugu,D2,Source,asia,akkaDanunDi|akkaDanunci,2,6,2,6,Telugu,telu1262,Telugu,16.4529,78.7024,drav1251,Dravidian,TRUE,TRUE
+Temiar,D1,Goal,asia,madoh,2,6,2,6,Temiar,temi1246,Temiar,4.974,101.438,aust1305,Austroasiatic,TRUE,TRUE
+Temiar,D1,Place,asia,doh|Ɂɛndoh,1,6,2,6,Temiar,temi1246,Temiar,4.974,101.438,aust1305,Austroasiatic,TRUE,TRUE
+Temiar,D1,Source,asia,numdoh,5,6,2,6,Temiar,temi1246,Temiar,4.974,101.438,aust1305,Austroasiatic,TRUE,TRUE
+Temiar,D2,Goal,asia,manaɁ,3,6,2,6,Temiar,temi1246,Temiar,4.974,101.438,aust1305,Austroasiatic,TRUE,TRUE
+Temiar,D2,Place,asia,naɁ|ɁɛnnaɁ,4,6,2,6,Temiar,temi1246,Temiar,4.974,101.438,aust1305,Austroasiatic,TRUE,TRUE
+Temiar,D2,Source,asia,numnaɁ,6,6,2,6,Temiar,temi1246,Temiar,4.974,101.438,aust1305,Austroasiatic,TRUE,TRUE
+Thai,D1,Goal,asia,thîi nîi,5,6,3,9,Thai,thai1261,Thai,14.192,100.671,taik1256,Tai-Kadai,TRUE,FALSE
+Thai,D1,Place,asia,thîi nîi,5,6,3,9,Thai,thai1261,Thai,14.192,100.671,taik1256,Tai-Kadai,TRUE,FALSE
+Thai,D1,Source,asia,càak nîi,1,6,3,9,Thai,thai1261,Thai,14.192,100.671,taik1256,Tai-Kadai,TRUE,FALSE
+Thai,D2,Goal,asia,thîi nân,4,6,3,9,Thai,thai1261,Thai,14.192,100.671,taik1256,Tai-Kadai,TRUE,FALSE
+Thai,D2,Place,asia,thîi nân,4,6,3,9,Thai,thai1261,Thai,14.192,100.671,taik1256,Tai-Kadai,TRUE,FALSE
+Thai,D2,Source,asia,càak thîi nân,2,6,3,9,Thai,thai1261,Thai,14.192,100.671,taik1256,Tai-Kadai,TRUE,FALSE
+Thai,D3,Goal,asia,thîi nôon,6,6,3,9,Thai,thai1261,Thai,14.192,100.671,taik1256,Tai-Kadai,TRUE,FALSE
+Thai,D3,Place,asia,thîi nôon,6,6,3,9,Thai,thai1261,Thai,14.192,100.671,taik1256,Tai-Kadai,TRUE,FALSE
+Thai,D3,Source,asia,càak thîi nôon,3,6,3,9,Thai,thai1261,Thai,14.192,100.671,taik1256,Tai-Kadai,TRUE,FALSE
+Tidore,D1,Goal,oceania,ino|inore|kare,3,6,3,9,Tidore,tido1248,Tidore,0.02461,127.746,nort2923,North Halmahera,TRUE,FALSE
+Tidore,D1,Place,oceania,kare,5,6,3,9,Tidore,tido1248,Tidore,0.02461,127.746,nort2923,North Halmahera,TRUE,FALSE
+Tidore,D1,Source,oceania,kare,5,6,3,9,Tidore,tido1248,Tidore,0.02461,127.746,nort2923,North Halmahera,TRUE,FALSE
+Tidore,D2,Goal,oceania,ia|iage|kage,1,6,3,9,Tidore,tido1248,Tidore,0.02461,127.746,nort2923,North Halmahera,TRUE,FALSE
+Tidore,D2,Place,oceania,kage,4,6,3,9,Tidore,tido1248,Tidore,0.02461,127.746,nort2923,North Halmahera,TRUE,FALSE
+Tidore,D2,Source,oceania,kage,4,6,3,9,Tidore,tido1248,Tidore,0.02461,127.746,nort2923,North Halmahera,TRUE,FALSE
+Tidore,D3,Goal,oceania,ia|iata|kata,2,6,3,9,Tidore,tido1248,Tidore,0.02461,127.746,nort2923,North Halmahera,TRUE,FALSE
+Tidore,D3,Place,oceania,kata,6,6,3,9,Tidore,tido1248,Tidore,0.02461,127.746,nort2923,North Halmahera,TRUE,FALSE
+Tidore,D3,Source,oceania,kata,6,6,3,9,Tidore,tido1248,Tidore,0.02461,127.746,nort2923,North Halmahera,TRUE,FALSE
+Tigrinya,D1,Goal,africa,nabzi,4,6,2,6,Tigrinya,tigr1271,Tigrinya,15.3359,38.9266,afro1255,Afro-Asiatic,TRUE,TRUE
+Tigrinya,D1,Place,africa,ɔabzi,6,6,2,6,Tigrinya,tigr1271,Tigrinya,15.3359,38.9266,afro1255,Afro-Asiatic,TRUE,TRUE
+Tigrinya,D1,Source,africa,kabzi,2,6,2,6,Tigrinya,tigr1271,Tigrinya,15.3359,38.9266,afro1255,Afro-Asiatic,TRUE,TRUE
+Tigrinya,D2,Goal,africa,nabti|nabɔu,3,6,2,6,Tigrinya,tigr1271,Tigrinya,15.3359,38.9266,afro1255,Afro-Asiatic,TRUE,TRUE
+Tigrinya,D2,Place,africa,ɔabti|ɔabɔu,5,6,2,6,Tigrinya,tigr1271,Tigrinya,15.3359,38.9266,afro1255,Afro-Asiatic,TRUE,TRUE
+Tigrinya,D2,Source,africa,kabti|kabɔu,1,6,2,6,Tigrinya,tigr1271,Tigrinya,15.3359,38.9266,afro1255,Afro-Asiatic,TRUE,TRUE
+Tohono O'Odham,D1,Goal,americas,’ia’i,1,8,3,9,Tohono O'odham,toho1245,Tohono O'odham,31.7973,-111.995,utoa1244,Uto-Aztecan,TRUE,FALSE
+Tohono O'Odham,D1,Place,americas,ihma|ihna|ihya|iia|im,8,8,3,9,Tohono O'odham,toho1245,Tohono O'odham,31.7973,-111.995,utoa1244,Uto-Aztecan,TRUE,FALSE
+Tohono O'Odham,D1,Source,americas,i’ajeD,7,8,3,9,Tohono O'odham,toho1245,Tohono O'odham,31.7973,-111.995,utoa1244,Uto-Aztecan,TRUE,FALSE
+Tohono O'Odham,D2,Goal,americas,ab|abai|am|amai|an|anai,2,8,3,9,Tohono O'odham,toho1245,Tohono O'odham,31.7973,-111.995,utoa1244,Uto-Aztecan,TRUE,FALSE
+Tohono O'Odham,D2,Place,americas,ab|abai|am|amai|an|anai,2,8,3,9,Tohono O'odham,toho1245,Tohono O'odham,31.7973,-111.995,utoa1244,Uto-Aztecan,TRUE,FALSE
+Tohono O'Odham,D2,Source,americas,amjeD,3,8,3,9,Tohono O'odham,toho1245,Tohono O'odham,31.7973,-111.995,utoa1244,Uto-Aztecan,TRUE,FALSE
+Tohono O'Odham,D3,Goal,americas,ga'ab|ga'abai|gam|gamai|gan|ganai,4,8,3,9,Tohono O'odham,toho1245,Tohono O'odham,31.7973,-111.995,utoa1244,Uto-Aztecan,TRUE,FALSE
+Tohono O'Odham,D3,Place,americas,gam|gamai|gan|ganai|ga‘ab|ga‘abai,6,8,3,9,Tohono O'odham,toho1245,Tohono O'odham,31.7973,-111.995,utoa1244,Uto-Aztecan,TRUE,FALSE
+Tohono O'Odham,D3,Source,americas,ga'agajeD|ga'ajeD,5,8,3,9,Tohono O'odham,toho1245,Tohono O'odham,31.7973,-111.995,utoa1244,Uto-Aztecan,TRUE,FALSE
+Tok Pisin,D1,Goal,oceania,long hia,4,5,3,9,Tok Pisin,tokp1240,Tok Pisin,-9.41971,147.303,indo1319,Indo-European,FALSE,FALSE
+Tok Pisin,D1,Place,oceania,hia,2,5,3,9,Tok Pisin,tokp1240,Tok Pisin,-9.41971,147.303,indo1319,Indo-European,FALSE,FALSE
+Tok Pisin,D1,Source,oceania,long hia,4,5,3,9,Tok Pisin,tokp1240,Tok Pisin,-9.41971,147.303,indo1319,Indo-European,FALSE,FALSE
+Tok Pisin,D2,Goal,oceania,long hap,3,5,3,9,Tok Pisin,tokp1240,Tok Pisin,-9.41971,147.303,indo1319,Indo-European,FALSE,FALSE
+Tok Pisin,D2,Place,oceania,long hap,3,5,3,9,Tok Pisin,tokp1240,Tok Pisin,-9.41971,147.303,indo1319,Indo-European,FALSE,FALSE
+Tok Pisin,D2,Source,oceania,hap|long hap,1,5,3,9,Tok Pisin,tokp1240,Tok Pisin,-9.41971,147.303,indo1319,Indo-European,FALSE,FALSE
+Tok Pisin,D3,Goal,oceania,longwe|longwe liklik,5,5,3,9,Tok Pisin,tokp1240,Tok Pisin,-9.41971,147.303,indo1319,Indo-European,FALSE,FALSE
+Tok Pisin,D3,Place,oceania,longwe|longwe liklik,5,5,3,9,Tok Pisin,tokp1240,Tok Pisin,-9.41971,147.303,indo1319,Indo-European,FALSE,FALSE
+Tok Pisin,D3,Source,oceania,longwe|longwe liklik,5,5,3,9,Tok Pisin,tokp1240,Tok Pisin,-9.41971,147.303,indo1319,Indo-European,FALSE,FALSE
+Tongan,D1,Goal,oceania,ki heni|mai,5,6,2,6,Tonga (Tonga Islands),tong1325,Tonga (Tonga Islands),-21.17,-175.25,aust1307,Austronesian,TRUE,TRUE
+Tongan,D1,Place,oceania,'i heni,2,6,2,6,Tonga (Tonga Islands),tong1325,Tonga (Tonga Islands),-21.17,-175.25,aust1307,Austronesian,TRUE,TRUE
+Tongan,D1,Source,oceania,atu|mei heni,4,6,2,6,Tonga (Tonga Islands),tong1325,Tonga (Tonga Islands),-21.17,-175.25,aust1307,Austronesian,TRUE,TRUE
+Tongan,D2,Goal,oceania,ange|atu|ki ai,3,6,2,6,Tonga (Tonga Islands),tong1325,Tonga (Tonga Islands),-21.17,-175.25,aust1307,Austronesian,TRUE,TRUE
+Tongan,D2,Place,oceania,'i ai|'i hena|'i hē|ai,1,6,2,6,Tonga (Tonga Islands),tong1325,Tonga (Tonga Islands),-21.17,-175.25,aust1307,Austronesian,TRUE,TRUE
+Tongan,D2,Source,oceania,mei ai,6,6,2,6,Tonga (Tonga Islands),tong1325,Tonga (Tonga Islands),-21.17,-175.25,aust1307,Austronesian,TRUE,TRUE
+"Totonac, Filomeno Mata",D1,Goal,americas,a|či,2,6,3,9,Filomeno Mata Totonac,filo1235,Filomeno Mata Totonac,20.1415,-97.5931,toto1251,Totonacan,FALSE,FALSE
+"Totonac, Filomeno Mata",D1,Place,americas,atsá,4,6,3,9,Filomeno Mata Totonac,filo1235,Filomeno Mata Totonac,20.1415,-97.5931,toto1251,Totonacan,FALSE,FALSE
+"Totonac, Filomeno Mata",D1,Source,americas,∄,1,6,3,9,Filomeno Mata Totonac,filo1235,Filomeno Mata Totonac,20.1415,-97.5931,toto1251,Totonacan,FALSE,FALSE
+"Totonac, Filomeno Mata",D2,Goal,americas,tsa ~ čača,5,6,3,9,Filomeno Mata Totonac,filo1235,Filomeno Mata Totonac,20.1415,-97.5931,toto1251,Totonacan,FALSE,FALSE
+"Totonac, Filomeno Mata",D2,Place,americas,tsanú,6,6,3,9,Filomeno Mata Totonac,filo1235,Filomeno Mata Totonac,20.1415,-97.5931,toto1251,Totonacan,FALSE,FALSE
+"Totonac, Filomeno Mata",D2,Source,americas,tsanú,6,6,3,9,Filomeno Mata Totonac,filo1235,Filomeno Mata Totonac,20.1415,-97.5931,toto1251,Totonacan,FALSE,FALSE
+"Totonac, Filomeno Mata",D3,Goal,americas,anu,3,6,3,9,Filomeno Mata Totonac,filo1235,Filomeno Mata Totonac,20.1415,-97.5931,toto1251,Totonacan,FALSE,FALSE
+"Totonac, Filomeno Mata",D3,Place,americas,anu,3,6,3,9,Filomeno Mata Totonac,filo1235,Filomeno Mata Totonac,20.1415,-97.5931,toto1251,Totonacan,FALSE,FALSE
+"Totonac, Filomeno Mata",D3,Source,americas,anu,3,6,3,9,Filomeno Mata Totonac,filo1235,Filomeno Mata Totonac,20.1415,-97.5931,toto1251,Totonacan,FALSE,FALSE
+Tswana,D1,Goal,africa,fa,1,6,6,18,Tswana,tswa1253,Tswana,-24.368,24.7587,atla1278,Atlantic-Congo,TRUE,TRUE
+Tswana,D1,Place,africa,fa,1,6,6,18,Tswana,tswa1253,Tswana,-24.368,24.7587,atla1278,Atlantic-Congo,TRUE,TRUE
+Tswana,D1,Source,africa,fa,1,6,6,18,Tswana,tswa1253,Tswana,-24.368,24.7587,atla1278,Atlantic-Congo,TRUE,TRUE
+Tswana,D2,Goal,africa,fao|fông|fôo,3,6,6,18,Tswana,tswa1253,Tswana,-24.368,24.7587,atla1278,Atlantic-Congo,TRUE,TRUE
+Tswana,D2,Place,africa,fao|fông|fôo,3,6,6,18,Tswana,tswa1253,Tswana,-24.368,24.7587,atla1278,Atlantic-Congo,TRUE,TRUE
+Tswana,D2,Source,africa,fao|fông|fôo,3,6,6,18,Tswana,tswa1253,Tswana,-24.368,24.7587,atla1278,Atlantic-Congo,TRUE,TRUE
+Tswana,D3,Goal,africa,falê,2,6,6,18,Tswana,tswa1253,Tswana,-24.368,24.7587,atla1278,Atlantic-Congo,TRUE,TRUE
+Tswana,D3,Place,africa,falê,2,6,6,18,Tswana,tswa1253,Tswana,-24.368,24.7587,atla1278,Atlantic-Congo,TRUE,TRUE
+Tswana,D3,Source,africa,falê,2,6,6,18,Tswana,tswa1253,Tswana,-24.368,24.7587,atla1278,Atlantic-Congo,TRUE,TRUE
+Tswana,D4,Goal,africa,kwa,5,6,6,18,Tswana,tswa1253,Tswana,-24.368,24.7587,atla1278,Atlantic-Congo,TRUE,TRUE
+Tswana,D4,Place,africa,kwa,5,6,6,18,Tswana,tswa1253,Tswana,-24.368,24.7587,atla1278,Atlantic-Congo,TRUE,TRUE
+Tswana,D4,Source,africa,kwa,5,6,6,18,Tswana,tswa1253,Tswana,-24.368,24.7587,atla1278,Atlantic-Congo,TRUE,TRUE
+Tswana,D5,Goal,africa,kông|kôo,4,6,6,18,Tswana,tswa1253,Tswana,-24.368,24.7587,atla1278,Atlantic-Congo,TRUE,TRUE
+Tswana,D5,Place,africa,kông|kôo,4,6,6,18,Tswana,tswa1253,Tswana,-24.368,24.7587,atla1278,Atlantic-Congo,TRUE,TRUE
+Tswana,D5,Source,africa,kông|kôo,4,6,6,18,Tswana,tswa1253,Tswana,-24.368,24.7587,atla1278,Atlantic-Congo,TRUE,TRUE
+Tswana,D6,Goal,africa,kwalê,6,6,6,18,Tswana,tswa1253,Tswana,-24.368,24.7587,atla1278,Atlantic-Congo,TRUE,TRUE
+Tswana,D6,Place,africa,kwalê,6,6,6,18,Tswana,tswa1253,Tswana,-24.368,24.7587,atla1278,Atlantic-Congo,TRUE,TRUE
+Tswana,D6,Source,africa,kwalê,6,6,6,18,Tswana,tswa1253,Tswana,-24.368,24.7587,atla1278,Atlantic-Congo,TRUE,TRUE
+Turkish,D1,Goal,europe,buraya,3,9,3,9,Turkish,nucl1301,Turkish,39.8667,32.8667,turk1311,Turkic,TRUE,TRUE
+Turkish,D1,Place,europe,burada,1,9,3,9,Turkish,nucl1301,Turkish,39.8667,32.8667,turk1311,Turkic,TRUE,TRUE
+Turkish,D1,Source,europe,buradan,2,9,3,9,Turkish,nucl1301,Turkish,39.8667,32.8667,turk1311,Turkic,TRUE,TRUE
+Turkish,D2,Goal,europe,şuraya,9,9,3,9,Turkish,nucl1301,Turkish,39.8667,32.8667,turk1311,Turkic,TRUE,TRUE
+Turkish,D2,Place,europe,şurada,7,9,3,9,Turkish,nucl1301,Turkish,39.8667,32.8667,turk1311,Turkic,TRUE,TRUE
+Turkish,D2,Source,europe,şuradan,8,9,3,9,Turkish,nucl1301,Turkish,39.8667,32.8667,turk1311,Turkic,TRUE,TRUE
+Turkish,D3,Goal,europe,oraya,6,9,3,9,Turkish,nucl1301,Turkish,39.8667,32.8667,turk1311,Turkic,TRUE,TRUE
+Turkish,D3,Place,europe,orada,4,9,3,9,Turkish,nucl1301,Turkish,39.8667,32.8667,turk1311,Turkic,TRUE,TRUE
+Turkish,D3,Source,europe,oradan,5,9,3,9,Turkish,nucl1301,Turkish,39.8667,32.8667,turk1311,Turkic,TRUE,TRUE
+"Tzotzil, Zinacantán",D1,Goal,americas,li’,4,5,3,9,"Tzotzil, Zinacantán",tzot1264,"Tzotzil, Zinacantán",16.64,-92.74,book1242,Bookkeeping,TRUE,FALSE
+"Tzotzil, Zinacantán",D1,Place,americas,li‘,3,5,3,9,"Tzotzil, Zinacantán",tzot1264,"Tzotzil, Zinacantán",16.64,-92.74,book1242,Bookkeeping,TRUE,FALSE
+"Tzotzil, Zinacantán",D1,Source,americas,li’,4,5,3,9,"Tzotzil, Zinacantán",tzot1264,"Tzotzil, Zinacantán",16.64,-92.74,book1242,Bookkeeping,TRUE,FALSE
+"Tzotzil, Zinacantán",D2,Goal,americas,te|tey,5,5,3,9,"Tzotzil, Zinacantán",tzot1264,"Tzotzil, Zinacantán",16.64,-92.74,book1242,Bookkeeping,TRUE,FALSE
+"Tzotzil, Zinacantán",D2,Place,americas,te|tey,5,5,3,9,"Tzotzil, Zinacantán",tzot1264,"Tzotzil, Zinacantán",16.64,-92.74,book1242,Bookkeeping,TRUE,FALSE
+"Tzotzil, Zinacantán",D2,Source,americas,te|tey,5,5,3,9,"Tzotzil, Zinacantán",tzot1264,"Tzotzil, Zinacantán",16.64,-92.74,book1242,Bookkeeping,TRUE,FALSE
+"Tzotzil, Zinacantán",D3,Goal,americas,le’,2,5,3,9,"Tzotzil, Zinacantán",tzot1264,"Tzotzil, Zinacantán",16.64,-92.74,book1242,Bookkeeping,TRUE,FALSE
+"Tzotzil, Zinacantán",D3,Place,americas,le',1,5,3,9,"Tzotzil, Zinacantán",tzot1264,"Tzotzil, Zinacantán",16.64,-92.74,book1242,Bookkeeping,TRUE,FALSE
+"Tzotzil, Zinacantán",D3,Source,americas,le’,2,5,3,9,"Tzotzil, Zinacantán",tzot1264,"Tzotzil, Zinacantán",16.64,-92.74,book1242,Bookkeeping,TRUE,FALSE
+Udihe,D1,Goal,asia,auxi|itigi,1,6,2,6,Udihe,udih1248,Udihe,46.63086,135.67762,tung1282,Tungusic,TRUE,TRUE
+Udihe,D1,Place,asia,odu|olo|tetile,3,6,2,6,Udihe,udih1248,Udihe,46.63086,135.67762,tung1282,Tungusic,TRUE,TRUE
+Udihe,D1,Source,asia,odigi,2,6,2,6,Udihe,udih1248,Udihe,46.63086,135.67762,tung1282,Tungusic,TRUE,TRUE
+Udihe,D2,Goal,asia,tatigi|tauxi|utatigi|utauxi,6,6,2,6,Udihe,udih1248,Udihe,46.63086,135.67762,tung1282,Tungusic,TRUE,TRUE
+Udihe,D2,Place,asia,tadu|tala|tatile|utadu|utala,5,6,2,6,Udihe,udih1248,Udihe,46.63086,135.67762,tung1282,Tungusic,TRUE,TRUE
+Udihe,D2,Source,asia,tadigi|utadigi,4,6,2,6,Udihe,udih1248,Udihe,46.63086,135.67762,tung1282,Tungusic,TRUE,TRUE
+Ukrainian,D1,Goal,europe,sjudy,1,6,2,6,Ukrainian,ukra1253,Ukrainian,49.796,29.945,indo1319,Indo-European,TRUE,TRUE
+Ukrainian,D1,Place,europe,tut,4,6,2,6,Ukrainian,ukra1253,Ukrainian,49.796,29.945,indo1319,Indo-European,TRUE,TRUE
+Ukrainian,D1,Source,europe,zvidsy,5,6,2,6,Ukrainian,ukra1253,Ukrainian,49.796,29.945,indo1319,Indo-European,TRUE,TRUE
+Ukrainian,D2,Goal,europe,tudy,3,6,2,6,Ukrainian,ukra1253,Ukrainian,49.796,29.945,indo1319,Indo-European,TRUE,TRUE
+Ukrainian,D2,Place,europe,tam,2,6,2,6,Ukrainian,ukra1253,Ukrainian,49.796,29.945,indo1319,Indo-European,TRUE,TRUE
+Ukrainian,D2,Source,europe,zvidty,6,6,2,6,Ukrainian,ukra1253,Ukrainian,49.796,29.945,indo1319,Indo-European,TRUE,TRUE
+Vietnamese,D1,Goal,asia,đây,1,6,2,6,Vietnamese,viet1252,Vietnamese,20.681188,105.774071,aust1305,Austroasiatic,TRUE,TRUE
+Vietnamese,D1,Place,asia,tại đây|đây|ở đây,4,6,2,6,Vietnamese,viet1252,Vietnamese,20.681188,105.774071,aust1305,Austroasiatic,TRUE,TRUE
+Vietnamese,D1,Source,asia,từ đây,5,6,2,6,Vietnamese,viet1252,Vietnamese,20.681188,105.774071,aust1305,Austroasiatic,TRUE,TRUE
+Vietnamese,D2,Goal,asia,kia|đó|đấy,2,6,2,6,Vietnamese,viet1252,Vietnamese,20.681188,105.774071,aust1305,Austroasiatic,TRUE,TRUE
+Vietnamese,D2,Place,asia,kia|tại kia|tại đó|tại đấy|đó|đấy|ở kia|ở đó|ở đấy,3,6,2,6,Vietnamese,viet1252,Vietnamese,20.681188,105.774071,aust1305,Austroasiatic,TRUE,TRUE
+Vietnamese,D2,Source,asia,từ kia|từ đó|từ đấy,6,6,2,6,Vietnamese,viet1252,Vietnamese,20.681188,105.774071,aust1305,Austroasiatic,TRUE,TRUE
+Vogul,D1,Goal,asia,ti͜ɣ,1,6,2,6,Central Mansi,cent2322,Central Mansi,61.1432,62.4023,ural1272,Uralic,TRUE,TRUE
+Vogul,D1,Place,asia,tit,3,6,2,6,Central Mansi,cent2322,Central Mansi,61.1432,62.4023,ural1272,Uralic,TRUE,TRUE
+Vogul,D1,Source,asia,ti͜ɣl,2,6,2,6,Central Mansi,cent2322,Central Mansi,61.1432,62.4023,ural1272,Uralic,TRUE,TRUE
+Vogul,D2,Goal,asia,tuw|tuwl’e,5,6,2,6,Central Mansi,cent2322,Central Mansi,61.1432,62.4023,ural1272,Uralic,TRUE,TRUE
+Vogul,D2,Place,asia,tot,4,6,2,6,Central Mansi,cent2322,Central Mansi,61.1432,62.4023,ural1272,Uralic,TRUE,TRUE
+Vogul,D2,Source,asia,tuwl,6,6,2,6,Central Mansi,cent2322,Central Mansi,61.1432,62.4023,ural1272,Uralic,TRUE,TRUE
+Wa,D1,Goal,asia,tin,5,6,3,9,South Wa,para1301,South Wa,22.8658,99.375,aust1305,Austroasiatic,TRUE,FALSE
+Wa,D1,Place,asia,tin,5,6,3,9,South Wa,para1301,South Wa,22.8658,99.375,aust1305,Austroasiatic,TRUE,FALSE
+Wa,D1,Source,asia,khaing tin,2,6,3,9,South Wa,para1301,South Wa,22.8658,99.375,aust1305,Austroasiatic,TRUE,FALSE
+Wa,D2,Goal,asia,tan,4,6,3,9,South Wa,para1301,South Wa,22.8658,99.375,aust1305,Austroasiatic,TRUE,FALSE
+Wa,D2,Place,asia,tan,4,6,3,9,South Wa,para1301,South Wa,22.8658,99.375,aust1305,Austroasiatic,TRUE,FALSE
+Wa,D2,Source,asia,khaing tan,1,6,3,9,South Wa,para1301,South Wa,22.8658,99.375,aust1305,Austroasiatic,TRUE,FALSE
+Wa,D3,Goal,asia,tio|tɛ,6,6,3,9,South Wa,para1301,South Wa,22.8658,99.375,aust1305,Austroasiatic,TRUE,FALSE
+Wa,D3,Place,asia,tio|tɛ,6,6,3,9,South Wa,para1301,South Wa,22.8658,99.375,aust1305,Austroasiatic,TRUE,FALSE
+Wa,D3,Source,asia,khaing tio|khaing tɛ,3,6,3,9,South Wa,para1301,South Wa,22.8658,99.375,aust1305,Austroasiatic,TRUE,FALSE
+Wambaya,D1,Goal,oceania,bangarni|bangarniga|ginmanji,1,6,2,6,Wambaya-Gudanji,guda1242,Wambaya-Gudanji,-17.42,134.73,mirn1241,Mirndi,TRUE,TRUE
+Wambaya,D1,Place,oceania,gili,2,6,2,6,Wambaya-Gudanji,guda1242,Wambaya-Gudanji,-17.42,134.73,mirn1241,Mirndi,TRUE,TRUE
+Wambaya,D1,Source,oceania,ginngana,6,6,2,6,Wambaya-Gudanji,guda1242,Wambaya-Gudanji,-17.42,134.73,mirn1241,Mirndi,TRUE,TRUE
+Wambaya,D2,Goal,oceania,ginki,4,6,2,6,Wambaya-Gudanji,guda1242,Wambaya-Gudanji,-17.42,134.73,mirn1241,Mirndi,TRUE,TRUE
+Wambaya,D2,Place,oceania,giliya|giliyaga|ginki,3,6,2,6,Wambaya-Gudanji,guda1242,Wambaya-Gudanji,-17.42,134.73,mirn1241,Mirndi,TRUE,TRUE
+Wambaya,D2,Source,oceania,ginnga,5,6,2,6,Wambaya-Gudanji,guda1242,Wambaya-Gudanji,-17.42,134.73,mirn1241,Mirndi,TRUE,TRUE
+Wapishana,D1,Goal,americas,ɖaʔaːʔatiː,3,6,2,6,Wapishana,wapi1253,Wapishana,2.58744,-59.8021,araw1281,Arawakan,TRUE,TRUE
+Wapishana,D1,Place,americas,ɖaʔaː,1,6,2,6,Wapishana,wapi1253,Wapishana,2.58744,-59.8021,araw1281,Arawakan,TRUE,TRUE
+Wapishana,D1,Source,americas,ɖaʔaːik|ɖaʔaːiki,2,6,2,6,Wapishana,wapi1253,Wapishana,2.58744,-59.8021,araw1281,Arawakan,TRUE,TRUE
+Wapishana,D2,Goal,americas,ɖiʔiti,5,6,2,6,Wapishana,wapi1253,Wapishana,2.58744,-59.8021,araw1281,Arawakan,TRUE,TRUE
+Wapishana,D2,Place,americas,naʔiː,6,6,2,6,Wapishana,wapi1253,Wapishana,2.58744,-59.8021,araw1281,Arawakan,TRUE,TRUE
+Wapishana,D2,Source,americas,ɖiik|ɖiʔiki,4,6,2,6,Wapishana,wapi1253,Wapishana,2.58744,-59.8021,araw1281,Arawakan,TRUE,TRUE
+Wardaman,D1,Goal,oceania,borrirlan|damirlan|dangarr|jewelewarr,4,9,3,9,Wardaman,ward1246,Wardaman,-15.4155,132.604,yang1287,Yangmanic,TRUE,TRUE
+Wardaman,D1,Place,oceania,damin|danya|jewele,6,9,3,9,Wardaman,ward1246,Wardaman,-15.4155,132.604,yang1287,Yangmanic,TRUE,TRUE
+Wardaman,D1,Source,oceania,damiba|danba,5,9,3,9,Wardaman,ward1246,Wardaman,-15.4155,132.604,yang1287,Yangmanic,TRUE,TRUE
+Wardaman,D2,Goal,oceania,barajgarr|nangarr|numbulan,3,9,3,9,Wardaman,ward1246,Wardaman,-15.4155,132.604,yang1287,Yangmanic,TRUE,TRUE
+Wardaman,D2,Place,oceania,baraj|darni|nanya,1,9,3,9,Wardaman,ward1246,Wardaman,-15.4155,132.604,yang1287,Yangmanic,TRUE,TRUE
+Wardaman,D2,Source,oceania,barajba|nanba,2,9,3,9,Wardaman,ward1246,Wardaman,-15.4155,132.604,yang1287,Yangmanic,TRUE,TRUE
+Wardaman,D3,Goal,oceania,dawurlan,9,9,3,9,Wardaman,ward1246,Wardaman,-15.4155,132.604,yang1287,Yangmanic,TRUE,TRUE
+Wardaman,D3,Place,oceania,dawu,7,9,3,9,Wardaman,ward1246,Wardaman,-15.4155,132.604,yang1287,Yangmanic,TRUE,TRUE
+Wardaman,D3,Source,oceania,dawungba,8,9,3,9,Wardaman,ward1246,Wardaman,-15.4155,132.604,yang1287,Yangmanic,TRUE,TRUE
+Warrongo,D1,Goal,oceania,yarrongal|yarrowo,5,6,2,6,Warrongo,waru1264,Warrongo,-18.2496,144.37,pama1250,Pama-Nyungan,TRUE,TRUE
+Warrongo,D1,Place,oceania,yarronda,4,6,2,6,Warrongo,waru1264,Warrongo,-18.2496,144.37,pama1250,Pama-Nyungan,TRUE,TRUE
+Warrongo,D1,Source,oceania,yarrongomay,6,6,2,6,Warrongo,waru1264,Warrongo,-18.2496,144.37,pama1250,Pama-Nyungan,TRUE,TRUE
+Warrongo,D2,Goal,oceania,ngoniwa|ngoniwo,3,6,2,6,Warrongo,waru1264,Warrongo,-18.2496,144.37,pama1250,Pama-Nyungan,TRUE,TRUE
+Warrongo,D2,Place,oceania,ngonanda|ngoninda,1,6,2,6,Warrongo,waru1264,Warrongo,-18.2496,144.37,pama1250,Pama-Nyungan,TRUE,TRUE
+Warrongo,D2,Source,oceania,ngonangomay|ngoningomay,2,6,2,6,Warrongo,waru1264,Warrongo,-18.2496,144.37,pama1250,Pama-Nyungan,TRUE,TRUE
+Welsh,D1,Goal,europe,yma,3,4,2,6,Welsh,wels1247,Welsh,52,-4,indo1319,Indo-European,TRUE,FALSE
+Welsh,D1,Place,europe,yma,3,4,2,6,Welsh,wels1247,Welsh,52,-4,indo1319,Indo-European,TRUE,FALSE
+Welsh,D1,Source,europe,oddi yma,1,4,2,6,Welsh,wels1247,Welsh,52,-4,indo1319,Indo-European,TRUE,FALSE
+Welsh,D2,Goal,europe,yna,4,4,2,6,Welsh,wels1247,Welsh,52,-4,indo1319,Indo-European,TRUE,FALSE
+Welsh,D2,Place,europe,yna,4,4,2,6,Welsh,wels1247,Welsh,52,-4,indo1319,Indo-European,TRUE,FALSE
+Welsh,D2,Source,europe,oddi yna,2,4,2,6,Welsh,wels1247,Welsh,52,-4,indo1319,Indo-European,TRUE,FALSE
+Wolaytta,D1,Goal,africa,hagáá|háa|háakko,1,6,2,6,Wolaytta,wola1242,Wolaytta,6.32668,37.7537,gong1255,Ta-Ne-Omotic,TRUE,TRUE
+Wolaytta,D1,Place,africa,hagáá|hagáání|há,2,6,2,6,Wolaytta,wola1242,Wolaytta,6.32668,37.7537,gong1255,Ta-Ne-Omotic,TRUE,TRUE
+Wolaytta,D1,Source,africa,hagááppé|hááppé,3,6,2,6,Wolaytta,wola1242,Wolaytta,6.32668,37.7537,gong1255,Ta-Ne-Omotic,TRUE,TRUE
+Wolaytta,D2,Goal,africa,hegáá|híniyo|yáa|yáakko,5,6,2,6,Wolaytta,wola1242,Wolaytta,6.32668,37.7537,gong1255,Ta-Ne-Omotic,TRUE,TRUE
+Wolaytta,D2,Place,africa,hegáá|hegáání|híni|hínííní|yá,4,6,2,6,Wolaytta,wola1242,Wolaytta,6.32668,37.7537,gong1255,Ta-Ne-Omotic,TRUE,TRUE
+Wolaytta,D2,Source,africa,hegááppé|hínippe|yááppé,6,6,2,6,Wolaytta,wola1242,Wolaytta,6.32668,37.7537,gong1255,Ta-Ne-Omotic,TRUE,TRUE
+Yaqui,D1,Goal,americas,'iním|'ím|'ími'i|íními'i,3,9,4,12,Yaqui,yaqu1251,Yaqui,29.9446,-110.681,utoa1244,Uto-Aztecan,FALSE,FALSE
+Yaqui,D1,Place,americas,'iním|'ím|ími'i|íními'i,4,9,4,12,Yaqui,yaqu1251,Yaqui,29.9446,-110.681,utoa1244,Uto-Aztecan,FALSE,FALSE
+Yaqui,D1,Source,americas,'iním|ím|ími'i|íními'i,5,9,4,12,Yaqui,yaqu1251,Yaqui,29.9446,-110.681,utoa1244,Uto-Aztecan,FALSE,FALSE
+Yaqui,D2,Goal,americas,hunúm|húm,9,9,4,12,Yaqui,yaqu1251,Yaqui,29.9446,-110.681,utoa1244,Uto-Aztecan,FALSE,FALSE
+Yaqui,D2,Place,americas,húm|húmu'u,7,9,4,12,Yaqui,yaqu1251,Yaqui,29.9446,-110.681,utoa1244,Uto-Aztecan,FALSE,FALSE
+Yaqui,D2,Source,americas,hunúm|húm,9,9,4,12,Yaqui,yaqu1251,Yaqui,29.9446,-110.681,utoa1244,Uto-Aztecan,FALSE,FALSE
+Yaqui,D3,Goal,americas,'áman|áma|ámman,2,9,4,12,Yaqui,yaqu1251,Yaqui,29.9446,-110.681,utoa1244,Uto-Aztecan,FALSE,FALSE
+Yaqui,D3,Place,americas,'áma|'áman|'ámman,1,9,4,12,Yaqui,yaqu1251,Yaqui,29.9446,-110.681,utoa1244,Uto-Aztecan,FALSE,FALSE
+Yaqui,D3,Source,americas,áma|áman|ámman,6,9,4,12,Yaqui,yaqu1251,Yaqui,29.9446,-110.681,utoa1244,Uto-Aztecan,FALSE,FALSE
+Yaqui,D4,Goal,americas,hunáma|hunáma'a|hunáman|hunámani,8,9,4,12,Yaqui,yaqu1251,Yaqui,29.9446,-110.681,utoa1244,Uto-Aztecan,FALSE,FALSE
+Yaqui,D4,Place,americas,hunáma|hunáma'a|hunáman|hunámani,8,9,4,12,Yaqui,yaqu1251,Yaqui,29.9446,-110.681,utoa1244,Uto-Aztecan,FALSE,FALSE
+Yaqui,D4,Source,americas,hunáma|hunáma'a|hunáman|hunámani,8,9,4,12,Yaqui,yaqu1251,Yaqui,29.9446,-110.681,utoa1244,Uto-Aztecan,FALSE,FALSE
+Yidiɲ,D1,Goal,oceania,yiŋgugu|yiŋguruɲ|yiŋluy,5,9,3,9,Yidi�,yidi1250,Yidiñ,-17.1332,145.876,pama1250,Pama-Nyungan,TRUE,TRUE
+Yidiɲ,D1,Place,oceania,yiŋgu,4,9,3,9,Yidi�,yidi1250,Yidiñ,-17.1332,145.876,pama1250,Pama-Nyungan,TRUE,TRUE
+Yidiɲ,D1,Source,oceania,yiŋgum,6,9,3,9,Yidi�,yidi1250,Yidiñ,-17.1332,145.876,pama1250,Pama-Nyungan,TRUE,TRUE
+Yidiɲ,D2,Goal,oceania,ŋuŋgugu,2,9,3,9,Yidi�,yidi1250,Yidiñ,-17.1332,145.876,pama1250,Pama-Nyungan,TRUE,TRUE
+Yidiɲ,D2,Place,oceania,ŋuŋgu,1,9,3,9,Yidi�,yidi1250,Yidiñ,-17.1332,145.876,pama1250,Pama-Nyungan,TRUE,TRUE
+Yidiɲ,D2,Source,oceania,ŋuŋgum,3,9,3,9,Yidi�,yidi1250,Yidiñ,-17.1332,145.876,pama1250,Pama-Nyungan,TRUE,TRUE
+Yidiɲ,D3,Goal,oceania,yuŋgugu,8,9,3,9,Yidi�,yidi1250,Yidiñ,-17.1332,145.876,pama1250,Pama-Nyungan,TRUE,TRUE
+Yidiɲ,D3,Place,oceania,yuŋgu,7,9,3,9,Yidi�,yidi1250,Yidiñ,-17.1332,145.876,pama1250,Pama-Nyungan,TRUE,TRUE
+Yidiɲ,D3,Source,oceania,yuŋgum,9,9,3,9,Yidi�,yidi1250,Yidiñ,-17.1332,145.876,pama1250,Pama-Nyungan,TRUE,TRUE
+Yoruba,D1,Goal,africa,níbí|níhǐn|níhìnín|síbí|síhǐn|síhìnín,8,9,3,9,Yoruba,yoru1245,Yoruba,7.15345,3.67225,atla1278,Atlantic-Congo,TRUE,TRUE
+Yoruba,D1,Place,africa,ibí|níbí|níhǐn|níhìnín|ìhín,2,9,3,9,Yoruba,yoru1245,Yoruba,7.15345,3.67225,atla1278,Atlantic-Congo,TRUE,TRUE
+Yoruba,D1,Source,africa,láti ìhín|níbí|níhǐn,6,9,3,9,Yoruba,yoru1245,Yoruba,7.15345,3.67225,atla1278,Atlantic-Congo,TRUE,TRUE
+Yoruba,D2,Goal,africa,níbẹ̀|síbẹ̀,7,9,3,9,Yoruba,yoru1245,Yoruba,7.15345,3.67225,atla1278,Atlantic-Congo,TRUE,TRUE
+Yoruba,D2,Place,africa,ibẹ̀|níbẹ̀,1,9,3,9,Yoruba,yoru1245,Yoruba,7.15345,3.67225,atla1278,Atlantic-Congo,TRUE,TRUE
+Yoruba,D2,Source,africa,láti ibè̩|nibè̩,5,9,3,9,Yoruba,yoru1245,Yoruba,7.15345,3.67225,atla1278,Atlantic-Congo,TRUE,TRUE
+Yoruba,D3,Goal,africa,l‘ọ́hǔn|sọ́hùnún|s‘ọ́hǔn|ọ́hǔn,4,9,3,9,Yoruba,yoru1245,Yoruba,7.15345,3.67225,atla1278,Atlantic-Congo,TRUE,TRUE
+Yoruba,D3,Place,africa,l‘ọ́hǔn|ọ̀hún,3,9,3,9,Yoruba,yoru1245,Yoruba,7.15345,3.67225,atla1278,Atlantic-Congo,TRUE,TRUE
+Yoruba,D3,Source,africa,ọ̀hún,9,9,3,9,Yoruba,yoru1245,Yoruba,7.15345,3.67225,atla1278,Atlantic-Congo,TRUE,TRUE
+Yucatec Maya,D1,Goal,americas,way|waye,3,3,3,9,Yucatec Maya,yuca1254,Yucatec Maya,18.7757,-88.9567,maya1287,Mayan,TRUE,TRUE
+Yucatec Maya,D1,Place,americas,way|waye,3,3,3,9,Yucatec Maya,yuca1254,Yucatec Maya,18.7757,-88.9567,maya1287,Mayan,TRUE,TRUE
+Yucatec Maya,D1,Source,americas,way|waye,3,3,3,9,Yucatec Maya,yuca1254,Yucatec Maya,18.7757,-88.9567,maya1287,Mayan,TRUE,TRUE
+Yucatec Maya,D2,Goal,americas,te'el|te'ela|te'l|te'la|te‘elo|te‘lo,1,3,3,9,Yucatec Maya,yuca1254,Yucatec Maya,18.7757,-88.9567,maya1287,Mayan,TRUE,TRUE
+Yucatec Maya,D2,Place,americas,te'el|te'ela|te'l|te'la|te‘elo|te‘lo,1,3,3,9,Yucatec Maya,yuca1254,Yucatec Maya,18.7757,-88.9567,maya1287,Mayan,TRUE,TRUE
+Yucatec Maya,D2,Source,americas,te'el|te'ela|te'l|te'la|te‘elo|te‘lo,1,3,3,9,Yucatec Maya,yuca1254,Yucatec Maya,18.7757,-88.9567,maya1287,Mayan,TRUE,TRUE
+Yucatec Maya,D3,Goal,americas,ti'|ti'i|tolo’,2,3,3,9,Yucatec Maya,yuca1254,Yucatec Maya,18.7757,-88.9567,maya1287,Mayan,TRUE,TRUE
+Yucatec Maya,D3,Place,americas,ti'|ti'i|tolo’,2,3,3,9,Yucatec Maya,yuca1254,Yucatec Maya,18.7757,-88.9567,maya1287,Mayan,TRUE,TRUE
+Yucatec Maya,D3,Source,americas,ti'|ti'i|tolo’,2,3,3,9,Yucatec Maya,yuca1254,Yucatec Maya,18.7757,-88.9567,maya1287,Mayan,TRUE,TRUE
+Yugh,D1,Goal,asia,kinʼɛhš|ʌgej,5,9,3,9,Yugh,yugh1239,Yugh,60.8778,89.7479,yeni1252,Yeniseian,TRUE,TRUE
+Yugh,D1,Place,asia,kidagej|kinʼ,4,9,3,9,Yugh,yugh1239,Yugh,60.8778,89.7479,yeni1252,Yeniseian,TRUE,TRUE
+Yugh,D1,Source,asia,kinʼi˙r|kinʼər,6,9,3,9,Yugh,yugh1239,Yugh,60.8778,89.7479,yeni1252,Yeniseian,TRUE,TRUE
+Yugh,D2,Goal,asia,tunʼɛhš,8,9,3,9,Yugh,yugh1239,Yugh,60.8778,89.7479,yeni1252,Yeniseian,TRUE,TRUE
+Yugh,D2,Place,asia,tunʼ,7,9,3,9,Yugh,yugh1239,Yugh,60.8778,89.7479,yeni1252,Yeniseian,TRUE,TRUE
+Yugh,D2,Source,asia,tunʼɨr,9,9,3,9,Yugh,yugh1239,Yugh,60.8778,89.7479,yeni1252,Yeniseian,TRUE,TRUE
+Yugh,D3,Goal,asia,kanʼɛhš,3,9,3,9,Yugh,yugh1239,Yugh,60.8778,89.7479,yeni1252,Yeniseian,TRUE,TRUE
+Yugh,D3,Place,asia,kadagej|kan,1,9,3,9,Yugh,yugh1239,Yugh,60.8778,89.7479,yeni1252,Yeniseian,TRUE,TRUE
+Yugh,D3,Source,asia,kanʼər|kanʼɨ˙r,2,9,3,9,Yugh,yugh1239,Yugh,60.8778,89.7479,yeni1252,Yeniseian,TRUE,TRUE
+"Yukaghir, Kolyma",D1,Goal,asia,tiŋide,8,9,3,9,Southern Yukaghir,sout2750,Southern Yukaghir,64.218,154.375,yuka1259,Yukaghir,TRUE,TRUE
+"Yukaghir, Kolyma",D1,Place,asia,tī,7,9,3,9,Southern Yukaghir,sout2750,Southern Yukaghir,64.218,154.375,yuka1259,Yukaghir,TRUE,TRUE
+"Yukaghir, Kolyma",D1,Source,asia,tīt,9,9,3,9,Southern Yukaghir,sout2750,Southern Yukaghir,64.218,154.375,yuka1259,Yukaghir,TRUE,TRUE
+"Yukaghir, Kolyma",D2,Goal,asia,adaŋide|adiŋide,2,9,3,9,Southern Yukaghir,sout2750,Southern Yukaghir,64.218,154.375,yuka1259,Yukaghir,TRUE,TRUE
+"Yukaghir, Kolyma",D2,Place,asia,adā,1,9,3,9,Southern Yukaghir,sout2750,Southern Yukaghir,64.218,154.375,yuka1259,Yukaghir,TRUE,TRUE
+"Yukaghir, Kolyma",D2,Source,asia,adāt,3,9,3,9,Southern Yukaghir,sout2750,Southern Yukaghir,64.218,154.375,yuka1259,Yukaghir,TRUE,TRUE
+"Yukaghir, Kolyma",D3,Goal,asia,tāŋide,5,9,3,9,Southern Yukaghir,sout2750,Southern Yukaghir,64.218,154.375,yuka1259,Yukaghir,TRUE,TRUE
+"Yukaghir, Kolyma",D3,Place,asia,tā,4,9,3,9,Southern Yukaghir,sout2750,Southern Yukaghir,64.218,154.375,yuka1259,Yukaghir,TRUE,TRUE
+"Yukaghir, Kolyma",D3,Source,asia,tāt,6,9,3,9,Southern Yukaghir,sout2750,Southern Yukaghir,64.218,154.375,yuka1259,Yukaghir,TRUE,TRUE
+Yuracaré,D1,Goal,americas,anchi|ani,2,9,3,9,Yuracaré,yura1255,Yuracaré,-16.7479,-65.1224,NA,isolate,TRUE,TRUE
+Yuracaré,D1,Place,americas,ani,3,9,3,9,Yuracaré,yura1255,Yuracaré,-16.7479,-65.1224,NA,isolate,TRUE,TRUE
+Yuracaré,D1,Source,americas,anajsha,1,9,3,9,Yuracaré,yura1255,Yuracaré,-16.7479,-65.1224,NA,isolate,TRUE,TRUE
+Yuracaré,D2,Goal,americas,atchi,4,9,3,9,Yuracaré,yura1255,Yuracaré,-16.7479,-65.1224,NA,isolate,TRUE,TRUE
+Yuracaré,D2,Place,americas,ati,5,9,3,9,Yuracaré,yura1255,Yuracaré,-16.7479,-65.1224,NA,isolate,TRUE,TRUE
+Yuracaré,D2,Source,americas,atijsha,6,9,3,9,Yuracaré,yura1255,Yuracaré,-16.7479,-65.1224,NA,isolate,TRUE,TRUE
+Yuracaré,D3,Goal,americas,nachi,7,9,3,9,Yuracaré,yura1255,Yuracaré,-16.7479,-65.1224,NA,isolate,TRUE,TRUE
+Yuracaré,D3,Place,americas,nay,9,9,3,9,Yuracaré,yura1255,Yuracaré,-16.7479,-65.1224,NA,isolate,TRUE,TRUE
+Yuracaré,D3,Source,americas,najsha,8,9,3,9,Yuracaré,yura1255,Yuracaré,-16.7479,-65.1224,NA,isolate,TRUE,TRUE
+Zay,D1,Goal,africa,yīǧǧi,6,6,2,6,Zay,zayy1238,Zay,8.01148,38.8258,afro1255,Afro-Asiatic,TRUE,TRUE
+Zay,D1,Place,africa,bīǧǧi,2,6,2,6,Zay,zayy1238,Zay,8.01148,38.8258,afro1255,Afro-Asiatic,TRUE,TRUE
+Zay,D1,Source,africa,līǧǧi,4,6,2,6,Zay,zayy1238,Zay,8.01148,38.8258,afro1255,Afro-Asiatic,TRUE,TRUE
+Zay,D2,Goal,africa,yāǧǧi,5,6,2,6,Zay,zayy1238,Zay,8.01148,38.8258,afro1255,Afro-Asiatic,TRUE,TRUE
+Zay,D2,Place,africa,bāǧǧi,1,6,2,6,Zay,zayy1238,Zay,8.01148,38.8258,afro1255,Afro-Asiatic,TRUE,TRUE
+Zay,D2,Source,africa,lāǧǧi,3,6,2,6,Zay,zayy1238,Zay,8.01148,38.8258,afro1255,Afro-Asiatic,TRUE,TRUE
+Zialo,D1,Goal,africa,vè,3,3,3,9,Zialo,zial1235,Zialo,8.43,-9.51,mand1469,Mande,TRUE,TRUE
+Zialo,D1,Place,africa,vè,3,3,3,9,Zialo,zial1235,Zialo,8.43,-9.51,mand1469,Mande,TRUE,TRUE
+Zialo,D1,Source,africa,vè,3,3,3,9,Zialo,zial1235,Zialo,8.43,-9.51,mand1469,Mande,TRUE,TRUE
+Zialo,D2,Goal,africa,náy|nɔ̀vè,2,3,3,9,Zialo,zial1235,Zialo,8.43,-9.51,mand1469,Mande,TRUE,TRUE
+Zialo,D2,Place,africa,náy|nɔ̀vè,2,3,3,9,Zialo,zial1235,Zialo,8.43,-9.51,mand1469,Mande,TRUE,TRUE
+Zialo,D2,Source,africa,náy|nɔ̀vè,2,3,3,9,Zialo,zial1235,Zialo,8.43,-9.51,mand1469,Mande,TRUE,TRUE
+Zialo,D3,Goal,africa,mùnɔ̀,1,3,3,9,Zialo,zial1235,Zialo,8.43,-9.51,mand1469,Mande,TRUE,TRUE
+Zialo,D3,Place,africa,mùnɔ̀,1,3,3,9,Zialo,zial1235,Zialo,8.43,-9.51,mand1469,Mande,TRUE,TRUE
+Zialo,D3,Source,africa,mùnɔ̀,1,3,3,9,Zialo,zial1235,Zialo,8.43,-9.51,mand1469,Mande,TRUE,TRUE
+Òṇìc̣hà Igbo,D1,Goal,africa,ebe à|n’ebe à,1,2,2,6,Igbo,nucl1417,Igbo,4.62705,7.23441,atla1278,Atlantic-Congo,TRUE,TRUE
+Òṇìc̣hà Igbo,D1,Place,africa,ebe à|n’ebe à,1,2,2,6,Igbo,nucl1417,Igbo,4.62705,7.23441,atla1278,Atlantic-Congo,TRUE,TRUE
+Òṇìc̣hà Igbo,D1,Source,africa,ebe à|n’ebe à,1,2,2,6,Igbo,nucl1417,Igbo,4.62705,7.23441,atla1278,Atlantic-Congo,TRUE,TRUE
+Òṇìc̣hà Igbo,D2,Goal,africa,ebe afụ̀|n’ebe afụ̀,2,2,2,6,Igbo,nucl1417,Igbo,4.62705,7.23441,atla1278,Atlantic-Congo,TRUE,TRUE
+Òṇìc̣hà Igbo,D2,Place,africa,ebe afụ̀|n’ebe afụ̀,2,2,2,6,Igbo,nucl1417,Igbo,4.62705,7.23441,atla1278,Atlantic-Congo,TRUE,TRUE
+Òṇìc̣hà Igbo,D2,Source,africa,ebe afụ̀|n’ebe afụ̀,2,2,2,6,Igbo,nucl1417,Igbo,4.62705,7.23441,atla1278,Atlantic-Congo,TRUE,TRUE
+Ò̩ko̩,D1,Goal,africa,è̩ko̩,2,4,2,6,Oko-Eni-Osayen,okoe1238,Oko-Eni-Osayen,7.53908,6.15725,atla1278,Atlantic-Congo,TRUE,FALSE
+Ò̩ko̩,D1,Place,africa,è̩ko̩,2,4,2,6,Oko-Eni-Osayen,okoe1238,Oko-Eni-Osayen,7.53908,6.15725,atla1278,Atlantic-Congo,TRUE,FALSE
+Ò̩ko̩,D1,Source,africa,kàba è̩ko̩|è̩ko̩,4,4,2,6,Oko-Eni-Osayen,okoe1238,Oko-Eni-Osayen,7.53908,6.15725,atla1278,Atlantic-Congo,TRUE,FALSE
+Ò̩ko̩,D2,Goal,africa,è̩fà ò̩né̩bé̩,1,4,2,6,Oko-Eni-Osayen,okoe1238,Oko-Eni-Osayen,7.53908,6.15725,atla1278,Atlantic-Congo,TRUE,FALSE
+Ò̩ko̩,D2,Place,africa,è̩fà ò̩né̩bé̩,1,4,2,6,Oko-Eni-Osayen,okoe1238,Oko-Eni-Osayen,7.53908,6.15725,atla1278,Atlantic-Congo,TRUE,FALSE
+Ò̩ko̩,D2,Source,africa,kàba è̩fà ò̩né̩bé̩|è̩fà ò̩né̩bé̩,3,4,2,6,Oko-Eni-Osayen,okoe1238,Oko-Eni-Osayen,7.53908,6.15725,atla1278,Atlantic-Congo,TRUE,FALSE
