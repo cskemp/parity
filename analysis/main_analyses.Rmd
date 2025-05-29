@@ -3,7 +3,7 @@ title: "Analyses of the parity of category systems"
 output: html_document
 ---
 
-Plots and analyses for Kemp, Even or Odd? Symmetry and the size of category systems across languages. Running this entire notebook takes a couple of hours -- in particular the regression analyses for kinship are relatively slow.
+Plots and analyses for Kemp, Even or Odd? Symmetry and the size of category systems across languages. Running this entire notebook takes around two hours -- in particular the regression analyses for kinship are relatively slow.
 
 ```{r setup}
 knitr::opts_chunk$set(echo = TRUE)
@@ -198,7 +198,9 @@ run_brms <- function(dstats, domainname) {
 run_phylo <- function(dstats, domainname) {
   #return()
   phylogeny <- make_phylogeny(dstats, domainname) 
-  # Calculate covariance matrix 
+  
+  # Calculate covariance matrix. We follow Guzmán Naranjo and Becker and set corr = TRUE, 
+  # although the brms vignette uses a covariance matrix instead (corr = FALSE)
   A <- ape::vcv.phylo(phylogeny, corr = TRUE)
 
   # --- Initial data setup ---
@@ -778,7 +780,9 @@ all_results_bayes <- bind_rows(all_results_bayes, lifeform_results_bayes)
 all_results_phylo <- bind_rows(all_results_phylo, lifeform_results_phylo)
 ```
 
-## Summary figure and tables
+## Summary figures 
+
+Make Figures 2 and 3.
 
 ```{r overall, fig.height = 6}
 domain_order <- c("deictic day names", "tense", "seasons", "moon phases", "locational (cardinal)",  "siblings", "parent's siblings", "grandparents", "grandchildren", "nieces+nephews", "cousins", "social categories", "locational (other)", "color", "life forms")
@@ -934,7 +938,7 @@ all_results_phylo %>%
   kable_styling(full_width = FALSE)
 ```
 
-The table for `all_results_bayes` shows warnings for one domain (parent's siblings) but I haven't addressed this since these results aren't included in the paper.
+The table for `all_results_bayes` shows warnings for several domains but I haven't addressed this since these results aren't included in the paper.
 
 ## Spatial demonstratives
 
@@ -1089,6 +1093,10 @@ The proportions of systems with distance symmetry and relation symmetry are `r r
 
 Based on the phylogenetic regressions, the estimate for distance symmetry is `r round(logistic(sd_dist_results_phylo$coefficient),2)` (95% credible interval: `r round(logistic(sd_dist_results_phylo$lb), 2)`, `r round(logistic(sd_dist_results_phylo$ub),2)`) and for relation symmetry is `r round(logistic(sd_rel_results_phylo$coefficient),2)` (95% credible interval: `r round(logistic(sd_rel_results_phylo$lb),2)`, `r round(logistic(sd_rel_results_phylo$ub),2)`). 
 
+
+## Distributions across areas and language families
+
+Make Tables S1 and S2
 
 ```{r summary_tables}
 all_stats_data <- bind_rows(
