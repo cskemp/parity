@@ -3,12 +3,13 @@ title: "Additional figures"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
+```{r setup}
 knitr::opts_chunk$set(echo = TRUE)
 library(here)
 library(tidyverse)
 library(patchwork)
 library(rgl)
+options(rgl.printRglwidget = TRUE)
 
 mytheme <-  theme_classic(base_size = 10)  +
             theme(strip.background = element_blank()) 
@@ -16,9 +17,7 @@ mytheme <-  theme_classic(base_size = 10)  +
 odd_even_cols <- c("#619CFF", "#F8766D")
 ```
 
-# Additional figures
-
-This notebook creates some additional figures appearing in Kemp, Even or Odd? Symmetry and the size of category systems across languages.
+This notebook creates some additional figures appearing in Kemp, Category systems across languages show a preference for symmetry.
 
 ## Seasons / Moon Phases
 Make pieces for the seasons/moon phases figure
@@ -51,7 +50,8 @@ view3d(90,40)
 # Set scaling for x and y axes
 aspect3d(1.5, 1, 1)   
 
-rgl.postscript(here("output", "figures", "sinusoid.svg"), fmt="svg")
+# now deprecated -- so this notebook no longer actually saves the figure
+# rgl.postscript(here("output", "figures", "sinusoid.svg"), fmt="svg")
 ```
 
 ```{r rgl_helix, include=TRUE}
@@ -106,7 +106,8 @@ view3d(90,40)
 # Set scaling for x and y axes
 aspect3d(1.5, 1, 1)   
 
-rgl.postscript(here("output", "figures", "helix.svg"), fmt="svg")
+# now deprecated -- so this notebook no longer actually saves the figure
+#rgl.postscript(here("output", "figures", "helix.svg"), fmt="svg")
 
 ```
 
