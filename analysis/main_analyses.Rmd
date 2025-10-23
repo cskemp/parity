@@ -301,6 +301,77 @@ run_regression_group <- function(dstats_group, regression_function) {
 }
 ```
 
+Also define some other utility functions.
+
+```{r other_utility, cache=TRUE}
+
+# count systems of different sizes
+make_counts <- function(d) {
+  d %>% 
+    group_by(size) %>% 
+    summarize(count = n(), .groups = "drop") %>% 
+    mutate(parity = factor(size %% 2, label= c("even", "odd")))
+}
+
+# plot distribution on sizes
+plot_sizes <- function(counts, parity_counts, ylabel) {
+   counts <- counts %>%  
+     mutate(parity = factor(parity, levels = parity_levels))
+   
+   parity_counts <- parity_counts %>%  
+     mutate(parity = factor(parity, levels = parity_levels))
+  
+  # decided not to show systems of size 0 in plot, because they don't contribute to the overall even count. 
+  
+  size_plot <- counts %>% 
+    ggplot(aes(x=size, y = count, fill=parity, color=parity)) +
+    geom_bar(stat = "identity") +
+    scale_fill_manual(values = c("odd" = odd_even_cols[1], "even" = odd_even_cols[2]), drop = FALSE) +
+    scale_color_manual(values = c("odd" = odd_even_cols[1], "even" = odd_even_cols[2]), drop = FALSE) +
+    ylab('system count') + 
+    mytheme +
+    theme(legend.position = "none") 
+  
+  parity_plot <- parity_counts %>% 
+    ggplot(aes(x=parity, y = count, fill=parity, color=parity)) +
+    geom_bar(stat = "identity") +
+    scale_fill_manual(values = c("odd" = odd_even_cols[1], "even" = odd_even_cols[2]), drop = FALSE) +
+    scale_color_manual(values = c("odd" = odd_even_cols[1], "even" = odd_even_cols[2]), drop = FALSE) +
+    ylab('system count') + 
+    mytheme +
+    theme(legend.position = "none")
+  
+  double_plot <- size_plot + parity_plot +
+    plot_layout(widths = c(2,1)) +
+    plot_annotation(tag_levels = c('a'), tag_suffix = ')')
+} 
+
+# plot distribution of sizes for multiple subdomains (here called classes)
+plot_sizes_class <- function(counts, parity_counts) {
+  counts <- counts %>%  
+    mutate(parity = factor(parity, levels = parity_levels))
+   
+  parity_counts <- parity_counts %>%  
+    mutate(parity = factor(parity, levels = parity_levels))
+  
+  size_plot <- counts %>% 
+    ggplot(aes(x=size, y = count, fill=parity, color=parity)) +
+    geom_bar(stat = "identity") +
+    theme(legend.position = "none") +
+    facet_wrap(~class, scales = "free_y")
+  
+  parity_plot <- parity_counts %>% 
+    ggplot(aes(x=parity, y = count, fill=parity, color=parity)) +
+    geom_bar(stat = "identity") +
+    theme(legend.position = "none") +
+    facet_wrap(~class, scales = "free_y")
+  
+  double_plot <- size_plot +  parity_plot +
+    plot_layout(widths = c(2,1))
+} 
+
+```
+
 Now run the analyses for each domain in turn.
 
 ## Deictic day naming and Tense
@@ -310,13 +381,6 @@ tense_data <- read_csv(here("data", "velupillai_tense_data.csv")) %>%
   rename(size = complexity)
 deictic_data <- read_csv(here("data", "tent_deictic_systems.csv")) %>% 
   rename(size = complexity)
-
-make_counts <- function(d) {
-  d %>% 
-    group_by(size) %>% 
-    summarize(count = n(), .groups = "drop") %>% 
-    mutate(parity = factor(size %% 2, label= c("even", "odd")))
-}  
 
 # drop systems with no tense marking
 tense_counts <- make_counts(tense_data) %>% 
@@ -360,38 +424,6 @@ deictic_stats_data <- deictic_data  %>%
   rename(glottocode = gcode) %>% 
   left_join(gl, by = "glottocode")
     
-plot_sizes <- function(counts, parity_counts, ylabel) {
-   counts <- counts %>%  
-     mutate(parity = factor(parity, levels = parity_levels))
-   
-   parity_counts <- parity_counts %>%  
-     mutate(parity = factor(parity, levels = parity_levels))
-  
-  # decided not to show systems of size 0 in plot, because they don't contribute to the overall even count. 
-  
-  size_plot <- counts %>% 
-    ggplot(aes(x=size, y = count, fill=parity, color=parity)) +
-    geom_bar(stat = "identity") +
-    scale_fill_manual(values = c("odd" = odd_even_cols[1], "even" = odd_even_cols[2]), drop = FALSE) +
-    scale_color_manual(values = c("odd" = odd_even_cols[1], "even" = odd_even_cols[2]), drop = FALSE) +
-    ylab('system count') + 
-    mytheme +
-    theme(legend.position = "none") 
-  
-  parity_plot <- parity_counts %>% 
-    ggplot(aes(x=parity, y = count, fill=parity, color=parity)) +
-    geom_bar(stat = "identity") +
-    scale_fill_manual(values = c("odd" = odd_even_cols[1], "even" = odd_even_cols[2]), drop = FALSE) +
-    scale_color_manual(values = c("odd" = odd_even_cols[1], "even" = odd_even_cols[2]), drop = FALSE) +
-    ylab('system count') + 
-    mytheme +
-    theme(legend.position = "none")
-  
-  double_plot <- size_plot + parity_plot +
-    plot_layout(widths = c(2,1)) +
-    plot_annotation(tag_levels = c('a'), tag_suffix = ')')
-} 
-
 tense_plot <- plot_sizes(tense_counts, tense_parity_counts, 'Tense system count') 
 deictic_plot <- plot_sizes(deictic_counts, deictic_parity_counts, 'Temporal deictic system count') 
 show(tense_plot)
@@ -528,29 +560,6 @@ locational_parity_counts <- locational_counts %>%
   group_by(parity, class) %>% 
   summarize(count = sum(count), .groups = "drop")
   
-plot_sizes_class <- function(counts, parity_counts) {
-  counts <- counts %>%  
-    mutate(parity = factor(parity, levels = parity_levels))
-   
-  parity_counts <- parity_counts %>%  
-    mutate(parity = factor(parity, levels = parity_levels))
-  
-  size_plot <- counts %>% 
-    ggplot(aes(x=size, y = count, fill=parity, color=parity)) +
-    geom_bar(stat = "identity") +
-    theme(legend.position = "none") +
-    facet_wrap(~class, scales = "free_y")
-  
-  parity_plot <- parity_counts %>% 
-    ggplot(aes(x=parity, y = count, fill=parity, color=parity)) +
-    geom_bar(stat = "identity") +
-    theme(legend.position = "none") +
-    facet_wrap(~class, scales = "free_y")
-  
-  double_plot <- size_plot +  parity_plot +
-    plot_layout(widths = c(2,1))
-} 
-
 locational_plot <- plot_sizes_class(locational_counts, locational_parity_counts)
 show(locational_plot)
 
@@ -620,6 +629,8 @@ kinship_parity_counts_murdock <- kinship_counts_murdock %>%
 show(plot_sizes_class(kinship_counts_murdock, kinship_parity_counts_murdock))
 
 kinship_results_murdock <- run_regression_group(kinship_parity_counts_murdock %>% mutate(domain = paste0("m_", domain)), run_glmmTMB)
+
+# we don't include Murdock results in main results table
 
 #all_counts <- bind_rows(all_counts, kinship_counts %>% select(-class))
 #all_parity_counts <- bind_rows(all_parity_counts, kinship_parity_counts %>% select(-class))
@@ -798,6 +809,21 @@ all_parity_counts <- all_parity_counts %>%
     mutate(parity = factor(parity, levels = parity_levels)) %>% 
     mutate(domain = factor(domain, levels = domain_order))
   
+all_stats_data <- bind_rows(
+  deictic_stats_data %>% mutate(domain = "deictic day names"),
+  tense_stats_data %>% mutate(domain = "tense"),
+  seasons_stats_data %>% mutate(domain = "seasons"),
+  moonphases_stats_data %>% mutate(domain = "moon phases"),
+  locational_stats_group_data, 
+  kinship_stats_data ,
+  color_stats_data %>% mutate(domain = "color"),
+  lifeform_stats_data %>% mutate(domain = "life forms"),
+) %>% 
+  select(glottocode, domain) %>% 
+  group_by(domain) %>% 
+  summarize(n_stats = n(), .groups = "drop") %>% 
+  bind_rows(tibble(domain = "social categories", n_stats = sum(social_counts$count)))
+
 # make combined plot
 
 create_panel <- function(df) {
@@ -884,10 +910,10 @@ show(final_plot_murdock)
 # treat social categories as special case
 all_means <- all_parity_counts %>% 
   group_by(domain) %>% 
-  mutate(coefficient = count/sum(count), lb = coefficient, ub = coefficient, p_val = 0) %>% 
+  mutate(nsys = sum(count), coefficient = count/sum(count), lb = coefficient, ub = coefficient, p_val = 0) %>% 
   filter( parity == "even") %>% 
-  select(domain, coefficient, p_val, lb, ub) %>% 
-  filter( domain %in% c("social categories") )
+  select(domain, nsys, coefficient, p_val, lb, ub) %>% 
+  filter( domain %in% c("social categories") ) 
   
 logistic <- function(x) { 1/(1+exp(-x)) }
 
@@ -900,15 +926,21 @@ make_plot_results <- function(results, all_means) {
     mutate(predict_col = if_else(domain %in% c("color", "life forms"), "#808588", predict_col))
 }
 
-all_result_freq_forplot <- make_plot_results(all_results, all_means)
-all_result_bayes_forplot <- make_plot_results(all_results_bayes, all_means)
-all_result_phylo_forplot <- make_plot_results(all_results_phylo, all_means)
+all_result_freq_forplot <- make_plot_results(all_results, all_means) %>% 
+  left_join(all_stats_data) %>% 
+  mutate(domain_label = paste0(domain, " (n = ", n_stats, ")" ))
+all_result_bayes_forplot <- make_plot_results(all_results_bayes, all_means) %>% 
+  left_join(all_stats_data) %>% 
+  mutate(domain_label = paste0(domain, " (n = ", n_stats, ")" ))
+all_result_phylo_forplot <- make_plot_results(all_results_phylo, all_means) %>% 
+  left_join(all_stats_data) %>% 
+  mutate(domain_label = paste0(domain, " (n = ", n_stats, ")" ))
 
 plot_bayes <- all_result_bayes_forplot %>% 
-  ggplot(aes(x=coefficient, fct_reorder(domain, coefficient))) + 
+  ggplot(aes(x=coefficient, fct_reorder(domain_label, coefficient))) + 
   geom_vline(xintercept=0.5, color = "lightgray") +
   geom_point(aes(color = predict_col)) +
-  geom_errorbarh(aes(xmin = lb, xmax = ub, color = predict_col), height = 0.2) +
+  geom_errorbar(aes(xmin = lb, xmax = ub, color = predict_col), height = 0.2, orientation = "y") +
   scale_color_identity() +
   xlab("proportion of even systems") +
   ylab("domain") +
@@ -917,10 +949,10 @@ plot_bayes <- all_result_bayes_forplot %>%
 
 ggsave(here("output", "figures", "results_bayes.pdf"), plot = plot_bayes, height = 8/3)
 
-plot_freq <- plot_bayes  %+% all_result_freq_forplot
+plot_freq <- plot_bayes  + all_result_freq_forplot
 ggsave(here("output", "figures", "results_freq.pdf"), plot = plot_freq, height = 8/3)
 
-plot_phylo <- plot_bayes  %+% all_result_phylo_forplot
+plot_phylo <- plot_bayes  + all_result_phylo_forplot
 ggsave(here("output", "figures", "results_phylo.pdf"), plot = plot_phylo, height = 8/3)
 
 show(plot_phylo)
