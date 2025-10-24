@@ -3,7 +3,7 @@ title: "Analyses of the parity of category systems"
 output: html_document
 ---
 
-Plots and analyses for Kemp, Category systems across languages show a preference for symmetry. Running this entire notebook takes around two hours -- in particular the regression analyses for kinship are relatively slow.
+Plots and analyses for Kemp, Category systems across languages reflect a preference for symmetry. Running this entire notebook takes around two hours -- in particular the regression analyses for kinship are relatively slow.
 
 ```{r setup}
 knitr::opts_chunk$set(echo = TRUE)
