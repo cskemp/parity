@@ -1,6 +1,6 @@
 ## Symmetry and categorization across languages
 
-This repository contains code and data for Kemp, Category systems across languages show a preference for symmetry
+This repository contains code and data for Kemp, Category systems across languages reflect a preference for symmetry
 
 ## Folder structure
 
